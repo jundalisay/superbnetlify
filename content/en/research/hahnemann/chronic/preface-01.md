@@ -1,3 +1,12 @@
+---
+title: "The Nature of Chronic Diseases"
+description: ""
+author: Samuel Hahnemann
+weight: 4
+image: /covers/chronic.jpg
+---
+
+
 We have no means of reaching with our senses or of gaining essential knowledge as to the process of life in the interior of man, and it is only at times granted us to draw speculative conclusions from what is happening as to the manner in which it may have occurred or taken place; but we are unable to furnish conclusive proofs of our explanations from the changes which are observed in the organic kingdom; for the changes in living organic subjects have nothing in common with those taking place in what is organic, since they take place by processes entirely different.
 
 It is, therefore, quite natural that in presenting the Homoeopathic Therapeutics I did not venture to explain how the cure of diseases is effected by operating on the patient with substances possessing the power to excite very similar morbid symptoms in healthy persons. I furnished, indeed, a conjecture about it, but I did not desire to call it an explanation, i. e., a definite explanation of the modus operandi. Nor was this at all necessary, for it is only incumbent upon us to cure similar symptoms correctly and successfully, according to a law of nature which is being constantly confirmed; but not to boast with abstract explanations, while we leave the patients uncured, for that is all which so-called physicians have accomplished.

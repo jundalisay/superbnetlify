@@ -1,4 +1,14 @@
-Nature of Chronic Diseases
+---
+heading: Part 1a
+title: "The Nature of Chronic Diseases"
+description: ""
+author: Samuel Hahnemann
+weight: 8
+image: /covers/chronic.jpg
+---
+
+
+
 The Homoeopathic healing art, as taught in my own writings and in those of my pupils, when faithfully followed, has hitherto shown its natural superiority over any allopathic treatment in a very decided and striking manner; and this not only in those diseases which suddenly attack men (the acute diseases), but also in epidemic diseases and in sporadic fevers.
 
 Venereal diseases also have been radically healed by Homoeopathy much more surely, with less trouble and without any sequelae; for without disturbing or destroying the local manifestation it heals the internal fundamental disease from within only, through the best specific remedy. But the number of the other chronic diseases on this great earth has been immeasurably greater, and remains so.

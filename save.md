@@ -3,6 +3,52 @@ Qualimath 1 1 + instead of 1 + 1
 Superphysics is based on waves which need linear algebra to notate and compute. Moverover, no wave exists alone - all waves and even parts of the same wave are analogous or relative to another. This is different from particles which are discrete and can exist all alone. 
 
 
+No. Quantum still is based on quantitative measurements. The aether is not countable because it is one big entity. Rather, its parts has different qualities, largely as Pritvi, Tejas, and Akasha.
+
+We never say that the 'quantum' result of the elections is Biden. Nor do we say that Biden was the emergent pre-determined property of the Elections. 
+
+
+But the speed of light is not important in the aether and spacetime technologies. It is only important to makers of electromagnetic equipment such as LIGO and Radio Astronomy. 
+
+
+
+Sure.
+
+Replace Einsten's relativity (which only has light-based material time), with Poincare's relativity where there is both material time and mental time. 
+
+Wrap Lorentz' transformations t' = γ(t - vx/c^2) with Mental Time T to get a "aethereal Cartesian  plane" which is different from the physical Cartesian plane which has the Lorentz transformations.  
+
+When applied to the speed of light, the center point of the aethereal Cartesian plane shows to be 299,792.458, a point where there is no more aether wind (i.e. the aether has stabilized).
+
+When applied to LIGO, it just shows the low-level aether wind, as gravitational waves, on a physical Cartesian plane since physical aether is less dynamic. Here, the aethereal Cartesian plane has no use. 
+
+A more common proof of the high-level aether being 'above' spacetime is you getting an intuition of the winning raffle number now before the raffle was drawn. 
+
+This means that future aethereal information teleported to you earlier ahead of its own material reality. 
+
+This teleportation does not happen 100% of the time. We say that it is probabilistic. This is in line with the aether being subject to probability. 
+
+This probability increases with the amount of high-level aether that you have, just as a heavy boulder on a table will have more probability of crushing the table than a lighter rock.
+
+So it means that you will be able to get the future information of the winning raffle numbers the more aether you have. This can be tested by having a control that gambles without aether and another one that has aether through many repetitions. Here, the aethereal Cartesian plane is useful in determining the impact of the aether.
+
+We use such a system to prove that we can make a 1 kg mass lighter through the aether, without any contact forces. This would then lead to levitation and teleportation. 
+
+However, we found that it is probabilistic (i.e. hit or miss) since the aether in small scales is dynamic, but less dynamic in large scales such as in LIGO. Sometimes it works, most of the times it doesn't.
+
+We are software developers and not physicists and so we do not have equipment to isolate the mass to increase the probability. Our best hope is to use IoT and machine learning for it to increase the probability by continuous trial and error.
+
+
+
+
+If you want mathematical lingo, then take Lorentz transormation then wrap 
+
+https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/AetherWind.svg/280px-AetherWind.svg.png
+
+
+https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/AetherWind.svg/280px-AetherWind.svg.png
+
+
 -2/3  UP  CHARM TOP
 +1/3  DOWN  STRANGE BOTTOM
       

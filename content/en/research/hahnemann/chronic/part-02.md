@@ -1,3 +1,13 @@
+---
+heading: Part 2a
+title: "The Nature of Chronic Diseases"
+description: ""
+author: Samuel Hahnemann
+weight: 10
+image: /covers/chronic.jpg
+---
+
+
 Some joyous occurrence, or an external condition of circumstances improved by fortune, a pleasant journey, a favorable season or a dry, uniform temperature, might occasionally produce a remarkable pause of shorter or longer duration in the disease of the patient, during which the Homoeopath might consider him as fairly recovered; and the patient himself, if he good-naturedly overlooked some passable moderate ailments, might consider himself as healthy. Still such a favorable pause would never be of long duration, and the return and repeated returns of the complaints in the end left even the best selected Homoeopathic remedies then known, and given in the most appropriate doses, the less effective the oftener they were repeated. They served at last hardly even as weak palliatives. But usually, after repeated attempts to conquer the disease which appeared in a form always somewhat changed, residual complaints appeared which the Homoeopathic medicines hitherto proved, though not few, had to leave uneradicated, yea, often undiminished. Thus there ever followed varying complaints ever more troublesome, and as time proceeded, more threatening, and this even while the mode of living was correct and with a punctual observance of directions. The chronic disease could, despite all efforts, be but little delayed in its progress by the Homoeopathic physician and grew worse from year to year.
 
 This was, and remained, the quicker or slower process in such treatments in all non-venereal, severe chronic diseases, even when these were treated in exact accordance with the Homoeopathic art as hitherto known. Their beginning was promising, the continuation less favorable, the outcome hopeless.

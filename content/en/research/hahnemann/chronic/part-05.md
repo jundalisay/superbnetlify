@@ -1,3 +1,13 @@
+---
+heading: Part 5a
+title: "The Nature of Chronic Diseases"
+description: ""
+author: Samuel Hahnemann
+weight: 16
+image: /covers/chronic.jpg
+---
+
+
 Thus this eruption, externally reduced in cultivated countries to a common itch, could be much more easily removed from the skin through various means, so that with the medicinal external treatment since introduced, especially in the middle and higher classes, through baths, washes and ointments of sulphur and lead, and by preparations of copper, zinc and mercury, the external manifestations of Psosa on the skin were often so quickly suppressed, and are so now, that in most cases, either of children or of grown persons, the history of itch infection may remain undiscovered.
 
 But the state of mankind was not improved thereby; in many respects it grew far worse. For, although in ancient times the eruption of Psora appearing as leprosy was very troublesume to those suffering from it, owing to the lancinating pains in and the violent itching all around the tumors and scabs, the rest of the body enjoyed a fair share of general health. This was owing to the obstinately persistent eruption on the skin, which served as a substitute for the internal Psora. And what is of more importance, the horrible and disgusting appearance of the lepers made such a terrible impression on healthy people that they dreaded even their approach, so that the seclusion of most of these patients, and their separation in leper hospitals, kept them apart from other human society and infection from them was thus limited and comparatively rare.

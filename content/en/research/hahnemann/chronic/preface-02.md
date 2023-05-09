@@ -1,3 +1,12 @@
+---
+title: "The Nature of Chronic Diseases"
+description: ""
+author: Samuel Hahnemann
+weight: 6
+image: /covers/chronic.jpg
+---
+
+
 Dilutions, properly so-called, exist almost solely in objects of taste and of color. A solution of salty and bitter substances becomes continually more deprived of its taste the more water is added, and eventually it has hardly any taste, no matter how much it may be shaken. So, also, a solution of coloring matter, by the admixture of more and more water, becomes at last almost colorless, and any amount of shaking will not increase its color.
 
 These are, and continue to be, real attenuations or dilutions, but no dynamizations.

@@ -1,3 +1,13 @@
+---
+heading: Part 4a
+title: "The Nature of Chronic Diseases"
+description: ""
+author: Samuel Hahnemann
+weight: 14
+image: /covers/chronic.jpg
+---
+
+
 *In the typhus of 1813 Bryonia and Rhus toxicodendron were the specific remedies for all the patients.
 
 Just so, only upon a far larger scale, it is with the Psora, this fundamental disease of so many chronic maladies, each of which seems to be essentially different from the others, but really is not, as may readily be seen from the agreement of several symptoms common to them which appear as the disease runs its course, and also from their being healed through the same remedy.

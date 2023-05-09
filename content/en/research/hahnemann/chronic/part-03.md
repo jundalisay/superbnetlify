@@ -1,3 +1,13 @@
+---
+heading: Part 3a
+title: "The Nature of Chronic Diseases"
+description: ""
+author: Samuel Hahnemann
+weight: 12
+image: /covers/chronic.jpg
+---
+
+
 The great extent of this disease is shown in the new symptoms appearing from time to time; so that the Homoeopathic physician must not hope to permanently heal the separate manifestations of this kind in the presumption, hitherto entertained, that they are well-defined, separately existing diseases which can be healed permanently and completely. He, therefore, must first find out as far as possible the whole extent of all the accidents and symptoms belonging to the unknown primitive malady before he can hope to discover one or more medicines which may Homoeopath-ically cover the whole of the original disease by means of its peculiar symptoms. By this method he may then be able victoriously to heal and wipe out the malady in its whole extent, consequently also its separate members; that is, all the fragments of a disease appearing in so many various forms.
 
 But that the original malady sought for must be also of a miasmatic, chronic nature clearly appeared to me from this circumstance, that after it has once advanced and developed to a certain degree it can never be removed by the strength of any robust constitution, it can never be overcome by the most wholesome diet and order of life, nor will it die out of itself. But it is evermore aggravated, from year to year, through a transition into other and more serious symptoms,* even till the end of man's life, like every other chronic, miasmatic sickness, e. g., the venereal bubo which has not been healed from within by mercury, its specific remedy, but has passed over into venereal disease. This latter, also, never passes away of itself, but, even with the most correct mode of life and with the most robust bodily constitution, increases every year and unfolds evermore into new and worse symptoms, and this, also, to the end of man's life.
