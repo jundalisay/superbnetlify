@@ -1,0 +1,115 @@
+{{ define "main" }}
+
+{{ $page := . }}
+
+{{ $rows := $page.Params.templates.list.rows | default $page.Site.Params.templates.list.rows | default slice }}
+
+<main class="main" role="main">
+
+<!-- <div class="message is-warning m-4 p-4">We are moving our site to <a href="https://superphysics.org">https://superphysics.org</a>. Please update your bookmarks accordingly. Thanks!</div> -->
+
+
+
+{{ if .Params.image }}
+  <style type="text/css">
+    .feature {
+      background: #000 url("{{ .Params.image }}") center center;
+      background-repeat: no-repeat;
+      width: 100%;
+      height: 100%;
+      background-size: cover;
+    }
+  </style>
+{{ end }}
+
+
+
+<section class="section feature">
+  <div class="container">
+    <div class="columns">
+      <div class="column is-6 has-text-centered">
+        {{ with .Params.logo }}
+        <div class="has-text-centered">
+          <figure class="image is-inline-block">
+            <img src="{{ . | relURL }}" style="box-shadow: none;" class="pb-4">
+          </figure>
+        </div>
+        {{ end }}
+        <h1 class="title is-3 has-background-dark has-text-light py-4">{{ .Params.title | markdownify }}</h1>
+        {{ with .Params.subtitle }}
+          <p class="subtitle is-5 mt-2 p-4 has-background-dark has-text-light">{{ . | markdownify }}</p>
+        {{ end }}
+      </div>
+
+      {{ with .Params.youtube }}
+      <div class="column is-6">
+        <div class="has-text-centered label py-5">
+          <figure class="image is-16by9">
+            <iframe class="has-ratio" width="640" height="360" src="https://www.youtube.com/embed/{{ . }}" frameborder="0" allowfullscreen></iframe>
+          </figure>
+        </div>
+      </div>      
+      {{ end }}
+    </div>
+  </div>
+</section>
+
+
+
+
+
+<!-- <div class="has-text-centered h mt-5 mb-2" style="color: silver;">Featured</div> -->
+
+<div class="columns is-multiline is-mobile p-4">  
+  {{ range (where .Data.Pages "Type" "featured") }}
+
+    
+  <div class="column is-4-desktop is-12-touch">
+    <a href="{{ .Permalink }}" title="{{ .Title }}">
+      <div class="card card-equal-height zoom-xs">
+        <div class="card-image">
+          <figure class="image is-16by9">
+            <img src="{{ .Params.banner }} {{ .Params.image }}" alt="{{ .Title }}">              
+          </figure>
+        </div>
+        <div class="card-content">
+          <small style="color: silver">{{ .Params.heading }}</small>          
+          <h2 class="title is-5">{{ .Title }}</h2>
+
+        </div>
+      </div>
+    </a>
+  </div>
+  {{ end }}
+</div>
+
+  
+<div class="columns is-multiline is-mobile p-4">
+  {{ $paginator := .Paginate  (where .Data.Pages "Type" "!=" "featured") }}
+  {{ range $paginator.Pages }}
+    <div class="column is-3-desktop is-6-touch">
+      <a href="{{ .Permalink }}" title="{{ .Title }}">
+        <div class="card card-equal-height zoom-xs">
+          <div class="card-image">
+            <figure class="image is-16by9">
+              <img src="{{ .Params.banner }} {{ .Params.image }}" alt="{{ .Title }}">              
+            </figure>
+          </div>
+          <div class="card-content">
+            <small style="color: gray">{{ .Params.heading }}</small>                      
+            <h2 class="title is-5">{{ .Title }}</h2>
+          </div>
+        </div>
+      </a>
+    </div>
+  {{ end }}
+</div>
+    
+<div class="container my-2 has-text-centered">
+  {{ template "_internal/pagination.html" . }}  
+</div>
+
+
+</main>
+
+{{ end }}

@@ -1,0 +1,207 @@
+{{ define "main" }}
+<main class="main" role="main">
+
+  <style type="text/css">
+    body {background-color: navy !important;}
+    .shake {
+      background: #000 url("/maha.jpg") center center;
+      background-repeat: no-repeat;
+      width: 100%;
+      height: 100%;
+      background-size: cover;
+    }
+
+    .hero .herobutton {
+      transform: translate(-50%, -50%);
+      -ms-transform: translate(-50%, -50%);
+      background-color: #555;
+      color: white;
+      font-size: 16px;
+      padding: 12px 24px;
+      border: none;
+      cursor: pointer;
+      border-radius: 5px;
+    }  
+  </style>
+
+  <section class="hero shake is-halfheight has-text-centered">
+    <div class="hero-body">
+      <div class="container">
+        <h1 class="title is-1 has-text-white mt-5">Maharlika -- A New Vision for the Philippines</h1>
+        <h2 class="subtitle is-3 has-text-light">An advocacy to change the name, culture, and socio-economics of the Philippines into Maharlika</h2>
+
+        <div class="columns is-mobile my-5">
+          <div class="column is-hidden-mobile is-2-desktop">
+          </div>
+          <div class="column is-12-touch is-8-desktop mb-5">
+            <div class="has-text-centered label">
+              <figure class="image is-16by9">
+                <iframe class="has-ratio" width="640" height="360" src="https://www.youtube.com/embed/{{ if .Params.youtube }} {{ .Params.youtube }} {{ else }}PjQjps9DTXw{{ end }}" frameborder="0" allowfullscreen></iframe>
+              </figure>
+            </div>
+          </div>          
+          <div class="column is-hidden-mobile is-2-desktop">
+          </div>
+        </div>
+
+        {{ with .Params.cards }}
+          {{ partial "cards.html" . }}          
+        {{ end }}
+
+      </div>
+    </div>
+  </section>    
+
+
+  {{ with .Params.tricon1 }}
+    {{ partial "tricon.html" . }}          
+  {{ end }}
+
+
+
+
+  <div class="columns is-multiline is-mobile">
+    {{ range .Params.artsup }}    
+    <div class="column is-6-desktop is-12-touch embed-responsive zoom-xs" data-sal="zoom-in">
+      <a href="{{ .url }}">
+        <img src="{{ .img }}" alt="" >
+        <p class="embed-responsive-item title is-1 p-6 mb-6 has-text-white" >{{ .title }}</p>
+        <p class="subtitle is-3 px-6 has-text-light has-background-black" style="position: absolute; bottom: 1px !important">{{ .subtitle }}</p>
+      </a>
+    </div>
+    {{ end }}
+  </div>
+
+
+
+  <section class="hero has-text-centered py-6 section container">    
+    <h2 class="title has-text-white is-2">The Bayanihan Economy</h2>
+    <h3 class="subtitle is-3" style="color: silver">Productive Value instead of Money</h3>
+    <figure class="is-inline-block"> 
+      <img src="/icons/help.png" style="width: 100px;" alt="Bayanihan">
+    </figure>
+
+    <div class="columns is-multiline is-mobile">
+      {{ range .Params.triconmat }}     
+        <div class="column is-12-touch is-4-desktop my-5">
+          <a href="{{ .url }}">
+            <div class="card zoom-xs has-background-dark has-text-centered card-equal-height p-4" data-sal="slide-up">
+              {{ .icon |  safeHTML }}                 
+              <p class="title has-text-white is-4 mt-4">{{ .title }}</p>
+              <p class="subtitle is-5" style="color: silver">{{ .subtitle }}</p>
+            </div>
+          </a>
+        </div>
+      {{ end }}
+    </div>
+  </section>
+
+
+  <div class="columns is-multiline is-mobile">
+    {{ range .Params.artmat }}    
+    <div class="column is-6-desktop is-12-touch embed-responsive zoom-xs" data-sal="zoom-in">
+      <a href="{{ .url }}">
+        <img src="{{ .img }}" alt="{{ .title }}" >
+        <p class="embed-responsive-item title is-1 p-6 mb-6 has-text-white" >{{ .title }}</p>
+        <p class="subtitle is-3 px-6 has-text-light has-background-black" style="position: absolute; bottom: 1px !important">{{ .subtitle }}</p>
+      </a>
+    </div>
+    {{ end }}
+  </div>
+
+
+
+  <section class="hero has-text-centered py-6 section container">    
+    <h2 class="title is-2 has-text-white">Common Interest Instead of Self-Interest</h2>
+    <h3 class="subtitle is-3" style="color: silver">Unity and Tolerance instead of Tribalism and Selfishness</h3>
+    <figure class="is-inline-block">      
+      <img src="/icons/stars.png" style="width: 100px;" alt="Stars">
+    </figure> 
+
+    <div class="columns is-multiline is-mobile">
+      {{ range .Params.triconmed }}     
+        <div class="column is-12-touch is-4-desktop my-5" data-sal="slide-up">
+          <a href="{{ .url }}">
+            <div class="card zoom-xs has-background-dark has-text-centered card-equal-height p-4">
+              {{ .icon |  safeHTML }}                 
+              <p class="title has-text-white is-4 mt-4">{{ .title }}</p>
+              <p class="subtitle is-5" style="color: silver">{{ .subtitle }}</p>
+            </div>
+          </a>
+        </div>
+      {{ end }}
+
+      </div>            
+    </div>
+  </section>
+
+  <div class="columns is-multiline is-mobile">
+    {{ range .Params.artmed }}    
+    <div class="column is-6-desktop is-12-touch embed-responsive zoom-xs" data-sal="zoom-in">
+      <a href="{{ .url }}">
+        <img src="{{ .img }}" alt="" >
+        <p class="embed-responsive-item title is-1 p-6 mb-6 has-text-white" >{{ .title }}</p>
+        <p class="subtitle is-3 px-6 has-text-light has-background-black" style="position: absolute; bottom: 1px !important">{{ .subtitle }}</p>
+      </a>
+    </div>
+    {{ end }}
+  </div>
+
+
+
+  <section class="hero has-text-centered py-6 section container">    
+    <div class="columns is-multiline is-mobile">
+      {{ range .Params.triconsoc }}     
+        <div class="column is-12-touch is-4-desktop my-5">
+          <a href="{{ .url }}">
+            <div class="card zoom-xs has-background-dark has-text-centered card-equal-height p-4">
+              {{ .icon |  safeHTML }}
+              <p class="title is-4 mt-4 has-text-white">{{ .title }}</p>
+              <p class="subtitle is-5" style="color: silver">{{ .subtitle }}</p>
+            </div>
+          </a>
+        </div>
+      {{ end }}
+
+    </div>            
+  </section>
+    
+  <div class="columns is-multiline is-mobile">
+    {{ range .Params.artsoc }}    
+      <div class="column is-12-touch is-4-desktop my-5">
+        <a href="{{ .url }}">
+          <div class="card zoom-xs has-background-dark has-text-centered card-equal-height p-4">
+            {{ .icon |  safeHTML }}
+            <p class="title is-4 mt-4 has-text-white">{{ .title }}</p>
+            <p class="subtitle is-5" style="color: silver">{{ .subtitle }}</p>
+          </div>
+        </a>
+      </div>
+    {{ end }}
+  </div>
+
+
+  <section class="section container">    
+    <div class="columns is-multiline is-mobile">
+      {{ range .Params.cats }}
+        <div class="column is-6-touch is-3-desktop">     
+          <a href="{{ .url }}"> 
+            <div class="card card-equal-height zoom-xs">
+              <div class="card-image">
+                <figure class="image is-16by9">
+                  <img src="{{ .img }}" alt="{{ .title }}">              
+                </figure>
+              </div>
+              <div class="card-content">
+                <h2 class="title is-5">{{ .title }}</h2>
+              </div>
+            </div>
+          </a>
+        </div>
+      {{ end }}
+    </div>
+  </section>
+
+
+</main>
+{{ end }}

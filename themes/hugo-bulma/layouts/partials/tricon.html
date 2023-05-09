@@ -1,0 +1,26 @@
+<section class="my-5 section container has-text-centered ">
+  <div class="h has-text-white pt-5">{{ .Heading }}</div> 
+  <h2 class="title has-text-white is-2">{{ .Title }}</h2>
+  <h3 class="subtitle is-3" style="color: silver">{{ .Subtitle }}</h3>
+  <figure class="is-inline-block">
+    <a href="{{ .Link }}">
+      <img src="{{ .Icon }}" style="width: 100px;" class="" alt="">
+    </a>
+  </figure>    
+<!--     <figure class="is-inline-block">      
+    <img src="/icons/sp.png" style="width: 100px;" class="" alt="">
+  </figure> -->
+  <div class="columns is-multiline is-mobile">
+    {{ range .items }}      
+      <div class="column is-12-touch is-4-desktop my-5">
+        <a href="{{ .url }}">
+          <div class="card zoom-xs has-background-dark has-text-centered card-equal-height p-4" data-sal="slide-up">
+            {{ .icon | safeHTML }}               
+            <p class="title has-text-white is-4 mt-4">{{ .title }}</p>
+            <p class="subtitle is-5" style="color: silver">{{ .subtitle }}</p>
+          </div>
+        </a>
+      </div>
+    {{ end }}
+  </div>
+</section>
