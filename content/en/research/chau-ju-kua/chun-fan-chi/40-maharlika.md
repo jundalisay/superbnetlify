@@ -26,6 +26,8 @@ The country of Maharlika* (Ma-i) is north of Borneo. Its capital has over 1,000 
 
 The Maharlikans cover themselves with a sheet of cotton cloth or hide the lower part of the body with a sarong. There are bronze images of gods of unknown origin, scattered about in the grassy wilderness. 
 
+![Sarong](https://i.pinimg.com/originals/c8/95/5b/c8955b524dad6d35d832f9991f3bc02e.jpg)
+
 Pirates seldom come to this country.
 
 When trading ships enter the bay, they stop in front of the officials' place which is the place for bartering.  After a ship has been boarded, the natives mix freely with the ship's crew. 
@@ -50,6 +52,11 @@ The following places belong to Maharlika:
 - Butuan (Likintung)
 - Bulacan (Lihan)
 
+
+#### Maharlikan Exports
+
+![Beeswax](https://www.buzzaboutbees.net/images/sticks-of-natural-beeswax.jpg)
+
 Their exports are:
 
 - yellow wax
@@ -62,6 +69,9 @@ Their exports are:
 > *Superphysics note: This is clear proof of the influence of the babaylans which were the feminine priest caste that also concocted herbal medicine. It shows that the Babaylan caste had export potential which contributed to Maharlika's GDP. This is why Maharlikanism advocates the advancement of Maharlikan herbal medicines to catch up with Indian Ayurveda and Traditional Chinese Medicine
 
 
+
+#### Maharlikan Imports
+
 Foreign merchants barter for these with:
 
 - porcelain
@@ -69,10 +79,9 @@ Foreign merchants barter for these with:
 - iron censers
 - lead
 - coloured glass beads
-- iron needles
+- iron needles*
 
-
-
+> *Superphysics note: This is consistent with the observation of Pigafetta and Jagor that Maharlikan manufacturing was very weak. This is why Talino is also an important constitutional virtue
 
 
 <!-- Notes.
@@ -145,7 +154,7 @@ The Visayas* (Sansu or Three Islands) belong to Maharlika:
 - Palawan 
 - Leyte-Samar (Pakinung)
 
-> *Superphysics Note= This proves that Visayas and Sri Vijaya do not mean 'victory'. Instead, vija means 3 or tiga. In this way, Visayas means 3 islands just as Sri Vijaya (Sanfotsi) means 3 nations as Sumatran, Malay, and Southern Thai
+> *Superphysics Note: This proves that Visayas and Sri Vijaya do not mean 'victory'. Instead, vija means 3 or tiga. In this way, Visayas means 3 islands just as Sri Vijaya (Sanfotsi) means 3 nations as Sumatran, Malay, and Southern Thai
 
 
 Each has its own tribes scattered over the islands.
@@ -166,6 +175,12 @@ The Visayans build wattled huts perched in lofty and dangerous spots. Since the 
 
 In the remotest valleys, there lives another tribe called Aetas (Hai-tan) who are small, with round brown eyes and curly hair. They nest in tree tops. Sometimes, parties of three or five lurk in the jungle, and  shoot arrows on passers-by without being seen. Many have fallen victims to them. If thrown a porcelain bowl, they will stoop and pick and go away leaping and shouting for joy.
 
+![Aeta archer](https://aetaarchery.files.wordpress.com/2010/12/aeta-archer-2.jpg)
+
+
+
+#### Visayan Exports
+
 Foreign traders arrive by announcing their presence by beating drums then moor their ships midstream. The Visayans race to the ship in small boats, carrying the following for barter:
 
 - cotton
@@ -185,6 +200,8 @@ The foreign merchants hold one or two natives as hostages on board while they go
 A ship will only anchor for 3-4 days and then move to another place. The Visayan settlements are along the coast are not connected by common jurisdiction. They are are all independent. 
 
 The coast faces south-west. During the south-west monsoon, ships are unable to anchor there. This is why the traders to the Visayas do the return trip in May or June. 
+
+#### Visayan Imports
 
 The following are exchanged in barter:
 
@@ -270,9 +287,10 @@ Year | Event
 1420 | Another Sulu mission
 
 
+
 ## Caste system in the Philippines
 
-Caste | Manifestation 
+Caste | Modern Manifestation 
 --- | ---
 Datu | Landlords, Government/Politicians, Executives, Large Investors, Financiers, Large Asset holders
 Maharlika | Self-Employed, Employees, Freelancers
