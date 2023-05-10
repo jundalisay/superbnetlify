@@ -1,3 +1,9 @@
+---
+title: "Glossary"
+description: ""
+weight: 200
+image: /covers/design.jpg
+---
 
 
 

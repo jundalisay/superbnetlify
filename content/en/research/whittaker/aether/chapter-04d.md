@@ -1,3 +1,12 @@
+---
+title:  "Fresnel's Formula"
+heading:  "Chapter 4d"
+weight: 32
+author: Edmund Taylor Whittaker
+image:  "/covers/history.jpg"
+description: ""
+---
+
 
 In a second supplement to his first memoir on Double Refraction, presented to the Academy on November 26th, 1821,[62] Fresnel indicated the lines on which his theory might be extended so as to take account of dispersion. "The molecular groups, or the particles of bodies," he wrote, "may be separated by intervals which, though small, are certainly not altogether insensible relatively to the length of a wave." Such a coarse-grainedness of the medium would, as he foresaw, introduce into the equations terms by which dispersion might be explained; indeed, the theory of dispersion which was afterwards given by Cauchy was actually based on this principle. It seems likely that, towards the close of his life, Fresnel was contemplating a great memoir on dispersion,[63] which was never completed.
 
@@ -31,22 +40,6 @@ Thus when the light is polarized in the plane of reflexion, the amplitude of the
  the amplitude of the incident vibration.
 
 Fresnel shows in a similar way that when the light is polarized at right angles to the plane of reflexion, the ratio of the amplitudes of the reflected and incident waves is
-
-tan
-⁡
-(
-�
-−
-�
-)
-tan
-⁡
-(
-�
-+
-�
-)
-{\displaystyle {\frac {\tan(i-r)}{\tan(i+r)}}}
 
 These formulæ are generally known as Fresnel's sine-law and Fresnel's tangent-law respectively. They had, however, been discovered experimentally by Brewster some years previously. When the incidence is perpendicular, so that i and r are very small, the ratio of the amplitudes becomes
 ,

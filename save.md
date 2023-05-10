@@ -3,16 +3,27 @@ Qualimath 1 1 + instead of 1 + 1
 Superphysics is based on waves which need linear algebra to notate and compute. Moverover, no wave exists alone - all waves and even parts of the same wave are analogous or relative to another. This is different from particles which are discrete and can exist all alone. 
 
 
-No. Quantum still is based on quantitative measurements. The aether is not countable because it is one big entity. Rather, its parts has different qualities, largely as Pritvi, Tejas, and Akasha.
+
+Quantum and subatoms are still based on quantitative measurements. The aether is not countable because it is one big thing that is beyond space and time. 
+
+Its properties are detected through large amounts of space and time. 
+
+In my example, it is in the long time from the 18th century and the 1980s when the speed of light was formalized. 
+
+Another example is the large space covered by LIGO. 
+
+This is why only old civilizations such as the Egyptians, Indians, and Chinese had aether technology. The Roman civilization ended too early to discover it.
+
+So thinking about the aether in quantum or particle terms is a dead end. Otherwise, the LHC would have reveled the aether by now. They only revealed the Higgs boson which is part of the Earth-Aether and not of the pure Aether. 
+
+Rather, its parts has different qualities, largely as Pritvi, Tejas, and Akasha.
 
 We never say that the 'quantum' result of the elections is Biden. Nor do we say that Biden was the emergent pre-determined property of the Elections. 
 
 
-But the speed of light is not important in the aether and spacetime technologies. It is only important to makers of electromagnetic equipment such as LIGO and Radio Astronomy. 
+But the speed of light is not important in the aether and spacetime technologies. It is only important to makers of electromagnetic equipment such as LIGO and Radio Astronomy. Detecting Nature is different from Harnessing Nature.
 
 
-
-Sure.
 
 Replace Einsten's relativity (which only has light-based material time), with Poincare's relativity where there is both material time and mental time. 
 
@@ -38,15 +49,6 @@ However, we found that it is probabilistic (i.e. hit or miss) since the aether i
 
 We are software developers and not physicists and so we do not have equipment to isolate the mass to increase the probability. Our best hope is to use IoT and machine learning for it to increase the probability by continuous trial and error.
 
-
-
-
-If you want mathematical lingo, then take Lorentz transormation then wrap 
-
-https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/AetherWind.svg/280px-AetherWind.svg.png
-
-
-https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/AetherWind.svg/280px-AetherWind.svg.png
 
 
 -2/3  UP  CHARM TOP
