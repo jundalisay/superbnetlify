@@ -1,26 +1,55 @@
 ---
-title: "Reason"
+title: "Does Matter Exist?"
 heading: Section 1
 weight: 2
-description: "The duration alone of our life is sufficient to demonstrate the existence of God"
+description: "There exists a certain object extended in length, breadth, and thickness. This extended substance is what we call body or matter"
 author: "Rene Descartes"
 image: "/covers/philos.png"
 icon: "/icons/descartes.png"
 ---
 
 
-{{< s v="1">}} The grounds on which the existence of material things may be known with certainty.
+<!-- {{< s v="1">}}  -->
 
-Although we are all sufficiently persuaded of the existence of material things, yet, since this was before called in question by us, and since we reckoned the persuasion of their existence as among the prejudices of our childhood, it is now necessary for us to investigate the grounds on which this truth may be known with certainty. In the first place, then, it cannot be doubted that every perception we have comes to us from some object different from our mind; for it is not in our power to cause ourselves to experience one perception rather than another, the perception being entirely dependent on the object which affects our senses. It may, indeed, be matter of inquiry whether that object be God, or something different from God; 
+## 1. The grounds on which the existence of material things may be known with certainty.
 
-but because we perceive, or rather, stimulated by sense, clearly and distinctly apprehend, certain matter extended in length, breadth, and thickness, the various parts of which have different figures and motions, and give rise to the sensation we have of colours, smells, pain, etc., God would, without question, deserve to be regarded as a deceiver, if he directly and of himself presented to our mind the idea of this extended matter, or merely caused it to be presented to us by some object which possessed neither extension, figure, nor motion. 
+What is the certainty of the existence of material things?
 
-We clearly conceive this matter as entirely distinct from God, and from ourselves, or our mind; and appear even clearly to discern that the idea of it is formed in us on occasion of objects existing out of our minds, to which it is in every respect similar. But since God cannot deceive us, for this is repugnant to his nature, as has been already remarked, we must unhesitatingly conclude that there exists a certain object extended in length, breadth, and thickness, and possessing all those properties which we clearly apprehend to belong to what is extended. And this extended substance is what we call body or matter.
+<!-- , yet, since this was before called in question by us, and since we reckoned the persuasion of their existence as among the prejudices of our childhood, it is now necessary for us to investigate the grounds on which this truth may be known with certainty.  -->
+
+All our perceptions come to us from some object different from our mind. Are those objects God, or something different from God?
+
+ <!-- for it is not in our power to cause ourselves to experience one perception rather than another, the perception being entirely dependent on the object which affects our senses. It may, indeed, be matter of inquiry whether that object be  -->
+
+<!-- but because we perceive, or rather, stimulated by sense, clearly and distinctly apprehend, certain matter extended in length, breadth, and thickness, the various parts of which have different figures and motions, and give rise to the sensation we have of colours, smells, pain, etc.,  -->
+
+God would be a deceiver if he directly and of himself:
+- presented to our mind the idea of this extended matter, or 
+- merely caused the matter to be presented to us by some object which possessed neither extension, figure, nor motion. 
+
+We clearly conceive this matter as entirely distinct:
+- from God
+- from ourselves, or our mind
+
+<!-- appear even clearly to discern that the idea of it is formed in us on occasion of objects existing out of our minds, to which it is in every respect similar.  -->
+
+God cannot deceive us, for this is repugnant to his nature.
+
+And so we must unhesitatingly conclude that there exists a certain object extended in length, breadth, and thickness, and possessing all those properties which we clearly apprehend to belong to what is extended. 
+
+This extended substance is what we call body or matter.
 
 
 {{< s v="2" >}} How we likewise know that the human body is closely connected with the mind.
 
-We ought also to conclude that a certain body is more closely united to our mind than any other, because we clearly observe that pain and other sensations affect us without our foreseeing them; and these, the mind is conscious, do not arise from itself alone, nor pertain to it, in so far as it is a thing which thinks, but only in so far as it is united to another thing extended and movable, which is called the human body. But this is not the place to treat in detail of this matter.
+We should also conclude that a certain body is more closely united to our mind than any other. This is because we clearly observe that sensations affect us without our foreseeing them.
+
+The mind is conscious of these. 
+
+These do not arise from itself alone, nor pertain to it, in so far as it is a thing which thinks, but only in so far as it is united to another thing extended and movable, which is called the human body. 
+
+But this is not the place to treat in detail of this matter.
+
 
 
 {{< s v="3" >}} The perceptions of the senses do not teach us what is in reality in things, but what is beneficial of hurtful to the composite whole of mind and body.
@@ -62,6 +91,16 @@ For quantity differs from extended substance, and number from what is numbered, 
 
 Although perhaps some express themselves otherwise on this matter, I am nevertheless convinced that they do not think differently from what I have now said: for when they distinguish (corporeal) substance from extension or quantity, they either mean nothing by the word (corporeal) substance, or they form in their minds merely a confused idea of incorporeal substance, which they falsely attribute to corporeal, and leave to extension the true idea of this corporeal substance; which extension they call an accident, but with such impropriety as to make it easy to discover that their words are not in harmony with their thoughts.
 
-{{< s v="10" >}} What space or internal place is.
+<!-- {{< s v="10" >}}  -->
 
-Space or internal place, and the corporeal substance which is comprised in it, are not different in reality, but merely in the mode in which they are wont to be conceived by us. For, in truth, the same extension in length, breadth, and depth, which constitutes space, constitutes body; and the difference between them lies only in this, that in body we consider extension as particular, and conceive it to change with the body; whereas in space we attribute to extension a generic unity, so that after taking from a certain space the body which occupied it, we do not suppose that we have at the same time removed the extension of the space, because it appears to us that the same extension remains there so long as it is of the same magnitude and figure, and preserves the same situation in respect to certain bodies around it, by means of which we determine this space.
+## 10. What is space or internal place?
+
+Space or internal place, and the corporeal substance which is comprised in it, are not different in reality. 
+
+THese are merely in the mode in which they are wont to be conceived by us. 
+
+For, in truth, the same extension in length, breadth, and depth, which constitutes space, constitutes body.
+
+The difference between them lies only in this, that in body we consider extension as particular, and conceive it to change with the body. 
+
+Whereas in space we attribute to extension a generic unity, so that after taking from a certain space the body which occupied it, we do not suppose that we have at the same time removed the extension of the space, because it appears to us that the same extension remains there so long as it is of the same magnitude and figure, and preserves the same situation in respect to certain bodies around it, by means of which we determine this space.

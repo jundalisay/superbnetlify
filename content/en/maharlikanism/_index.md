@@ -1,12 +1,12 @@
 ---
-org: "Pantry Peers"
+org: "Pantrypoints Technologies"
 description: "Maharlika and Maharlikanism are advocacies for a Philippines that is free from colonial policy mistakes inherited from the Arabs, Spanish, and Americans"
 title: "Maharlika -- A New Vision for the Philippines"
 
 
 ################ Banner #########################
 banner:
-  bannermain: "/banner.jpg"
+  bannermain: "/lapu.jpg"
   title : "Maharlika -- A New Vision for the Philippines"
   content : "An advocacy to change the name, culture, and socio-economics of the Philippines into Maharlika"
   posttitle: "Three Pillars of Maharlika"  

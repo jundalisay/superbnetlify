@@ -39,7 +39,11 @@ I answer that there is more reality in an infinite substance than in a finite on
 
 <!-- Whenever I know that I doubt something or want something, I understand that I lack something and am therefore not wholly perfect. How could I grasp this unless I had an idea of a perfect being, which enabled me to recognize my own defects by comparison? Nor can it be said that this idea of God could be ‘materially false’, and thus have come from nothing, as may be the case (I noted this a few moments ago) with the ideas of heat and cold. -->
 
-On the contrary, it is utterly clear and distinct, and contains in itself more representative reality than any other idea; that is, it stands for something that is grander, more powerful, more real, than any other idea stands for; so it is more true – less open to the suspicion of falsehood – than any other idea. 
+On the contrary, it:
+- is utterly clear and distinct
+- contains in itself more representative reality than any other idea
+  - that is, it stands for something that is grander, more powerful, more real, than any other idea stands for
+  - it is less open to the suspicion of falsehood than any other idea. 
 
 This idea of God <!-- a supremely perfect and infinite being is, I say, --> is true in the highest degree. One might imagine that God does not exist. But the idea of God cannot possibly <!--  can’t be supposed that the idea of such a being --> represent and unreal something <!-- in the way that the idea of cold perhaps does -->. 
 
