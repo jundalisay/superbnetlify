@@ -16,11 +16,14 @@ Trade | Barter
 
 ## Territories 
 
-### Manila 
+### Manila 麻逸
 
 The country of Maharlika* (Ma-i) is north of Borneo. Its capital has over 1,000 families settled together along both banks of a creek [Pasig River]. 
 
-> *Superphysics note: Ma-i is a shortcut for May-nila which means "having blue". Nila is Sanskrit for blue. The color blue represents the free citizens according to the caste system of nobles (datu, raja), freemen (maharlika, timawa), slaves (alipin). <p>It is improper to call the people of the Philippines as "Manilans" just as we do not call all the French as "Paris-ians". Instead, we call it France as a reference to the Frankish people. We extend this to the Philippines to call the country as Maharlikans as a reference to the majority caste of the people.</p><p>We apply the Maharlikan caste system as progressive taxation where the datus (ruling class and high net worth people) are taxed more and the maharlika (free citizens). The aliping namamahay (servants and low-class workers) and aliping sagigilid (criminals, vagrants) are not taxed. The description by Chau-ju-kua also explains why federalism is the natural system for Maharlika and also for Indonesia. The unitary system can work with the Arab nations since Islam and the Persian system already has been in force for a long time.</p><p>The caste system manifests in modern countries as the rich caste versus the poor caste. We explain the current caste system in the Philippines at the bottom</p>
+> *Superphysics note: Ma-i is a shortcut for May-nila which means "having blue". Nila is Sanskrit for blue. The color blue represents the caste of free citizens called Maharlika based on the precolonial caste system. It is improper to call the people of the Philippines as "Manilans" just as we do not call all the French as "Paris-ians". Instead, we call it France as a reference to the Frankish people. We extend this to the Philippines to call the country as Maharlikans as a reference to the majority caste. This is supported by the Chinese characters for Ma-i 麻逸 where 逸 signifies moving freely. 
+
+
+<!-- </p><p>We apply the Maharlikan caste system as progressive taxation where the datus (ruling class and high net worth people) are taxed more and the maharlika (free citizens). The aliping namamahay (servants and low-class workers) and aliping sagigilid (criminals, vagrants) are not taxed. The description by Chau-ju-kua also explains why federalism is the natural system for Maharlika and also for Indonesia. The unitary system can work with the Arab nations since Islam and the Persian system already has been in force for a long time.</p><p>The caste system manifests in modern countries as the rich caste versus the poor caste. We explain the current caste system in the Philippines at the bottom</p> -->
 
 
 
@@ -141,7 +144,7 @@ ISLANDS OP CAU3IIAN, BUSUANGA, PALAWAN.
 161 -->
 
 
-### Visayas (41: San-su)
+### Visayas (41: San-su 三嶼) 
 
 <!-- ISLANDS OF CALAMIAN, BUSUANGA,
 PALAWAN.

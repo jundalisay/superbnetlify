@@ -1,7 +1,23 @@
-Qualimath 1 1 + instead of 1 + 1
+I already gave documented evidence:
 
-Superphysics is based on waves which need linear algebra to notate and compute. Moverover, no wave exists alone - all waves and even parts of the same wave are analogous or relative to another. This is different from particles which are discrete and can exist all alone. 
+Medicine: 
+1. Chinese medicine
+2. Ayurveda
 
+Gravitation:
+1. Pyramids of Egypt
+2. Walls of Jericho falling
+3. Levitating Monks
+4. UFO sightings by US Navy
+
+Probability:
+1. Winning in games of chance
+2. Prophecy
+3. Quantum tunneling (the aether increases probability)
+
+The real problem is that you don't accept them. 
+
+You don't accept them because you have a Taliban-mind and you only want evidence that fits with what your Physics-religion accepts. 
 
 
 Quantum and subatoms are still based on quantitative measurements. The aether is not countable because it is one big thing that is beyond space and time. 

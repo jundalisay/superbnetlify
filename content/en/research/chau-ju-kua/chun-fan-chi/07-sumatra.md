@@ -13,7 +13,7 @@ Activity | Method
 Trade | Silver bullion
 
 
-Sumatra is between Cambodia and Java. Its territory is over 15 chou provinces. 
+Sumatra 三佛齊 is between Cambodia and Java. Its territory is over 15 chou provinces. 
 
 It is far south of Fujian, China and is reached in the winter by going with the monsoon for over a month, then come to Linga island (Lingyamon) where 1/3 of the passing merchants go before entering Palembang, Sumatra. 
 
