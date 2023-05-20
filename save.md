@@ -20,6 +20,19 @@ The real problem is that you don't accept them.
 You don't accept them because you have a Taliban-mind and you only want evidence that fits with what your Physics-religion accepts. 
 
 
+The root cause of the problem is they use Newtonian Physics to measure the expansion of a non-Newtonian universe. 
+
+The proper answer is 74 km and not the 67 km which is derived from the CMB using 'dark matter' which doesn't exist. 
+
+The Refsdal paper tries to solve this by using gravitational lensing and also falls in the Newtonian-Einsteim trap of 67 km.
+
+That trap is the belief that gravity comes from matter. In reality, gravity comes from the aether. This is measured by doppler effect which is the correct way. 
+
+
+
+
+
+
 Quantum and subatoms are still based on quantitative measurements. The aether is not countable because it is one big thing that is beyond space and time. 
 
 Its properties are detected through large amounts of space and time. 
