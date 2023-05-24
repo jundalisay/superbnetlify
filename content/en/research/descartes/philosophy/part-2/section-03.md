@@ -18,25 +18,39 @@ Wherever we fix a limit, we still not only imagine beyond it spaces indefinitely
 In this way, they contain in them corporeal substance indefinitely extended. This is because  the idea of extension which we conceive in any space whatever is plainly identical with the idea of corporeal substance.
 
 
+
 ## 22. It also follows that the matter of the heavens and earth is the same, and that there cannot be a plurality of worlds.
 
-The earth and heavens are made of the same matter. Although there were an infinity of worlds, they would all be composed of this matter.
+The earth and heavens are made of the same matter. Although there were an infinity of worlds*, they would all be composed of this matter.
 
-It follows that a plurality of worlds is impossible, because we clearly conceive that the matter whose nature consists only in its being an extended substance, already wholly occupies all the imaginable spaces where these other worlds could alone be, and we cannot find in ourselves the idea of any other matter.
+> *Superphysics note: The 'worlds' here would mean material galaxies
+
+It follows that a plurality of worlds is impossible. This is because we clearly conceive that the matter (whose nature consists only in its being an extended substance) already totally occupies all the imaginable spaces where these other worlds could alone be. 
+
+We cannot find in ourselves the idea of any other matter.
 
 
 ## 23. All the variety of matter, or the diversity of its forms, depends on motion.
 
-There is therefore but one kind of matter in the whole universe. This we know only by its being extended. 
+There is therefore just one kind of matter in the whole universe. This we know only by its being extended. 
 
-All the properties we distinctly perceive to belong to it are reducible to its capacity of being divided and moved according to its parts. Accordingly, it is capable of all those affections which we perceive can arise from the motion of its parts. 
+All the properties we distinctly perceive to belong to it are reducible to its capacity of being divided and moved according to its parts. 
 
-For the partition of matter in thought makes no change in it; but all variation of it, or diversity of form, depends on motion. The philosophers even seem universally to have observed this, for they said that nature was the principle of motion and rest, and by nature they understood that by which all corporeal things become such as they are found in experience.
+Accordingly, it is capable of all those affections which we perceive can arise from the motion of its parts. 
+
+This is because the partition of matter in thought makes no change in it. But all variation of it, or diversity of form, depends on motion. 
+
+The philosophers even seem universally to have observed this. They said that:
+- nature was the principle of motion and rest
+- 'nature' meant how all corporeal things become such as they are found in experience.
 
 
 ## 24. What is motion?
 
-There is only local motion. 
+There is only local motion*. 
+
+> *Superphysics Note: Descartes' classical locality is totally different from modern locality which is really Einstein locality. Classical Locality is a philosphical concept applied to Physics. It asserts that there is is no void -- things affect each other through an immaterial medium called the aether. Einstein Locality is a sophistical concept arising from Einstein's invention of a material spacetime that limits everything to the speed of light. We assert that the Bell Theorem totally debunks Einstein's Relativity which imposes Einstein's Locality (spacetime fabric) and Realism (hidden variables). The successful tests of General Relativity, much applauded by Physicists, are merely tests of equipment.
+
 
 <!-- But motion (viz., local, for I can conceive no other kind of motion, and therefore I do not think we ought to suppose there is any other in nature), in the ordinary sense of the term, is nothing more than  -->
 

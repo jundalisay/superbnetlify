@@ -111,7 +111,7 @@ In this way, no matter how many workers are employed, the gross income is equal 
 
 It means that:
 - **effective demand, instead of having a unique equilibrium value, is an infinite range of values all equally admissible.** *
-- the amount of employment is indeterminate except until it hits the level of slave-wagges. <!-- in so far as the marginal disutility of labour sets an upper limit.  -->
+- the amount of employment is indeterminate except until it hits the level of slave-wages. <!-- in so far as the marginal disutility of labour sets an upper limit.  -->
 
 > *Superphysics note: Yes, the demand is always in flux. Instead of equilibrium, it has a predictable range. 
 

@@ -9,7 +9,9 @@ icon: "/icons/descartes.png"
 ---
 
 
-{{< s v="21">}} Duration alone of our life is sufficient to demonstrate the existence of God.
+<!-- {{< s v="21">}}  -->
+
+## 21. Duration alone of our life is sufficient to demonstrate the existence of God.
 
 The truth of this demonstration will clearly appear, provided we consider the nature of time, or the duration of things; for this is of such a kind that its parts are not mutually dependent, and never co-existent; and, accordingly, from the fact that we now are, it does not necessarily follow that we shall be a moment afterwards, unless some cause, viz., that which first produced us, shall, as it were, continually reproduce us, that is, conserve us. For we easily understand that there is no power in us by which we can conserve ourselves, and that the being who has so much power as to conserve us out of himself, must also by so much the greater reason conserve himself, or rather stand in need of being conserved by no one whatever, and, in fine, be God.
 
@@ -102,19 +104,27 @@ Thus, to perceive by the senses (SENTIRE), to imagine, and to conceive things pu
 
 When we apprehend anything we are in no danger of error, if we refrain from judging of it in any way; and even when we have formed a judgment regarding it, we would never fall into error, provided we gave our assent only to what we clearly and distinctly perceived; but the reason why we are usually deceived, is that we judge without possessing an exact knowledge of that of which we judge.
 
-XXXIV. That the will as well as the understanding is required for judging.
 
-I admit that the understanding is necessary for judging, there being no room to suppose that we can judge of that which we in no way apprehend; but the will also is required in order to our assenting to what we have in any degree perceived. It is not necessary, however, at least to form any judgment whatever, that we have an entire and perfect apprehension of a thing; for we may assent to many things of which we have only a very obscure and confused knowledge.
+## 34. The will and the understanding are required for judging.
 
-XXXV. That the will is of greater extension than the understanding, and is thus the source of our errors.
+The understanding is necessary for judging. We cannot judge of something that we do not apprehend.
+
+The will also is required for us to assent to anything that we have perceived. 
+
+It is not necessary, however, at least to form any judgment whatever, that we have an entire and perfect apprehension of a thing; for we may assent to many things of which we have only a very obscure and confused knowledge.
+
+
+## 35. The will is of greater extension than the understanding, and is thus the source of our errors.
 
 Further, the perception of the intellect extends only to the few things that are presented to it, and is always very limited: the will, on the other hand, may, in a certain sense, be said to be infinite, because we observe nothing that can be the object of the will of any other, even of the unlimited will of God, to which ours cannot also extend, so that we easily carry it beyond the objects we clearly perceive; and when we do this, it is not wonderful that we happen to be deceived.
 
-XXXVI. That our errors cannot be imputed to God.
 
-But although God has not given us an omniscient understanding, he is not on this account to be considered in any wise the author of our errors, for it is of the nature of created intellect to be finite, and of finite intellect not to embrace all things.
+## 36. Our errors cannot be imputed to God.
 
-XXXVII. That the chief perfection of man is his being able to act freely or by will, and that it is this which renders him worthy of praise or blame.
+God has not given us an omniscient understanding. But he is not on this account to be considered in any wise the author of our errors, for it is of the nature of created intellect to be finite, and of finite intellect not to embrace all things.
+
+
+## 37. The chief perfection of man is his being able to act freely or by will, and that it is this which renders him worthy of praise or blame.
 
 That the will should be the more extensive is in harmony with its nature: and it is a high perfection in man to be able to act by means of it, that is, freely; and thus in a peculiar way to be the master of his own actions, and merit praise or blame. For self- acting machines are not commended because they perform with exactness all the movements for which they were adapted, seeing their motions are carried on necessarily; but the maker of them is praised on account of the exactness with which they were framed, because he did not act of necessity, but freely; and, on the same principle, we must attribute to ourselves something more on this account, that when we embrace truth, we do so not of necessity, but freely.
 
