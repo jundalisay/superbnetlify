@@ -11,13 +11,17 @@ icon: "/icons/descartes.png"
 
 The parts of the matter are very diverse. Most of them take the form of the aethereal fire or the aethereal air from breaking and dividing by collision with one another.
 
-Nevertheless, among them are two sorts that had to retain the form of the third element:
+Nevertheless, among them are 2 sorts that had to retain the form of the earth aether:
+ <!-- third element -->
 
-1. Those which had shapes so extended and so impeding that, when they collided with one another, it was easier for them to join together. This allows them to become larger instead of breaking up and becoming smaller. 
+1. Those which had shapes so extended and so impeding that, when they collided with one another, it was easier for them to join together*. This allows them to become larger instead of breaking up and becoming smaller. 
 2. Those which began as the largest and most massive of all, could well break and shatter the others by striking them, but not be shattered themselves.
 
+> *Superphysics note: This is now known as Quantum Entanglement
+
+
 Whether these two were initially agitated or not, they afterwards had to move with the same agitation as the aether that contained them. <!-- matter of the heaven -->
-- If they were moving faster than the aether, then   then, not having been able to avoid pushing it upon colliding with it in their path, in a short time they had to transfer to it a part of their agitation. 
+- If they were moving faster than the aether, then they would necessarily push it upon colliding with it. In a short time, they had to transfer to the aether a part of their agitation. 
 - If they were not moving, they were surrounded everywhere by the aether <!-- that matter of the heaven -->. They necessarily had to follow the aether, just as boats <!-- and diverse other bodies floating on water (both the largest and most massive and those that are less so) --> follow the water they are in. <!--  when there is nothing else to impede them from doing so.[43] -->
 
 
@@ -25,29 +29,38 @@ Massive and solid bodies that float on water always have much more force than th
 
 By contrast, the very light floating bodies, like those lumps of white scum floating along the shores during storms, have less force to continue moving.
 
-If you imagine two rivers that join at some point and then separate again before their waters have a chance to mix. 
-- Rapid, heavy boats from River A will will be easily able to pass into River B. 
-- slow, light boats from River A will turn away from River B and will be thrown back by the force of the water toward the places where it is the least rapid.
+If you imagine 2 rivers that join at some point and then separate again before their waters have a chance to mix. 
+- Rapid, heavy boats from River `A` will will be easily able to pass into River `B`. 
+- Slow, light boats from River `A` will turn away from River `B` and will be thrown back by the force of the water toward the places where it is the least rapid.
 
 <!-- (which one must suppose to be very calm and to have a rather equal force, but also to be very rapid) ,  -->
 
 <!-- then boats or other rather massive and heavy bodies that are borne by the course of the one river , while the lightest bodies  -->
 
-For example, River 1 is ABF and River 2 is CDG. They come from two different directions and meet at E and then turn away from there. AB goes towards F. CD goes towards G. 
-- Boat H in River 1 starts from A towards B passses through E towards G. 
-- Reciprocally, Boat I in River 2 starts from C and goes towards F.
+For example, River 1 is `ABF` and River 2 is `CDG`. They come from 2 different directions and meet at `E` and then turn away from there. 
 
-If both both meet at the passage E at the same time, the larger and stronger boat will break the smaller and weaker. 
+`AB` goes towards `F`. `CD` goes towards `G`.
+- Boat `H` in River 1 starts from `A` towards `B` passses through `E` towards G. 
+- Reciprocally, Boat `I` in River 2 starts from `C` and goes towards `F`.
 
-By contrast, lighter bodies such as leaves and feathers that float at A are pushed by the course of the water, not toward E and toward G, but toward B, where the water is less strong and rapid than at E.
+If both both meet at the passage `E` at the same time, the larger and stronger boat will break the smaller and weaker. 
 
-, since at B it takes its course along a line that less approaches a straight line.
+By contrast, lighter bodies such as leaves and feathers that float at `A` are pushed by the course of the water, not toward `E` and toward `G`, but toward `B`, where the water is less strong and rapid than at `E`. This is because at `B` it takes a curved path and not a straight line.  
+<!-- its course along a line that less approaches a straight line. -->
 
-These light bodies, but also others heavier and more massive can join upon meeting and that, turning then with the water that bears them, several together can compose large balls such as you see at K and L, of which some, such as L go toward E and others, such as K, go toward B, according as each is more or less solid and composed of more or less large and massive parts.
+These light bodies, but also others heavier and more massive can join upon meeting and that, turning then with the water that bears them, several together can compose large balls such as you see at `K` and `L`. 
 
-Wherever the parts of matter that could not take the form of the aethereal fire or the aethereal air may have been at the beginning, all the larger and more massive among them shortly had to take their course toward the outside circumference of the heavens that contained them and thereafter pass continually from one of these heavens into another without ever stopping for a very long period of time in the same heaven. 
+The more solid and larger ones with massive parts are `L`. These go toward `E`. 
 
-By contrast, all the less massive had to be pushed, each toward the center of the heaven containing it, by the course of the matter of that heaven. And (given the shapes that I have attributed to them) upon colliding with one another, they had to join together severally and compose large balls which, turning in the heavens, have there a motion tempered by all the motions the separate parts could have if they were in fact separate. 
+The less solid and smaller ones are `K`. These go toward `B`.
+
+<!-- , according as each is more or less solid and composed of more or less large and massive parts. -->
+
+Wherever the parts of matter that could not take the form of the aethereal fire or the aethereal air may have been at the beginning, all the larger and more massive among them shortly had to take their course toward the outside circumference of the heavens that contained them and thereafter pass continually from one of these heavens into another without ever stopping for a very long period of time in the same heaven.
+
+By contrast, all the less massive had to be pushed, each toward the center of the heaven containing it, by the course of the matter of that heaven. 
+
+And (given the shapes that I have attributed to them) upon colliding with one another, they had to join together severally and compose large balls which, turning in the heavens, have there a motion tempered by all the motions the separate parts could have if they were in fact separate. 
 
 Thus, some tend to move toward the circumferences of those heavens, and others toward their centers.
 

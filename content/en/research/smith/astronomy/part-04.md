@@ -2,6 +2,7 @@
 title: "Tycho Brahe' System of Astronomy"
 description: "Tycho Brahe introduced a new hypothesis that connected the irregularities in the motions of the Planets"
 image: /covers/astronomy.jpg
+author: Adam Smith
 weight: 4
 ---
 
@@ -46,6 +47,8 @@ The circles in which the Five Planets performed their periodical revolutions rou
 Sun, as well as those in which the Sun and Moon performed theirs round the Earth,
 were, as both in the old and new hypothesis, Eccentric Circles, to connect together their
 differently accelerated and retarded motions.
+
+
 
 Such was the system of Tycho Brache, compounded, as is evident, out of these of Ptolemy and Copernicus; happier than that of Ptolemy, in the account which it gives of
 the motions of the two inferior Planets; more complex, by supposing the different

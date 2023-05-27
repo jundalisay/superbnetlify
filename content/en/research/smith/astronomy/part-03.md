@@ -1,10 +1,28 @@
 ---
 title: "Tycho Brahe' System of Astronomy"
-
 description: "Tycho Brahe introduced a new hypothesis that connected the irregularities in the motions of the Planets"
 image: /covers/astronomy.jpg
+author: Adam Smith
 weight: 6
 ---
+
+
+<!-- she has, to talk in the hyperbolical language of
+during the whole course of their lives,
+Tycho–Brache, moved the Earth from its foundations, stopt the revolution of the
+Firmament, made the Sun stand still, and subverted the whole order of the Universe.
+Such were the advantages of this new hypothesis, as they appeared to its author, when
+he first invented it. But, though that love of paradox, so natural to the learned, and that
+pleasure, which they are so apt to take in exciting, by the novelty of their supposed
+discoveries, the amazement of mankind, may, notwithstanding what one of his disciples
+tells us to the contrary, have had its weight in prompting Copernicus to adopt this
+and began coolly to
+system; yet, when he had completed his Treatise of Revolutions,
+consider what a strange doctrine he was about to offer to the world, he so much
+dreaded the prejudice of mankind against it, that, by a species of continence, of all
+others the most difficult to a philosopher, he detained it in his closet for thirty years
+together.
+At last, in the extremity of old age, he allowed it to be extorted from -->
 
 
 Tycho Brahe introduced a new hypothesis that connected the irregularities in the motions of the Planets. 
@@ -18,7 +36,6 @@ It was almost immediately and universally disapproved of, by the learned as well
 One of his disciples was Reinholdus. 
 - He built astronomical tables called 'Prutenic Tables' that were more accurate than those in the Treatise of Revolutions.
 - These soon appeared to be corresponded more exactly with the heavens, than the Tables of Alphonsus.
-
 
 This ought naturally to have formed a prejudice in favour of the diligence and accuracy of Copernicus in observing the heavens. But it
 ought to have formed none in favour of his hypothesis; since the same observations,

@@ -7,10 +7,3 @@ description: "Marx observes Capitalism and extracts principles from it based on 
 image: "/covers/daskapital.jpg"
 # date: 2020-10-31
 ---
-
-
-"
-author=  "Karl Marx"
-image=  "/covers/.jpg"
-
-+++
