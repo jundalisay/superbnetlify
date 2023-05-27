@@ -81,15 +81,25 @@ Thus, they have retained the form of the aethereal earth which composed the plan
 
 ## Spacetime Becomes Electromagnetism
 
-The matter that came out from around the parts of the aethereal air, to the extent that they broken and dulled the small points of their angles in rounding off, necessarily had to acquire a much faster motion than theirs and along with it a facility for dividing and changing shape at every moment to accommodate itself to the shape of the places where it is. 
+The matter that came out from around the parts of the aethereal air were broken and had the small points of their angles dulled from rounding off. These necessarily had to go faster than the aethereal air. Along with it came a facility for dividing and changing shape at every moment in order to accommodate itself to the shape of the places where it is. 
 
-Thus, it took the form of the aethereal fire.
+**Thus, it took the form of the aethereal fire.**
 
-It had to acquire a much faster motion than theirs. This is because it had to go off to the side through very narrow passages and out of the small spaces left between the parts of the aethereal air as they collided head-on with one another, it had much more of a path than they to traverse in the same time.
+It went faster because it had to go off to the side through very narrow passages and out of the small spaces left between the parts of the aethereal air as they collided head-on. It had much more of a path than the aethereal air to traverse in the same time.
 
-What there is of the aethereal fire beyond what is needed to fill the small intervals that the parts of the aethereal air (which are round) necessarily leave around them must draw back toward the centers about which those parts turn, because [the parts of the second] occupy all the other, more distant places. 
+The excess aethereal fire needed to fill the small gaps in the round aethereal air necessarily go around them and must draw back toward the centers around the aethereal air. 
+<!-- which those parts turn, -->
 
-At those centers, the remaining <!-- first element --> aethereal fire must compose perfectly liquid and subtle round bodies which, incessantly turning much faster than, and in the same direction as, the parts of the second element surrounding them, have the force to increase the agitation of those parts to which they are closest and even (in moving from the center toward the circumference) to push the parts in all directions, just as they push one another.
+This is because the aethereal air occupies all the other, more distant places. 
+<!-- parts of the second] -->
+
+At those centers, the remaining <!-- first element --> aethereal fire must compose perfectly liquid and subtle round bodies. 
+
+## Light comes from 
+
+These incessantly turn much faster than, and in the same direction as, the parts of athereal air surrounding them. The parts of the aethereal fire have the force:
+- to increase the agitation of those parts to which they are closest and
+- in moving from the center toward the circumference, to push the parts of aethereal fire in all directions, just as they push one another.
 
 This action we perceive as light. 
 
@@ -102,7 +112,6 @@ Assume a round body of pure fire aether to be the sun, and the others to be the 
 The aethereal air turns about them as 'the heavens' [spacetime].
 <!-- We shall take the matter of the -->
 <!-- second element --> 
-
 
 Imagine, that:
 - the points `S`, `E`, `ε`, and `A` are the centers

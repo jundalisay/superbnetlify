@@ -25,6 +25,8 @@ Whether these two were initially agitated or not, they afterwards had to move wi
 - If they were not moving, they were surrounded everywhere by the aether <!-- that matter of the heaven -->. They necessarily had to follow the aether, just as boats <!-- and diverse other bodies floating on water (both the largest and most massive and those that are less so) --> follow the water they are in. <!--  when there is nothing else to impede them from doing so.[43] -->
 
 
+## Quantum Tunelling and Star Formation
+
 Massive and solid bodies that float on water always have much more force than the water. This allows them to continue their motion, even though they get their motion from the water alone. An example are the largest and most heavily-laden boats. 
 
 By contrast, the very light floating bodies, like those lumps of white scum floating along the shores during storms, have less force to continue moving.
@@ -48,7 +50,7 @@ If both both meet at the passage `E` at the same time, the larger and stronger b
 By contrast, lighter bodies such as leaves and feathers that float at `A` are pushed by the course of the water, not toward `E` and toward `G`, but toward `B`, where the water is less strong and rapid than at `E`. This is because at `B` it takes a curved path and not a straight line.  
 <!-- its course along a line that less approaches a straight line. -->
 
-These light bodies, but also others heavier and more massive can join upon meeting and that, turning then with the water that bears them, several together can compose large balls such as you see at `K` and `L`. 
+These light bodies, but also others heavier and more massive can join upon meeting and that, turning then with the water that bears them, several together can compose large balls such as you see at `K` and `L`.
 
 The more solid and larger ones with massive parts are `L`. These go toward `E`. 
 
@@ -56,15 +58,34 @@ The less solid and smaller ones are `K`. These go toward `B`.
 
 <!-- , according as each is more or less solid and composed of more or less large and massive parts. -->
 
-Wherever the parts of matter that could not take the form of the aethereal fire or the aethereal air may have been at the beginning, all the larger and more massive among them shortly had to take their course toward the outside circumference of the heavens that contained them and thereafter pass continually from one of these heavens into another without ever stopping for a very long period of time in the same heaven.
+
+## The Big Bang
+
+Wherever the parts of matter that could not take the form of the aethereal fire or the aethereal air at the start, the larger and more massive among them* shortly had to run towards the outside circumference of the heavens that contained them. 
+
+> *Superphysics note: In modern astrophysics, these are the 'hot gases'
+
+They passed continually from one of these heavens into another* without ever stopping for a very long period of time in the same heaven.
+
+> *Superphysics note: This is the Big Bang
+
 
 By contrast, all the less massive had to be pushed, each toward the center of the heaven containing it, by the course of the matter of that heaven. 
 
-And (given the shapes that I have attributed to them) upon colliding with one another, they had to join together severally and compose large balls which, turning in the heavens, have there a motion tempered by all the motions the separate parts could have if they were in fact separate. 
+<!-- And (given the shapes that I have attributed to them)  -->
 
-Thus, some tend to move toward the circumferences of those heavens, and others toward their centers.
+Upon colliding with one another, they had to join together severally and compose large balls which rotated <!-- turning --> in the heavens. This rotation is affected by all the motions from the other balls. 
+<!-- , have there a motion tempered by all the motions the separate parts could have if they were in fact separate.  -->
 
-Those that tend to range toward the center of any heaven to be the planets, and we should take those that pass across different heavens to be comets.
+Thus some tend to move towards:
+- the circumferences of those heavens
+  - These are the comets
+- others move toward their centers.
+  - These are the planets
+<!-- Those that tend to range toward the center of any heaven to be the planets, and we should take those that pass across different heavens to be comets. -->
+
+
+## Comets
 
 There are a few comets in the aethereal world compared to the number of heavens. 
 
@@ -72,8 +93,9 @@ If there were many at the beginning, over the course of time in passing across d
 
 When comets pass from one heaven into another, they always push before them some small bit of the matter of the heaven they are leaving and remain enveloped by it for some time until they have entered far enough within the limits of the other heaven. 
 
-Once there, they finally loose themselves from it almost all at once and without taking perhaps more time to do so than does the sun in rising at morning on our horizon. In this way, they move much more slowly when they thus tend to leave some heaven than they do shortly after having entered it.
+Once there, they finally loose themselves from it almost all at once and without taking perhaps more time to do so than does the sun in rising at morning on our horizon. 
 
+In this way, they move much more slowly when they thus tend to leave some heaven than they do shortly after having entered it.
 
 For example, the comet that takes its course along the line CDQR, has already entered rather far within the limits of the heaven FG.
 
