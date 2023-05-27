@@ -62,7 +62,7 @@ I do not use the qualities called "heat," "cold," "moistness," and "dryness," as
 
 The difference between them and the other bodies that the philosophers call "mixed" or "composite" consists in the forms of these mixed bodies always containing in themselves some qualities that are contrary and that counteract one another, or at least do not tend to the conservation of one another, whereas the forms of the elements should be simple and not have any qualities that do not accord with one another so perfectly that each tends to the conservation of all the others.
 
-The parts of fire move extremely fast. They are so small that no other bodies can stop them. Beyond that, they require no determinate size or shape or position. 
+The parts of aethereal fire move extremely fast. They are so small that no other bodies can stop them. Beyond that, they require no determinate size or shape or position. 
 
 The parts of air have a middling motion and size. Their motion and size can be decreased or increased. Thus, they always remain balanced in that same middling condition. 
 

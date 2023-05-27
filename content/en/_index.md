@@ -41,7 +41,7 @@ tricon1:
 articles1:
   items:
     - url : "/superphysics/principles/chapter-10"
-      img : "/banner.jpg" 
+      img : "/photos/physics/ai.jpg" 
       title : "What's Superphysics?"
       subtitle : "A new science based on the original Socratic Dialectics"
     - url : "/superphysics/principles/chapter-11"

@@ -32,6 +32,9 @@ If they have not yet begun to move, or if they are moving less fast than is requ
 
 Nevertheless, if they are solid and massive enough to compose comets, this does not hinder them from tending to move shortly thereafter toward the exterior circumferences of the heavens, in as much as the agitation they have acquired in descending toward any one of the heavens' centers will most certainly give them the force to pass beyond and to ascend again toward its circumference.
 
+![The World](/graphics/physics/worldfggf.jpg)
+
+
 The earth `EFGH` with water `1234` and air `5678` are composed of some of the less solid of the earth's parts and constitute a single mass with it. 
 
 The matter of the heaven fills all the space between the circles `ABCD` and `5678`, and also all the small intervals below it among the parts of the air, the water, and the earth.

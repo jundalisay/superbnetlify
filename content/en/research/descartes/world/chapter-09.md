@@ -14,10 +14,10 @@ The parts of the matter are very diverse. Most of them take the form of the aeth
 Nevertheless, among them are 2 sorts that had to retain the form of the earth aether:
  <!-- third element -->
 
-1. Those which had shapes so extended and so impeding that, when they collided with one another, it was easier for them to join together*. This allows them to become larger instead of breaking up and becoming smaller. 
+1. Those which had shapes so extended and so impeding that, when they collided with one another, it was easier for them to join together. This allows them to become larger instead of breaking up and becoming smaller. 
 2. Those which began as the largest and most massive of all, could well break and shatter the others by striking them, but not be shattered themselves.
 
-> *Superphysics note: This is now known as Quantum Entanglement
+<!-- > *Superphysics note: This is now known as Quantum Entanglement -->
 
 
 Whether these two were initially agitated or not, they afterwards had to move with the same agitation as the aether that contained them. <!-- matter of the heaven -->
@@ -25,7 +25,7 @@ Whether these two were initially agitated or not, they afterwards had to move wi
 - If they were not moving, they were surrounded everywhere by the aether <!-- that matter of the heaven -->. They necessarily had to follow the aether, just as boats <!-- and diverse other bodies floating on water (both the largest and most massive and those that are less so) --> follow the water they are in. <!--  when there is nothing else to impede them from doing so.[43] -->
 
 
-## Quantum Tunelling and Star Formation
+## Quantum Tunneling and Star Formation
 
 Massive and solid bodies that float on water always have much more force than the water. This allows them to continue their motion, even though they get their motion from the water alone. An example are the largest and most heavily-laden boats. 
 
