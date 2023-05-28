@@ -41,48 +41,77 @@ If they have not yet begun to move, or if they are moving less fast than is requ
 Nevertheless, if they are solid and massive enough to compose comets, this does not hinder them from tending to move shortly thereafter toward the exterior circumferences of the heavens, in as much as the agitation they have acquired in descending toward any one of the heavens' centers will most certainly give them the force to pass beyond and to ascend again toward its circumference.
  -->
 
-![The World](/graphics/physics/worldfggf.jpg)
+![The World](/graphics/physics/world-11.jpg)
 
 
-The earth `EFGH` with water `1234` and air `5678` are composed of some of the less solid of the earth's parts and constitute a single mass with it. 
+The earth `EFGH` and its  water `1234` and air `5678` are a single mass.
+- Its water and air are composed of the less solid of the earth's parts.
 
-The matter of the heaven fills all the space between the circles `ABCD` and `5678`, and also all the small intervals below it among the parts of the air, the water, and the earth.
+The air-aether [matter of the heaven] fills:
+- all the space between the circles `ABCD` and `5678`, and
+- all the small intervals below it among the parts of the air, the water, and the earth.
 
-Heaven and this earth turn together about center `T`, all their parts tend to move away from it, but those of the heaven much more quickly than those of the earth, because the former are much more agitated. 
+This air-aether and the Earth turn together around center `T`.
 
-Among the parts of the earth, those more agitated in the same direction as those of the heaven tend more to move away from the center than do the others.
+All their parts tend to move away from that center. 
+- The air-aether outside of Earth moves away faster than the air-aether within the Earth because the former are much more agitated.
+
+Among the parts of the Earth, those more agitated in the same direction as those of the heaven tend more to move away from the center than do the others.
 
 "Void" means the space that is filled only with a matter that could not resist the actions of other bodies nor produce any considerable effect.
 
-Thus, if the whole space beyond circle `ABCD` were void then all the parts of the system in the circle ABCD would be the first to leave it then those of the air and of the water would follow them, and  finally also those of the earth, each that much sooner as it were less attached to the rest of its mass.[51] 
+Thus, if the whole space beyond circle `ABCD` were void, then all the parts of the system in the circle `ABCD` would be the first to leave it. 
+- It would be followed by those of the air
+- It would then be followed by those of the water, and finally also those of the earth
+
+Each of them would follow much sooner as it were less attached to the rest of its mass.[51] 
 
 In the same way:
 - a stone leaves a sling in which it is being moved as soon as one releases the cord
 - the dust one throws on a top while it is turning immediately flies off from it in all directions.
 
-There is no void beyond circle `ABCD`. This means that the Aethereal Air inside it has nowhere external to go unless they are displaced by the entry of other Aethereal Air. 
 
+## Gravitational Equilibrium
+
+There is no void beyond circle `ABCD`. 
+
+This means that the air-aether inside it has nowhere external to go unless they are displaced by the entry of other air-aether simultaneously.
+
+<!-- 
 d and where the parts of the heaven contained within that circle can go, unless at the same instant others completely like them enter in their place, 
- parts of the earth
+ parts of the earth -->
 
-Similarly, the Earth Aether also cannot move away any farther from center `T` unless new Earth Aether descends in their place.
+Similarly, the earth-aether also cannot move away any farther from center `T` unless new earth-aether descends in their place.
 
  <!-- just as many parts of the heaven or other terrestrial parts as are needed to fill it.  -->
 They also cannot move closer to the center unless just as many others move out from the center to be replaced. 
  <!-- rise in their stead.  -->
 
 
-## Gravitational Equilibrium
+Thus, they are all opposed to one another. 
 
-Thus, they are all opposed to one another. Each opposes those that must enter in its place in the case that it should rise, and similarly to those that must enter therein in the case that it should descend, just as the 2 sides of a balance are opposed to one another. 
+Each opposes:
+- those that must enter in its place in the case that it should rise, and
+- those that must enter therein in the case that it should descend
 
-Just as one side of a balance can be raised or lowered only if the other side does exactly the contrary at the same instant and just as the heavier always raises the lighter, so too the stone `R`, for example, is so opposed to the quantity (exactly equal in size) of air above it, whose place it should occupy in the case that it were to move farther away from center `T`, that that air would necessarily have to descend to the extent that the stone rose.
+This is similar to how the 2 sides of a balance are opposed to one another. 
 
-In the same way, that Athereal Air is also so opposed to other Athereal Airs, such as the quantity of Athereal Air below it. That upper air would occupy the lower air in the case that it were to move closer to that center.
+One side of a balance can be raised or lowered only if the other side does exactly the contrary at the same instant.
+- The heavier side always raises the lighter
 
-This is similar to how a stone must descend when this air rises.
+In the same way, the stone `R` has `aetheral-air-A` that is so opposed to the quantity (exactly equal in size) of the `aethereal-air-B` above it. 
 
-This stone has much more of the Earth-Aether than a quantity of air of equal extent. 
+The stone and its `aethereal-air-A` would occupy the place of that `aethereal-air-B` if the stone were to move farther away from center `T`.
+- That `aetheral-air-B` would necessarily have to descend to the extent that the stone rose.
+
+At the very same time, that rising stone and its `aethereal-air-A` will be opposed to an equal quantity of `aethereal-air-B` below it. 
+- As that `aethereal-air-B` moves closer to the center `T`, that stone and its `aethereal-air-A` must descend.
+
+ <!-- eIn the same way, that Athereal Air is also so opposed to other Athereal Airs, such as the quantity of Athereal Air below it. That upper air would occupy the lower air in the case that it were to move closer to that center. -->
+
+<!-- This is why the stone must descend when this air rises. -->
+
+This stone has much more of the earth-aether than a quantity of air-aether of equal extent. 
 
 Consequently, it contains much less of the Air-Aether. 
  <!-- matter of the heaven. -->
@@ -95,16 +124,35 @@ Much more terrestrial matter is contained within this physical stone than is con
 On the contrary, the quantity of air should have the force to make the stone fall downward. 
 
 <!-- that quantity of  -->
-Thus, physical air is light when compared with the stone. But it is heavy when compared with the pure aether.
+Thus, that amount of planetary aethereal-air is 'light' when compared with the stone. 
+- But it is heavy when compared with the stellar aethereal-air.
  <!-- matter of the heaven.  -->
 
-Thus, each part of terrestrial bodies is pressed toward `T`, not indifferently by the whole matter surrounding it, but only by a quantity of this matter exactly equal to the size of the part. 
+Thus, each part of terrestrial bodies is pressed toward `T`.
+
+Each body is pushed differently by the surrounding air-aether according to the quantity of the air-aether exactly equal to the size of the part. 
 
 That quantity, being underneath the part, can take its place in the case that the part falls. 
 
+"Homogeneous" bodies are those of physical air and water. 
+
 This is why:
-- among the parts of any single body designated "homogeneous" (such as among those of air or water), the lowest are not notably more pressed than the highest. 
+- the pressure on the lowest of homogenous bodies is not notably more than the highest. 
 - a man in very deep water does not feel it weigh on his back any more than if he were swimming right on top.[52]
+
+
+ In this way you can see that every part of terrestrial bodies is
+pressed towards , not indifferently by all the matter surrounding it but
+only by an amount of the matter exactly equal to the size of that part and
+which, being underneath the part, can take its place if that part moves
+
+The Treatise on Light
+
+
+79 The image of the balance here is a revealing indication of the source of Descartes’ thinking about
+these mechanical issues: statics.
+down. T
+
 
 <!-- It might seem that  -->
 
