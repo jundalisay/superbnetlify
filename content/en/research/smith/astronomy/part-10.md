@@ -4,6 +4,8 @@ description: "Isaac Newton had the superior genius and sagacity to discover that
 image: /covers/astronomy.jpg
 # date: 2022-09-22
 weight: 12
+aliases:
+  /research/smith/astronomy/newton
 ---
 
 
@@ -14,9 +16,7 @@ Keplers' laws were cemented by the observations of Cassini. But there were still
 
 Sir Isaac Newton first attempted to give a physical account of the motions of the Planets to solve such irregularities.
 
-The physical connection, by which 
-
-Descartes tried to bind the movements of the Planets through the laws of impulse. These flow from the inertness of matter and are the easiest for the mind to undertand. 
+Descartes tried to bind the movements of the Planets through the laws of impulse. These flow from the inertness of matter and are the easiest for the mind to understand. 
 
 Aside from this, we do not have any other natural concept such as that of gravity. This is because we never gravitate matter. Instead, we just observe how gravity affects matter.  
 
@@ -30,17 +30,17 @@ matter, but we have occasion to observe it.
 
 Sir Isaac Newton had the superior genius and sagacity  <!-- , therefore, made the most happy, and, we may now say, the greatest and most admirable improvement that was ever made in philosophy, when he --> to discover that he could join the movements of the Planets by a familiar principle of connection.<!--  which completely removed all the difficulties the imagination had hitherto felt in attending to them.  -->
 
-He demonstrated that= 
-- the Planets gravitated towards the Sun and to one another, amd
+He demonstrated that the Planets:
+- gravitated towards the Sun and to one another, and
 - had a projecting force originally impressed on them.
 
-The primary ones might all described ellipses in one of the foci of the sun. 
+The primary planets all described ellipses in one of the foci of the sun. 
 
-The secondary ones might describe figures of the same kind round their respective primaries, without being disturbed by the continual motion of the centers of their revolutions. 
+The secondary ones describe the same kind of ellipses around their respective primaries, without being disturbed by the continual motion of the centers of their revolutions.
 
-If the force which kept the planets in their orbits was like that of gravity and directed towards the Sun they individually would describe equal areas in equal times. 
+If the force which kept the planets in their orbits was like that of gravity and directed towards the Sun they individually would describe equal areas in equal times.
 
-This attractive power of the Sun*= 
+This attractive power of the Sun*:
 - is diffused in rays from a center and 
 - is diminished in the same proportion as the squares of the distances increased
 
@@ -54,7 +54,7 @@ This gradual reduction of their respective gravities, their periodic times would
 
 He then proved that gravity was the connecting principle which joined the movements of the Planets by showing that the gravity on Earth is stronger* near the surface of the Earth. 
 
-> *Superphysics note=  Descartes also proves this
+> *Superphysics note: Descartes also proves this
 
 
 Gravity can make a body fall by around 15 Parisian feet in the first 1 second of its descent. 
@@ -73,7 +73,7 @@ Thus, the Moon is constantly falling towards the Earth.
 The system of Sir Isaac Newton explained the many other irregularities which Astronomers had observed in the Heavens. 
 - It explained that the centers of the planets' revolutions were not precisely in the Sun's center because the planets were also attracting* each other. <!-- , but in the common center of gravity of the Sun and the Planets.  -->
 
-> *Superphysics note=  Kepler proved this earlier as Kepler's Third Law
+> *Superphysics note: Kepler proved this earlier as Kepler's Third Law
 
 
 This explained the irregularities with Jupiter and Saturn, whenever they are nearly in conjunction with one another.
@@ -136,5 +136,5 @@ The Moon revolves in an ellipse, which has the centre of the Earth in one of its
 > *Superphysics Note: Lateral precession?
 
 
-This wasanother irregularity that very much perplexed Astronomers. This was also solved by the theory of gravity.
+This was another irregularity that very much perplexed Astronomers. This was also solved by the theory of gravity.
 

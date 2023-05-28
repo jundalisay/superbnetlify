@@ -1,133 +1,284 @@
 ---
-title: "Tycho Brahe' System of Astronomy"
-description: "Tycho Brahe introduced a new hypothesis that connected the irregularities in the motions of the Planets"
+title: "The System of Copernicus"
+heading: Part 2
+description: "The ruin of Roman Empire produced the entire neglect of the study of Nature"
 image: /covers/astronomy.jpg
-author: Adam Smith
-weight: 4
+weight: 14
+# date: 2022-09-20
 ---
 
 
-Tycho Brache was the great restorer and advancer of Astronomy. 
-- He spent his life and wasted his fortune on it.
-- His observations were both more numerous and more accurate than those of all the astronomers who had gone before him. 
-  - He himself was so much affected by objections to the point that he could not embrace the system of Copernicus
+The ruin of Roman Empire produced the entire neglect of the study of Nature. 
 
-He admired Copernicus and all his astronomical observations tended to confirm his system. They demonstrated, that:
-- Venus and Mercury were sometimes above, and sometimes below the Sun
-- consequently, the Sun, and not the Earth, was the center of their periodical revolutions
-- Mars, when in his meridian at midnight, was nearer to the Earth than the Earth is to the Sun; though, when in conjunction with the Sun, he was much more remote from the Earth than that luminary
+The empire of the Caliphs established the peace required by the sciences. 
 
-These were absolutely inconsistent with the system of Ptolemy. Copernicus' system proved that:
-- the Sun, and not the Earth, was the center of the periodical revolutions of Mars, Venus, and Mercury
-- the Earth was placed between the orbits of Mars and Venus. 
-- the same thing was probable with regard to Jupiter and Saturn
-<!-- ; that they, too, revolved round the Sun; and that, therefore, the Sun, if not the center of the universe, was at least, that of the planetary system.  -->
-- Comets were superior to the Moon, and moved through the heavens in all possible directions
-  - This was incompatible with the Solid Spheres of Aristotle and Purbach, and the established Astronomy.
-
-All these observations, joined to his aversion to the system, and perhaps, notwithstanding the generosity of his character, some little jealousy of the fame of in which the Earth Copernicus, suggested to Tycho the idea of a new hypothesis, continued to be, as in the old account, the immoveable center of the universe, round which the firmament revolved every day from east to west, and, by some secret virtue, carried the Sun, the Moon, and the Five Planets along with it, notwithstanding their immense distance, and notwithstanding that there was nothing betwixt it and them but the most fluid ether. 
-
-But, although all these seven bodies thus obeyed the diurnal revolution of the Firmament, they had each of them, as in the old system, too, a
-contrary periodical eastward revolution of their own, which made them appear to be every day, more or less, left behind by the Firmament. 
-
-The Sun was the center of the periodical revolutions of the 5 Planets; the Earth, that of the Sun and Moon. 
-
-The 5 Planets followed the Sun in his periodical revolution round the Earth, as they did the Firmament in its diurnal rotation. The three superior Planets comprehended the Earth within the orbit in which they revolved round the Sun, and had each of them an Epicycle
-to connect together, in the same manner as in the system of Ptolemy, their direct, retrograde, and stationary appearances. 
-
-As, notwithstanding their immense distance, they followed the Sun in his periodical revolution round the Earth, keeping always at an
-equal distance from him, they were necessarily brought much nearer to the Earth when
-in opposition to the Sun, than when in conjunction with him. Mars, the nearest of them,
-when in his meridian at midnight, came within the orbit which the Sun described round
-the Earth, and consequently was then nearer to the Earth than the Earth was to the
-Sun. The appearances of the two inferior Planets were explained, in the same manner,
-as in the system of Copernicus, and consequently required no Epicycle to connect them.
-
-The circles in which the Five Planets performed their periodical revolutions round the
-Sun, as well as those in which the Sun and Moon performed theirs round the Earth,
-were, as both in the old and new hypothesis, Eccentric Circles, to connect together their
-differently accelerated and retarded motions.
+It was under the protection of those generous and magnificent princes, that the ancient philosophy
+and astronomy of the Greeks were restored and established in the East.
 
 
+<!-- just, and religious government diffused over their vast
+tranquillity, which their mild,
+empire, revived the curiosity of mankind, to inquire into the connecting principles of
+nature. The fame of the Greek and Roman learning, which was then recent in the
+memories of men, made them desire to know, concerning these abstruse subjects, what
+were the doctrines of the so much renowned sages of those two nations. -->
 
-Such was the system of Tycho Brache, compounded, as is evident, out of these of Ptolemy and Copernicus; happier than that of Ptolemy, in the account which it gives of
-the motions of the two inferior Planets; more complex, by supposing the different
-revolutions of all the Five to be performed round two different centers; the diurnal round
-the Earth, the periodical round the Sun; but, in every respect, more complex and more
-incoherent than that of Copernicus. Such, however, was the difficulty that mankind felt
-in conceiving the motion of the Earth, that it long balanced the reputation of that
-otherwise more beautiful system. It may be said, that those who considered the
-heavens only, favoured the system of Copernicus, which connected so happily all the
-appearances which presented themselves there. But that those who looked upon the
-Earth, adopted the account of Tycho Brache, which, leaving it at rest in the center of the
-universe, did less violence to the usual habits of the imagination. The learned were,
-indeed, sensible of the intricacy, and of the many incoherences of that system; that it
-gave no account why the Sun, Moon, and Five Planets, should follow the revolution of
-the Firmament; or why the Five Planets, notwithstanding the immense distance of the
-three superior ones, should obey the periodical motion of the Sun; or why the earth,
-though placed between the orbits of Mars and Venus, should remain immoveable in the
-center of the Firmament, and constantly resist the influence of whatever it was, which
-carried bodies that were so much larger than itself, and that were placed on all sides of
-it, periodically round the Sun. Tycho Brahe died before he had fully explained his
-system. His great and merited renown disposed many of the learned to believe, that,
-had his life been longer, he would have connected together many of these incoherences,
-and knew methods of adapting his system to some other appearances, with which none
-of his followers could connect it.
+They translated the following Greek works into Arabic and studied them eagerly:
+- Aristotle
+- Ptolemy
+- Hippocrates
+- Galen
 
-The objection to the system of Copernicus, which was drawn from the nature of motion, and that was most insisted on by Tycho Brahe, was at last fully answered by Galileo; not, however, till about thirty years after the death of Tycho, and about a hundred after
-that of Copernicus. It was then that Galileo, by explaining the nature of the composition
-of motion, by showing, both from reason and experience, that a ball dropt from the
-mast of a ship under sail would fall precisely at the foot of the mast, and by rendering
-this doctrine, from a great number of other instances, quite familiar to the imagination,
-took off, perhaps, the principal objection which had been made to this hypothesis.
+<!-- The superiority which they easily discovered in them, above
+39
+the rude essays which their own nation
+had yet had time to produce, and which were
+such, we may suppose, as arise every where in the first infancy of science, necessarily
+determined them to embrace their systems, particularly that of Astronomy: neither were
+they ever afterwards able to throw off their authority. For, though the munificence of
+the Abassides, the second race of the Califfs, is said to have supplied the Arabian
+astronomers with larger and better instruments, than any that were known to Ptolemy
+and Hipparchus, the study of the sciences seems, in that mighty empire, to have been
+either of too short, or too interrupted a continuance, to allow them to make any
+considerable correction in the doctrines of those old mathematicians. The imaginations
+of mankind had not yet got time to grow so familiar with the ancient systems, as to
+regard them without some degree of that astonishment which their grandeur and
+novelty excited; a novelty of a peculiar kind, which had at once the grace of what was
+new, and the authority of what was ancient. They were still, therefore, too much
+enslaved to those systems, to dare to depart from them, when those confusions which shook, and at last overturned the peaceful throne of the Califfs, banished the study of
+the sciences from that empire. They had, however, before this, made some considerable
+improvements: they had measured the obliquity of the Ecliptic, with more accuracy than
+had been done before. The tables of Ptolemy had, by the length of time, and by the
+inaccuracy of the observations upon which they were founded, become altogether wide
+of what was the real situation of the heavenly bodies, as he himself indeed had foretold
+they would do. It became necessary, therefore, to form new ones, which was
+40
+under whom, too, was
+accordingly executed by the orders of the Califf Almamon,
+made the first mensuration of the Earth that we know of, after the commencement of
+41
+the Christian Aera, by two Arabian astronomers, who, in the plain of Sennaar,
+measured two degrees of its circumference. -->
+
+
+The victorious Saracens carried into Spain the learning and gallantry of the East, together with:
+- the tables of Almamon
+- the Arabian translations of Ptolemy and Aristotle
+
+Thus Europe received a second time, from Babylon, the rudiments of Astronomy. 
+
+
+
+
+
+<!-- The writings of Ptolemy were
+and the Peripatetic philosophy was studied in
+translated from Arabic into Latin;
+Averroes and Avicenna with as much eagerness, and with as much submission to its
+43
+doctrines in the West, as it had been in the East.
+24
+The doctrine of the Solid Spheres had, originally, been invented, in order to give a
+physical account of the revolutions of the heavenly bodies, according to the system of
+Concentric Circles, to which that doctrine was very easily accommodated. Those
+mathematicians who invented the doctrine of Eccentric Circles and Epicycles, contented
+themselves with showing, how, by supposing the heavenly bodies to revolve in such
+orbits, the phaenomena might be connected together, and some sort of uniformity and
+coherence be bestowed upon their real motions. The physical causes of those motions
+they left to the consideration of the philosophers; though, as appears from some
+passages of Ptolemy, they had some general apprehension, that they were to be
+44
+was adopted by
+explained by a like hypothesis. But, though the system of Hipparchus
+all astronomers and mathematicians, it never was received, as we have already
+observed, by any one sect of philosophers among the ancients. No attempt, therefore,
+seems to have been made amongst them, to accommodate to it any such hypothesis.
+25
+The schoolmen, who received, at once, from the Arabians, the philosophy of Aristotle,
+and the astronomy of Hipparchus, were necessarily obliged to reconcile them to one
+another, and to connect together the revolutions of the Eccentric Circles and Epicycles of
+the one, by the solid Spheres of the other. Many different attempts of this kind were
 45
-Several other astronomical difficulties, which encumbered this account of things, were
-removed by the same philosopher. Copernicus, after altering the center of the world,
-and making the Earth, and all the Planets revolve round the Sun, was obliged to leave
-the Moon to revolve round the Earth as before. But no example of any such secondary
-Planet having then been discovered in the heavens, there seemed still to be this
-irregularity remaining in the system. Galileo, who first applied telescopes to
-70
-discovered, by their assistance, the Satellites of Jupiter, which, revolving
-Astronomy,
-round that Planet, at the same time that they were carried along with it in its revolution,
-http= //oll.libertyfund.org/Texts/LFBooks/Smith0232/GlasgowEdition/PhilosophicalSubjects... 4/8/2004Glasgow Edition of the Works and Correspondence of Adam Smith (1981-87) Vol. III ... Page 78 of 286
-round either the Earth, or the Sun, made it seem less contrary to the analogy of nature,
-that the Moon should both revolve round the Earth, and accompany her in her
-revolution round the Sun.
+in the
+made by many different philosophers: but, of them all, that of Purbach,
+fifteenth century, was the happiest and the most esteemed. Though his hypothesis is
+the simplest of any of them, it would be in vain to describe it without a scheme; neither
+is it easily intelligible with one: for, if the system of Eccentric Circles and Epicycles was
+before too perplexed and intricate for the imagination to rest in it, with complete
+tranquillity and satisfaction, it became much more so, when this addition had been
+made to it. The world, justly indeed, applauded the ingenuity of that philosopher, who
+could unite, so happily, two such seemingly inconsistent systems. His labours, however,
+seem rather to have increased than to have diminished the causes of that
+http://oll.libertyfund.org/Texts/LFBooks/Smith0232/GlasgowEdition/PhilosophicalSubjects... 4/8/2004Glasgow Edition of the Works and Correspondence of Adam Smith (1981-87) Vol. III ... Page 69 of 286
+dissatisfaction, which the learned soon began to feel with the system of Ptolemy. He, as
+well as all those who had worked upon the same plan before him, by rendering this
+account of things more complex, rendered it still more embarrassing than it had been
+before.
+26
+Neither was the complexness of this system the sole cause of the dissatisfaction, which
+the world in general began, soon after the days of Purbach, to express for it. The tables
+of Ptolemy having, upon account of the inaccuracy of the observations on which they
+were founded, become altogether wide of the real situation of the heavenly bodies,
 46
-It had been objected to Copernicus, that, if Venus and Mercury revolved round the Sun,
-in an orbit comprehended within the orbit of the Earth, they would show all the same
-phases with the Moon, present, sometimes their darkened, and sometimes their
-enlightened sides to the Earth, and sometimes part of the one, and part of the other. He
-answered, that they undoubtedly did all this; but that their smallness and distance
-hindered us from perceiving it. This very bold assertion of Copernicus was confirmed by
-71
-His telescopes rendered the phases of Venus quite sensible, and thus
-Galileo.
-demonstrated, more evidently than had been done, even by the observations of Tycho
-Brahe, the revolutions of these two Planets round the Sun, as well as so far destroyed
-the system of Ptolemy.
+in the ninth century, were, upon the same hypothesis, composed
+those of Almamon,
+to correct their deviations. These again, a few ages afterwards, became, for the same
+reason, equally useless. In the thirteenth century, Alphonsus, the philosophical king of
 47
-The mountains and seas, which, by the help of the same instrument, he discovered, or
-imagined he had discovered in the Moon, rendering that Planet, in every respect, similar
-to the Earth, made it seem less contrary to the analogy of nature, that, as the Moon
-revolved round the Earth, the Earth should revolve round the Sun.
+Castile,
+found it necessary to give orders for the composition of those tables, which
+bear his name. It is he, who is so well known for the whimsical impiety of using to say,
+that, had he been consulted at the creation of the universe, he could have given good
+advice; an apophthegm which is supposed to have proceeded from his dislike to the
+intricate system of Ptolemy. In the fifteenth century, the deviation of the Alphonsine
+tables began to be as sensible, as those of Ptolemy and Almamon had been before. It
+appeared evident, therefore, that, though the system of Ptolemy might, in the main, be
+true, certain corrections were necessary to be made in it before it could be brought to
 48
-The spots which, in the same manner, he discovered in the Sun, demonstrating, by their
-motion, the revolution of the Sun round his axis, made it seem less improbable that the
-Earth, a body so much smaller than the Sun, should revolve round her axis in the same
-manner.
+For the revolution of his
+correspond with exact precision to the phaenomena.
+Eccentric Circles and Epicycles, supposing them to exist, could not, it was evident, be
+precisely such as he represented them; since the revolutions of the heavenly bodies
+deviated, in a short time, so widely from what the most exact calculations, that were
+founded upon his hypothesis, represented them. It had plainly, therefore, become
+necessary to correct, by more accurate observations, both the velocities and directions
+of all the wheels and circles of which his hypothesis is composed. This, accordingly, was
 49
-Succeeding telescopical observations, discovered, in each of the Five Planets, spots not
-unlike those which Galileo had observed in the Moon, and thereby seemed to
-demonstrate what Copernicus had only conjectured, that the Planets were naturally
-opaque, enlightened only by the rays of the Sun, habitable, diversified by seas and
-mountains, and, in every respect, bodies of the same kind with the Earth; and thus
-added one other probability to this system. By discovering, too, that each of the Planets
-revolved round its own axis, at the same time that it was carried round either the Earth
-or the Sun, they made it seem quite agreeable to the analogy of nature, that the Earth,
-which, in every other respect, resembled the Planets, should, like them too, revolve
-round its own axis, and at the same time perform its periodical motion round the Sun.
+the disciple, the continuator,
+begun by Purbach, and carried on by Regiomontanus,
+and the perfecter of the system of Purbach; and one, whose untimely death, amidst
+innumerable projects for the recovery of old, and the invention and advancement of new
+sciences, is, even at this day, to be regretted.
+27
+When you have convinced the world, that an established system ought to be corrected,
+it is not very difficult to persuade them that it should be destroyed. Not long, therefore,
+after the death of Regiomontanus, Copernicus began to meditate a new system, which
+should connect together the celestial appearances, in a more simple as well as a more
+accurate manner, than that of Ptolemy. -->
 
 
+
+The motion of the Equalizing Circle represented the revolutions of the Celestial Spheres. But it was  equable only when surveyed from a point that was different from their centers.
+
+This introduced a real inequality into their motions, contrary to that most natural and fundamental idea which the former astronomers have aimed for. 
+
+This prompted Copernicus to create a new system that was more accurate than that of Ptolemy. 
+
+He rearranged the planets so that there would be regularity in their motions. To do this he looked back at all the principles of previous astronomers. 
+
+
+
+
+<!--  with which all the
+authors of astronomical systems, Plato, Eudoxus, Aristotle, even Hipparchus and
+The confusion, in which the old hypothesis represented the motions of the heavenly
+what first suggested to him the design of forming a new
+bodies, was, he tells us,
+system, that these, the noblest works of nature, might no longer appear devoid of that
+harmony and proportion which discover themselves in her meanest productions. What
+most of all dissatisfied him, was, the motion of the Equalizing Circle, which, by
+representing the revolutions of the Celestial Spheres, as equable only, when surveyed
+from a point that was different from their centers, introduced a real inequality into their
+motions; contrary to that most natural, and indeed fundamental idea, with which all the
+authors of astronomical systems, Plato, Eudoxus, Aristotle, even Hipparchus and
+Ptolemy themselves, had hitherto set out, that the real motions of such beautiful and
+divine objects must necessarily be perfectly regular, and go on, in a manner, as
+agreeable to the imagination, as the objects themselves are to the senses. He began to
+consider, therefore, whether, by supposing the heavenly bodies to be arranged in a
+different order from that in which Aristotle and Hipparchus had placed them, this so
+much sought for uniformity might not be bestowed upon their motions. To discover this
+arrangement, he examined all the obscure traditions delivered down to us, concerning
+every other hypothesis which the ancients had invented, for the same purpose.  -->
+
+He found in Plutarch that some old Pythagoreans had represented the Earth as revolving around its own axis as the center of the universe.
+  <!-- in the centre of the universe, like a wheel around its own axis. -->
+
+Other Pythagoreans had removed it from the centre, and represented it as revolving in the Ecliptic like a star around the central fire. 
+
+He supposed that this central fire was the Sun.
+
+
+
+<!-- ; and though in this he was very widely mistaken,
+interpretation, that he began to consider how such an hypothesis might be made to
+correspond to the appearances. The supposed authority of those old philosophers, if it
+did not originally suggest to him his system, seems, at least, to have confirmed him in
+an opinion, which, it is not improbable, that he had before–hand other reasons for
+embracing, notwithstanding what he himself would affirm to the contrary. -->
+
+It then occurred to him, that, if the Earth rotates every day around its axis, from west to east, then all the heavenly bodies would appear to revolve, in a contrary direction, from east to west. 
+
+The diurnal revolution of the heavens, upon this hypothesis, might be only apparent.
+
+The firmament, which has no other sensible motion, might be perfectly at rest.
+
+The Sun, the Moon, and the Five Planets, might have no other movement beside that eastward revolution, which is peculiar to themselves. 
+
+That, by supposing the Earth to revolve with the Planets, around the Sun, in an orbit, which
+comprehended within it the orbits of Venus and Mercury, but was comprehended within those of Mars, Jupiter, and Saturn, he could, without the embarrassment of Epicycles, connect together the apparent annual revolutions of the Sun, and the direct, retrograde, and stationary appearances of the Planets.
+
+While the Earth really revolved round the Sun on one side of the heavens, the Sun would appear to revolve round the Earth on the other; that while she really advanced in her annual course, he would appear to advance eastward in that movement which is peculiar to himself. 
+
+That, by supposing the axis of the Earth to be always parallel to itself, not to be quite perpendicular, but somewhat inclined to the plane of her orbit, and consequently to present to the Sun, the one pole when on the one side of him, and the other when on the other, he would account for the obliquity of the Ecliptic; the Sun’s seemingly alternate progression from north to south, and from south to north, the consequent change of the seasons, and different lengths of days and nights in the different seasons.
+
+If this new hypothesis thus connected together all these appearances as happily as that of Ptolemy, there were others which it connected together much better. The 3 superior Planets, when nearly in conjunction with the Sun, appear always at the greatest distance from the Earth, are smallest, and least sensible to the eye, and seem to revolve forward in their direct motion with the greatest rapidity. 
+
+On the contrary, when in opposition to the Sun, that is, when in their meridian about midnight, they
+appear nearest the Earth, are largest, and most sensible to the eye, and seem to revolve backwards in their retrograde motion. To explain these appearances, the system of Ptolemy supposed each of the these Planets to be at the upper part of their several Epicycles, in the one case; and at the lower, in the other. 
+
+But it afforded no satisfactory principle of connection, which could lead the mind easily to conceive how the Epicycles of those Planets, whose spheres were so distant from the sphere of the Sun, should thus, if one may say so, keep time to his motion. 
+
+The system of Copernicus afforded this easily, and like a more simple machine, without the assistance of Epicycles, connected together, by fewer movements, the complex appearances of the heavens.
+When the superior Planets appear nearly in conjunction with the Sun, they are then in
+the side of their orbits, which is almost opposite to, and most distant from the Earth,
+and therefore appear smallest, and least sensible to the eye. But, as they then revolve
+in a direction which is almost contrary to that of the Earth, they appear to advance
+forward with double velocity; as a ship, that sails in a contrary direction to another,
+appears from that other, to sail both with its own velocity, and the velocity of that from
+which it is seen. 
+
+On the contrary, when those Planets are in opposition to the Sun, they are on the same side of the Sun with the Earth, are nearest it, most sensible to the eye, and revolve in the same direction with it; but, as their revolutions round the Sun are slower than that of the Earth, they are necessarily left behind by it, and therefore seem to revolve backwards; as a ship which sails slower than another, though it sails in the same direction, appears from that other to sail backwards. After the same manner, by the same annual revolution of the Earth, he connected together the direct and
+retrograde motions of the two inferior Planets, as well as the stationary appearances of
+all the Five.
+
+There are some other particular phaenomena of the two inferior Planets, which correspond still better to this system, and still worse to that of Ptolemy. 
+
+Venus and Mercury seem to attend constantly upon the motion of the Sun, appearing, sometimes
+on the one side, and sometimes on the other, of that great luminary; Mercury being
+almost always buried in his rays, and Venus never receding above forty–eight degrees
+from him, contrary to what is observed in the other three Planets, which are often seen
+in the opposite side of the heavens, at the greatest possible distance from the Sun. The
+system of Ptolemy accounted for this, by supposing that the centers of the Epicycles of
+these two Planets were always in the same line with those of the Sun and the Earth;
+that they appeared therefore in conjunction with the Sun, when either in the upper or
+lower part of their Epicycles, and at the greatest distance from him, when in the sides of
+them. It assigned, however, no reason why the Epicycles of these two Planets should
+observe so different a rule from that which takes place in those of the other three, nor
+for the enormous Epicycle of Venus, whose sides must have been forty–eight degrees
+distant from the Sun, while its center was in conjunction with him, and whose diameter
+must have covered more than a quadrant of the Great Circle. But how easily all these
+appearances coincide with the hypothesis, which represents those two inferior Planets
+revolving round the Sun in orbits comprehended within the orbit of the Earth, is too
+obvious to require an explanation.
+
+Thus far did this new account of things render the appearances of the heavens more
+completely coherent than had been done by any of the former systems. It did this, too,
+by a more simple and intelligible, as well as more beautiful machinery. It represented the Sun, the great enlightener of the universe, whose body was alone larger than all the
+Planets taken together, as established immoveable in the center, shedding light and
+heat on all the worlds that circulated around him in one uniform direction, but in longer
+or shorter periods, according to their different distances. It took away the diurnal
+revolution of the firmament, whose rapidity, upon the old hypothesis, was beyond what
+even thought could conceive. It not only delivered the imagination from the
+embarrassment of Epicycles, but from the difficulty of conceiving these two opposite
+motions going on at the same time, which the system of Ptolemy and Aristotle bestowed
+upon all the Planets; I mean, their diurnal westward, and periodical eastward
+revolutions. The Earth’s revolution round its own axis took away the necessity for
+supposing the first, and the second was easily conceived when by itself. The Five
+Planets, which seem, upon all other systems, to be objects of a species by themselves,
+unlike to every thing to which the imagination has been accustomed, when supposed to
+revolve along with the Earth round the Sun, were naturally apprehended to be objects
+of the same kind with the Earth, habitable, opaque, and enlightened only by the rays of
+the Sun. And thus this hypothesis, by classing them in the same species of things, with
+an object that is of all others the most familiar to us, took off that wonder and
+uncertainty which the strangeness and singularity of their appearance had excited; and
+thus far, too, better answered the great end of Philosophy.

@@ -1,152 +1,185 @@
 ---
-title: "Tycho Brahe' System of Astronomy"
-description: "Tycho Brahe introduced a new hypothesis that connected the irregularities in the motions of the Planets"
+title: "The System of Flat Earth and that of Eccentric Spheres"
+heading: Part 2
+description: "Before this system was taught in the world, the earth was regarded as a vast and irregular plain, surrounded on allsides by the ocean"
 image: /covers/astronomy.jpg
-author: Adam Smith
-weight: 6
+weight: 14
+# date: 2022-09-20
 ---
 
 
-<!-- she has, to talk in the hyperbolical language of
-during the whole course of their lives,
-Tycho–Brache, moved the Earth from its foundations, stopt the revolution of the
-Firmament, made the Sun stand still, and subverted the whole order of the Universe.
-Such were the advantages of this new hypothesis, as they appeared to its author, when
-he first invented it. But, though that love of paradox, so natural to the learned, and that
-pleasure, which they are so apt to take in exciting, by the novelty of their supposed
-discoveries, the amazement of mankind, may, notwithstanding what one of his disciples
-tells us to the contrary, have had its weight in prompting Copernicus to adopt this
-and began coolly to
-system; yet, when he had completed his Treatise of Revolutions,
-consider what a strange doctrine he was about to offer to the world, he so much
-dreaded the prejudice of mankind against it, that, by a species of continence, of all
-others the most difficult to a philosopher, he detained it in his closet for thirty years
-together.
-At last, in the extremity of old age, he allowed it to be extorted from -->
+<!-- These, the System of Concentric, and that of Eccentric Spheres, seem to have been the
+two Systems of Astronomy, that had most credit and reputation with that part of the
+ancient world, who applied themselves particularly to the study of the heavens.
+22
+however,  of the Stoical sect who came after -->
 
 
-Tycho Brahe introduced a new hypothesis that connected the irregularities in the motions of the Planets. 
+Cleanthes and the other Stoical philosophers had a system of their own.
 
-He completed his **Treatise of Revolutions** but was afraid of what people might think. And so he kept it in his closet for 30 years. 
+<!-- , quite different from either. But, though
+justly renowned for their skill in dialectic, and for the security and sublimity of their
+moral doctrines, those sages seem never to have had any high reputation for their
+23
+ever counted in
+knowledge of the heavens; neither is the name of any one of them
+the catalogue of the great astronomers, and studious observers of the Stars, among the
+ancients.  -->
 
-Finally in old age, he allowed it to be published but died as soon as it was printed. 
+They:
+- rejected the doctrine of the Solid Spheres
+- maintained that the celestial regions were filled with a fluid ether, of too yielding a nature to carry along with it, by any motion of its own, bodies so immensely great as the Sun, Moon, and Five
+Planets. 
 
-It was almost immediately and universally disapproved of, by the learned as well as by the ignorant. 
+These, therefore, as well as the Fixed Stars, did not derive their motion from the circumambient body, but had each of them, in itself, and peculiar to itself, a vital principle of motion, which directed it to move with its own peculiar velocity, and its own peculiar direction. 
 
-One of his disciples was Reinholdus. 
-- He built astronomical tables called 'Prutenic Tables' that were more accurate than those in the Treatise of Revolutions.
-- These soon appeared to be corresponded more exactly with the heavens, than the Tables of Alphonsus.
+It was by this internal principle, that the Fixed Stars revolved directly from east to west in circles parallel to the Equator, greater or less, according to their distance or nearness to the Poles, and with velocities so proportioned, that each of them finished its diurnal period in the same time, in something less than 23 hours and 56 minutes.
 
-This ought naturally to have formed a prejudice in favour of the diligence and accuracy of Copernicus in observing the heavens. But it
-ought to have formed none in favour of his hypothesis; since the same observations,
-and the result of the same calculations, might have been accommodated to the system
-of Ptolemy, without making any greater alteration in that system than what Ptolemy had
-foreseen, and had even foretold should be made. 
+It was, by a principle of the same kind, that the Sun moved westwards, for they allowed of no eastward motion in the heavens, but with less velocity than the Fixed Stars, so as to finish his diurnal period in 24 hours, and, consequently, to fall every day behind them, by a space of the heavens nearly
+equal to that which he passes over in four minutes; that is, nearly equal to a degree.
 
-It formed, however, a prejudice in favour of both. The learned begin to examine a hypothesis which afforded the easiest methods of calculation, and upon which the most exact predictions had been made. 
+This revolution of the Sun, too, was neither directly westwards, nor exactly circular; but
+after the Summer Solstice, his motion began gradually to incline a little southwards,
+appearing in his meridian to–day, further south than yesterday; and to–morrow still
+further south than to–day; and thus continuing every day to describe a spiral line round
+the Earth, which carried him gradually further and further southwards, till he arrived at
+the Winter Solstice. 
 
-The superior degree of coherence, which it bestowed upon the celestial appearances, the simplicity and uniformity which it introduced into the real directions and velocities of the Planets, soon disposed many astronomers, first to favour, and at last to embrace a system, which thus connected together so happily, the most disjointed of those objects that chiefly occupied their thoughts. Nor can any thing
-more evidently demonstrate, how easily the learned give up the evidence of their senses
-to preserve the coherence of the ideas of their imagination, than the readiness with
-which this, the most violent paradox in all philosophy, was adopted by many ingenious
-astronomers, notwithstanding its inconsistency with every sistem of physics then known
-in the world, and notwithstanding the great number of other more real objections, to
-which, as Copernicus left it, this account of things was most justly exposed.
+Here, this spiral line began to change its direction, and to bring him gradually, every day, further and further northwards, till it again restored him to the Summer Solstice. In the same manner they accounted for the motion of the Moon, and that of the Five Planets, by supposing that each of them revolved westwards, but with directions, and velocities, that were both different from one another, and continually varying; generally, however, in spherical lines, somewhat inclined to the Equator.
 
-It was adopted, however, nor can this be wondered at, by astronomers only.
-learned in all other sciences, continued to regard it with the same contempt as the
-vulgar. 
+This system seems never to have had the vogue. 
 
+The system of Concentric as well as that of Eccentric Spheres gives some sort of reason, both for the constancy and equability of the motion of the Fixed Stars, and for the variety and uncertainty of that of the Planets. 
 
-Astronomers were divided about its merit. Many of them rejected it <!-- a doctrine, which not only --> for contradicting the established system of Natural Philosophy. <!-- , but which, considered astronomically only, seemed to labour under several difficulties. -->
+Each of them bestow some sort of coherence upon those apparently
+disjointed phaenomena. But this other system seems to leave them pretty much as it
+found them. 
 
-<!-- Some of the objections against the motion of the Earth, that were drawn from the prejudices of sense, the patrons of this system, indeed, easily enough, got over.  -->
+Ask a Stoic, why all the Fixed Stars perform their daily revolutions in circles
+parallel to each other, though of very different diameters, and with velocities so
+proportioned, that they all finish their period at the same time, and through the whole course of it preserve the same distance and situation with regard to one another? 
 
-They said that:
-- the Earth might really be moving even if its inhabitants were at rest. 
-- the Sun, and Fixed Stars, might really be at rest
-- this is similar to a ship that sails through a smooth sea seems at rest to those who are in it, though really in motion, while the objects which she passes along, seem to be in motion, though really at rest.
+He can give no other answer, but that the peculiar nature, or if one may say so, the caprice of each Star
+directs it to move in that peculiar manner. His system affords him no
+principle of connection, by which he can join together, in his imagination, so great a
+number of harmonious revolutions. But either of the other two systems, by the
+supposition of the solid firmament, affords this easily. He is equally at a loss to connect
+together the peculiarities that are observed in the motions of the other heavenly bodies;
+the spiral motion of them all; their alternate progression from north to south, and from
+south to north; the sometimes accelerated, and again retarded motions of the Sun and
+Moon; the direct retrograde and stationary appearances of the Planets. All these have,
+in his system, no bond of union, but remain as loose and incoherent in the fancy, as
+they at first appeared to the senses, before philosophy had attempted, by giving them a
+new arrangement, by placing them at different distances, by assigning to each some
+peculiar but regular principle of motion, to methodize and dispose them into an order
+that should enable the imagination to pass as smoothly, and with as little
+embarrassment, along them, as along the most regular, familiar, and coherent
+appearances of nature.
 
-<!-- But there were some other objections, which, though grounded upon the same natural prejudices, they found it more difficult to get over. The Earth had always presented itself to the senses, not only as at rest, but as inert, ponderous, and even averse to motion.  -->
+<!-- Such were the systems of Astronomy that, in the ancient world, appear to have been
+adopted by any considerable party. Of all of them, the system of Eccentric Spheres was
+that which corresponded most exactly with the appearances of the heavens. It was not
+invented till after those appearances had been observed, with some accuracy, for more
+than a century together; and it was not completely digested by Ptolemy till the reign of
 
-<!-- The imagination had always been accustomed to conceive it as such, and suffered the greatest violence, when obliged to pursue, and attend it, in that rapid -->
+after a much longer course of observations. We cannot wonder, therefore,
+Antoninus,
+that it was adapted to a much greater number of the phaenomena, than either of the
+other two systems, which had been formed before those phaenomena were observed
+with any degree of attention, which, therefore, could connect them together only while
+they were thus regarded in the gross, but which, it could not be expected, should apply
+to them when they came to be considered in the detail. From the time of Hipparchus,
+therefore, this system seems to have been pretty generally received by all those who
+attended particularly to the study of the heavens. That astronomer first made a
+26
+calculated, for six hundred years, the revolutions of the
+catalogue of the Fixed Stars;
+Sun, Moon, and Five Planets; marked the places in the heavens, in which, during all that
+period, each of those bodies should appear; ascertained the times of the eclipses of the
+Sun and Moon, and the particular places of the Earth in which they should be visible. His
+calculations were founded upon this system, and as the events corresponded to his
+predictions, with a degree of accuracy which, though inferior to what Astronomy has
+since arrived at, was greatly superior to any thing which the world had then known,
+they ascertained, to all astronomers and mathematicians, the preference of his system,
+above all those which had been current before it.
+17
+It was, however, to astronomers and mathematicians only, that they ascertained this;
+for, notwithstanding the evident superiority of this system, to all those with which the
+world was then acquainted, it was never adopted by any one sect of philosophers.
+18
+Philosophers, long before the days of Hipparchus, seem to have abandoned the study of
+nature,
+27
+to employ themselves chiefly in ethical, rhetorical, and dialectical questions.
 
-<!-- To enforce their objection, motion which  -->
+Each party of them too, had by this time completed their peculiar system or theory of the universe, and no human consideration could then have induced them to give up any part of it. That supercilious and ignorant contempt too, with which at this time they regarded all mathematicians, among whom they counted astronomers, seems even to have hindered them from enquiring so far into their doctrines, as to know what opinions they held.
 
-The system of Copernicus gave motion to the Earth. 
+Neither Cicero nor Seneca, who have so often occasion to mention
+the ancient systems of Astronomy, take any notice of that of Hipparchus. His name is
+not to be found in the writings of Seneca. It is mentioned but once in those of Cicero, in but without any note of approbation, as a geographer, and not as
+a letter to Atticus,
+an astronomer. Plutarch, when he counts up, in his second book, concerning the
+30
+never mentions this,
+opinions of philosophers, all the ancient systems of Astronomy,
+the only tolerable one which was known in his time. Those three authors, it seems,
+31
+indeed, a man
+conversed only with the writings of philosophers. The elder Pliny
+whose curiosity extended itself equally to every part of learning, describes the system of
+Hipparchus, and never mentions its author, which he has occasion to do often, without
+some note of that high admiration which he had so justly conceived for his merit. Such
+32
+in those professed instructors of mankind, with regard to so
+profound ignorance
+important a part of the learning of their own times, is so very remarkable, that I
+thought it deserved to be taken notice of, even in this short account of the revolutions
+of philosophy.
+33
+A machine is a little system, created
+Systems in many respects resemble machines.
+to perform, as well as to connect together, in reality, those different movements and
+effects which the artist has occasion for. A system is an imaginary machine invented to
+connect together in the fancy those different movements and effects which are already
+in reality performed. The machines that are first invented to perform any particular
+movement are always the most complex, and succeeding artists generally discover that,
+with fewer wheels, with fewer principles of motion, than had originally been employed,
+34
+The first systems, in the same
+the same effects may be more easily produced.
+manner, are always the most complex, and a particular connecting chain, or principle, is
+generally thought necessary to unite every two seemingly disjointed appearances: but it
+often happens, that one great connecting principle is afterwards found to be sufficient to
+bind together all the discordant phaenomena that occur in a whole species of things.
+How many wheels are necessary to carry on the movements of this imaginary machine,
+the system of Eccentric Spheres! The westward diurnal revolution of the Firmament,
+whose rapidity carries all the other heavenly bodies along with it, requires one. The
+periodical eastward revolutions of the Sun, Moon, and Five Planets, require, for each of
+those bodies, another. Their differently accelerated and retarded motions require, that
+those wheels, or circles, should neither be concentric with the Firmament, nor with one
+another; which, more than any thing, seems to disturb the harmony of the universe.
+The retrograde and stationary appearance of the Five Planets, as well as the extreme
+inconstancy of the Moon’s motion, require, for each of them, an Epicycle, another little
+wheel attached to the circumference of the great wheel, which still more interrupts the
+uniformity of the system. The motion of the apogeum of each of those bodies requires,
+in each of them, still another wheel, to carry the centres of their Eccentric Spheres
+round the centre of the Earth. And thus, this imaginary machine, though, perhaps, more
+simple, and certainly better adapted to the phaenomena than the Fifty–six Planetary
+Spheres of Aristotle, was still too intricate and complex for the imagination to rest in it
+with complete tranquillity and satisfaction. -->
 
-The adversaries of this hypothesis took pains to calculate the extreme rapidity of this motion. 
-
-The Earth's circumference was 23,000 miles. If the Earth revolved everyday around its axis, every point of it near the equator would pass over above 23,000 miles in a day or 1,000 miles per hour or 16 miles per minute. This would be faster than a cannonball or sound. 
-
-<!-- The rapidity of its periodical revolution was yet more violent than that of its diurnal rotation. How, therefore, could the imagination ever conceive so ponderous a body to be naturally endowed with so dreadful a movement?  -->
-
-Aristotle's Philosophy fought this as a Natural and Violent motion.  
-
-<!-- The Peripatetic , the only philosophy then known in still further confirmed this prejudice. That philosophy, by a very natural,
-the world, though, perhaps, groundless distinction, divided all motion into . -->
-
-Natural motion was that which flowed from an innate tendency in the body, as when a stone fell downwards. Violent motion, that which arose from external force, and which was, in some measure, contrary to the natural tendency of the body, as when a stone was thrown upwards, or horizontally. 
-
-No violent motion could be lasting. For, being constantly weakened by the natural tendency of the body, it would soon be destroyed. 
-
-The natural motion of the Earth was downwards, in a straight line to the center as that of fire and air was upwards.<!-- , in a strait line from the center.  -->
-
-It was the heavens only that revolved naturally in a circle. Neither, therefore, the supposed revolution of the Earth round its own center, nor that round the Sun, could be natural motions. They must therefore be violent, and consequently could be of that gravity was, no long continuance. 
-
-Copernicus replied that the heavens might have circular motion. But planets also had such a motion, but more rapid. <!--  probably nothing else besides a tendency in the different parts of the same Planet, to unite themselves to one another; that this tendency took place, probably, in the parts of the other Planets, as well as in those of the Earth -->
-
-<!--  that it could very well be united with a circular motion
-
-  that it might be equally natural to the whole body of the Planet, and to every part of it
-
-  that his adversaries themselves allowed, that a circular motion was natural to the heavens, whose diurnal revolution was infinitely more rapid than even that motion which he had bestowed upon the Earth -->
-
-<!-- that though a like motion was natural to the Earth, it would still appear to be at rest to its inhabitants, and all the parts of it to tend in a strait line to the center, in the same manner as at present.  -->
-
-Neither Copernicus knew of modern mechanical principles. 
-
-<!-- But this answer, how satisfactory soever it may appear to be now, neither did nor could appear to be satisfactory then. By admitting the distinction betwixt natural and violent motions, it was founded upon the same ignorance of mechanical principles with the objection.  -->
-
-The systems of Aristotle and Hipparchus supposed that the diurnal motion of the heavenly bodies to be infinitely more rapid than even that dreadful movement which Copernicus bestowed upon the Earth. 
-
-But they supposed, at the same time, that those bodies were objects of a quite different species, from any we are acquainted with, near the surface of the Earth, and to which, therefore, it was less difficult to conceive that any sort of motion might be natural. 
-
-Those objects, besides, had never presented themselves to the senses, as moving otherwise, or with less rapidity, than these systems represented them. The imagination, therefore, could feel no difficulty in following a representation which the senses had rendered quite familiar to it. 
-
-But when the Planets came to be regarded as so many Earths, the case was quite altered. 
-
-<!-- The imagination had been accustomed to conceive such objects as tending rather to rest than motion; and this idea of their natural inertness, encumbered, if one may say so, and clogged its flight, whenever it endeavoured to pursue them in their periodical courses, and to conceive them as continually rushing through the celestial spaces, with such violent and unremitting rapidity. -->
-
-<!-- Nor were the first followers of Copernicus more fortunate in their answers to some other objections, which were founded indeed in the same ignorance of the laws of motion, but which, at the same time, were necessarily connected with that way of conceiving things, which then prevailed universally in the learned world. -->
-
-If the Earth revolved so rapidly from west to east, then:
-- a perpetual wind would set in from east to west, more violent than what blows in the greatest hurricanes. 
-- a stone thrown westwards would fly to a much greater distance than one thrown with the same force eastwards; 
-
-as what moved in a direction, contrary to the motion of the Earth, would necessarily pass over a greater portion of its surface, than what, with the same velocity, moved along with it. 
-
-A ball dropped from the mast of a moving ship does not fall precisely at the foot of the mast, but behind it. In the same
-manner, a stone dropt from a high tower would not, upon the supposition of the Earth’s motion, fall precisely at the bottom of the tower, but west of it, the Earth being, in the mean time, carried away eastward from below it. 
-
-
-## The Separation of Bodies
-
-The followers of Copernicus tried to elude this objection, which, before the doctrine of the Composition of Motion had been explained was altogether unanswerable. 
-
-They allowed, that a ball dropped from the by Galileo, mast of a ship under sail would not fall at the foot of the mast, but behind it; because the ball, they said, was no part of the ship, and because the motion of the ship was natural neither to itself nor to the ball. 
-
-But the stone was a part of the earth, and the diurnal and annual revolutions of the Earth were natural to the whole, and to every part of it, and therefore to the stone. 
-
-The stone, therefore, having naturally the same motion with the Earth, fell precisely at the bottom of the tower. 
-
-<!-- But this answer could not satisfy the imagination, which still found it difficult to conceive how these motions could be natural to the Earth; or how a body, which had always presented itself to the senses as inert, ponderous, and averse to motion, should naturally be continually wheeling about both its own axis and the Sun, with such violent rapidity.  -->
-
-Tycho Brache followed Copernicus' philosophy answered that any such motion was natural to the whole Earth, yet the stone, which was separated from it could no longer be actuated by that motion. 
-
-The limb, which is cut off from an animal, loses those animal motions which were natural to the whole. The branch, which is cut off from the trunk, loses that vegetative motion which is natural to the whole tree. 
-
-Even the metals, minerals, and stones, which are dug out from the bosom of the Earth, lose those motions which occasioned their production and encrease, and which were natural to them in their original state. Though the diurnal and annual motion of the Earth, therefore, had been natural to them while they were contained in its bosom; it could no longer be so when they were separated from it.
-
-
+It maintained its authority, however, without any diminution of reputation, as long as
+science was at all regarded in the ancient world. After the reign of Antoninus, and,
+indeed, after the age of Hipparchus, who lived almost three hundred years before
+Antoninus, the great reputation which the earlier philosophers had acquired, so imposed
+upon the imaginations of mankind, that they seem to have despaired of ever equalling
+their renown. All human wisdom, they supposed, was comprehended in the writings of
+those elder sages. To abridge, to explain, and to comment upon them, and thus show
+themselves, at least, capable of understanding some of their sublime mysteries, became
+now the only probable road to reputation. Proclus and Theon wrote commentaries upon
+35
+but, to have attempted to invent a new one, would then have
+the System of Ptolemy;
+been regarded, not only as presumption, but as impiety to the memory of their so much
+revered predecessors.
 
