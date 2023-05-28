@@ -4,25 +4,33 @@ title: "What gives objects their Weight?"
 weight: 24
 image: "/covers/world.jpg"
 description: "The whole mass of the Earth is caused by the presence of the moon, and also about some particular things that depend on that motion"
+author: Rene Descartes
 icon: "/icons/descartes.png"
 ---
 
 
 
-What is the weight of this Aethereal Earth? 
+What is the weight of this physical Earth? 
 
-There is a force that unites all its parts and that makes them all tend toward its center, according to its:
+The weight of the Earth is caused by the force that unites all its parts and makes them all tend toward its center, according to their:
 - size and
 - solidity.
 
-The parts of the <!-- small heaven --> aether surrounding it turns much faster than its parts about its center. This causes them to move away with more force from its center. Consequently, they push the parts of the Aethereal Earth back toward its center.
+This force is made up of the parts of the small heaven [air-aether] surrounding it. This external air-aether rotates faster than the air-aether inside the Earth.  
 
-The most massive and solid bodies, such as comets, tend to move outward towards the circumferences of the system. 
+The parts of the <!-- small heaven --> aether surrounding the earth-aether turns much faster than its parts around its center. This causes them to move away from its center with more force. 
+
+As a consequence of this outward movement, the faster external air-aether pushes the earth-aether back toward its center [to fill the air-aether that goes away from the center].
+
+
+
+<!-- The most massive and solid bodies, such as comets, tend to move outward towards the circumferences of the system.
 
 Only the less massive and less solid ones are pushed back toward their centers. 
 
 Only the less solid parts of the earth could be pushed back toward its center.
 - The others move away from it. 
+
 
 The most solid and most massive bodies tended to move away from the center of any heaven, I supposed that they were already previously moving with the same agitation as the matter of that heaven. 
 
@@ -31,6 +39,7 @@ If they have not yet begun to move, or if they are moving less fast than is requ
 **The larger and more solid will be pushed with more force and speed.** 
 
 Nevertheless, if they are solid and massive enough to compose comets, this does not hinder them from tending to move shortly thereafter toward the exterior circumferences of the heavens, in as much as the agitation they have acquired in descending toward any one of the heavens' centers will most certainly give them the force to pass beyond and to ascend again toward its circumference.
+ -->
 
 ![The World](/graphics/physics/worldfggf.jpg)
 

@@ -5,6 +5,7 @@ weight: 12
 author: "Rene Descartes"
 image: "/covers/world.jpg"
 description: "All bodies, both hard and liquid, are made from the same matter"
+author: Rene Descartes
 icon: "/icons/descartes.png"
 ---
 

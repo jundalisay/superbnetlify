@@ -4,6 +4,7 @@ title: "The Creation of the Universe"
 weight: 18
 image: "/covers/world.jpg"
 description: "God put inequality and confusion among the parts of matter at the beginning"
+author: Rene Descartes
 icon: "/icons/descartes.png"
 ---
 

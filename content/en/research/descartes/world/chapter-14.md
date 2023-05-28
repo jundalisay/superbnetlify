@@ -4,6 +4,7 @@ title: "The Properties of Light"
 weight: 30
 image: "/covers/world.jpg"
 description: "Light moves in all directions around luminous bodies is due to the circular motion of their parts"
+author: Rene Descartes
 icon: "/icons/descartes.png"
 ---
 

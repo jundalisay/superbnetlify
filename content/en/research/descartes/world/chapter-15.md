@@ -5,8 +5,8 @@ title: The Aether and Gravitational Lensing
 # title: "The Face of the Heaven of that New World Must Appear to Its Inhabitants Completely Like That of Our World"
 weight: 32
 image: /graphics/physics/aetherspace.jpg
-# image: "/covers/world.jpg"
 description: "Solar systems can be rather unequal in size. But they must always be exactly of the same force."
+author: Rene Descartes
 icon: "/icons/descartes.png"
 ---
 

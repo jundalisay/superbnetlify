@@ -4,13 +4,25 @@ weight: 50
 author: "Rene Descartes"
 image: "/covers/world.jpg"
 description: "There is a difference between our sensation of light and what is in the objects that produces that sensation"
+author: Translator
 icon: "/icons/descartes.png"
 ---
 
 
 [1] sentiment. 
 
-It is difficult to render this word into English with full precision. Descartes' own parenthetical explication -- "idea that is formed in our imagination through the intermediary of our eyes" --is of limited help, since at the time of writing The World he had not yet worked out the details of his metaphysics or theory of mind. But it does place sentiments in the mind and makes them more than merely the sensory data connoted by "sensations". Moreover, in Man the brain has sentiments not only of heat and of the color red (note the judgment involved), but also of pain, tickling, and taste. Hence, the term covers both sensations caused by external objects and feelings originating within the body; in an example soon to follow a soldier who mistakenly thinks himself wounded in battle "senses" [sent] both pain and a strap. The mind's involvement in a sentiment tempts one to translate it by "perception", especially since the French cognate does not appear either in The World or in Man. However, it does occur in the Principles of Philosophy and in the Passions of the Soul. The latter includes sentiment among several different sorts of perception. Perception in a general sense is any thought that does not result from the action or will of the soul, and in a restricted sense is "evident knowledge"; sentiment is "what is received in the soul in the same way as objects of the external senses and is not otherwise known by the soul" (Passions, I, 28; AT.XI.349). Perceptions may arise in the imagination, in which case their objects do not really exist. Sentiments arise in the body by the intermediary of the nervous system and, whether really or only apparently, involve the body's external senses. Since here in The World it is the external senses and their relation to the external world that Descartes is discussing, "sensation" seems the best English equivalent.
+It is difficult to translate this word into English. 
+
+Descartes explains -- "idea that is formed in our imagination through the intermediary of our eyes". But this is of limited help, since at the time of writing The World he had not yet worked out the details of his metaphysics or theory of mind. 
+
+But it does place sentiments in the mind and makes them more than merely the sensory data connoted by "sensations". 
+
+Moreover, in Man the brain has sentiments not only of heat and of the color red (note the judgment involved), but also of pain, tickling, and taste. Hence, the term covers both sensations caused by external objects and feelings originating within the body; in an example soon to follow a soldier who mistakenly thinks himself wounded in battle "senses" [sent] both pain and a strap. 
+
+The mind's involvement in a sentiment tempts one to translate it by "perception", especially since the French cognate does not appear either in The World or in Man. However, it does occur in the Principles of Philosophy and in the Passions of the Soul. The latter includes sentiment among several different sorts of perception. Perception in a general sense is any thought that does not result from the action or will of the soul, and in a restricted sense is "evident knowledge"; sentiment is "what is received in the soul in the same way as objects of the external senses and is not otherwise known by the soul" (Passions, I, 28; AT. XI.349). 
+
+Perceptions may arise in the imagination, in which case their objects do not really exist. Sentiments arise in the body by the intermediary of the nervous system and, whether really or only apparently, involve the body's external senses. Since here in The World it is the external senses and their relation to the external world that Descartes is discussing, "sensation" seems the best English equivalent.
+
 
 [2] Like all university-educated people of his day, Descartes was as fluent in Latin as he was in his native tongue. Not having to translate Latin discourse to understand it, he might well have been unable later to recall in what language he had heard or read something.
 

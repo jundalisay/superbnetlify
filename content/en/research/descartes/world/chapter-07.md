@@ -4,6 +4,7 @@ title: "The Three Rules of Nature of the Aethereal Universe"
 weight: 16
 image: "/covers/world.jpg"
 description: "How could Nature untangle the confusion of the chaos after creation? What are the laws of nature that God has imposed on her?"
+author: Rene Descartes
 icon: "/icons/descartes.png"
 ---
 

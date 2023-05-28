@@ -4,6 +4,7 @@ title: "The Birth of Aethereal Fire"
 weight: 19
 image: "/covers/world.jpg"
 description: "The matter that came out from around the parts of the aethereal air were broken and had the small points of their angles dulled from rounding off. These necessarily had to go faster than the aethereal air"
+author: Rene Descartes
 icon: "/icons/descartes.png"
 ---
 

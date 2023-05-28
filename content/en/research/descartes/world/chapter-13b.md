@@ -4,6 +4,7 @@ title: "The Aethereal Air"
 weight: 29
 image: "/covers/world.jpg"
 description: "This stone is similar to the aetheral air that compose the heavens"
+author: Rene Descartes
 icon: "/icons/descartes.png"
 ---
 

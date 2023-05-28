@@ -5,6 +5,7 @@ weight: 4
 author: "Rene Descartes"
 image: "/covers/world.jpg"
 description: "There is a difference between our sensation of light and what is in the objects that produces that sensation"
+author: Rene Descartes
 icon: "/icons/descartes.png"
 ---
 

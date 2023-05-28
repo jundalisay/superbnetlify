@@ -5,6 +5,7 @@ weight: 14
 author: "Rene Descartes"
 image: "/covers/world.jpg"
 description: "The Aethereal Universe is made up the aether divided into infinite parts with all sorts of motion imaginable"
+author: Rene Descartes
 icon: "/icons/descartes.png"
 ---
 
