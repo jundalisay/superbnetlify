@@ -1,9 +1,10 @@
 ---
 title: "Isaac Netwon's System of Astronomy"
+heading: Part 10
 description: "Isaac Newton had the superior genius and sagacity to discover that he could join the movements of the Planets by a familiar principle of connection"
 image: /covers/astronomy.jpg
 # date: 2022-09-22
-weight: 12
+weight: 22
 aliases:
   /research/smith/astronomy/newton
 ---
@@ -81,8 +82,8 @@ This explained the irregularities with Jupiter and Saturn, whenever they are nea
 
 But the Moon's irregularities had perplexed Astronomers the most. It was solved by Newton's system. <!--  corresponded, if possible, yet more accurately with them than with any of the other Planets. -->
 
-The Moon= 
-- appears furthest from the Earth when the Moon is nearest to the Sun. At this point, the Moon is more attracted to the sun and more separated from the Earth
+The Moon:
+- appears farthest from the Earth when the Moon is nearest to the Sun. At this point, the Moon is more attracted to the sun and more separated from the Earth
 - appears nearest to the Earth when the Moon is in her quarters. At these points, both the Earth and the Moon are at equal distance from the Sun. The Earth and Moon are not attracted to the sun in parallel lines, but in lines which meet in his center. 
 
 <!-- On the contrary, when in opposition to the Sun, she is further from the Sun than the Earth.  -->

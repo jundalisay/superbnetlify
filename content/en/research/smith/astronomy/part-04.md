@@ -1,9 +1,9 @@
 ---
 title: "The System of Copernicus"
-heading: Part 2
+heading: Part 4
 description: "The ruin of Roman Empire produced the entire neglect of the study of Nature"
 image: /covers/astronomy.jpg
-weight: 14
+weight: 10
 # date: 2022-09-20
 ---
 

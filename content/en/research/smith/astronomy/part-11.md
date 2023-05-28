@@ -1,8 +1,9 @@
 ---
 title: "Gravity and Mass"
+heading: Part 11
 description: "Newton and the Shape of the Planets as Oblate Spheroids"
 image: /covers/astronomy.jpg
-weight: 14
+weight: 24
 # date: 2022-09-20
 aliases:
   /research/smith/astronomy/newton2

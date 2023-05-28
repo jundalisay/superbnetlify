@@ -1,9 +1,10 @@
 ---
 title: "Descartes' System of Astronomy"
+heading: Part 9
 description: "Descartes was the first who tried to ascertain precisely this invisible chain that Kepler said to link the planets to the sun."
 image: /covers/astronomy.jpg
 # date: 2022-09-24
-weight: 10
+weight: 20
 aliases:
   /research/smith/astronomy/descartes
 ---
@@ -80,29 +81,49 @@ Descartes is among the first of the moderns who took away the boundaries of the 
 
 The center of each vortex was thus occupied by the most active and moveable parts of the aether. There was necessarily among them, a more violent agitation at the center than in any other part of the vortex which then supported the movement of the whole.
 
-## The Third Element
 
-But, among the particles of the first element, which fill up the interstices of the second, there are many, which, from the pressure of the globules on all sides of them, necessarily receive an angular form, and thus constitute a third element of particles less fit for motion than those of the other two. 
+## The Third Element: Matter
 
-The particles of this third element were formed in the interstices of the second. They thus are necessarily smaller than those of the second and are urged down towards the center, along with those of the first. 
+But, among the particles of the first element, which fill up the interstices of the second, there are many which get an angular form from the pressure of the globules on all sides of them.
 
-In the center, when a number of them happen to take hold of one another, they form such spots upon the surface of the accumulated particles of the first element, as are often discovered by telescopes upon the face of that Sun, which enlightens and animates our particular system. 
+These create a third element of particles less fit for motion than those of the other two. 
+- Its particles were formed in the interstices of the second.
+- They thus are necessarily smaller than those of the second and are urged down towards the center, along with those of the first.
 
-Those spots are often broken and dispelled, by the violent agitation of the particles of the first element, as has hitherto happily been the case with those which have successively been formed upon the face of our Sun. 
+In the center, when a number of them happen to take hold of one another, they form such spots on the surface of the accumulated particles of the first element.
+- These are often discovered by telescopes on the face of the Sun
+<!-- - The sun enlightens and animates our particular system.  -->
+- Those spots are often broken and dispelled, by the violent agitation of the particles of the first element.
+<!-- , as has hitherto happily been the case with those which have successively been formed upon the face of our Sun.  -->
 
 Sometimes, however, they encrust the whole surface of that fire which is accumulated in the center. 
 
-The communication between the most active and the most inert parts of the vortex being thus interrupted, the rapidity of its motion immediately begins to languish, and can no longer defend it from being swallowed up and carried away by the superior violence of some other like circular stream; and in this manner, what was once a Sun, becomes a Planet. 
+The communication between the most active and the most inert parts of the vortex is thus interrupted.
 
-Thus, the time was when the Moon was a body of the same kind with the Sun, the fiery center of a circular stream of ether, which flowed continually round her; but her face having been crusted over by a congeries of angular particles, the motion of this circular stream began to languish, and could no longer defend itself from being absorbed by the more violent vortex of the Earth, which was then, too, a Sun, and which chanced to be placed in its neighbourhood. The Moon, therefore, became a Planet, and revolved round the Earth. 
+The rapidity of its motion immediately begins to languish, and can no longer defend it from being swallowed up and carried away by the superior violence of some other like circular stream. 
+- In this way, what was once a Sun becomes a Planet. 
 
-In the process of time, the fate of the moon also befell on the Earth. Its face was encrusted by a gross and inactive substance. 
+The sun was the fiery center of a circular stream of aether flowing continually round her.
+
+Thus, the time was when the Moon was a body of the same kind with the Sun.
+
+The moon's face was crusted over by a congeries of angular particles.
+- The motion of this circular stream began to languish and could no longer defend itself from being absorbed by the more violent vortex of the Earth
+- The Earth vortex was also a Sun. 
+- The moon was chanced to be placed in the Earth's neighbourhood. 
+
+The Moon, therefore, became a Planet, and revolved around the Earth. 
+
+In the process of time, the fate of the moon also befell on the Earth. Its face was encrusted by a gross and inactive substance.
 
 The motion of its vortex began to languish, and it was absorbed by the greater vortex of the Sun.
 
 But though the vortex of the Earth had thus become languid, it still had force enough to occasion both the diurnal revolution of the Earth, and the monthly motion of the Moon. 
 
-For a small circular stream may easily be conceived as flowing round the body of the Earth, at the same time that it is carried along by that great ocean of ether which is continually revolving round the Sun; in the same manner, as in a great whirlpool of water, one may often see several small whirlpools, which revolve round centers of their own, and at the same time are carried round the center of the great one. 
+A small circular stream may easily be conceived as flowing around the body of the Earth, at the same time that it is carried along by that great ocean of ether which is continually revolving round the Sun.
+
+In the same way, as in a great whirlpool of water, one may often see several small whirlpools, which revolve round centers of their own, and at the same time are carried round the center of the great one.
+
 
 Such was the cause of the original formation and consequent motions of the Planetary System. 
 

@@ -3,7 +3,7 @@ title: "The System of Flat Earth and that of Eccentric Spheres"
 heading: Part 2
 description: "Before this system was taught in the world, the earth was regarded as a vast and irregular plain, surrounded on allsides by the ocean"
 image: /covers/astronomy.jpg
-weight: 14
+weight: 6
 # date: 2022-09-20
 ---
 

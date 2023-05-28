@@ -1,9 +1,9 @@
 ---
-title: "The System of Flat Earth and that of Eccentric Spheres"
-heading: Part 2
+title: "The Stoical System"
+heading: Part 3
 description: "Before this system was taught in the world, the earth was regarded as a vast and irregular plain, surrounded on allsides by the ocean"
 image: /covers/astronomy.jpg
-weight: 14
+weight: 8
 # date: 2022-09-20
 ---
 
@@ -38,12 +38,7 @@ It was by this internal principle, that the Fixed Stars revolved directly from e
 It was, by a principle of the same kind, that the Sun moved westwards, for they allowed of no eastward motion in the heavens, but with less velocity than the Fixed Stars, so as to finish his diurnal period in 24 hours, and, consequently, to fall every day behind them, by a space of the heavens nearly
 equal to that which he passes over in four minutes; that is, nearly equal to a degree.
 
-This revolution of the Sun, too, was neither directly westwards, nor exactly circular; but
-after the Summer Solstice, his motion began gradually to incline a little southwards,
-appearing in his meridian to–day, further south than yesterday; and to–morrow still
-further south than to–day; and thus continuing every day to describe a spiral line round
-the Earth, which carried him gradually further and further southwards, till he arrived at
-the Winter Solstice. 
+This revolution of the Sun, too, was neither directly westwards, nor exactly circular; but after the Summer Solstice, his motion began gradually to incline a little southwards, appearing in his meridian to–day, further south than yesterday; and to–morrow still further south than to–day; and thus continuing every day to describe a spiral line round the Earth, which carried him gradually further and further southwards, till he arrived at the Winter Solstice. 
 
 Here, this spiral line began to change its direction, and to bring him gradually, every day, further and further northwards, till it again restored him to the Summer Solstice. In the same manner they accounted for the motion of the Moon, and that of the Five Planets, by supposing that each of them revolved westwards, but with directions, and velocities, that were both different from one another, and continually varying; generally, however, in spherical lines, somewhat inclined to the Equator.
 
@@ -55,26 +50,17 @@ Each of them bestow some sort of coherence upon those apparently
 disjointed phaenomena. But this other system seems to leave them pretty much as it
 found them. 
 
-Ask a Stoic, why all the Fixed Stars perform their daily revolutions in circles
-parallel to each other, though of very different diameters, and with velocities so
-proportioned, that they all finish their period at the same time, and through the whole course of it preserve the same distance and situation with regard to one another? 
+Ask a Stoic: Why do all the Stars revolve daily in circles of different diameters parallel to each other and with speeds so proportioned, that they all finish their period at the same time, and preserve the same distance and location with regard to one another? 
 
-He can give no other answer, but that the peculiar nature, or if one may say so, the caprice of each Star
-directs it to move in that peculiar manner. His system affords him no
-principle of connection, by which he can join together, in his imagination, so great a
-number of harmonious revolutions. But either of the other two systems, by the
-supposition of the solid firmament, affords this easily. He is equally at a loss to connect
-together the peculiarities that are observed in the motions of the other heavenly bodies;
-the spiral motion of them all; their alternate progression from north to south, and from
-south to north; the sometimes accelerated, and again retarded motions of the Sun and
-Moon; the direct retrograde and stationary appearances of the Planets. All these have,
-in his system, no bond of union, but remain as loose and incoherent in the fancy, as
-they at first appeared to the senses, before philosophy had attempted, by giving them a
-new arrangement, by placing them at different distances, by assigning to each some
-peculiar but regular principle of motion, to methodize and dispose them into an order
-that should enable the imagination to pass as smoothly, and with as little
-embarrassment, along them, as along the most regular, familiar, and coherent
-appearances of nature.
+He can only answer that the peculiar nature or caprice of each Star directs it to move in that peculiar manner. 
+
+His system affords him no principle of connection, by which he can join together, in his imagination, so great a number of harmonious revolutions. 
+
+But either of the other two systems, by the supposition of the solid firmament, affords this easily. He is equally at a loss to connect together the peculiarities that are observed in the motions of the other heavenly bodies; 
+
+the spiral motion of them all; their alternate progression from north to south, and from south to north; the sometimes accelerated, and again retarded motions of the Sun and Moon; the direct retrograde and stationary appearances of the Planets. 
+
+All these have, in his system, no bond of union, but remain as loose and incoherent in the fancy, as they at first appeared to the senses, before philosophy had attempted, by giving them a new arrangement, by placing them at different distances, by assigning to each some peculiar but regular principle of motion, to methodize and dispose them into an order that should enable the imagination to pass as smoothly, and with as little embarrassment, along them, as along the most regular, familiar, and coherent appearances of nature.
 
 <!-- Such were the systems of Astronomy that, in the ancient world, appear to have been
 adopted by any considerable party. Of all of them, the system of Eccentric Spheres was
@@ -168,18 +154,8 @@ simple, and certainly better adapted to the phaenomena than the Fifty–six Plan
 Spheres of Aristotle, was still too intricate and complex for the imagination to rest in it
 with complete tranquillity and satisfaction. -->
 
-It maintained its authority, however, without any diminution of reputation, as long as
-science was at all regarded in the ancient world. After the reign of Antoninus, and,
-indeed, after the age of Hipparchus, who lived almost three hundred years before
-Antoninus, the great reputation which the earlier philosophers had acquired, so imposed
-upon the imaginations of mankind, that they seem to have despaired of ever equalling
-their renown. All human wisdom, they supposed, was comprehended in the writings of
-those elder sages. To abridge, to explain, and to comment upon them, and thus show
-themselves, at least, capable of understanding some of their sublime mysteries, became
-now the only probable road to reputation. Proclus and Theon wrote commentaries upon
-35
-but, to have attempted to invent a new one, would then have
-the System of Ptolemy;
-been regarded, not only as presumption, but as impiety to the memory of their so much
-revered predecessors.
+It maintained its authority, however, without any diminution of reputation, as long as science was at all regarded in the ancient world. 
 
+After the reign of Antoninus, and, indeed, after the age of Hipparchus, who lived almost three hundred years before Antoninus, the great reputation which the earlier philosophers had acquired, so imposed upon the imaginations of mankind, that they seem to have despaired of ever equalling their renown. All human wisdom, they supposed, was comprehended in the writings of those elder sages. 
+
+To abridge, to explain, and to comment upon them, and thus show themselves, at least, capable of understanding some of their sublime mysteries, became now the only probable road to reputation. Proclus and Theon wrote commentaries upon but, to have attempted to invent a new one, would then have the System of Ptolemy; been regarded, not only as presumption, but as impiety to the memory of their so much revered predecessors.
