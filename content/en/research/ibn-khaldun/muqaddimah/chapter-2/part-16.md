@@ -3,7 +3,7 @@ title: "Group Feeling and Royal Authority"
 description: "The goal of group feeling is royal authority. This is because group feeling gives protection and mutual defense and allows the pressing of claims and other kinds of social activity"
 image: "/covers/muq.jpg"
 icon: "/icons/ibn.jpg"
-heading: "Part 12"
+heading: "Part 16"
 weight: 22
 ---
 

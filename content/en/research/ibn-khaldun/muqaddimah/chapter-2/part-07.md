@@ -3,7 +3,7 @@ title: "Only tribes held together by group feeling can live in the desert"
 description: "The reliance of sedentary people on laws destroys their fortitude and power of resistance"
 image: "/covers/muq.jpg"
 icon: "/icons/ibn.jpg"
-heading: "Part 6"
+heading: "Part 7"
 weight: 12
 author: Ibn Khaldun
 ---
@@ -16,7 +16,7 @@ God put good and evil into the nature of man.
 Thus, He said in the Qur'an: 
 
 {{< q a="Allah" >}}
-We led man along the 2 paths.. and inspired (the soul) with its wickedness as well as its fear of God." 37 
+We led man along the 2 paths.. and inspired (the soul) with its wickedness as well as its fear of God.
 {{< /q >}}
 
 
@@ -30,7 +30,10 @@ Evil <!-- 38 --> qualities in man are injustice and mutual aggression.
 
 He who casts his eye upon the property of his brother will lay his hand upon it to take it, unless there is a restraining influence to hold him back. The poet thus said:
 
-"Injustice is a human characteristic."
+{{< q a="Poet" >}}
+Injustice is a human characteristic.
+{{< /q >}}
+
 
 If you find a moral man, 39 there is some reason why he is not unjust. Mutual aggression of people in towns and cities is averted by the authorities and the government, which hold back the masses under their control from attacks and aggression upon each other. 
 

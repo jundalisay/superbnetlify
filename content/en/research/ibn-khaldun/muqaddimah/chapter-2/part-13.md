@@ -4,7 +4,7 @@ description: "Prestige is an accident that affects human beings. It comes into b
 decays inevitably. No human being exists who possesses an unbroken pedigree of nobility from Adam down to himself"
 image: "/covers/muq.jpg"
 icon: "/icons/ibn.jpg"
-heading: "Part 13"
+heading: "Part 13-15"
 weight: 20
 ---
 

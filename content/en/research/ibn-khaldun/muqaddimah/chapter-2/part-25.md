@@ -3,7 +3,8 @@ title: "The Arabs"
 description: "Places that succumb to the Arabs are quickly ruined"
 image: "/covers/muq.jpg"
 icon: "/icons/ibn.jpg"
-heading: "Part 25"
+heading: "Part 25-26
+"
 weight: 34
 ---
 

@@ -3,7 +3,8 @@ title: "Meekness and docility to outsiders are obstacles to royal authority"
 description: "Meekness and docility to outsiders that may be found in a tribe are obstacles to royal authority"
 image: "/covers/muq.jpg"
 icon: "/icons/ibn.jpg"
-heading: "Part 12"
+heading: "Part 18
+"
 weight: 24
 ---
 

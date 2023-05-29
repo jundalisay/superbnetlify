@@ -3,7 +3,7 @@ title: "The vanquished always want to imitate the victor"
 description: "The soul then adopts the victor's manners and assimilates itself to him. It imitates him"
 image: "/covers/muq.jpg"
 icon: "/icons/ibn.jpg"
-heading: "Part 22"
+heading: "Part 22-24"
 weight: 32
 ---
 

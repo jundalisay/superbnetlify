@@ -3,10 +3,9 @@ title: "Religious propaganda adds to group feeling"
 description: "Religious propaganda gives a dynasty at its beginning more power in addition to the group feeling that it had from its supporters"
 image: "/covers/muq.jpg"
 icon: "/icons/ibn.jpg"
-heading: "Part 5"
+heading: "Parts 5-6"
 weight: 14
 ---
-
 
 
 <!-- ## 5. Religious propaganda gives a dynasty at its beginning more power  -->

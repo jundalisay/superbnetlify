@@ -1,3 +1,19 @@
+It debunks the big bang because the findings did not match the prediction. 
+
+Big Bang clearly predicts a linear sequence of bang then hot gas then small galaxy then large galaxy. 
+
+If it is bang then large galaxy then the Big Bang is not in force.
+
+The Big Bang is a result of Newtonian Physics. 
+
+Before Newtonian Physics, there was Descartes Physics which did not believe in a Big Bang. 
+
+Instead, the universe was created by aether then light then matter, as space, then large galaxy. This matches the findings of James Webb of bang then large galaxy.
+
+So they need to bring back Descartes' Physics and let it absorb Newtonian Physics. 
+
+
+
 I already gave documented evidence:
 
 Medicine: 

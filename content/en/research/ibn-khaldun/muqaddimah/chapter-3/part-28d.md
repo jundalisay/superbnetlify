@@ -20,18 +20,15 @@ The group feeling of the Mudar was in the Quraysh, that of the Quraysh in Abd-Ma
 
 The Quraysh and all the others conceded this fact and were not ignorant of it. At the beginning of Islam, it had been forgotten. 
 
-People were diverted by fearful wonders and by the Revelation, and by frequent visitations of angels in aid of the Muslims. 346 Thus, they had neglectedtheir customary affairs, and the group feeling and aspirations of pre-Islamic times
-had disappeared and were forgotten. 
+People were diverted by fearful wonders and by the Revelation, and by frequent visitations of angels in aid of the Muslims. 
 
-Only the natural group feeling, serving the purpose of military protection and defense, had remained and was used to advantage
-in the establishment of Islam and the fight against the polytheists. The religion
-became well established in (this situation). 
+Thus, they had neglectedtheir customary affairs, and the group feeling and aspirations of pre-Islamic times had disappeared and were forgotten. 
 
-The customary course of affairs was inoperative, until prophecy and the terrifying wonders stopped. Then, the customary
-course of affairs resumed to some degree. Group feeling reverted to its former status
-and came back to those to whom it had formerly belonged. In consequence of their
-previous state of obedience, the Mudar became more obedient to the Umayyads than
-to others.
+Only the natural group feeling, serving the purpose of military protection and defense, had remained and was used to advantage in the establishment of Islam and the fight against the polytheists. The religion became well established in (this situation). 
+
+The customary course of affairs was inoperative, until prophecy and the terrifying wonders stopped. Then, the customary course of affairs resumed to some degree. Group feeling reverted to its former status and came back to those to whom it had formerly belonged. 
+
+In consequence of their previous state of obedience, the Mudar became more obedient to the Umayyads than to others.
 
 Thus, al-Husayn's error has become clear. It was, however, an error with
 respect to a worldly matter, where an error does not do any harm. 347 From the
@@ -58,15 +55,13 @@ correctness of his position.
 
 He said:
 
-"Ask Jabir b. 'Abdallah, Abu Sa'id (al-Khudri), Anas b. Malik, Sahl b. Sa'd, Zayd b. Arqam, and others." 348 Thus, he did not
-disapprove of their not coming to his help. He did not interfere in this matter,
-because he knew that they were acting according to their own independent
-judgment. For his part, he also acted according to independent judgment.
+"Ask Jabir b. 'Abdallah, Abu Sa'id (al-Khudri), Anas b. Malik, Sahl b. Sa'd, Zayd b. Arqam, and others." 
 
-Likewise, one should not fall into the error of declaring that his murder was justified because (it also) was the result of independent judgment, even if (one grants that) he (on his part) exercised the (correct) 349 independent judgment. This,
-then, would be a situation comparable to that of Shafi'ites and Malikites applying
-their legal punishment for drinking date liquor (nabhdh) 350 to Hanafites. It should
-be known that the matter is not so. 
+Thus, he did not disapprove of their not coming to his help. He did not interfere in this matter, because he knew that they were acting according to their own independent judgment. For his part, he also acted according to independent judgment.
+
+Likewise, one should not fall into the error of declaring that his murder was justified because (it also) was the result of independent judgment, even if (one grants that) he (on his part) exercised the (correct) 349 independent judgment. 
+
+This, then, would be a situation comparable to that of Shafi'ites and Malikites applying their legal punishment for drinking date liquor (nabhdh) 350 to Hanafites. The matter is not so. 
 
 The independent judgment of those men did not involve fighting against al-Husayn, even if it involved opposition to his revolt.
 
@@ -85,18 +80,16 @@ Judge Abu Bakr b. al-'Arabi al-Maliki 353 erred when he made the following state
 he overlooked the condition of the "just ('adil) imam" which governs the fighting
 against sectarians.
 
+
 3. Ibn az-Zubayr felt about his revolt as al-Husayn had (about his). 
 
-He was under the same impression (as alHusayn regarding his qualifications). But his error
-with regard to his power was greater (than that of al-Husayn). The Bane Asad were
-no match for the Umayyads in either pre-Islamic or Islamic times. It does not apply
-in the case of Ibn Zubayr, as it does in the case of Mu'awiyah against 'Ali, that the
-error is expressly indicated to lie on his opponent's side. In (the case of Mu'awiyah
-against 'Ali), the general consensus has decided the question for us. 354 In (the case
-of Ibn az-Zubayr), we do not have (a general consensus). The fact that Yazid was in
-error was expressly indicated by the fact of Yazid's wickedness, but 'Abd-al-Malik,
-who had to deal with Ibn az-Zubayr, possessed greater probity than anybody else. It
-is sufficient proof of his probity that Malik used 'Abd-al-Malik's actions as
+He was under the same impression (as alHusayn regarding his qualifications). But his error with regard to his power was greater (than that of al-Husayn). The Bane Asad were no match for the Umayyads in either pre-Islamic or Islamic times. 
+
+It does not apply in the case of Ibn Zubayr, as it does in the case of Mu'awiyah against 'Ali, that the error is expressly indicated to lie on his opponent's side. In (the case of Mu'awiyah against 'Ali), the general consensus has decided the question for us. 
+
+In (the case of Ibn az-Zubayr), we do not have (a general consensus). The fact that Yazid was in error was expressly indicated by the fact of Yazid's wickedness, but 'Abd-al-Malik, who had to deal with Ibn az-Zubayr, possessed greater probity than anybody else. 
+
+It is sufficient proof of his probity that Malik used 'Abd-al-Malik's actions as
 proof,355 and that Ibn 'Abbas and Ibn 'Umar rendered the oath of allegiance to
 'Abd-al-Malik and left Ibn az-Zubayr with whom they had been together in the
 IHijaz. Furthermore, many of the men around Muhammad were of the opinion that
@@ -117,12 +110,10 @@ claim probity! The Prophet said= "The best men are those of my generation, then
 those who follow them,"repeating the latter sentence two or three times-"Then,
 falsehood will spread." 356 Thus, he considered goodness, that is, probity, a quality
 peculiar to the first period and to the one that followed it.
-One should beware of letting one's mind or tongue become used to criticizing
-any of (the ancient Muslims). One's heart should not be tempted by doubts
-concerning anything that happened in connection with them. One should be as
-truthful as possible in their behalf. They deserve it most. They never differed among
-themselves except for good reasons. They never killed or were killed except in a
-holy war, or in helping to make some truth victorious.
+
+One should beware of letting one's mind or tongue become used to criticizing any of (the ancient Muslims). One's heart should not be tempted by doubts concerning anything that happened in connection with them. 
+
+One should be as truthful as possible in their behalf. They deserve it most. They never differed among themselves except for good reasons. They never killed or were killed except in a holy war, or in helping to make some truth victorious.
 
 It should further be believed that their differences were a source of divine mercy for later Muslims, so that every (later Muslim) can take as his model the old Muslim of his choice and make him his imam, guide, and leader. If this is understood, God's wise plans with regard to His creation and creatures will become clear.
 
