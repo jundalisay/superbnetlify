@@ -25,6 +25,9 @@ The real inertness of matter was in a power:
 
 All of space was full of aether. This aether and space were the same. Consequently, there was no void. 
 
+![Drag](/graphics/physics/aetherdrag.jpg)
+
+
 This immense aether was divided into an infinite number of very small cubes which whirled around on their own centers to create two different elements:
 
 > 1. The angular parts
@@ -127,23 +130,29 @@ In the same way, as in a great whirlpool of water, one may often see several sma
 
 Such was the cause of the original formation and consequent motions of the Planetary System. 
 
-When a solid body is turned round its center, those parts of it, which are nearest, and those which are remotest from the center, complete their revolutions in one and the same time. But it is otherwise with the revolutions of a fluid=  the parts of it which are nearest the center complete their revolutions in a shorter time, than those which are remoter.
+When a solid body is turned round its center, those parts of it, which are nearest, and those which are remotest from the center, complete their revolutions in one and the same time. 
 
-The Planets, therefore, were all floating in that immense tide of ether which is continually setting in from west to east round the body of the Sun, complete their revolutions in a longer or a shorter time, according to their nearness or distance from it.
+But it is otherwise with the revolutions of a fluid. The parts of it which are nearest the center complete their revolutions in a shorter time, than those which are remoter.
 
-To Descartes, there was no exact proportion observed between the times of their revolutions and their distances from the center. 
+The Planets, therefore, were all floating in that immense tide of aether which is continually setting in from west to east around the body of the Sun, complete their revolutions in a longer or a shorter time, according to their nearness or distance from it.
+
+To Descartes, there was no exact proportion observed between the times of their revolutions and their distances from the center.
 
 For that nice analogy, which Kepler had discovered between them, having not yet been confirmed by the observations of Cassini, was, as I before took notice, entirely disregarded by Descartes. 
 
-According to him, their orbits might not be perfectly circular, but be longer the one way than the other, and thus approach to an Ellipse. 
+According to him, their orbits might not be perfectly circular. It could be longer the one way than the other, and thus approach to an Ellipse. 
 
-Nor yet was it necessary to suppose, that they described this figure with geometrical accuracy, or even that they described always precisely the same figure. It rarely happens, that nature can be mathematically exact with regard to the figure of the objects she produces, upon account of the infinite combinations of impulses, which must conspire to the production of each of her effects.
+He thought it was unnecessary to describe this shape with geometrical accuracy or even to describe always precisely the same shape. 
 
-No two Planets, no two animals of the same kind, have exactly the same figure, nor is that of any one of them perfectly regular. 
+This is because Nature can rarely be mathematically exact with the shape of the objects that she produces.
+- This is because of the infinite combinations of impulses which must conspire to the production of each of her effects.
 
-It was in vain, therefore, that astronomers laboured to find that perfect constancy and regularity in the motions of the heavenly bodies, which is to be found in no other parts of nature. 
+No two Planets, no two animals of the same kind, have exactly the same shape, nor is that of any one of them perfectly regular. 
 
-These motions, like all others, must either languish or be accelerated, according as the cause which produces them, the revolution of the vortex of the Sun, either languishes, or is accelerated.
+It was in vain for astronomers to find that perfect constancy and regularity in the motions of the heavenly bodies, which is to be found in no other parts of nature. 
+
+These motions, like all others, must either slow down or speed up according to the cause which produces them.
+- The revolution of the vortex of the Sun either slows down or speeds up.
 
 There are innumerable events which may occasion either the one or the other of those changes.
 
@@ -151,9 +160,11 @@ There are innumerable events which may occasion either the one or the other of t
 
 The greatest difficulty in the Copernican system was the rapid motion of the enormous bodies of the Planets. The Cartesian system tried to solve this. 
 
-When the fancy had thus been taught to conceive them as floating in an immense ocean of ether, it was quite agreeable to conceive that they should follow the stream of this ocean, how rapid soever.  
+Descartes taught that to conceive them as floating in an immense ocean of aether.
+- Everypne was familiar with the dynamics of water. 
+<!-- , it was quite agreeable to conceive that they should follow the stream of this ocean, how rapid soever.   -->
 
-This was an order of succession to which it had been long accustomed, and with which it was, therefore, quite familiar. 
+<!-- This was an order of succession to which it had been long accustomed, and with which it was, therefore, quite familiar.  -->
 
 The motions of the Heavens was connected with a vast immense system, which joined together a greater number of the most discordant phaenomena of nature, than had been united by any other hypothesis.
 

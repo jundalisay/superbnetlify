@@ -11,7 +11,7 @@ icon: "/icons/descartes.png"
 
 <!-- But I want to stop a while at this point to set out the properties of the action by which their eyes can be thus pushed. For they all agree so perfectly with those that we note in light that, when you have considered them, I am sure you will admit, like me, that there is no need to imagine in the stars or in the heavens any other quality but this action that is called by the name of "light." -->
 
-The principal properties of light are:
+Light pushes on our eyes. The principal properties of light are:
 
 1. It travels in all directions around "luminous" bodies
 

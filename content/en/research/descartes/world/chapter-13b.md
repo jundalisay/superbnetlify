@@ -1,6 +1,6 @@
 ---
 heading: "Chapter 13b"
-title: "Black Holes"
+title: "Solar Wind and Black Holes"
 weight: 29
 image: "/covers/world.jpg"
 description: "This stone is similar to the aetheral air that compose the heavens"
@@ -22,43 +22,56 @@ This stone is similar to the aetheral air that compose the heavens.
 
 The air-aether should be thought of as being the same as this stone.
 
-Those that are at `E` tend of their own inclination toward `P`.
+Those that are at `C` tend of their own inclination toward `G`.
+<!-- Those that are at `E` tend of their own inclination toward `P`. -->
 
-![AB curve](/graphics/physics/world13a.png)
+![Black Holes](/graphics/physics/world-13fff.jpg)
 
-But the resistance of the other parts of the air-aether above them cause them to move along the circle `ER`.
+But the resistance of the other parts of the air-aether above them cause them to move along the circle `EF`.
 
 This resistance in turn is opposed to the inclination that they have to continue moving in a straight line which would make them move towards `M`. 
 
-This is how they tend toward the places that are directly opposite the centre of their heaven.
+This is how they go towards the places that are directly opposite the centre of their heaven.
 
 
-
-![Spacetime](/graphics/physics/world13b.gif)
-
+## Solar Wind
 
 The stellar air-aether is continually pushed by 2 phenomena:
-- by their fellow air-aether between them and the star at the center of their heaven 
-- by the fire-aether of that star*.
 
-*Superhysics note: This is stellar gravity
+1. By their fellow air-aether between them and the star at the center of their heaven 
+2. By the fire-aether of that star*.
+
+> *Superhysics note: This is solar wind
 
 
-They are not pushed at all by the others [stellar air-aether?]. 
+They are not pushed at all by the others [not within the solar wind]. 
 
 For example, those at `E` are not pushed by those at `M`, `G`, `F`, `K`, or `H`, but only by all those that are between the two lines `AF` and `DG` together with the fire-aether of the sun. 
 
+![AB curve](/graphics/physics/world-13ggg.jpg)
+
+
 That is why they tend, towards `M`, `L`, `N`, and generally toward all the points which the rays or straight lines, coming from some part of the sun and passing through the place where the parts are.*
 
-> *Translator's Note: We should modify the diagram here. `E` is a point, the apex of the visual cone `EAD`. By taking a neighborhood of points about `E`, Descartes generates a space, which he also calls `E`. The light coming to that space is the light contained in all the visual cones having a vertex in the space and a base in the sun, i.e. it is the light contained in the truncated cone FADG, where F and G should lie at the upper corners of the space, as shown in the following figure The whole argument seems motivated solely by the need to have a person's eye at E see the whole disk of the sun.
+<!-- > *Translator's Note: We should modify the diagram here. `E` is a point, the apex of the visual cone `EAD`. By taking a neighborhood of points about `E`, Descartes generates a space, which he also calls `E`. The light coming to that space is the light contained in all the visual cones having a vertex in the space and a base in the sun, i.e. it is the light contained in the truncated cone FADG, where F and G should lie at the upper corners of the space, as shown in the following figure The whole argument seems motivated solely by the need to have a person's eye at E see the whole disk of the sun. -->
 
+
+## Black Holes
 
 Imagine the parts of the air-aether at `E` were all alone and that there was absolutely no light (fire-aether) anywhere, even where the sun is.
 <!-- was surrounded by void, even at where the sun is. -->
-- If that air-aether at `E` disappeared, then the air-aether above the circle `TER`, say at `M`, will not fill its place since it tends to move away from it.
-- The air-aether at `T` will also not fill it. This is because the air-aether at `F` also moves with the same speed towards `R` provided others do not come from elsewhere to fill it. 
 
+1. If that air-aether at `E` disappeared, then the air-aether beyond circle `FEG`, say at `M`, will not fill its place since it tends to move away from it.
 
+2. The air-aether at `F` will also not fill it. This is because the air-aether at `F` also moves towards `G` with the same speed as it goes to `R`. 
+
+The void at `E` will move with them as long as others do not come from elsewhere to fill it. 
+
+3. The air-aether within the circle `FEG` but beyond the lines `AF` and `DG`, such as those at `H` and `K`, will also not fill it. 
+
+This is even if their tendency to move away from `S` disposes them in some way. This is similar to a rock's weight disposes it to fall in a straight line and roll down a mountain sideways if it cannot fall straight down. 
+
+But such air-aether do not fill that void because of the continuous straight-line motions.
 
 <!-- We know that a body is being pushed by other bodies when we see them actually advancing toward the place where it is in order to fill the place in the case that it is void. -->
 <!-- [56] -->
@@ -68,93 +81,65 @@ Imagine the parts of the air-aether at `E` were all alone and that there was abs
 <!-- at `E` are removed from it and, having posited that, to note in the first place that none of 
 
 
-
 Then note in the second place also that those in that circle, to wit, at T are no more disposed to do so; for, even though they really move from T toward G along the course of the whole heaven, nevertheless, because those at `F` also move with the same speed toward `R`, the space `E` (which one must imagine to be mobile like them) will not fail to remain void between G and F,  -->
 
-Those that are below that circle but that are not contained between the lines `AF` and `DG` (such as those at `H` and `K`) also do not move in any way towards space `E` to fill it, even though the inclination they have to move away from point `S` disposes them in some way to do so (as the weight of a stone disposes it, not only to descend along a straight line in the free air, but also to roll sideways on the slope of a mountain in the case that it cannot descend any other way).	
-
-
+<!-- Those that are below that circle but that are not contained between the lines `AF` and `DG` (such as those at `H` and `K`) also do not move in any way towards space `E` to fill it, even though the inclination they have to move away from point `S` disposes them in some way to do so (as the weight of a stone disposes it, not only to descend along a straight line in the free air, but also to roll sideways on the slope of a mountain in the case that it cannot descend any other way).	 -->
 
 Nature always chooses the shortest way out of the many ways to arrive at the same effect.[57] 
 - This is why the air-aether must travel in a straight line.
 - The continual straight-line motions impedes the air-aether from going into that space.
 
-If the air-aether at `K` advanced toward `E`, then the air-aether closer to the Sun would take its place. 
-- This would fill `E`
-- But there would be a new void at the circumference `ABCD` at the same time
+
+
+If the air-aether at `K` advanced towards `E` and filled it, then the air-aether at the Sun would take the place of `K`.
+- But this would create a new void at the circumference `ABCD` of the sun at the same time
 <!-- fill in that place  advance at the same instant towards the place which they were leaving. -->
 
 <!-- Hence, the effect of their motion would be only that space `E` would be filled.
 - There would be another of equal size in  that would become void .  -->
 
-But that same effect can follow much better if the air-aether between the lines `AF` and `DG` advance straightaway toward `E`.
-- Consequently, when there is nothing impeding the air-aether between the lines `AF` and `DG` from filling `E`, the others do not tend at all towards `E`, no more than a stone ever tends to fall obliquely toward the center of the earth when it can fall in a straight line.
+But shortest way would be for the air-aether between the lines `AF` and `DG` advance straightaway towards `E`.
+- But by the time that air-aether reaches `E`, `E` has moved away.
+- It cannot curve to chase `E` in the same way that a falling rock falls straight down and not in a curve.  
+
+<!-- - This is similar to 
+
+Consequently, when there is nothing impeding the air-aether between the lines `AF` and `DG` from filling `E`, the others do not tend at all towards `E`, no more than a stone ever tends to fall obliquely toward the center of the earth when it can fall in a straight line. -->
 
 
 
-All the parts of the air-aether <!-- second element --> between the lines `AF` and `DG` must advance together toward that space `E` in order to fill it when it becomes void.
+The air-aether <!-- second element --> between the lines `AF` and `DG` must advance together towards space `E` in order to fill it when it becomes void.
+
+{{< img src="/graphics/physics/world-13hhh.jpg" alt="Black Hole" >}}
+
 
 Only their inclination to move away from point `S` carries them toward `E`.
-- This inclination causes those between the lines `BF` and `CG` to tend more directly toward `E` than those that remain between the lines `AF` and `BF`, and `DG` and `CG`.
+- This inclination causes those between the lines `BF` and `CG` to tend to move more directly towards `E` than those that remain between the lines `AF` and `BF`, and `DG` and `CG`.
+- These latter parts are also disposed as the others to go there.
 
-These latter parts do not fail to be as disposed as the others to go there, if you take note of the effect that should follow from their motion.
-- That effect is that space `E` is filled and that there is another of equal size in the circumference `ABCD` that becomes void at the same time.
+<!-- , if you take note of the effect that should follow from their motion. -->
 
-For, as regards the change of position they undergo in the other places that they were previously filling and that still remain full of them afterwards, it is not at all considerable, in as much as they must be supposed to be so equal and so completely like one another that it does not matter by which parts each of these places is filled.
+The effect is that:
+- space `E` is filled
+- a space of equal size in the circumference `ABCD` becomes void at the same time
 
-But this does not mean that they are all equal. It means merely that the motions of which their inequality can be the cause are not pertinent to the action of which we are speaking.
+The air-aethers are completely alike, but not all equal.
+- It does not matter which of them fill these places.
+- The motions that can cause them to tbe unequal are irrelevant.
+
+<!-- For, as regards the change of position they undergo in the other places that they were previously filling and that still remain full of them afterwards, it is not at all considerable, in as much as they must be supposed to be so equal and so completely like one another that it does not matter by which parts each of these places is filled.
+
+But this does not mean that they are all equal. It means merely that the motions of which their inequality can be the cause are not pertinent to the action of which we are speaking. -->
 
 
+The shortest way to fill `E` is for the air-aether at `D` to go to `E` via lines `DG` or `DE`. 
 
-There is no shorter way of causing one part `E` of space to be filled while another, for example at `D`, becomes void than if all the parts of matter on the straight line `DG`, or `DE`, advance together toward `E`. 
+<!-- There is no shorter way of causing one part `E` of space to be filled while another, for example at `D`, becomes void than if all the parts of matter on the straight line `DG`, or `DE`, advance together toward `E`.  -->
 
-If it were only those between the lines `BF` and `CF` that were to advance first toward that space `E`, they would leave another space below them at `V`, into which those which are at `D` had to come. 
-
-Thus, the same effect that can be produced by the motion of the matter in the straight line `DG`, or `DE`, would be made by the motion of that in the curved line `DVE`. 
+If the air-aethers between the lines `BF` and `CF` advanced first towards `E`, then they would cause `V` to be void. 
+- `D` would then have to fill this, creating a curved line `DVE` just to fill `E` instead of a straight line `DG`, or `DE`.
 - This is contrary to my rules of motion.
 
-How can the air-aether between the lines `AF` and `DG` advance all together towards `E` when the distance between `A` and `D` is greater than that between `F` and `G`? 
+ <!-- another space below them at `V`, into which those which are at `D` had to come.  -->
 
-This makes the space that they must enter narrower than the space that they must leave. 
-
-If so, consider that the action by which they tend to move away from the center of their heaven does not force them to touch those of their neighbors that are at the same distance as they from that center. They only touch those that are to a degree more distant from it.[58] 
-
-Thus, the weight of the small balls `1, 2, 3, 4, 5` does not force those marked by the same numerals to touch one another. Instead, they only force those marked `1` or `10` to rest on those marked `2` or `20`. The latter would then rest on those marked `3` or `30`, and so on. 
-
-Thus, these small balls can be arranged in many other ways. 
-
-The air-aether moves separately from one another. They cannot ever be arranged like the balls in Figure 7. 
-
-Nonetheless, it is only in that mode [of arrangement] that the proposed difficulty can obtain. 
-
-For one could not suppose between those of its parts that are the same distance from the center of their heaven an interval so small that it would not suffice to conceive that the inclination they have to move away from that center must cause those between the lines `AF` and `DG` to advance all together toward the space E when it is void. Thus you see in Figure 9, compared with Figure 10, that the weight of the small balls 40, 30, etc. must cause them to fall all together toward the space occupied by that marked 50 as soon as the latter can leave it.	
-
-<!-- And one can clearly perceive here how those of --> The balls that are marked with the same numeral are arranged in a space narrower than that which they leave, that is, by moving closer to one another. <!-- One can also perceive that --> The two balls marked 40 must fall a bit faster, and move proportionately a bit closer to one another, than the three marked 30. These three must move faster and closer to one another than the four marked 20, and so on.
-
-Figure 10 might show that the two balls 40, 40, after having fallen slightly, come to touch one another (which is why they stop without being able to fall lower). In the very same way, the parts of the aethereal air that should advance toward E will stop before having succeeded in filling the whole space we have supposed there.
-
-But they cannot advance toward `E` the slightest bit without it being enough to prove perfectly that since the whole space that is there is already filled by some body (whatever it might be), the parts press continually on that body and make an effort against it as if to chase it out of its place.[59]
-
-Then, beyond that, I reply that, since their other motions, which continue in them while they are thus advancing toward E, do not permit them for a moment to remain arranged in the same way, those motions impede them from touching one another, or rather cause them, upon touching, immediately to separate again and thus not to cease for that reason to advance uninterruptedly toward the space E, until it is completely filled. 
-
-Thus, one cannot conclude from this anything other than that the force with which they tend toward `E` is vibratory in nature and redoubles and relaxes in diverse small tremors according as the parts change position. This is a property suited to light.
-
-The spaces `E` and `S` and all the small angles between the parts of the heaven are empty. Now fill them with the aethereal fire.  The parts of that aethereal fire in the space `E` cannot impede those of the aethereal air between the lines `AF` and `DG` from advancing to fill it in just the same way as they would if it were void, because, being extremely subtle and extremely agitated. They are always as ready to leave the places where they are as any other body might be to enter them.
-
-This is why the parts of the aethreal fire that occupies the small angles between the parts of the heaven cede their place without resistance to those coming from that space E and tending to go toward the point `S`. I say toward `S` rather than toward any other place because the other bodies which, being more united and larger, have more force all tend to move away from it.
-
-They pass from `E` toward `S` among the parts of the aethereal air that go from `S` toward `E`, without the ones in any way impeding the others. Thus, the air enclosed in the sand clock `XYZ` rises from `Z` toward `X` through the sand `Y`, which does not for that reason cease to fall in the meantime toward `Z`.
-
-Finally, the parts of that aethereal fire that are in the space `ABCD`, where they compose the body of the sun and there turn very rapidly in a circle about point `S`, tend to move away from it in all directions in a straight line, in accordance with what I have just set out. 
-
-By this means, all those in line `SD` together push the part of the aethereal air at point `D`, and all those in line SA push that which is at point `A`, and so on.
-
-This alone suffices to cause all those parts of the aethereal air between the lines AF and DG to advance toward the space `E`, even though they might have no inclination themselves to do so.
-
-Moreover, since they must thus advance toward that space `E` when it is occupied only by the fire-aether. They also tend to go there even though it is filled by some other body.
-
-Consequently, that they push and make an effort against that body as if to drive it out of its place. 
-
-Thus, if it were the eye of a man that were at the point `E`, it would actually be pushed, both by the sun and by all the matter of the heaven between the lines `AF` and `DG`.
-
-The men of this new world will be of such a nature that, when their eyes are pushed in this manner, they will have from it a sensation very much like that which we have of light.
+<!-- Thus, the same effect that can be produced by the motion of the matter in the straight line , would be made by the motion of that in the .  -->
