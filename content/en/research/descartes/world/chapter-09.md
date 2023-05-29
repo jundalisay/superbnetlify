@@ -1,6 +1,6 @@
 ---
 heading: "Chapter 9"
-title: "The Origin and the Course of the Planets and Comets"
+title: "The Big Bang and the Origin of Planets"
 weight: 20
 image: "/covers/world.jpg"
 description: "The parts of the matter are very diverse"
@@ -10,9 +10,9 @@ icon: "/icons/descartes.png"
 
 
 
-The parts of the matter are very diverse. Most of them take the form of the aethereal fire or the aethereal air from breaking and dividing by collision with one another.
+The parts of the matter are very diverse. Most of them take the form of the fire-aether or the air-aether from breaking and dividing by collision with one another.
 
-Nevertheless, among them are 2 sorts that had to retain the form of the earth aether:
+Nevertheless, among them are 2 sorts that had to retain the form of the earth-aether:
  <!-- third element -->
 
 1. Those which had shapes so extended and so impeding that, when they collided with one another, it was easier for them to join together. This allows them to become larger instead of breaking up and becoming smaller. 
@@ -31,6 +31,9 @@ Whether these two were initially agitated or not, they afterwards had to move wi
 Massive and solid bodies that float on water always have much more force than the water. This allows them to continue their motion, even though they get their motion from the water alone. An example are the largest and most heavily-laden boats. 
 
 By contrast, the very light floating bodies, like those lumps of white scum floating along the shores during storms, have less force to continue moving.
+
+
+{{< img src="/graphics/physics/tunnel.jpg" alt="Quantum Tunneling" >}}
 
 If you imagine 2 rivers that join at some point and then separate again before their waters have a chance to mix. 
 - Rapid, heavy boats from River `A` will will be easily able to pass into River `B`. 
@@ -51,7 +54,7 @@ If both both meet at the passage `E` at the same time, the larger and stronger b
 By contrast, lighter bodies such as leaves and feathers that float at `A` are pushed by the course of the water, not toward `E` and toward `G`, but toward `B`, where the water is less strong and rapid than at `E`. This is because at `B` it takes a curved path and not a straight line.  
 <!-- its course along a line that less approaches a straight line. -->
 
-These light bodies, but also others heavier and more massive can join upon meeting and that, turning then with the water that bears them, several together can compose large balls such as you see at `K` and `L`.
+**These light bodies, but also others heavier and more massive can join upon meeting and that, turning then with the water that bears them, several together can compose large balls such as you see at `K` and `L`.**
 
 The more solid and larger ones with massive parts are `L`. These go toward `E`. 
 
@@ -62,7 +65,7 @@ The less solid and smaller ones are `K`. These go toward `B`.
 
 ## The Big Bang
 
-Wherever the parts of matter that could not take the form of the aethereal fire or the aethereal air at the start, the larger and more massive among them* shortly had to run towards the outside circumference of the heavens that contained them. 
+Wherever the parts of matter that could not take the form of the fhre-aether or the air-aether at the start, the larger and more massive among them* shortly had to run towards the outside circumference of the heavens that contained them. 
 
 > *Superphysics note: In modern astrophysics, these are the 'hot gases'
 
@@ -71,7 +74,7 @@ They passed continually from one of these heavens into another* without ever sto
 > *Superphysics note: This is the Big Bang
 
 
-By contrast, all the less massive had to be pushed, each toward the center of the heaven containing it, by the course of the matter of that heaven. 
+By contrast, all the less massive had to be pushed, each toward the center of the heaven containing it, by the course of the air-aether of that heaven. 
 
 <!-- And (given the shapes that I have attributed to them)  -->
 
@@ -85,34 +88,3 @@ Thus some tend to move towards:
   - These are the planets
 <!-- Those that tend to range toward the center of any heaven to be the planets, and we should take those that pass across different heavens to be comets. -->
 
-
-## Comets
-
-There are a few comets in the aethereal world compared to the number of heavens. 
-
-If there were many at the beginning, over the course of time in passing across different heavens almost all of them would have to have collided with one another and broken one another up (just as I have said two boats do when they meet), so that now only the largest could remain.
-
-When comets pass from one heaven into another, they always push before them some small bit of the matter of the heaven they are leaving and remain enveloped by it for some time until they have entered far enough within the limits of the other heaven. 
-
-Once there, they finally loose themselves from it almost all at once and without taking perhaps more time to do so than does the sun in rising at morning on our horizon. 
-
-In this way, they move much more slowly when they thus tend to leave some heaven than they do shortly after having entered it.
-
-For example, the comet that takes its course along the line CDQR, has already entered rather far within the limits of the heaven FG.
-
-Nevertheless, when it is at point C still remains enveloped by matter from the heaven FI, from which it comes, and cannot be entirely freed of that matter before it is around point D. 
-
-But, as soon as it has arrived there, it begins to follow the course of the heaven FG and thus to move much faster than it did before. Then, continuing its course from there toward R, its motion must again slow down little by little in proportion as it approaches point Q, both because of the resistance of the heaven FGH, within the limits of which it is beginning to enter, and because, there being less distance between S and D than between S and Q, all the matter of the heaven between S and D (where the distance is smaller) moves faster there, just as we see that rivers always flow more swiftly in the places where their bed is narrower and more confined than in those where it is wider and more extended.[44]
-
-This comet should be visible to those who live at the center of the heaven `FG` only during the time it takes to pass from `D` to `Q`, as you will soon understand more clearly when I have told you what light is. 
-
-In the same way, you will see that its motion should appear to viewers to be much faster, its body much greater, and its light much brighter, at the beginning of the time they see it than at the end.
-
-if you consider with some care the way in which the light that can come from the comet must spread out and be distributed in all directions in the heaven, you will also be well able to understand that, being very large (as we must suppose it to be), there can appear around it certain rays that sometimes extend in the form of a halo on all sides and sometimes gather together in the form of a tail on one side only, according to the different places from which it is viewed. m us, this comet lacks none of all the properties that have been observed up to now in those that have been seen in the real world, at least none of those properties that should be taken as true. 
-
-In order to construct a miracle that warns of the <!-- crescent --> arrival of the Turks, some historians tell us that in the year 1450, the moon was eclipsed by a comet which passed below it. 
-
-The astronomers attributed it to the parallax among the planets. 
-
-<!-- , calculating badly the amount of refraction (which they do not know) of the heavens and the speed of motion of comets (which is uncertain), attribute to them enough , or even below them (where some wish to pull them as by force), then we are not obliged to believe them.[45]
- -->

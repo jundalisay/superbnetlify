@@ -11,26 +11,30 @@ icon: "/icons/descartes.png"
 
 ## Spacetime Becomes Electromagnetism
 
-The matter that came out from around the parts of the aethereal air were broken and had the small points of their angles dulled from rounding off. These necessarily had to go faster than the aethereal air. Along with it came a facility for dividing and changing shape at every moment in order to accommodate itself to the shape of the places where it is. 
+The matter that came out from around the parts of the aethereal air were broken and had the small points of their angles dulled from rounding off. These necessarily had to go faster than the aethereal air. 
+
+Along with it came a facility for dividing and changing shape at every moment in order to accommodate itself to the shape of the places where it is. 
 
 **Thus, it took the form of the aethereal fire.**
 
-It went faster because it had to go off to the side through very narrow passages and out of the small spaces left between the parts of the aethereal air as they collided head-on. It had much more of a path than the aethereal air to traverse in the same time.
+It went faster because it had to go off to the side through very narrow passages and out of the small spaces left between the parts of the air-aether as they collided head-on. It had much more of a path than the air-aether to traverse in the same time.
 
-The excess aethereal fire needed to fill the small gaps in the round aethereal air necessarily go around them and must draw back toward the centers around the aethereal air. 
+The excess fire-aether needed to fill the small gaps in the round air-aether. These necessarily go around them and must draw back toward the centers around the air-aether. 
 <!-- which those parts turn, -->
 
-This is because the aethereal air occupies all the other, more distant places. 
+This is because the air-aether occupies all the other, more distant places. 
 <!-- parts of the second] -->
 
-At those centers, the remaining <!-- first element --> aethereal fire must compose perfectly liquid and subtle round bodies. 
+At those centers, the remaining <!-- first element --> fire-aether must compose perfectly liquid and subtle round bodies. 
 
 
 ## Light Comes From Stars
 
-These incessantly turn much faster than, and in the same direction as, the parts of athereal air surrounding them. The parts of the aethereal fire have the force:
+These incessantly turn much faster than, and in the same direction as, the parts of air-aether surrounding them. 
+
+The parts of the fire-aether have the force:
 - to increase the agitation of those parts to which they are closest and
-- in moving from the center toward the circumference, to push the parts of aethereal fire in all directions, just as they push one another.
+- in moving from the center toward the circumference, to push the parts of fire-aether in all directions, just as they push one another.
 
 This action we perceive as light. 
 
