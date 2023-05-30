@@ -12,6 +12,11 @@ Instead, the universe was created by aether then light then matter, as space, th
 
 So they need to bring back Descartes' Physics and let it absorb Newtonian Physics. 
 
+2045 
+
+2120 skill only 
+
+economics - AI 2020 + 15-20 years
 
 
 I already gave documented evidence:

@@ -33,7 +33,7 @@ Massive and solid bodies that float on water always have much more force than th
 By contrast, the very light floating bodies, like those lumps of white scum floating along the shores during storms, have less force to continue moving.
 
 
-{{< img src="/graphics/physics/tunnel.jpg" alt="Quantum Tunneling" >}}
+{{< img src="/graphics/physics/tunnel.jpg" alt="Quantum Tunneling" cap="We apply Descartes' quantum tunnel on the less massive earth-aether (hydrogen and helium) that has recently converted from the fire-aether (electromagnetism)" >}}
 
 If you imagine 2 rivers that join at some point and then separate again before their waters have a chance to mix. 
 - Rapid, heavy boats from River `A` will will be easily able to pass into River `B`. 
@@ -71,7 +71,7 @@ Wherever the parts of matter that could not take the form of the fhre-aether or 
 
 They passed continually from one of these heavens into another* without ever stopping for a very long period of time in the same heaven.
 
-> *Superphysics note: This is the Big Bang
+> *Superphysics note: This is the Big Bang. The major difference is that Cartesian Big Bang has no material beginning. In fact, the expansion of space (air-aether) is totally independent of matter.  
 
 
 By contrast, all the less massive had to be pushed, each toward the center of the heaven containing it, by the course of the air-aether of that heaven. 
