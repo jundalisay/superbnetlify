@@ -1,6 +1,6 @@
 ---
 heading: "Chapter 13"
-title: "Cartesian Gravitation and Relativity"
+title: "Cartesian Inertia and Gravitation"
 weight: 28
 image: "/covers/world.jpg"
 description: "Bodies that revolve always tend to move away from the centers of the circles they describe"

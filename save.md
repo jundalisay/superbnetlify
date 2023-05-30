@@ -19,6 +19,9 @@ So they need to bring back Descartes' Physics and let it absorb Newtonian Physic
 economics - AI 2020 + 15-20 years
 
 
+
+
+
 I already gave documented evidence:
 
 Medicine: 
