@@ -71,7 +71,7 @@ Wherever the parts of matter that could not take the form of the fhre-aether or 
 
 They passed continually from one of these heavens into another* without ever stopping for a very long period of time in the same heaven.
 
-> *Superphysics note: This is the Big Bang. The major difference is that Cartesian Big Bang has no material beginning. In fact, the expansion of space (air-aether) is totally independent of matter.  
+> *Superphysics note: This is the Big Bang. The major difference is that Cartesian Big Bang has no material beginning. In fact, the expansion of space (air-aether) is totally independent of matter.  This independence from matter allows large galaxies to be formed from the 'early galaxy' which was discovered by the James Webb Telescope. In reality, the galaxies farthest from us are not earlier galaxies. 
 
 
 By contrast, all the less massive had to be pushed, each toward the center of the heaven containing it, by the course of the air-aether of that heaven. 
