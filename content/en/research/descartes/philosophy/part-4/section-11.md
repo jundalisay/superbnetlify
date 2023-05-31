@@ -1,7 +1,7 @@
 ---
 title: "The Types of Human Senses"
 heading: Section 1
-weight: 4
+weight: 20
 description: "The duration alone of our life is sufficient to demonstrate the existence of God"
 author: "Rene Descartes"
 image: "/covers/philos.png"

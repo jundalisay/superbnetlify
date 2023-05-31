@@ -1,7 +1,7 @@
 ---
 title: "The Sensible Bodies and Insensible Particles"
 heading: Section 2
-weight: 6
+weight: 26
 description: "Sensible bodies are composed of insensible particles"
 author: "Rene Descartes"
 image: "/covers/philos.png"

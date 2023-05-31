@@ -1,7 +1,7 @@
 ---
 title: "The philosophy of Democritus"
 heading: Section 3
-weight: 8
+weight: 28
 description: "The philosophy of Democritus is not less different from ours than from the common"
 author: "Rene Descartes"
 image: "/covers/philos.png"
@@ -19,9 +19,20 @@ Nevertheless, his mode of philosophizing is commonly rejected by all.
 
 I reply that the philosophy of Democritus was never rejected by anyone, because he allowed the existence of bodies smaller than those we perceive, and attributed to them diverse sizes, figures, and motions, for no one can doubt that there are in reality such, as we have already shown; 
 
-but it was rejected, in the first place, because he supposed that these corpuscles were indivisible, on which ground I also reject it; in the second place, because he imagined there was a vacuum about them, which I show to be impossible; thirdly, because he attributed gravity to these bodies, of which I deny the existence in any body, in so far as a body is considered by itself, because it is a quality that depends on the relations of situation and motion which several bodies bear to each other; and, finally, because he has not explained in particular how all things arose from the concourse of corpuscles alone, or, if he gave this explanation with regard to a few of them, his whole reasoning was far from being coherent, [or such as would warrant us in extending the same explanation to the whole of nature]. This, at least, is the verdict we must give regarding his philosophy, if we may judge of his opinions from what has been handed down to us in writing. 
+The philosophy of Democritus was rejected because:
 
-I leave it to others to determine whether the philosophy I profess possesses a valid coherency, [and whether on its principles we can make the requisite number of deductions; and, inasmuch as the consideration of figure, magnitude, and motion has been admitted by Aristotle and by all the others, as well as by Democritus, and since I reject all that the latter has supposed, with this single exception, while I reject generally all that has been supposed by the others, it is plain that this mode of philosophizing has no more affinity with that of Democritus than of any other particular sect].
+1. He supposed that these corpuscles were indivisible.
+   - I also reject this
+
+2. He imagined there was a vacuum about them
+   - I show that this is impossible
+
+3. He attributed gravity to these bodies, of which I deny the existence in any body, in so far as a body is considered by itself, because it is a quality that depends on the relations of situation and motion which several bodies bear to each other
+
+4. He did not explain how all things arose from the concourse of corpuscles alone
+
+<!-- I leave it to others to determine whether the philosophy I profess possesses a valid coherency, [and whether on its principles we can make the requisite number of deductions; and, inasmuch as the consideration of figure, magnitude, and motion has been admitted by Aristotle and by all the others, as well as by Democritus, and since I reject all that the latter has supposed, with this single exception, while I reject generally all that has been supposed by the others, it is plain that this mode of philosophizing has no more affinity with that of Democritus than of any other particular sect]. -->
+
 
 CCIII. How we may arrive at the knowledge of the figures, [magnitudes], and motions of the insensible particles of bodies.
 
@@ -45,6 +56,6 @@ CCVI. That we possess even more than a moral certainty of it.
 
 Besides, there are some, even among natural, things which we judge to be absolutely certain. [Absolute certainty arises when we judge that it is impossible a thing can be otherwise than as we think it]. This certainty is founded on the metaphysical ground, that, as God is supremely good and the source of all truth, the faculty of distinguishing truth from error which he gave us, cannot be fallacious so long as we use it aright, and distinctly perceive anything by it. Of this character are the demonstrations of mathematics, the knowledge that material things exist, and the clear reasonings that are formed regarding them. The results I have given in this treatise will perhaps be admitted to a place in the class of truths that are absolutely certain, if it be considered that they are deduced in a continuous series from the first and most elementary principles of human knowledge; especially if it be sufficiently understood that we can perceive no external objects unless some local motion be caused by them in our nerves, and that such motion cannot be caused by the fixed stars, owing to their great distance from us, unless a motion be also produced in them and in the whole heavens lying between them and us: for these points being admitted, all the others, at least the more general doctrines which I have advanced regarding the world or earth [e. g., the fluidity of the heavens, Part III., Section XLVI.], will appear to be almost the only possible explanations of the phenomena they present.
 
-CCVII. That, however, I submit all my opinions to the authority of the church.
+<!-- ## 207. I submit all my opinions to the authority of the church.
 
-Nevertheless, lest I should presume too far, I affirm nothing, but submit all these my opinions to the authority of the church and the judgment of the more sage; and I desire no one to believe anything I may have said, unless he is constrained to admit it by the force and evidence of reason.
+Nevertheless, lest I should presume too far, I affirm nothing, but submit all these my opinions to the authority of the church and the judgment of the more sage; and I desire no one to believe anything I may have said, unless he is constrained to admit it by the force and evidence of reason. -->
