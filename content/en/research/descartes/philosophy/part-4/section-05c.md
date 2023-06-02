@@ -11,7 +11,7 @@ icon: "/icons/descartes.png"
 
 ## 4.155 Why do the parts of the segments of the magnet, which were united before the section, also repel each other?
 
-And from these it is very easily understood why, if a magnet is cut in a plane parallel to a line drawn through its poles, and the segment is freely suspended above the magnet from which it was cut, it will spontaneously turn and assume the position opposite to that which it had before; so that, if the parts A and a were first joined, and likewise [&] B and b, afterwards b turns towards A, and a towards B: namely, because formerly the Southern part of one Southern part was joined to the other, and the Boreal Boreal, after the division the striated particles having gone out through the Southern part of the one, must enter through the Boreal of the other; and having gone out by the Boreal, enter by the South.
+If a magnet is cut in a plane parallel to a line drawn through its poles, and the segment is freely suspended above the magnet from which it was cut, it will spontaneously turn and assume the position opposite to that which it had before; so that, if the parts A and a were first joined, and likewise [&] B and b, afterwards b turns towards A, and a towards B: namely, because formerly the Southern part of one Southern part was joined to the other, and the Boreal Boreal, after the division the striated particles having gone out through the Southern part of the one, must enter through the Boreal of the other; and having gone out by the Boreal, enter by the South.
 
 
 ## 4.156 Why are two points, which were formerly contiguous in one magnet, in its fragments poles of different virtues?

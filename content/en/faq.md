@@ -13,7 +13,7 @@ What is Superphysics?
 {{< /r >}}
 
 {{< l ava="sp" >}}
-The merging of Science and Metaphysics without going into the details of either. This acts as a bridge between ancient metaphysics and modern science, as explained by Francis Bacon.
+Superphysics is the merging of Science and Metaphysics without going into the details of either. This acts as a bridge between ancient metaphysics and modern science, as explained by Francis Bacon.
 {{< /l >}}
 
 {{< q a="Bacon" >}}
@@ -38,7 +38,7 @@ Do we call a Samsung Android as a pseudo-Nokia 3310?
 {{< /l>}}
 
 {{< r ava="asker" >}}
-No. We call it as a smart-phone.
+No. We call it a 'smart-phone'.
 {{< /r >}}
 
 {{< l ava="sp" >}}
@@ -46,7 +46,7 @@ Correct. We add the word 'smart.' Similarly, we add 'super' to 'physics' to set 
 {{< /l >}}
 
 {{< q a="Bacon" >}}
-Superstitious narrations of sorceries, witchcrafts, dreams, divinations, and the like, where there is an assurance and clear evidence of the fact, should not be excluded altogether. This is because it is not yet known in what cases and how far effects attributed to superstition do participate of natural causes. Therefore, howsoever the practice of such things is to be condemned, yet from the speculation and consideration of them, light may be taken for the further understanding of Nature.   
+Superstitious narrations of sorceries, witchcrafts, dreams, divinations, and the like, where there is an assurance and clear evidence of the fact, **should not** be excluded altogether. This is because it is not yet known in what cases and how far effects attributed to superstition do participate of natural causes. Therefore, howsoever the practice of such things is to be condemned, yet from the speculation and consideration of them, light may be taken for the further understanding of Nature.   
 <cite>Book 2 Part 1, The Proficience And Advancement Of Learning Simplified</cite>
 {{< /q >}}
 
@@ -65,7 +65,7 @@ This led to **Dialectical Materialism** which is based on limited human logic an
 
 Its rival Capitalism also embraces Aristotle, as proven by Ayn Rand and the subsequent 2008 Financial Crisis which also caused suffering.   
 
-The enlightened philosophers like Hume and Ibn-Khaldun denounced Aristotle. 
+The enlightened philosophers like Hume and Ibn-Khaldun denounced Aristotle. So you can say we are fully in the Plato-Pythagoras-Hinduism-Buddhism-Taoism camp.  
 {{< /l >}}
 
 {{< r ava="asker" >}}
@@ -73,9 +73,13 @@ How sure are you that Superphysics can solve what Science cannot?
 {{< /r >}}
 
 {{< l ava="sp" >}}
-Because we absorb all data, information, and human knowledge, even from Asia, Africa, Hinduism, Buddhism, Taoism, even human information about aliens. Hinduism, Buddhism, and Taoism allow other dimensions by default. Even Islam has the concept of [Jinns](/research/mohammad/quran/sura-072). This gives us a bigger data set from which we can test their own principles on our reality.
+Because we absorb all data, information, and human knowledge, even from Asia, Africa, Hinduism, Buddhism, Taoism, even human information about aliens. 
 
-This is different from Roman philosophy which has no metaphysics to allow other dimensions.
+Hinduism, Buddhism, and Taoism allow other dimensions by default. 
+
+Even Islam has the concept of [Jinns](/research/mohammad/quran/sura-072). This gives us a bigger data set from which we can test their own principles on our reality.
+
+This is different from Roman philosophy which has no metaphysics to allow other dimensions. Notice how Roman gods just mirror human characteristics. 
 {{< /l >}}
 
 {{< r ava="asker" >}}
@@ -97,7 +101,7 @@ So what have you found?
 {{< l a="Superphysics" >}}
 That there is a Supreme Entity, called as God, Allah, Jehovah, Yahweh, Brahma, Amaterasu, etc. and that we are inside It. Parmenides calls It The One, and the Chinese call It The Tao.
 
-This is similar to the idea that Descartes had, despite him using non-Asian techniques. This One then generates everything in real-time. Again this is very different from the Roman or Jewish belief that the universe was pre-created, usually in 7 days.
+This is similar to the idea that Descartes had, despite him using non-Asian techniques. This One then generates everything **in real-time**. Again this is very different from the Roman or Jewish belief that the universe was pre-created, usually in 7 days.
 {{< /l >}}
 
 {{< r ava="asker" >}}
@@ -119,7 +123,7 @@ No. Superphysics aims to solve problems by striking at the root cause, which is 
 
 A problem begins when something goes away from its True Nature, Dharma, or Tao.
 
-Most science just deals with effect and not cause because science is ignorant of metaphysics which is the real cause of anything in physics. The education system is supposed to help children discover their True Nature, Dharma, or Tao so that they can direct their lives towards it. But instead, it just molds them to be industrial workers (the dharma of of business and industry). 
+Most science just deals with effect and not cause because science is ignorant of metaphysics which is the real cause of anything in physics. The education system is supposed to help children discover their True Nature, Dharma, or Tao so that they can direct their lives towards it. But instead, it just molds them to be industrial workers (the dharma of business and industry). 
 
 Ask anyone what the goal or purpose of the life is, and they will look at you with a blank stare. 
 
@@ -181,7 +185,7 @@ So what if there's global warming? In the long-run, we're all dead! At least I'v
 {{< l ava="Superphysics" >}}
 Ok boomer, so Superphysics isn't for you.
 
-That's actually one of the attractions of Superphysics -- it rejects selfishness, vice, and the lack of virtue. You should stay in Quantum Physics, Economics, or some dogmatic religion that sees itself superior than others, or is limited to the 5 senses. Go ahead and exhaust your brain theorizing wormholes and dark matter that will never exist, or quantiative easing that either bloats the debt and shuts down governments or causes stagflation.
+That's actually one of the attractions of Superphysics -- it rejects selfishness, vice, and the lack of virtue. You should stay in Quantum Physics, Economics, or some dogmatic religion that sees itself superior than others, or is limited to the 5 senses. Go ahead and exhaust your brain theorizing wormholes and dark matter that will never exist, or quantitative easing that either bloats the debt and shuts down governments or causes stagflation.
 
 People who ascribe to Superphysics are open-minded and lovers of philosophy, nature, and the Supreme Entity, as explained by Socrates. These allow and develop the 6th sense of intuition and fellow-feeling, on top of the usual math and 5-sense cognitive abilities usually in IQ tests. 
 
