@@ -199,7 +199,7 @@ https://www.superphysics.org/material/principles/part-1/chapter-01b/
 
     <h4 class="title is-3 has-text-white mt-6">Subscribe</h4>
 
-    <form method="post" onsubmit="return submitUserForm();" action="https://hub.pantrypoints.com/api/email" class="mb-6">  
+    <form method="post" onsubmit="return submitUserForm();" action="https://isaiah.pantrypoints.com/api/email" class="mb-6">  
 
       <div class="field h">
         Your Email
@@ -263,7 +263,7 @@ funguran 1 month after transplanting
 
 FIXED
 
-    <form method="post" onsubmit="return submitUserForm();" action="https://hub.pantrypoints.com/api/email" class="mb-6">
+    <form method="post" onsubmit="return submitUserForm();" action="https://isaiah.pantrypoints.com/api/email" class="mb-6">
 
       <div class="columns is-mobile is-multiline">
         <div class="column is-6-desktop is-12-touch">
@@ -343,7 +343,7 @@ FIXED
 
 ORIG
 
-    <form id="comments" method="post" onsubmit="return submitUserForm();" action="https://hub.pantrypoints.com/api/email" class="mb-6">
+    <form id="comments" method="post" onsubmit="return submitUserForm();" action="https://isaiah.pantrypoints.com/api/email" class="mb-6">
 
       <div id="html_element" class="columns is-mobile is-multiline">
         <div class="column is-6-desktop is-12-touch">
@@ -1254,3 +1254,755 @@ linkftext: "Light-based computing" -->
 <!-- icon: /icons/spmat.png
 icontext: Material Superphysics icon -->
 ---    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+----------
+
+
+Current Cycle | Years per Cycle | Social Age
+--- | --- | ---
+Positive Warrior  | 12 | 5.5
+
+
+The [previous post](/maharlika/economics/dutertenomics) explained the problem with the Keynesian Dutertenomics, which is embodied in the neoliberal economic plan called "Ambisyon 2040" by Arsenio Balisacan.
+
+
+## Society Subsidizing the Rich
+
+The main flaw of that plan was that it catered to the merchant class of society and neglected [the other 3 classes](/social/supersociology/principles/part-1/chapter-05/). That class is made up of business and monied interests.
+
+
+Class | Socratic Name | Hindu Name | Example
+--- | --- | --- | ---
+Traders | Oligarchs "The Few" | Vaesya | Businessmen, Banks, Traders
+Workers | Democrats "The Many" | Shudra | Workers, Employees, General labor (Farm labor, fishermen, maids, etc)
+Warriors | Tyrants | Ksattriya | Government, Military, Police
+Thinkers | Aristocrats "The Best" | Brahmin | Universities, Researchers, Inventors, Religions 
+
+
+A society needs all 4 classes to be in good shape just as a human body needs all its organs working properly. A weakness in one organ leads to disease or even death. 
+
+With the 3 classes weakened, the Philippine economy easily collapsed after pandemic struck. To get back on its feet, it had to incur a huge Php 12 trillion debt.
+
+The debt is in money which is the expertise of the monied interests. **Thus, the solution to the problem created by the merchant class is also facilitated by that same merchant class.** 
+
+It would be like getting thieves to be in charge of security in your estate. They would allow expert burglaries which can only be solved by themselves to keep themselves employed and relevant while gaining commissions from those burglars. This leads to a double revenue stream to help keep them in power for a very long time until someone can connect the dots and expose their scam.   
+
+Such a genius scheme in macroeconomics really began in the 1970s after the Nixon shock. Billionaire investor Jeremy Grantham explains:
+
+{{< youtube hIKG2YpFoFQ >}}
+
+
+
+The profit maximization doctrine of the merchant class stops growth. And so the merchant class lobbies for public debt, as Keynesian "deficit spending". This is really paid for by the entire society. 
+
+Thus, the public subsidizes the lavish lifestyle of the overgrown merchant class.
+
+{{< q a="smith" >}}
+The middle and upper classes, if they understand their own interest, should always oppose all taxes on necessities and direct taxes on the wages of labour. The final payment of such taxes all fall on themselves, with a big overcharge.
+<cite>The Wealth of Nations Simplified, Book 5, Chapter 2</cite>
+{{< /q >}}
+
+
+{{< q a="smith" >}}
+In her present condition, Great Britain resembles an unwholesome body with some overgrown vital parts. Her blood vessel was artificially swelled beyond natural by the industry and commerce forced to circulate in it. A small stop in that great blood-vessel will bring the most dangerous disorders on the whole political body.
+<cite>The Wealth of Nations Simplified, Book 4, Chapter 7</cite>
+{{< /q >}}
+
+
+
+Debt transfers the present huge burden and spreads it to the future in smaller chunks. Instead of one huge oppression now, the oppression is imposed gradually and with increasing weight.
+
+
+{{< q a="smith" >}}
+This practice puts off the liberation of the public revenue from a fixed period to an indefinite period, never likely to come.
+
+However, it raises more money than the old practice of anticipation.
+<br><br>
+When men became familiar with funding, it became universally preferred to anticipation during great state exigencies.
+
+Relieving the present exigency is always the object of government. The future liberation of the public revenue they leave to the care of posterity.
+<cite>The Wealth of Nations Simplified, Book 5, Chapter 3</cite>
+{{< /q >}}
+
+
+
+
+
+Here, we explain the proper solution as **Maharlika 2050** which puts the merchant class back in line with the other classes, specifically by:
+- overhauling Filipino Catholic-Islamic mentality into Maharlikan Science-Math thinking
+- repealing dual citizenship in order to raise revenues
+- banning crypto and NFT to reduce inflation and global warming
+- hybrid PPP to create green energy and food sovereignty
+- traditional barter trade to insulate against financial and debt crises
+
+
+## The Invisible Colonial Curse
+
+The main problem of the country is poverty and inequality brought by years of colonial and neocolonial rule.
+- The **colonial rule** was done through Spain and its military and Church<!-- , through its weapons and tactics -->. This is the dominance of the militant class (Spanish navy) and the philosopher class (Spanish Catholic Church)
+- The **neocolonial rule** was done through the US and its mercant-class financial system (debt and equity-globalization)
+
+These 2 phenomena stifle the natives (populist class) who end up as:
+- overseas slaves called OFWs (overseas Filipino workers)
+- lowly call center agents
+
+This is very different from advanced countries which are the employers of those OFWs and call center agents. 
+
+
+{{< q >}}
+The populations whom the Spaniards have conyerted to Catholicism have lost all originality, all sense of nationality.
+<cite>Jagor, Travels in the Philippines Simplified 1869</cite>
+{{< /q >}}
+
+
+## The Maharlikan Plan 
+
+<!--  and Maharlikan Constitutional Virtues -->
+
+To convert a nation of slaves and employees into a respectable one of productive pioneers and innovators (and [be relevant on the world stage](https://www.youtube.com/watch?v=589s6x9pjhU), we change the identity of the Philippines into [Maharlika](/maharlikanism). 
+
+The very first step is to establish a moral system based on [constitutional virtues](/social/supersociology/solutions/constitutional-virtues) chosen by the people. We suggest 8 virtues:
+
+1. Katotohanan (Truth)
+2. Puso (Heart)
+3. Pagtitimpi (Self-control)
+4. Paggalang (Respect)
+5. Talino at Kakayahan (Intellect and Skill)
+6. Sipag at Pagkukusa (Hard work and Initiative)
+7. Bayanihan (Cooperation)
+8. Paggalang sa Kalikasan (Environmentalism)
+
+
+These define what a Maharlikan is. These are not hard-coded, but can be changed every few years. 
+
+France has its own version of constitutional virtues as:
+- Liberty
+- Equality
+- Fraternity
+
+With this new identity, the people stop being Filipinos or subjects or employees of King Philip, and become Maharlikan, an independent people with their own mind.  
+
+{{<img src="/photos/medieval/lapu.jpg" alt="Lapu Lapu" cap="Lapu Lapu is the first Western-recorded person to exhibit Maharlikan virtues. Datu Puti and the Negrito king who welcomes him are also pre-colonial examples." >}}
+
+These virtues can lead to a new culture and rules that can replace the morals of Spanish Catholicism and American liberalism. They will be the template for policy-changes that can be implemented until the 2050's when our model predicts a big social change to happen. 
+
+
+
+
+### 1. Open Religious Policy (Truth)
+
+The main obstacle to identity is the Catholic and Islamic religions that were created in Europe and Arabia, respectively. **Those countries are not tropical, not archipelagos, nor have many natural disasters** like Maharlika. 
+
+Moreover, those religions had a political agenda that serves the interests of Europe and Arabia. For example:
+- **Christianity depicts God as a white male in the sky**. This makes Christian Filipinos subconsciously think that whites are superior. This does not afflict the Muslim Filipinos who can criticize Western ideas and policies
+- **Islam requires Muslims to make a pilgrimage to Mecca**. This makes Muslim Filipinos spend for that trip which is a clear benefit to Saudi Arabia's economy, and a loss to the Philippine economy because the Saudis are not obligated to visit the Philippines in return.
+
+An open religious policy can:
+- stop overpopulation by allowing abortion and contraception
+- stop domestic violence by allowing divorce
+- reduce the incidence of terrorism like the Marawi seige
+- when combined with policy-change #6, spur critical thinking and raise the people's intellectual level by increasing the variety of abstract cognitive experiences
+- increase productivity by replacing formal prayer (with its overhead) with informal ideation 
+
+
+{{< q a="smith">}}
+The religious teachers' interested zeal can be dangerous when only one sect is tolerated or when the society is divided into two or three great sects.
+<cite>Wealth of Nations, Book 5, Chapter 1</cite>
+{{< /q >}}
+
+
+
+### 2. Single Citizenship and Leasehold (Heart)
+
+Dual citizenship allows a person to have a safety and revenue from another country while spending it in Maharlika where prices are lower. This builds his ego over the single-citizens who have no such safety nor overseas revenue.
+
+A clear example is how the owner of ABS-CBN disobeyed constitutional rules against foreign ownership of media<!--  in order to act as a kingmaker -->. 
+
+Removing dual citizenship thus gives the government power over its own citizens. It also prevents dual citizens from owning land and other assets which inflate those prices for single citizens. 
+
+Those ex-dual citizens will then be treated as foreign permanent residents who will have to sell their assets and pay for visa renewal and other restrictions.  **These will lower asset prices while giving more revenue to government to pay for the huge 12 trillion peso debt.** This policy thus **makes the rich pay for the debt**, in line with Adam Smith's taxation maxim quoted earlier. 
+
+{{< q >}}
+Dual allegiance of citizens is inimical to the national interest and shall be dealt with by law.
+<cite>1987 Constitution</cite>
+{{< /q >}}
+
+
+This policy also leads to leasehold and freehold system which is different from the private property system inherited from the US. This is important in calculating a 'just compensation" which will not be disadvantageous to the government. 
+
+{{< q >}}
+No Filipino shall establish laws on primogeniture, nor institutions restrictive of property rights.. without the consent of the Government
+<cite>1899 Malolos Constitution</cite>
+{{< /q >}}
+
+
+### 3. Federalism (Self-control)
+
+The Philippines currently has a unitary form of government because it followed administrative system established by the Spanish. The problem is that Maharlika was originally a confederation and without a single ruler. This is because **it is made up of many small islands and not a single land mass**.  
+
+{{< q >}}
+The Visayan settlements are along the coast are not connected by common jurisdiction. They are all independent.
+<cite>Chau Ju Kua, Chun Fan Chi Simplified</cite>
+{{< /q >}}
+
+<!--  [12th century Pre-colonial Philippines] -->
+
+A unitary government on such a land will lead to feudalism wherein the local governments act like vassals of imperial Manila (the capital of Maharlika). An example is how warlords were [allowed by the president to keep private armies](https://www.bbc.com/news/world-asia-pacific-11139653). 
+
+{{< q >}}
+In 2006, Mrs Arroyo issued an executive order legalising the informal private "armies" being kept by families like the Ampatuans.. legitimising their use as a means of local control.
+<cite>BBC News</cite>
+{{< /q >}}
+
+
+
+This contributes to rent-seeking and low productivity since the people are under a leader that owes his rule to Manila instead of the locals.
+
+Maharlikanism suggests a [federation of 27 states](/maharlika/governance/federalism) that will spur and maximize the productivity of the people. 
+
+The federal government will then be in charge of semi-state owned corporations that will build dams, power generation, and transportation infrastructure for the states. This is because large inftrastructure often crosses state lines.  
+- For example, each province should have its own powerplant run by the federal government with 10-90 to 30-70 equity split, with the larger belonging to investors who will provide the equipment and expertise. This will replace the centralized baseload configuration of the energy sector into a more diversified and independent one that can use solar, wind, geothermal, or hydro.   
+- In this way, only excess capacity will be routed to the centralized Wholesale Electricity Spot Market (WESM). In effect, this will reduce the impact of EPIRA and the influence of market forces (money) on the basic right to electricity.
+<!-- - Households and businesses can use their own solar power in the daytime and switch to the grid at night. This will remove the need for local batteries. -->
+
+
+###  4. Bicameral Parliament (Respect)
+
+The current political system has the president and vice president elected by popular vote. Such a system favors popular people instead of skilled ones.
+
+To solve this, we propose a [modified parliamentary system](/research/hume/essays/part-2/16) where:
+- the people elect local representatives
+- those representatives elect 27 senators, as well as parliamentarians for the National Assembly
+- those senators choose a president and a vice president from among themselves
+
+In this way, the representatives and senators can choose from themselves who would have the actual skills to lead the country.
+
+{{< q a="hume" >}}
+The  representatives will have all the legislative power. The votes on legislation will be decided by the majority. If these are equal, the senate will vote on it.
+<cite>David Hume, Idea of a Perfect Commonwealth</cite>
+{{< /q >}}
+
+
+
+### 5. Barter Trade (Cooperation-Bayanihan)
+
+<!-- The Chinese traders respected the barter economy of Maharlika for its fidelity.    -->
+
+The federalized system will be ideal for our proposed bayanihan barter economy which is based on [points as a store of value](/social/economics/solutions/bur/).
+
+A point is pegged to 1 kilogram of NFA rice. This will implement Adam Smith's [grain-based valuation](/social/economics/principles/effort-theory-of-value). This is superior to cryptocurrency and which is pegged to nothing. In fact, the chronic inflation from 2020 is caused by crypto*.
+
+
+> *Instead of people putting their money in the bank which the bank can lend to producers, they put their money into crypto which produces nothing and even wastes electricity. This waste and lack of production contributes to inflation. 
+
+
+
+A grain-based system will make the economy secure from inflation and financial crises, which we predict to happen in a few years. This system give importance to agriculture and will be the basis of the Maharlikan cooperative system.
+
+<!-- This makes it a kind of delayed barter system that is based on morals instead of money, specifically pakikipagkapwa. This would make entrepreneurship cheaper since morals (trust, integrity, honesty) are free yet very expensive. --> 
+
+According to [historian Chau Ju Kua](/research/chau-ju-kua/chun-fan-chi), barter was the natural commercial system in Maharlika. So far, barter is only legal in Sulu through the Mindanao Barter Council. 
+
+{{< q >}}
+The native traders will bring those goods to other islands for barter. It will take 8-9 months for them to return. They then repay the foreign merchants with what they had obtained for the goods.
+<cite>Chau Ju Kua [12th century Pre-colonial Philippines]</cite>
+{{< /q >}}
+
+
+This federal barter system can then be extended to foreign trade. Unknown to many, the British economist EF Schumacher proposed a similar international barter system called [multilateral clearing](https://centerforneweconomics.org/publications/multilateral-clearing/) wherein all countries act as one entity in a 'pool'. His system was his alternative to:
+- the currency union of the EU
+- the world trade system which uses the US Dollar as an international reserve currency.
+
+In Schumacher's system, the exports of Country A to Country B is paid for by the fund of Country A. This fund is replenished or paid back by exports to Country A. In this way, foreign trade becomes local trade, making trade wars obsolete. It will also help countries in the pool to industrialize or 'agriculturalize' faster. 
+
+
+
+{{< q a="EF-Schumacher" >}}
+Compared to free international convertibility of currencies, Pool Clearing offers one outstanding advantage: its inner mechanism overcomes temporary disequilibrium situations in international exchange by expansion instead of restriction.
+<cite>EF Schumacher</cite>
+{{< /q >}}
+
+<!-- in the pool act as one country   A competing with Country B, the foreign trade of both countries are unified as to act like local trade. In this way, a country can   -->
+
+The Philippines can implement multilateral clearing **to export its way to pay the Covid-19 debts** through the export of bananas, coconuts, and services. This will allow the government to free up its budget so that it can have money to incubate industry and continue the industrialization policies of Magsaysay and Garcia.
+
+![Bayanihan Economy](/graphics/bayanihan.jpg)
+
+
+
+
+### 6. Open Education Policy (Intellect)
+
+<!--  Science and Math -->
+
+<!-- Because of a mental staticity, Filipinos easily get into debt.
+- On a national level, this is seen as the huge debts of the Marcos and Duterte administrations
+- On a common level, this is seen in farmers getting into debt from loansharks 
+
+The debt is an effect of the lack of algebra ability. 
+
+People get tempted by having instant money now that is paid in small amounts over a long period. So they take the loan without making any fundamental changes to their circumstances due to a weak knowledge of the sciences. This leads to a loss which they have to pay with another debt, causing debt slavery.
+
+The West, Chinese, and Indians, on the other hand, have a culture of math. This allows them to be creditors. and feed off  the ignorance of people. This eventually leads On a national scale, this leads to debt traps where poor countries sell their lands and resources to foreign creditors. -->
+
+<!-- Advanced foreign cultures  can only be pushed by inviiting foregn educational system to establish themselves in Maharlika.  
+Removing the constitution -->
+
+
+The real advancement of the US, Europe, and Singapore comes from the multicultural, harmonious nature of their society. This diversity gives their people a wide range of cognitive experiences which builds diverse pathways in their brain, allowing them a wider range of ideas and mental processes. 
+
+This is embodied by the Romans who learned of different technologies from the tribes that they conquered. Likewise, the Meiji Japanese learned by sending their intellectuals to the West to learn modern ways.
+
+This is very different from Philippine mentality where students only want to graduate just to get it over with. 
+
+This Maharlikan policy calls for a repeal of Article 14 Section 4 Item 2 which is biased towards schools owned by religions. This repeal is consistent with the Open Religious Policy by adding schools, such as Chinese, Japanese, Korean, Islamic, and Hindu, that are not based on Western religion or culture.
+
+{{< q >}}
+Educational institutions, other than those established by religious groups and mission boards, shall be owned solely by citizens of the Philippines or corporations or associations at least 60% of the capital of which is owned by such citizens.
+<cite>1987 Constitution</cite>
+{{< /q >}}
+
+
+**The purpose is for the growth of intellect, culture, and employment.**
+
+For example, a Japanese school might set up a Philippine branch to bring elementary Japanese education to Filipinos who can eventually work in Japan armed with the proper language and cultural skills. The same is true for those who want to work in the Middle East, Hongkong, Singapore, etc.
+
+Such schools can be subsidized by their governments. In this way, **those countries share in the burden of educating the less-educated**. This leads to mutual benefit by raising the quality of OFWs. 
+
+Moreover, those students can add foreign ideas and skills to enrich the Maharlikan pool of talent. This will spur innovation which will then invite foreign capital naturally. This will also lead to hybrid cultures, food, music, arts, which can be used for tourism. 
+
+At the moment, the Philippines only has Western ideas and systems as a consequence of Spanish and American colonization. 
+
+<!-- A mad push for Science and Math is therefore essential to stop the loss of both economic and territorial sovereignty. Science can even be enshrined as its own religion: -->
+
+<!-- - Hierarchy is detremined by the number of degrees, Masters or Doctorates, as is done in the West, China, and Korea -->
+<!-- - Math Olympics and Quiz Bees would be given the same importance as the Olympics and Asian Games
+- The goal would not be just to graduate from university, but to graduate with the highest honors
+- "Smart-shaming" would be replaced by "Stupid-shaming" -->
+<!-- - The language of communication is made up of mathematical equation. 
+- It discriminates against stupidity, superstition, and myths -->
+<!-- , just as bigot Christians discriminate against Muslims and other religions -->
+
+<!-- This goes hand in hand with the open religious policy.  -->
+
+{{< q a="smith">}}
+The state should make the study of science and philosophy universal
+<cite>Wealth of Nations, Book 5, Chapter 1</cite>
+{{< /q >}}
+
+
+### 7. No Minimum Wage and Contractualization (Hard work)
+
+Contractualization is the effect of minimum wage. 
+
+To meet the high minimum wages, businesses reduce the benefits, leading to contractualization. This is because **there is not much productivity in the economy** to pay for both wages and benefits.
+
+This low productivity is in turn is caused by overpopulation:
+- Instead of one child getting money for tuition in a good school, having many children splits up the tuition as to afford only inferior schools, or even no education for the other children 
+- Instead of 100,000 workers using a train meant for 100,000 passengers to get to their workplace on time, a population of 400,000 will cause a congestion in transportation, causing a delay for all of them, reducing their productivity.  
+
+This overpopulation is caused by the Roman Catholic system*. The Philippine ban on population control leads to an oversupply of Filipinos which lowers productivity and makes them cheap. This causes them to move overseas as cheap labor, called Overseas Filipino Workers (OFWs). 
+
+
+{{< q a="mont" >}}
+The Romans therefore had laws against abortion but did not follow them.
+<cite>The Spirit of the Laws, Book 23, Chapter 22</cite>
+{{< /q >}}
+ 
+
+> *The Roman Empire relied on military dominance through its citizen-army. This is why it encouraged marriage and banned divorce among Romans and disproved of abortion. Maharlika is not an empire and so such Catholic policies are irrelevant. 
+
+
+
+{{< q a="smith" >}}
+Laws can never regulate wages properly, though it has often pretended to do so.
+<cite>The Wealth of Nations Simplified, Book 1, Chapter 8</cite>
+{{< /q >}}
+
+
+### 8.  Tree-Planting Employment (Environmentalism)
+
+Lastly, the environment should be enshrined because it is the most cost effective protection against global warming and natural disasters. 
+
+Currently, Western countries advocate massive spending on green energy to reduce greenhouse gas emissions. Such a solution really favors the finaciers and engineering companies who will prosper at the expense of taxpayers. 
+
+A more sustainable solution is to [use trees themselves to reduce greenhouse gases](https://www.nationalgeographic.com/environment/article/planting-trees-helps-fight-climate-change-but-we-need-billions-more-seedlings). Trees work for free and can maintain themselves after some time. 
+
+The government can barter food and other non-monetary items in exchange for the labor for tree-planting and maintenance (such as mangroves in coastal areas). This will:
+- drive employment while providing welfare, as an alternative to ayuda and univesal basic income 
+- enrich the soil naturally
+- prevent erosion and floods
+- raise land values
+
+
+{{< q a="hume" >}}
+Strabo says that the northern parts of Spain are ill inhabited because of the great cold. This means that Europe is become warmer than before. This warming is caused by the cultivation of land which causes woods to be cleared. The woods formerly shaded the earth and kept the rays of the sun from penetrating to it. Our northern colonies in America become more temperate as the woods are felled. 
+<cite>David Hume, Essay 11: The Populousness Of Ancient Nations</cite>
+{{< /q >}}
+
+<!--  General Goal: Sustainable Industrialization -->
+
+
+
+<!-- ## Long Term Goal: Colonization of Mars
+
+Our advocacy for science and math, under the system of Superphysics, is for the exploration of outer space and the colonization of Mars. 
+ -->
+
+<!-- 
+## Recapitalize Semi-State-Owned Corporations
+
+According to Adam Smith, public utilities should be state owned because these serve the essential needs of the people.  represent 
+ -->
+
+
+## How It Can Be Implemeted in 5 Phases
+
+The plan can be implemented in phases, just like what we suggested for [Afghanistan](/social/cycles/afghanistan) 
+
+
+Phase: Year | Policy 
+--- | ---
+Phase 1: 2022-2027 | Dual-citizenship is abolished to get revenue to capitalize semi-state-run utilities. Open religion, math-science advocacy, tree-planting are begun
+Phase 2: 2028-2033 | Constitution is changed to Maharlika, Parliamentary, and Federalism. Minimum Wage and Contractualization are abolished. Barter trade and barter taxation are legalized in a few places. Foreign investment in education can begin
+Phase 3: 2034-2039 | Barter taxation is expanded between states and used to reforest far flung areas
+Phase 4: 2040-2045 | The multicultural education system starts to drive innovation. Barter is expanded overseas. Manila becomes the headquarters of a World Barter Organization
+Phase 5: 2046-2051 | Advanced industries like space travel can commence
+
+
+By 2052, the problems of the Philippines will be finished and Maharlika will have arrived as an industrialized country or at least be closer to such a goal.
+
+
+
+
+
+
+
+---------------
+
+DUTERTENOMICS
+
+During his presidential campaign Duterte promised to give a comfortable life to the poor. However, the unstoppable rising prices* from 2020 directly contradict this promise since it makes life less comfortable.
+
+> *This inflation can be most easily reduced by a global ban on cryptocurreny mining and NFTs as explained [here](/social/economics/solutions/2020-inflation) 
+
+
+
+To see where the contradiction occurs, let's dissect Dutertenomics. Its most prominent parts are:
+
+- Build Build Build
+- TRAIN Law (This is higher taxation used to pay for Build Build Build)
+- Ease of business
+- Land Distribution
+- Continuation of *Pantawid Pamilya* of Noynoy Aquino
+
+These policies are consistent with the Keynesian doctrine, except for "Pantawid Pamilya" which is Conditional Cash Transfer (CCT), a modified version of Universal Basic Income (UBI) implemented by former President Noynoy Aquino.
+
+CCT is a neoliberal policy* that [helps development banks](/social/economics/solutions/how-to-solve-inequality) such as the World Bank by giving employment to the bank's consultants and its money. 
+
+> *The non-neoliberal, non-liberal financial way of poverty alleviation is called microfinance. The conservative way is welfare either by the state via social security or by religion via thites or forced donations.
+
+
+Likewise, tech startups lobby for UBI to give employment to themselves via blockchain and other fancy new technologies, even if there might be no added benefit for the poor.  
+
+
+<!-- *. This is proven by his original 10-point plan, as Dutertenomics. 
+
+> *Hugo Chavez also implemented pro-poor policies which slowly drained away Venezuela's wealth until everyone became poor. For the Philippines, the huge 11 trillion peso debt certainly look like the first steps towards a similar destiny 
+ -->
+<!-- - allowing overseas Filipino workers to return in 2020 during the pandemic
+  - This increased the Covid outbreak which crashed the economy. In contrast, Vietnam banned its own citizens from returning and was able to be Covid free in 2020
+- the other policies of NEDA -->
+
+<!-- Thus, Pantawid Pamilya is the first sign of policy inconsistency. Brazil's version is *Bolsa Familia* which was discontinued after it was proven that it had little effect on alleviating poverty.  -->
+
+The original Dutertenomics itself is quite limited, so it also absorbed the NEDA* plan called **Ambisyon Natin 2040**. It was created by Arsenio Balisacan of the neoliberal Philippine Competition Commission during Noynoy Aquino's administration.
+
+> *NEDA is the economic planning agency of the Philippine government. Ambisyon Natin 2040 is split into chunks called Philippine Development Plans, similar to Communist Five-Year Plans. The first plan is for 2017-2022. The next one is for 2023-2028.
+
+
+
+## [Ambisyon Natin 2040](https://2040.neda.gov.ph/about-ambisyon-natin-2040): Neoliberalism Under the Guise of Socialism
+
+This policy was formulated by interviewing 10,000 people around the nation, asking them what they and the country should achieve by 2040. Since the country is poor, then of course we can expect that the answers will reflect the shallow desires of poor people:
+- 79% want a comfortable life
+- 17% want a an affluent life
+
+<!-- 'Comfortable life' is then defined as having:
+- a medium-sized home (61%)
+- a car (59%)
+- college education (73%)
+- local vacation (84%)
+-->
+
+It revealed that the uneducated wanted to study: <!-- An alarming trend is the national preference of subjects to study, with --> 
+- teaching*
+- business administration
+- tourism
+- law
+
+> *Venezuela also spent a lot on teaching and social welfare through their Bolivarian programs, but is now dirt-poor. This is because we blindly expect teachers to teach the right things, not thinking that they could also teach the wrong things as well. 
+
+<!-- This teaching of wrong things probably helped Maduro retain power, since governance and subordination are all based on opinion.  -->
+
+Unfortunately, these subjects also lead to low-value services and employment (in red). Few people want to study the difficult subjects that lead to high value employment (in green).
+
+{{< img src="https://sorasystem.sirv.com/graphics/neda2.jpg" alt="NEDA" >}}
+
+
+Also alarming is the preference for cars over public transport such as buses and trains.
+
+{{< img src="https://sorasystem.sirv.com/graphics/nedatrain.jpg" alt="NEDA Train" >}}
+
+
+
+NEDA then built policies around this data:
+
+- It added more road projects under the Build, Build, Build program instead of creating a proper state-owned bus system (NEDA, as a neoliberal agency, might never allow anything state-owned)
+- It emphasized tourism and hospitality
+<!-- - shortened business registration -->
+- It ignored support for medical training and beefing up the healthcare system. Instead, it focused on the financial aspect of healthcare as health insurance through the Universal Healthcare Law<!--  which will drain the budget of 257 billion pesos --> <!-- which will need to be borrowed (utang) --><!-- this is probably from the 2010 nursing problem -->
+- It focused on rice tariffication to allow imports <!-- while building up rice production --> in the guise of lowering food prices to benefit the poor. This is classic neoliberalism
+
+As expected, these **backfired** when the unexpected pandemic hit:
+
+- The lockdowns prevented people from travelling and from using the new roads from Build Build Build
+- Tourism collapsed<!-- , rendering the public investment in it useless -->
+<!-- - a lot of businesses closed down -->
+- The lack of support for medical training led to a shortage of nurses, which made universal healthcare act irrelevant
+- Rice tariffication led to agircultural imports that did not reduce rice prices, but instead destroyed local agriculture <!-- which created anomalies in rice supply -->
+<!-- - , leading to the current high food prices -->
+
+
+## The NEDA Flaw: A Reverse Kind of Survivorship Bias
+
+The glaring error with the NEDA plan was that **it created economic policy from interviews with the people**. The problem is that a poor country like the Philippines will likely be full of poor people. **If you ask poor people what they want, then they will give answers that will propagate the same poverty**.
+
+NEDA's mistake is a kind of [survivorship bias](https://en.wikipedia.org/wiki/Survivorship_bias)*.
+
+
+{{< img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Survivorship-bias.svg/220px-Survivorship-bias.svg.png" >}}
+
+
+> *Researchers in the UK in World War 2 observed that the returning British bombers had parts of their wings missing. The Americans wrongly advised that armor should be added to those parts. But Hungarian mathematician Abraham Wald argued the opposite, that armor should be added to the non-missing wing parts. The Americans were looking at the effect, while Wald was looking at the cause. 
+
+
+An easy proof of this bias is the national preference for subjects like teaching, lawyering, tourism, and business administration that lead to low value jobs. Are Germany, Japan, South Korea known for their teachers, lawyers, tourism, or accountants? No. They're known for their advanced manfuacturing as Siemens, Hyundai, and Mitsubishi.
+
+> *Tito Sotto is correct in saying that the country already has too many lawyers. Yet, public policy does nothing to discourage law schools or to make the bar exam more selective and restrictive <!--  the NEDA interview says that more people want to be lawyers than nurses. This is because nursing is hard work and low pay, while lawyering is easier. --> 
+
+
+Another proof is the preference for cars over public transport. Did Japan, France, and Singapore solve their public transportation by allowing cars as a public policy? No. In fact, they had the opposite policy which oppressed car owners with high taxes and built subways and *shinkansen* instead of freeways. 
+
+**By implementing policies that are OPPOSITE of what poor people want, the Japanese, Singaporeans, French, and Germans are actually able to have a more COMFORTABLE life.** 
+
+**By implementing policies the poor people want, Venezuela and Brazil put themselves into POVERTY.** 
+
+
+## More Proof of Ignorance of Policymakers
+
+NEDA policy builds a lot of roads to address the demand for cars. They never think that if their policy succeeds then more people will actually own cars. **These cars will then flood the new roads to create new traffic jams!** 
+
+<!-- and there will be traffic again -- all the huge debt for Build Build Build would have been for little gain --><!--  led to the same problem.  -->
+
+If policymakers just let people have their way, then the nation will degenerate quickly with everyone buying cars, flocking to easy jobs, and no one* doing the difficult or low-paying ones. 
+
+> *This is seen in the lack of local vaccine manufacturing, simply because only a few people ever wanted to study virology <!-- and have been brained drained -->
+<!-- no one  -->
+
+ <!-- Build Build Build construction projects being done by Chinese contractors instead of local ones, simply because few locals took the time and effort to learn new construction techniques, or have been brain-drained away -->
+
+If everyone wants to be a singer, boxer, or online seller, then who will plant crops, build the power plants, do the medical services, or create vaccines?
+
+If few people plant crops, build power plants, hospitals, and vaccines, then those goods and services will have a shortage.
+
+If there is a shortage then their prices rise and there will be more Pharmally-style importation<!--  like  wherein foreigners use taxpayer money to buy Lamborghinis -->. 
+
+If their prices rise then life would not be comfortable, violating the very goal of the policy.
+
+
+Thus, **Ambisyon Natin 2040 naturally goes against itself**
+
+
+Proof of this is **the collapse of the economy in 2020** which NEDA says is expected to recover only after 10 long years. They blame the pandemic instead of themselves. This is absurd since the economy of other countries are not so badly affected. Even poor Cuba, heavily embargoed by the US, is able to make Covid vaccines simply because the government encouraged more people to study difficult subjects.  
+
+<!-- The only solution of NEDA and the Department of Finance is to borrow money -- **the same measure that Marcos took to fix the flawed policies of Virata and Ongpin**! -->
+
+Ambisyon 2040 is still consistent with our earlier observation that [local policymakers, whether liberal 'dilawan' or nationalist 'loyalista', are ignorant of cause and effect](/maharlika/history/golden-years-marcos). This ignorance seemed to begin in the early 1960s after the presidency of Magsaysay* and Garcia who still had the right policies. 
+
+> *Magsaysay for example fought against the pro-American Bell Trade act,  whereas Macapagal blindly accepted the pro-American decontrol policy of 1962. The decontrol destroyed local industrialization and allowed the country to get in debt with the IMF -- a practice carried to perfection by Marcos and Latin American dictators 
+
+<!-- , even among the educated Virata, Ongpin, Purisima, Dominguez, Pernia, and Chua then lead to the wrong policies which then cause the country to stay largely poor from 1974 to 2021. -->
+
+<!-- Just ask anyone if they are comfortable -->
+
+
+
+## Evil Rice Tariffication
+
+The Rice Tariffication Law is the single biggest mistake of the Philippine Development Plan 2017-2022 of Ambisyon Natin. It began with the rice crisis of September 2018 as the rapid increase in the prices of rice. But this was a natural consequence of the increased taxes from the TRAIN tax reform which was supported by NEDA itself.
+
+{{< img src="https://sorasystem.sirv.com/photos/farmer.jpg" alt="A farmer" >}}
+
+
+
+Instead of strengthening NFA* to deal with the crisis, the Senate and Lower House actually destroyed it through the Rice Tariffication Law (RTL) in order to allow rice importation. 
+
+{{< img src="https://sorasystem.sirv.com/icons/wtf.png" alt="nfa wtf" >}}
+
+> *NFA is the National Food Authority which is the government agency that buys and stores rice 
+
+The Masterminds of RTL were familiar names: 
+- Cynthia Villar
+- Grace Poe
+- Joel Villanueva
+- Jose Panganiban
+- Kiko Pangilinan
+- Leila de Lima
+- Ralph Recto
+- Risa Hontiveros
+- Sharon Garin 
+- Win Gatchalian
+- [Gloria Macapagal-Arroyo](https://www.gmanetwork.com/news/money/economy/685184/arroyo-welcomes-signing-of-rice-tariffication-law/story/)
+<!-- - Tomas Villarin
+- Horacio Suansing Jr
+- Estrellita Suansing -->
+
+
+{{< img src="https://res.cloudinary.com/nara/image/upload/v1632384188/photos/gma800.jpg" alt="Gloria Macapagal Arroyo" cap="According to our model, Duterte-Marcos is enough to stay in power without having to include neoliberal Arroyo (via Duque and Cusi) since the neoliberal cycle is finished." >}}
+
+<!-- Had Duterte dropped Duque during the pandemic, his approval ratings would not have dipped in 2020 and 2021. Duterte's unnecessary reliance on Arroyo is proof of her genius
+ -->
+
+
+The lawmakers thought, that by removing quotas and imposing a tiny 35% tariff that went to local farmers, local rice production would increase as to reduce the price of rice. 
+
+In reality, the warehouses didn't bother buying from scattered local producers* and instead bought in bulk from a single importer, gaining from economies of scale. Without buyers for local rice, the local farmers had a glut of unsold rice. <!-- were already full of foreign rice and so the local rice could not be sold.  -->This is similar to local carrots not finding a market because the market was already occupied by Chinese carrots which could be bought by warehouses easily in bulk.
+
+
+> *The error of the proponent of RTL was to apply [equilibrium theory (1.5 mb pdf)](https://www.phcc.gov.ph/wp-content/uploads/2019/03/Issues-Paper-Rice-030819-cover-1.pdf) on a basic seasonal necessity such as rice. This is the same error that liberalized California's power industry as the energy spot-market, that led to their energy crisis. Gloria Macapagal-Arroyo imported this scheme to create EPIRA that regularly brings power outages and price spikes.
+
+
+
+Didn't the lawmakers know that the secret to rice and agricultural self-sufficiency is for the government to control all parts of the chain from production, transportation, milling, warehousing, wholesaling, and even exporting? 
+
+Didn't they know that this is what Vietnam does with state-owned Vinafood which allows them to export rice cheaply to the world?
+
+<!-- Didn't they know that the Philippines is among the largest rice importers in the world, and is Vietnam's biggest customer?  -->
+
+Didn't they know that Marcos replicated this with the NFA (milling), Food Terminal Inc as FTI (storage), and Kadiwa stores (retail) which allowed the country to export rice in the past?
+
+
+## The Problem with Neoliberal Keynesianism
+
+These problems are really rooted in the flawed assumptions of Keynesianism which spread after the 2008 Financial Crisis. Because of the doctrine of profit maximization, the burden of driving growth fell to the government which had to build huge projects, get debt, then raise taxes to pay for that debt. 
+
+In the case of Dutertenomics, TRAIN and food importation (Rice Tarrification) was used to pay for Build Build Build. It oppresses consumers and farmers to support the construction industry. It is not a growth that is inclusive nor balanced.
+
+
+Our social cycles model predicts that the pandemic will last a long time, yet NEDA and lawmakers are still acting like the old normal. They have not scrapped their old neoliberal ways and still think that market forces will somehow relieve the people of their suffering.
+
+Market forces cannot solve the current economic problems of the Philippines because such forces are based on **selfish-interest**, while the alleviation of the suffering of others is a **selfless-interest**. *A person, policy, or system cannot be selfish and selfless at the same time!*
+
+Pharmally was able to buy Lamborghinis simply because it used the market forces of supply, demand, and financing to its private advantage, at the expense of a huge public debt which has to be paid by future generations. 
+
+In fact, the pandemic has proven that nationalized basics* via semi-state-owned corporations are the way of the future, as proven by China and Singapore**. 
+
+> *Healthcare, Power, Water, Telecoms, Public transportation
+
+> **Singapore has the best healthcare in the world, with 80% of its people using government-owned hospitals, and the rest using private hospitals like Raffles Medical
+
+Only the close coordination of various essential services can create a society strong enough to weather the shocks from global warming caused by the selfish <!-- winner-take-all --> behavior of market forces. This close coordination can only be done by the government which is supposed to have the public interest. 
+
+
+{{< q a="smith" >}}
+<p>Government management of mercantile projects like this requires orderly, vigilant, and parsimonious administration, like those in Venice and Amsterdam..The post office is properly a mercantile project. Its capital is not very big. There is no mystery in the business. The returns are certain and immediate.</p>
+<cite>The Wealth of Nations, Book 5</cite>
+{{< /q >}}
+
+
+Our next post will explain how to implement this solution and overhaul Ambisyon 2040 into Maharlika 2050.   
+
+<!-- Didn't they know that expensive infrastructure projects are only justified if  -->
+
+
+
+<!-- Why did Duterte not veto this bill? Could it be because it was actually supported by his own NEDA which is infested with neoliberals?  -->
+
+<!-- Why didn't he just use his military to arrest the smugglers and cartels citing economic sabotage? --> 
+
+<!-- Could it be because he was ignorant of food policy in the same way that he was ignorant about Covid response and so he had to rely on 'health experts' such as the IATF which had flip-flopping policies*? -->
+
+<!-- > *Miriam Defensor-Santiago filed Senate Bill 1573 "Pandemic and All-Hazards Prepareness Act" on September 5, 2013 but was ignored by the same despicable senate that made the Rice Tariffication Law -->
+
+
+
+<!-- ## The Pandemic Will Make Neoliberalism Obsolete Eventually
+
+The people **should avoid voting for those people who created the Rice Tariffication Law**. A quick workaround would be to:
+- raise the tariffs to 700% like what Japan does, instead of the current 35% or 100%. Adam smith would call this 'taxation to the point of prohibition'
+- use the tax revenue to rebuild NFA, FTI, and Kadiwa into a state-owned corporation directly under the executive or as an independent consitutional body
+- remove neoliberals from policymaking that involves basic essentials. This would be more realistic if the NFA were a separate constitional body like the Comelec -->
+
+<!-- Duterte won by landslide in 2016 thanks to his anti-drug and anti-corruption campaign. He promised to get rid of drugs and corruption in a few months, not knowing that [the country's metaphysics](/articles/metaphysics) actually caused those problems naturally.
+
+His solution was to:
+- weed out corrupt government officials by firing them, and
+- eliminate the drug trade by killing the drug dealers and drug lords. 
+
+These are shallow solutions that focus on the effect instead of the cause. Duterte never thought that:
+- the corruption was created by the morals of American materialism which ascribed goodness to riches
+- the drug trade was created by the desire for drugs which was encouraged by American liberalism
+
+Proof is that during the Spanish times, the problem was only corruption, through the friars, (from the Spanish and the Church) and not drugs. This is because the Spanish imposed Catholic morals which empowered the Church, but went against drugs. South America was colonized by both Spain and America (Bay of Pigs, Nicaraguan Contras) and also have a corruption and drug problem much worse than the Philippines. 
+
+![Conquistador](https://sorasystem.sirv.com/photos/medieval/spanishconquest2.jpg)
+
+<br>
+
+### Police Empowerment Without a Parallel Enforcement of Morality
+
+Policies that only deal with effects, and not the cause, will require constant work by law enforcement. It would be like a boat with a leaky hull that is solved by scooping out the water instead of plugging the leaks. This explains why Duterte has to raise the salaries of the police and military to keep them working on the drug problem. 
+
+The Roman Empire also did the same thing by raising the salaries of centurions and the Pretorian guards. This led to constant coups whenever the emperors couldn't raise them any longer. In fact, Rome had a year where they switched between five emperors! 
+
+Liberals properly fear this and is why they are going against the anti-terror bill, as well as the empowerment given to the police and military. This fear is justified by the abuses of the police who kill people arbitrarily, such as the one who shot and killed a mother and her son on video in broad daylight. 
+
+The only solution of Duterte is to blame those erring policemen as 'defects' of the Police Academy. At the moment, it is only Duterte's iron will that keeps the military and police from going back to their old corrupt ways*.
+
+> *Crime and abuse are ultimately moral issues, to which our solution is a set of Constitutional Virtues. Britain also had a similar case wherein a police officer raped and killed a woman. This is proof that such a moral problem exists in rich and poor countries alike. 
+
+After Duterte is gone, who will check an empowered military and police elite? -->
+
+
+<!-- Oct 11, 2016 Ambisyon 
+1 ?
+2 tax
+3 ease of business
+4 infra
+5 rural enterprise
+6 land tenure
+7 edu
+8 scitech
+9 CCT
+10 repro -->

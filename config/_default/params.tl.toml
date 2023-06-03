@@ -1,6 +1,6 @@
 isQuirksMode = true     # set value to true will throw error as warning when building site, or as error
 
-contact_form =  "https://hub.pantrypoints.com/api/email"
+contact_form =  "https://isaiah.pantrypoints.com/api/email"
 
 [latests]
     [latests.c]
