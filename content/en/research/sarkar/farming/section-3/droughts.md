@@ -42,11 +42,14 @@ The paths of some comets are predetermined. <!--  and astronomers can ascertain 
 
 When there is the sudden appearance of powerful celestial bodies or a sudden change in their angle of rotation, **their gravitational pull may disturb the seasons and the natural order of creation**. 
 - For example, as a result of the strong gravitational pull of a powerful comet or meteor, clouds may not be formed.
-- This phenomenon is called bakudashá in Sanskrit.
+- This phenomenon is called *bakudashá* in Sanskrit.
 
 **Certain deviations of celestial bodies like meteors, comets and satellites take place due to the concentration of a huge number of positive and negative microvita.** 
-- **Movement in universal space is subject to the movement of positive and negative microvita.** 
+- **Movement in universal space is subject to the movement of positive and negative microvita.** *
 - This also affects life on earth.
+
+> *Superphysics Note: This is the pure aether in living form, having more of Shiva
+
 
 The angularity of the movement of celestial bodies also affects the minds of human beings. 
 
