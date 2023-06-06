@@ -3,7 +3,7 @@ title: "The corruption of philosophy"
 description: "If another habit previously occupied the place of that habit, the subsequent habit has not enough room to develop"
 image: "/covers/muq.jpg"
 icon: "/icons/ibn.jpg"
-heading: "Part 29b"
+heading: "Part 30"
 weight: 94
 ---
 

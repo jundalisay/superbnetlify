@@ -1,111 +1,132 @@
 ---
-heading: "Chapter 10c"
-title: "The Saturn Line Defets Between 30-45"
-weight: 58
+heading: "Chapter 10b"
+title: "Defects in the Saturn Line "
+weight: 56
 author: William Benham
 image: "/covers/reading.png"
-description: "The Saturn line is frequently called the line of Fate."
+description: "All defects found in the beginning of the Saturn line refer to the childhood of the subject, and daring this period the child is too young to do much by himself, either toward improving or hindering his condition"
 ---
 
 
-In most hands, there are 2 places where the Saturn line shows the greatest number of defects or difficulties.
+All defects in the Saturn line are important, for they show:
+- how many and what kind of impediments will occur in the subject's life
+- how serious they will be
 
-1. At the start of the line, which period covers events brought into the child's life by his parents, and which show the manner in which he is started in life. 
+The cause producing most of these <!-- checks --> defects can be located in various parts of the hand. It is possible to remedy or avoid a good many of them. 
 
-If the Saturn line at this period is deep and strong, he will have little difficulty in getting started in life. 
+All defects found in the beginning of the Saturn line refer to the childhood of the subject, and daring this period the child is too young to do much by himself, either toward improving or hindering his condition. 
 
-Usually, those who have the best kind of a start often fall into trouble later on because they never experienced adversity. 
-- They do not know how to act under adversity and how to take its consequent hard knocks.
+Consequently, all defects or impediments to childhood are either the result of ill-health, or come from paternal influences, both of which are beyond the power of the child to control. 
 
-There seems to be a given amount of experience necessary to each individual, and if he does not receive this at one time he does at another. 
+The death of parents, their financial difficulty occurring at this time, or estrangements which may occur between the parents, are all possibilities and are all causes, which will check the prosperous career of a child, whose start in life may thus be impeded by these conditions. 
 
-Those hands on which the Saturn line is defective at the start, generally improve, for the subject having adversity when young, early learns to avoid the dangers that beset him and becomes able to do for himself.
+So, when we see a Saturn line defective at the start, but growing deep and well cut (358), we know that, whatever the cause of the trouble at the beginning, it has been overcome. 
 
-2. The age between 30-45
+Such a line shows either that the improved condition arises from the removal of the causes which were operating against the subject, or that he has himself risen superior to the obstacles. 
 
-In most hands, this fills the period or space between the Head and Heart lines. 
+It makes no difference as to the character of the defect which appears in the beginning of a Saturn line, the general rule is the same. It indicates an impediment to the early years of the subject. 
 
-This is the critical time in most business careers, and is the formative financial period in life. 
+If a short Influence line on the Mount of Venus end in a star, and the Saturn line be chained at the beginning, the death of a parent has clouded the early career of the subject (359). The age at which this parent died can be read from the distance the star reaches on the Life line. 
 
-In most hands before this age the subject has been cared for and guided by parents or relatives. As the time approaches when these aids are no longer so closely depended upon, the subject begins to be guided by his own ideas. 
+The date at which the improvement in the affairs of the subject occurred can be read from the line of Saturn. If a short line of Influence end in a star and a Worry line run from it and cut a rising branch on the Life line ending in an island on the line of Head (360), the death of a parent has brought on a check to the upward course of the subject's life which has affected his mental strength, and thus checked and retarded his career. 
 
-If these be good, he gets along all right, but if he believes that the experience of others will not apply to him, he will have disappointments, and will have to "pay for his experience." During the period of life indicated by the space between the Head and Heart lines, sometimes beginning earlier than this, the greatest number of defects are generally seen in the Saturu line. 
+<!-- The Line Of Saturn Part 3 509 No. 358. The Line Of Saturn Part 3 510 No. 359. The Line Of Saturn Part 3 511 No. 360.  -->
 
-Between childhood and 25 years old, most Saturn lines are deep. 
+Islands in the Saturn line (361) have very generally received the interpretation of a check to the career, arising from the marital infidelity or moral depravity of the subject. It was recognized by older palmists that islands always indicated trouble, and as the above reading of immorality originated in lands where virtue among women was rarer than in this country, it was seen on the hands of many women who had bad reputations and ruined and checkered careers. 
 
-Many hands has defective Saturn lines from 30-45 (393). 
+These women being known to be profligate, this interpretation of immorality was given the island in the line of Saturn. This indication has caused much discussion among palmists, and much confusion and error among practitioners. 
 
-It often becomes good afterwards, and often no Hue is seen after 45. 
+After careful study of the subject, I can say that an island in the Saturn line indicates a period of financial difficulty, lasting the length of the island, and that the marking is not per se an indication of infidelity. 
 
-All of the defects seen during thirty to forty-6ve years are disastrous in proportion as they are destructive to the line of Saturu, and must be so estimated. 
+This conclusion has been reached after the examination of hundreds of hands having such a marking, in which financial trouble or losses have been completely verified, and in which only a few cases of infidelity were found accompanying it. In these latter cases I am sure that the infidelity caused the financial trouble. 
 
-Often the line gets thin as it approaches the Head line, and often the breaks and defects come into a deep strong line. When the entire space between the Head and Heart lines is filled with an island, there will be continuous financial difficulty during all of these years (394). If during this period the line be wavy, the career at this time will be variable (395). If in this portion of the line a break should be repaired by a square, one side of which continues, the subject will have a serious reverse at the age indicated, but will be able to get through it (396)- 
+<!-- The Line Of Saturn Part 4 512 No. 361.  -->
 
-If the Saturn lines between Head and Heart line be covered with crosses, the subject will have repeated reverses which he will withstand if the line continues after this period, but which will overcome him if it does not (397). If this portion of the Saturn line be cut with cross-bars, the subject will meet with obstacles to his career (398). 
+An island, if found at the beginning of the Saturn line, could not indicate infidelity of the subject, for he is then too young to make such a thing possible. Financial difficulty might be present in his life through a difficulty of bis parents. If such be the case, Worry lines will often be seen running from Influence lines on the Mount of Venus, to the island in Saturn line (362). 
 
-If the line cuts through these bars and severs them, the subject will overcome the difficulties; but if these bars cut the Saturn line he will have great difficulty in doing so. If this portion of the Saturn line be cut by chance lines from the Head line, the difficulties will arise from errors of judgment (399).
+If tie Life line be defective at the beginning, either broad and shallow, chained, islanded, split or broken, and if this continue past the period covered by the delicacy of childhood usually seen in this line, and if an island be also seen in the beginning of the Saturn line, the prolonged delicacy of the subject's health will cause difficulty in early life, and will last until the Saturn line grows better (363). 
 
-If the Saturn line during this period be cut by chance lines from the Heart line, the subject permits his affections to get the better of him, and sentiment in business is disastrous (400). If the Life line be defective, and chance lines from it cut the Saturn line at the period between thirty and forty-five, ill health has obstructed the career during the financial formative period (401). If an Influence line on Mount of Venus ends in a star, and a Worry line from it cuts the Saturn line between the lines of Head and Life, the death of a relative will obstruct the career at this period (402). If this Worry line cuts a rising line from the Life line, the death of a relative will bring on a check to the upward career of the subject (403). It must be understood that defects in any part of the line must be read at the age they occur. 
+If the Head line be defective early in its course, with an island at the beginning of the line of Saturn (364), poor mentality will be the impediment which is Causing the check to the career of the subject. 
 
-<!-- The Line Of Saturn Part 6 543 No. 392. The Line Of Saturn Part 6 544 No. 393. The Line Of Saturn Part 6 545 No. 394. The Line Of Saturn Part 6 546 No. 395. The Line Of Saturn Part 6 547 No. 396. The Line Of Saturn Part 6 548 No. 397. The Line Of Saturn Part 6 549 No. 398. The Line Of Saturn Part 6 550 No. 399. The Line Of Saturn Part 6 551 No. 400. The Line Of Saturn Part 6 552 No. 401. The Line Of Saturn Part 6 553 No. 402. The Line Of Saturn Part 6 554 No. 403.  -->
+In these cases of ill health the Life line and other parts of the hand will be weak in sympathy. If a short Influence line on the Mount of Venus end with a star, with an island in the line of Saturn at its beginning, the death of a parent will cause financial difficulty during early life (365). This indication is intensified if Worry lines run to the island from this star. 
 
-All lines do not show all of their defects in childhood or the formative period. I emphasize these two periods because they are most frequently found defective, but the indications given for those parts of the line apply to any defective period, and all supports or strengthening influences act equally well upon any portion of the line. It has been customary to read any line rising at the base of the hand and running to the various Mounts as a Saturn line, with success coming from the attributes of the Mount on which it terminates. The Saturn line cannot end on any Mount but Saturn, with the one exception that it may run to Jupiter. 
+<!-- The Line Of Saturn Part 4 513 No. 362. The Line Of Saturn Part 4 514 NO, 363.  The Line Of Saturn Part 4 515 No. 364.  -->
 
-If the Saturn line runs through its usual course in the centre of the hand and ends on the Mount of Jupiter, the success of the subject will be the result of great ambition (404). If the Saturn line be deep and rises from inside the Life line ending on the Mount of Jupiter, the influence of relatives and great ambition unite to make the career of the subject a success (405). If the Saturn line rises inside the Life line runs deep for a while and then becomes defective, the assistance of relatives and ambition help for a while, but do not bring ultimate success (406). 
+If Worry lines run from Influence lines on Mount of Venus to an island at the beginning of the Saturn line, constant annoyances in the early life of the subject bring about a check to his career (366). This shows quite plainly, for these Worry lines cut the Life line and point to the effect they produce by the island on the Saturn line. With all islands at the beginning of the Saturn line, there is an explanation somewhere in the hand as to the cause which produces them. There is no element of chance in this indication other than health or heredity, and the cause can be found if you apply diligence and good reasoning. 
 
-At the point where the ill success begins, look for a cause. This may be ill health, loss of mental power, unhappy environment, or some special disease. If such a Saturn line be seen, and a Worry line, cutting a rising line from the Life line, crosses the hand and cuts a forked line of Affection, an unhappy marriage has injured the prospects of the subject (407). In the same manner the death of a relative, outside influences, ill health, will be shown by chance lines running from the cause of the trouble and cutting the Saturn line. Sometimes bad defects are seen, but chance lines do not connect them with the Saturn line. 
+When an island in this location is seen, go over every line in the hand and hunt for defects. Go over the Influence lines on Mount of Venus to discover what part relatives may play ; look to the Mounts for health defects of all the types, and for chance lines pointing from these defects to the island. In this way the cause of trouble can be found. 
 
-These defects are, however, the cause of the trouble. If a Saturn line rises on the Mount of the Moon and runs deep and strong to the Mount of Jupiter, the influence of one of the opposite sex together with the great ambition of the subject cause his prosperity (408). If the confirmations of marriage be present, the influence will be husband or wife.
+<!-- The Line Of Saturn Part 4 516 No. 365. The Line Of Saturn Part 4 517 No. 365. The Line Of Saturn Part 4 518 No. 367.  -->
 
-If a Saturn line running in this manner be defective in any part, the combination of influences has not been sufficient to prevent trouble. When a line rises at the base of the hand and runs to the Mount of Apollo or Mercury, I regard it as the line belonging to the Mount toward which it runs, and not the Saturn line. 
+Cross-bars cutting the Saturn line (367) are obstructions to the career of the subject. Each one of the bars is a separate obstruction, and by noting the depth of each you can tell how serious it is. If only faint lines which do not cut through the Saturn line but pass over it, they indicate continual annoying interferences and impediments. 
 
-A line running toward Upper Mars is also likely to be the Mercury line, consequently in practice it is best to consider as a line of Saturn, only lines which run through the centre of the hand. If such lines are then deflected toward the Mounts, it is proper to read them as Saturn lines, strongly influenced by the Mount to which they run (409). 
+If they cut the line in two, they are serious checks which threaten to destroy the success of the subject. The age at which each of these interferences occurs can be read from the Saturn line, their seriousness by the depth of the cutting line, their cause from other lines and signs, and their outcome by the termination of the Saturn line. 
 
-If such a Saturu line ends on Upper Mars, the subject will achieve success from his leadership, power of resistance, and because he does not become discouraged (410). All of these indications will be accented if the Mounts be large and well developed. If the Saturn line runs in its usual course, but a line branches from it to Mount of Jupiter, the subject's success will be largely their due to ambition and ability to command men and obtain support. 
+Breaks in the line (368) are most serious. At the time they occur some force has been sufficiently strong to check the career entirely, and if the line takes a new character, starts in a new direction, or does not start at all, these breaks indicate an entire change in the course of a subject's life-work. If the Saturn line be repeatedly broken it indicates a continual number of reverses, and the subject will have a laborious and troubled life. Each break indicates a different misfortune, and is more or less serious as the break is wide or is repaired. 
 
-Such a line is a fine one for a politician (411). If a Saturn line which runs to the Mount of Saturu have a branch rising to the Mount of Apollo, the subject will win success in art, business, or as an actor, according to which phalanx of the Apollo finger rules (412). If a Saturn line have one branch rising to Jupiter, and one to Apollo, the subject will have an assured future of wealth and fame, for ambition and the Jupiterian attributes, the wisdom of Saturn, with brilliancy, art, and business from Apollo, are all united to assist him to a rich harvest (413). This is the most favorable combination possible. If the Saturn line have a branch rising to Mercury, the subject will have the assistance of shrewdness, business ability, good power of expression, and a scientific turn of mind to assist in his success (414). If a Saturn line have a branch rising and joining but not cutting the Head line, the subject will have the assistance of a good head in the shaping of his career (415). 
+The age of each break can be read from the Saturn line. If the line be broken in many places but is repaired (369), the subject after numerous disappointments will fight his way eventually to success. It will be a continual fight, however, and such a subject will require great will power to carry him along. With breaks in the Saturn line both hands should always be examined, for from them you will read whether all of the impediments in the line are a part of the natural plan or are the result of acquired habits, mistakes of calculation, ill health, or other causes. 
 
-<!-- The Line Of Saturn Part 7 555 No. 404. The Line Of Saturn Part 7 556 No. 406. The Line Of Saturn Part 7 557 No. 406. The Line Of Saturn Part 7 558 No. 407. The Line Of Saturn Part 7 559 No. 408. The Line Of Saturn Part 7 560 No. 409. The Line Of Saturn Part 7 561 No. 410. The Line Of Saturn Part 7 562 No. 411. The Line Of Saturn Part 7 563 No. 412.  -->
+In a large majority of cases, the Saturn line is much better in the left than in the right hand.
+- It shows that many of our trials are brought on by ourselves. 
 
-The termination of the line will show the outcome of the career.
-
-In many hands, the line does not reach the Mount of Saturn but ends somewhere below it. 
-
-Indicating as it does the periods of productive capacity, it is not strange that it should be absent in old age, for at this time disease or delicacy generally makes the career negative. The presence of a Mount without a line shows at least that no forces are working against the subject, and if the line be good in its early course it shows that a productive life is behind him, and it will be found that he is enjoying in old age the result of his early labors. 
-
-On some Mounts a deep line is seen. This is a strong indication of well-to-do old age. 
-
-In any event the point at which the line ceases, be it in youth or old age, terminates our work with it, except that we can say to those whose line has stopped and no other has taken its place, that the future is as they make it.
-
-If a deep line runs only for 25 years, the subject can be promised a productive period only during that time; the period after it, is as be makes it by effort. 
-
-<!-- The Line Of Saturn Part 7 564 No. 413. The Line Of Saturn Part 7 565 No. 414. The Line Of Saturn Part 7 566 No. 415.  -->
-
-If the line runs deep for part of the way and terminates in a wavy line (416):
-- the career during the latter years will be uncertain
-- there will be worries in old age. 
-
-These defective terminations on the Mount may not mean poverty or money losses in old age. But they may mean financial checks to the career from disappointments in children, or similar troubles. 
-
-I mention this in order to warn against reading defective terminations as necessarily meaning poverty when the Saturn line has previously been deep for its entire course. 
-
-Breaks in the line, bars cutting it, crosses or dots following a hitherto deep line, will indicate trials and crosses in old age. If the Saturn line breaks on the Mount, and the Life, Head, and Heart lines be defective at the same age, ill health in old age will render the last days ones of trouble (417). 
-
-If the Saturn line end in an island and downward branches be seen on the Life line with a long tassel, financial difficulties due to ill health will cloud the last days of the subject (418). 
-
-If the line be crossed by bars which cut it on the Mount, the subject will suffer losses and trials in old age (419). If the bars be faint and do not cut the line they are troubles and worries. If the line has crosses on the Mount, great trials and misfortunes will harass the latter years of the subject (420). 
-
-All of these terminations apply to the line on the Mount of Saturn, and have their various indications in old age. If the line terminate in these signs at any age the reading will be the same, except that it applies to the age indicated on the line at the time at which it occurs. If the line be defective during its entire course and terminates in any of these signs, the indication will be worse than when these markings terminate a deep line, for in the first instance the subject will not have a prosperous life behind him, during which he might have provided for old age. No. 421 will give various examples of such defective lines. 
-
-The Line Of Saturn Part 8 567 No. 416. The Line Of Saturn Part 8 568 No. 417. The Line Of Saturn Part 8 569 No. 418. 
-
-<!-- The Line Of Saturn Part 8 570 No. 419. The Line Of Saturn Part 8 571 No. 420. The Line Of Saturn Part 8 572 No. 421. 
-
-We have now followed the Saturn line from babyhood to extreme old age, and have seen how it records success and failure, as well as the causes which have produced them. It is poor consolation for one to look back upon a life of meagre fruitage and say, -->
+If a line of Saturn be uneven (370), alternately deep and thin in character, the subject will have intermittent periods of prosperity.
+- It indicates an unreliable and varying state of affairs. 
+- He must use continual watchfulness in order so that what he gained will not be lost during the periods of the thinness of the line
 
 
-People will say "If I had only known the productive periods, the end might have been different." 
+If the line of Saturn is wavy (371), the subject will follow a constantly changing course. 
+<!-- The Line Of Saturn Part 4 519 No. 368. The Line Of Saturn Part 4 520 No. 369. The Line Of Saturn Part 4 521 No. 370. The Line Of Saturn Part 4 522 No. 371. --> 
+- If, in addition to its wavy course, this line be uneven or defective in other ways, the subject will have increased difficulty in his journey through life. 
 
-This<!--  oft-repeated exclamation --> is sadly true, for in only few lives are productive periods taken advantage of in their fullest measure. 
+If a line of Saturn begins deep at the base, and runs to the line of Head and there stops (372), the career of the subject will be favorable up to 30, when errors of judgment will interfere. 
+- From that time he will have a harder time to get along; 
+- He must rely entirely upon effort, not chance, and do the best he can to force his way. 
+- His period of greatest production has passed. 
 
-If by a careful application of the rules laid down in this chapter you are enabled to help struggling humanity to make use of the harvest portion of their lives, and thus provide for the days when vital forces wane, and labor can no longer be done, you will have wasted no time which has been spent in a study of the line of Saturn.
+After the age at which a line of Saturn stops, the subject will have to exert great effort in order to accomplish much, as it is during the life of the line that he must achieve the greater part of his results. 
+
+<!-- The Line Of Saturn Part 5 523 No. 372. The Line Of Saturn Part 5 524 No. 373. --> 
+
+Many Saturn lines will be seen which have little fine lines rising from them, or falling in a downward direction (373). Rising lines will indicate the upward tendency of the life, and will add strength to the line on which they are seen. During whatever portion of the line these branches appear, that part of the line will be filled with hope and ambition and will be more successful than any other period. 
+
+During the time when downward branches are seen, the life will be harder, more filled with discouragements, and progress will be difficult. The appearance of these upward and downward branches I have found to follow the health of the subject closely. When upward branches are seen, the physical powers will be found good. With downward branches on the Saturn line and an island in the Life line, the unfavorable condition of the Saturn line is to be accounted for by delicacy of health (374). If downward branches be seen, with an island in the Head line or Heart line at the same age, the difficulty will be brain or heart disease, according to which line shows the marking (375). If rheumatic indications be seen on Saturn and Middle Mount of Moon and downward branches are on the Saturn line, the difficulty will be rheumatism, or maybe gout (376). The Life line will generally be defective during the same period. In every case the difficulty during the period indicated by these downward branches can be accounted for by defects seen in some other part of the hand. The downward branches are the warning to look for trouble, and the task of the palmist must be to find out what will cause it. Upward branches on the Saturn line, being favorable, do not need this care, for during favorable times people get along well enough; it is the periods of trouble that need to be guarded against. 
+
+There is one marking of the upward branches, however, which is useful. With upward branches from the Saturn line, if Worry lines from Mount of Venus cut the Life line and in turn cut these upward branches, the course of the subject, which is upward, will be constantly interfered with (377). While these interferences may not be able to destroy the effect of his favorable period, they will materially hamper and annoy him. In many hands Worry lines from the Mount of Venus, lines from the Mount of Moon, and chance lines from all parts of the hand will be found crossing and joining themselves to the line of Saturn (378). This is particularly the case with nervous persona, who have much lined and rayed hands. 
+
+Each one of these events, persons, illnesses, or whatever may be the interpretation of the several lines, will in some way affect the career of the subject. Some of these will be a positive detriment, others will strengthen and aid in the advancement of the subject. 
+
+<!-- The Line Of Saturn Part 5 525 No. 374. The Line Of Saturn Part 5 526 No. 375. The Line Of Saturn Part 5 527 No. 378. The Line Of Saturn Part 5 528 No. 377. The Line Of Saturn Part 5 529 No. 378. The Line Of Saturn Part 5 530 No. 379. --> 
+
+As a general proposition, all lines which cut the Saturn line weaken it, and impede the progress of the subject at the age indicated by the cut (379).
+
+And all lines which merge into or run alongside the line strengthen it. These lines will rise from all parts of the hand, and will represent different factors which are a detriment and a check to the subject's progress, or which aid him. In all cases, the place from which these lines start will give you the clew to the influence. If a chance line from a star on Mount of Jupiter cuts the Saturn line, the subject will suffer a severe check from too much ambition. 
+
+His endeavor to know distinguished people will lead him to do foolish things which injure his prospects (380). If this chance line runs to an island in the Saturn line, his ambition to move in the front rank will cause him to be extravagant, and financial difficulties will result (381). 
+
+If with a bad Mercurian hand, grilled Mount, twisted finger, and large third phalanx of Mercury, a chance line from the Mount of Mercury cut the Saturn line, the dishonesty of the subject will bring him to grief (382). In these cases the type of your subject will aid you greatly, and the end of the Saturn line will give you the outcome of the cutting. If a line of Saturn be cut by a line running from an Influence line on Mount of Venus, and the Saturn line be broken for the rest of its course, an influence will cause a serious disaster (383). 
+
+If you correctly judge the Influence line from which this cutting line starts to be the wife or husband, and if from it a chance line run to Mount of Jupiter, the ambitions of the wife or husband have led the subject to extravagances which he could not afford, and if the Saturn line be defective for the balance of its course, he will never recover from the reverses (384). 
+
+If the Saturn line be cut by Worry lines from the Life line which is defective, ill health will be a bar to the prospects of the subject, and if the Saturn line be defective after the cut, the subject will never be able to get over it (385). 
+
+The combinations of these cutting chance lines are infinite ; in some hands several will be seen, each one of which indicates a check from a different source. In these cases every cutting line is an object of special inquiry. 
+
+<!-- The Line Of Saturn Part 5 531 No. 380. The Line Of Saturn Part 5 532 No. 381. The Line Of Saturn Part 5 533 No. 382. The Line Of Saturn Part 5 534 No. 383. The Line Of Saturn Part 5 535 No. 384. The Line Of Saturn Part 5 536 No. 385. --> 
+
+Many chance lines run toward the Saturn line but do not touch it (386). These lines are events or influences, according to their source, but are abortive attempts to influence the career, and, while they exist as possible menaces, for the lines may grow until they cut the Saturn line, they are not immediate dangers. Some chance lines merge into the Saturn line (387). These lines represent events or influences which have come into and become a part of the life of the subject, but as they do not cut the line the career is not checked. 
+
+If the Saturn line be thin or defective in any no. 386. way, and these influencing lines are deep and strong, they will add to the prosperity of the subject and assist to overcome his difficulties. 
+
+If, in the beginning, a Saturn line be chained or otherwise defective, and a chance line merges into it, after which it becomes deep, the influence which has come into the life has improved the subject's condition. If this chance line comes from the Mount of Moon it will be some outside influence (388), if it comes from Mount of Venus it will be the influence of close relatives (389). 
+
+
+At whatever point these chance lines merge into the Saturn line, the good effect of the influence will be exerted at the age indicated, and the subsequent condition of the Saturn line will show how much strength the influence has given. If a Saturn line, defec tive at the start, has a chance line merging into it, and if the Saturn line becomes only thin afterwards, or not guile so defective, the influence has not been very beneficial. 
+
+If the Saturn line becomes deep, the benefit has been great. Other chance lines which do not touch the Saturn line, but run alongside of it (390), are lines exerting a strong influence on the subject's career, for by helping and supporting they act as sister lines. By the place from which these lines start you can judge what they are, and by the effect they have on the Saturn line you can tell how much good they do. 
+
+If a Saturn line is broken, and a chance line from the Head line run alongside of it, the subject's good judgment will come to his relief and will carry him over his difficulty (391). 
+
+In all cases where defects in the line are seen, look first for their cause and then to the repair indications. If a defective Saturn line have a chance line from a smooth and good Upper Mars running by its side, the resistance of the Mount will not permit discouragements to overthrow the subject, and this determination will save him from trouble (392). 
+
+<!-- The Line Of Saturn Part 6 537 No. 386. The Line Of Saturn Part 6 538 No. 387. The Line Of Saturn Part 6 539 No. 388. The Line Of Saturn Part 6 540 No. 389. The Line Of Saturn Part 6 541 No. 390. The Line Of Saturn Part 6 542 No. 391. --> 
+

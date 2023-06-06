@@ -18,8 +18,11 @@ So they need to bring back Descartes' Physics and let it absorb Newtonian Physic
 
 economics - AI 2020 + 15-20 years
 
+33 degrees 
+steel for ajna chakra
 
 
+What was the supposed minimum height and width of the device? 33 degrees seems very flat. If so, then it would require a larger size, something that cannot be put on one's chest (heart chakra).
 
 
 I already gave documented evidence:

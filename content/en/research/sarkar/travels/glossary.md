@@ -1,7 +1,12 @@
-Glossary 
+---
+title: "Glossary"
+weight: 54
+image: "/covers/mystic.png"
+description: ""
+---
 
 
-M I C R OVIT A : Mysterious emanation of the Cosmos. The smallest en¬ 
+Microvita : Mysterious emanation of the Cosmos. The smallest en¬ 
 tities of the Cosmos. Though alive, they are the building blocks of 
 matter and energy. Singular is microvitum. 
 

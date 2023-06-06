@@ -3,7 +3,7 @@ title: "Other Za'irajah Methods"
 description: "The secret of obtaining a rhymed answer from the za'irajah lies in the fact that a verse, namely, that of Malik b. Wuhayb -A weighty question, etc- enters (into the operation)"
 image: "/covers/muq.jpg"
 icon: "/icons/ibn.jpg"
-heading: "Part 28e"
+heading: "Part 28f"
 weight: 88
 ---
 

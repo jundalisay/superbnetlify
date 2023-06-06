@@ -1,3 +1,14 @@
+---
+heading: "Parts 1-14"
+title: "Star-based Forecasts"
+# heading: "Chapter 1"
+description: "A mathematician's job is to write annual forecasts"
+image: /covers/astrology.jpg
+weight: 2
+author: Johannes Kepler
+icon: /avatars/kepler.png
+---
+
 
 {{< s v="66" >}} I will be dealing with weather, because everything else is uncertain. An early spring in southern parts causes
 premature budding of trees, and those buds, still tender, will be damaged by the arrival of harsh March. 

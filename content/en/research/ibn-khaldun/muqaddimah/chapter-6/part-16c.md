@@ -3,7 +3,7 @@ title: "The Sufi Removal of the Veil"
 description: "Sufis call that the station of 'combination' (jam')"
 image: "/covers/muq.jpg"
 icon: "/icons/ibn.jpg"
-heading: "Part 16b"
+heading: "Part 16c"
 weight: 50
 author: Ibn Khaldun
 ---

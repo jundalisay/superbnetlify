@@ -23,9 +23,9 @@ Their souls become too indolent to (attempt to) acquire the virtues and good cha
 
 Thus, they fall short of their potentialities and do not reach the limit of their humanity. As a result, they revert to the stage of "the lowest of the low." <!-- 1193 -->
 
-That <!-- 1194 --> is what happened to every nation that fell under the yoke of tyranny and learned through it the meaning of injustice. 
+That is what happened to every nation that fell under the yoke of tyranny and learned through it the meaning of injustice. 
 
-One may check this by (observing) any person who is not in control of his own affairs and has no authority on his side to guarantee his (safety). 
+One may check this by observing any person who is not in control of his own affairs and has no authority on his side to guarantee his (safety). 
 
 One will thus be able to infer (from the observable facts) that things are (as I have stated). One may look at the Jews and the bad character they have acquired, 1195 such that they are described in every region and period as having the quality of khurj, 1196 which, according to well-known technical terminology, means "insincerity and trickery." The reason is what we have (just) said.
 
@@ -39,23 +39,30 @@ One of the best methods of education was suggested by ar-Rashid to Khalaf b. Ahm
 
 Occupy in relation to him the place that the Commander of the Faithful has given you. Teach him to read the Qur'an. Instruct him in history. Let him transmit poems and teach him the Sunnah of the Prophet. Give him insight into the proper occasions for speech and how to begin a (speech). Forbid him to laugh, save at times when it is proper. 
 
-Accustom him to honor the Hashimite dignitaries 1200 whenthey come to him, and to give the military leaders places of honor when they come to his salon. Let no hour pass in which you not seize the opportunity to teach him something useful. But do so without vexing him, which would kill his mind.
+Accustom him to honor the Hashimite dignitaries when they come to him, and to give the military leaders places of honor when they come to his salon. Let no hour pass in which you not seize the opportunity to teach him something useful. But do so without vexing him, which would kill his mind.
 
 Do not always be too lenient with him, or he will get to like leisure and become used to it. As much as possible, correct him kindly and gently. If he does not want it that way, you must then use severity and harshness.' "
 
 
 ## 40. A scholar's education is greatly improved by traveling in quest of knowledge and meeting the authoritative teachers (of his time).
 
-This is because 1201 human beings obtain their knowledge and character qualities and all their opinions and virtues either through study, instruction, and lectures, or through imitation of a teacher and personal contact with him. 
+This is because human beings get their knowledge, character, qualities, opinions, and virtues either:
+- through study, instruction, and lectures, or
+- through imitation of a teacher and personal contact with him. 
 
-The only difference here is that habits acquired through personal contact with a teacher are more strongly and firmly rooted. Thus, the greater the number of authoritative teachers (shaykhs), the more deeply rooted is the habit one acquires.
-Furthermore, the technical terminologies used in scientific instruction are confusing to the student. Many students even suppose them to be part of a given science. 
+Habits acquired through personal contact with a teacher are more strongly and firmly rooted. 
 
-The only way to deliver them from that (wrong notion) is by personal contact with teachers, for different teachers employ different terminologies. Thus, meeting scholars and having many authoritative teachers (shaykhs) enables the student to notice the difference in the terminologies used by different teachers and to distinguish among them. He will thus be able to recognize the science itself behind the (technical terminology it uses). 
+Thus, the more authoritative teachers (shaykhs), the more deeply rooted is the habit one acquires.
 
-He will realize that (terminologies) are (merely) means and methods for imparting (knowledge). His powers will work toward acquiring strongly and firmly rooted habits. He will improve the knowledge he has and be able to distinguish it from other (knowledge). In addition, his habits will be strengthened through his intensive personal contact with teachers, when they are many and of various types. 
+Furthermore, the technical terminologies used in scientific instruction are confusing to the student. 
+- Many students even suppose them to be part of a given science. 
 
-This is for those for whom God facilitated the ways of scholarship and right guidance. Thus, traveling in quest of knowledge is absolutely necessary for the acquisition of useful knowledge and perfection through meeting authoritative teachers (shaykhs) and having contact with (scholarly) personalities. God "guides whomever He wants to guide to a straight path." 1202
+The only way to deliver them from that wrong notion is by personal contact with teachers, for different teachers employ different terminologies. 
 
+Thus, meeting scholars and having many authoritative teachers (shaykhs) enables the student to notice the difference in the terminologies used by different teachers and to distinguish among them. He will thus be able to recognize the science itself behind the (technical terminology it uses). 
 
+He will realize that terminologies are merely means and methods for imparting knowledge.
 
+His powers will work toward acquiring strongly and firmly rooted habits. He will improve the knowledge he has and be able to distinguish it from other (knowledge). In addition, his habits will be strengthened through his intensive personal contact with teachers, when they are many and of various types. 
+
+This is for those for whom God facilitated the ways of scholarship and right guidance. Thus, traveling in quest of knowledge is absolutely necessary for the acquisition of useful knowledge and perfection through meeting authoritative teachers (shaykhs) and having contact with (scholarly) personalities. 
