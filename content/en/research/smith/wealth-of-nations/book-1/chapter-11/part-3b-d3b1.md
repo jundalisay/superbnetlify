@@ -1,6 +1,6 @@
 ---
 title: "Second Kind: Produce that can be multiplied according to demand"
-heading: "Part 3b"
+heading: "Part 3b of Digression Part 3b1"
 author: Adam Smith
 weight: 32
 image: "/covers/wn.jpg"

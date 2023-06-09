@@ -1,6 +1,6 @@
 ---
 title: "Agreeableness or cost of job"
-heading: "Part 1a of Chapter 10"
+heading: "Part 1a"
 weight: 56
 author: Adam Smith
 image: "/covers/wn.jpg"

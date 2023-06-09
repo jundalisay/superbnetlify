@@ -1,6 +1,6 @@
 ---
 title: "Exclusive Corporations"
-heading: "Part 2a2 of Chapter 10"
+heading: "Part 2a2"
 weight: 68
 author: Adam Smith
 image: "/covers/wn.jpg"

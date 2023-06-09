@@ -1,6 +1,6 @@
 ---
 title: "Trust and Risk"
-heading: "Part 1c of Chapter 10"
+heading: "Part 1c"
 weight: 60
 author: Adam Smith
 image: "/covers/wn.jpg"

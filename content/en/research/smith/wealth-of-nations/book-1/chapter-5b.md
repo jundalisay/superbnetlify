@@ -1,4 +1,5 @@
 ---
+heading: "Chapter 5b"
 title: "Grains versus Silver in terms of the temporal aspect of value"
 image: "/covers/wn.jpg"
 weight: 24

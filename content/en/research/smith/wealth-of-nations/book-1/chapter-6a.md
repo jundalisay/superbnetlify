@@ -1,6 +1,6 @@
 ---
 title: "The Component Parts of the Price of Commodities"
-heading: "Chapter 6a of The Wealth of Nations by Adam Smith Simplified"
+heading: "Chapter 6a"
 weight: 28
 author: Adam Smith
 image: /covers/wn.jpg

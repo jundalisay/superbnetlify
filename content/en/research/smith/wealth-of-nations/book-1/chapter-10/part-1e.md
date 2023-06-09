@@ -1,6 +1,6 @@
 ---
 title: "How to Create Equality in Wages and Profits"
-heading: "Part 1e of Chapter 10 of Book 1"
+heading: "Part 1e"
 weight: 64
 author: Adam Smith
 image: "/covers/wn.jpg"

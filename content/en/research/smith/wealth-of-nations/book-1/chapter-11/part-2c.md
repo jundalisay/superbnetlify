@@ -1,6 +1,6 @@
 ---
 title: "Precious Metals and Stones"
-heading: "Part 2b"
+heading: "Part 2c"
 weight: 12
 author: Adam Smith
 image: "/covers/wn.jpg"

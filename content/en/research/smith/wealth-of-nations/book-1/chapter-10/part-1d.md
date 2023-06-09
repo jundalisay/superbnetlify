@@ -1,6 +1,6 @@
 ---
 title: "Inequalities in Wholesale and Retail Trade"
-heading: "Part 1d of Chapter 10"
+heading: "Part 1d"
 weight: 62
 author: Adam Smith
 image: "/covers/wn.jpg"

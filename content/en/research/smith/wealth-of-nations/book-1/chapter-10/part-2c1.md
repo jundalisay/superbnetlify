@@ -1,6 +1,6 @@
 ---
 title: "Inequality from Restrictions on Immigration and Employment"
-heading: "Part 2c2 of Chapter 10"
+heading: "Part 2c"
 weight: 72
 author: Adam Smith
 image: "/covers/wn.jpg"

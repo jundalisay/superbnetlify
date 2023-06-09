@@ -1,6 +1,6 @@
 ---
 title: "Inequality from Wage Controls"
-heading: "Part 2c2 of Chapter 10"
+heading: "Part 2c2"
 weight: 74
 author: Adam Smith
 image: "/covers/wn.jpg"

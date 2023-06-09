@@ -1,6 +1,6 @@
 ---
 title: "Inequality by Increasing Competition Through Wage subsidies"
-heading: "Part 2b of Chapter 10"
+heading: "Part 2b"
 weight: 70
 author: Adam Smith
 image: "/covers/wn.jpg"

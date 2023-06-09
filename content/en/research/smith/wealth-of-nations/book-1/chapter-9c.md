@@ -1,6 +1,6 @@
 ---
 title: "The Effect of Maximum Population and Maximum Stocks"
-heading: "Chapter 9b"
+heading: "Chapter 9c"
 weight: 52
 author: Adam Smith
 image: "/covers/wn.jpg"

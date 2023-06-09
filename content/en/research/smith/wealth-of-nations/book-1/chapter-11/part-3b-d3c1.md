@@ -1,6 +1,6 @@
 ---
 title: "Third Kind of Raw Produce"
-heading: "Part 3b"
+heading: "Part 3b of Digression Part 3c1"
 weight: 36
 author: Adam Smith
 image: "/covers/wn.jpg"

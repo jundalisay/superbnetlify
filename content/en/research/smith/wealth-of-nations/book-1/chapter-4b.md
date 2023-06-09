@@ -1,5 +1,5 @@
 ---
-heading: "Chapter 2a of Book 1 "
+heading: "Chapter 4b"
 title: "The Origin of Coinage"
 weight: 18
 author: Adam Smith

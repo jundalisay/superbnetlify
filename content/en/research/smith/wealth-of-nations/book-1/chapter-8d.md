@@ -1,6 +1,6 @@
 ---
 title: "Poverty"
-heading: Chapter 8d of Book 1
+heading: Chapter 8d
 weight: 44
 author: Adam Smith
 image: "/covers/wn.jpg"

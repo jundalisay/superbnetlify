@@ -1,6 +1,6 @@
 ---
 title: "The Raw Produce Which Not Always Affords Rent"
-heading: "Part 2a of Chapter 11 of Book 1"
+heading: "Part 2a"
 weight: 8
 image: "/covers/wn.jpg"
 description: "Animal Skin and Timber"

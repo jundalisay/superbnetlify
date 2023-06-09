@@ -1,6 +1,6 @@
 ---
 title: "Profit and Wage Inequality from Economic Policy"
-heading: "Part 2a of Chapter 10"
+heading: "Part 2a"
 weight: 66
 author: Adam Smith
 image: "/covers/wn.jpg"

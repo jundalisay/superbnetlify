@@ -1,6 +1,6 @@
 ---
 title: "Inequality from Constancy"
-heading: "Part 1b of Chapter 10"
+heading: "Part 1b"
 weight: 58
 author: Adam Smith
 image: "/covers/wn.jpg"

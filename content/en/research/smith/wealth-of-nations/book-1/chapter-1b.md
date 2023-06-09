@@ -1,6 +1,6 @@
 ---
 title: "Specialization"
-heading: "Chapter 1b"
+heading: "Chapter 1b2"
 weight: 8
 author: Adam Smith
 image: "/covers/wn.jpg"
