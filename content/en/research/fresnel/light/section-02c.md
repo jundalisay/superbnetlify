@@ -1,20 +1,31 @@
-## APPLICATION OF THEORY OF INTERFERENCE TO HUYGENS'SPRINCIPLE
-57. Let the waves from any luminous point be partly inter-cepted by an opaque body AG. To begin with, we shall suppose that this screen is so large that no light comes around theedge G, so that we need consider only that part of the wavewhich lies to the left of the point A. Let DB represent the
+---
+title: "The Application Of Theory Of Interference To Huygens's Principle"
+heading: Section 2
+date: 2023-05-30
+weight: 30
+description: ""
+author: "Fresnel"
+# image: /covers/freud.jpg
+---
 
-plane upon which are received the shadow and its fringes. Theproblem then is to find the intensity .of the light at any pointP in this plane.
+
+57. Let the waves from any luminous point be partly inter-cepted by an opaque body AG. To begin with, we shall suppose that this screen is so large that no light comes around theedge G, so that we need consider only that part of the wavewhich lies to the left of the point A. 
+
+Let `DB` represent the plane upon which are received the shadow and its fringes. Theproblem then is to find the intensity .of the light at any pointP in this plane.
+
 If from C as centre and with a radius CA we describe thecircle AMI, it will represent the light- wave at the instant it is partly intercepted by the opaque body.
 It is from this position of the wave that I have computed the resultant of the sec- ondary waves sent to the point P.. If we
 consider the wave in an earlier position, say A'MT, i.t then becomes necessary to calculate the effect of the obstacle on each
-of the secondary waves arising from the
-arc A'MT ; and if we consider the wave
-in a later position, say A"M"I", it becomes
-necessary to first determine the intensities of its various points, for they are no longer
+of the secondary waves arising from the arc A'MT
+
+If we consider the wave in a later position, say `A"M"I"`, it becomes necessary to first determine the intensities of its various points, for they are no longer
 equal, having been changed by the inter- position of the screen. In this case the
-computation is vastly more complicated,
-possibly quite impracticable. If, however, we consider the wave at the instant it Fig. 19 reaches A, the process is simple ; for then all parts of the wavehave the same intensity. Not only so, but none of the secondary waves are now affected by the opaque screen. Howevernumerous the subdivisions into which we may consider theseelementary waves divided, it is evident that the number will be the same for each, since they are transmitted freely in all directions. And, therefore, we need only consider the axes of these pencils of split rays?, e., the straight lines drawn fromthe various points on the wave AMI to the point P. The dif- ferences of length in these direct rays are the differences of path traversed by the elementary or partial resultants meetingat P.*
+computation is vastly more complicated, possibly quite impracticable. If, however, we consider the wave at the instant it Fig. 19 reaches A, the process is simple ; for then all parts of the wavehave the same intensity. 
+
+Not only so, but none of the secondary waves are now affected by the opaque screen. Howevernumerous the subdivisions into which we may consider theseelementary waves divided, it is evident that the number will be the same for each, since they are transmitted freely in all directions. And, therefore, we need only consider the axes of these pencils of split rays?, e., the straight lines drawn fromthe various points on the wave AMI to the point P. The dif- ferences of length in these direct rays are the differences of path traversed by the elementary or partial resultants meetingat P.*
 In order to compute the total effect, I refer these partial re- sultants to the wave emitted by the point M on the straight line CP, and to another wave displaced a quarter of a wave-lengthwith reference to the preceding. This is the process alreadyemployed (p. 101) in the general solution of the interference*
 [Afoot-note is here omitted.'] 119
-MEMOIRS ON
+
 problem. We shall consider only a section of the wave madeby a plane perpendicular to the edge of the screen, and shallindicate by dz an element, nn', of the primary wave, and by z its distance from the point M. These, as I have shown, suffice todetermine the position and the relative intensities of the brightand dark bands. The distance nS included between the waveAMI and the tangential arc, EMF, described about the point Pas centre is |
 = ^ where. a and b are, as before, the distancesab
 CA and AB. If we denote the wave-length by X, we have forthe component in question, referred to the wave leaving thepoint M, the following expression
@@ -29,7 +40,8 @@ This is what I have called the intensity of the light in order toconform to ordi
 [ TJiese expressions for amplitude follow directly from sec. 40, when in the
 ke a. 120
 general expressionfor velocity we make ao, a'=dz, and c=^- .]
-THE WAVE-THEORY OF LIGHT
+
+
 58. In the case we are now considering, where the body, AG,is so large that we can neglect any light coming around theedge G, the integration extends from A to infinity on the sidetowards I. This integral naturally divides into two parts, oneextending from A to M, the other from M to infinity. Thislatter integral remains constant, while the former varies withthe position of the point P. This variation, indeed, is the de-termining factor in the size and relative intensity of the brightand dark bands. The integrals
 r, / z*(a+b)\ -,/,.
 Jdz cos (T-^) and /
@@ -46,8 +58,7 @@ j the following still simpler formnlae may be employed : / dv cos 9^=2^ sin qi (
 i+t /** i r
 I dv sin qv*=p-T-\ cos otf (i / 2iq\
 /t+t L
-121
-MEMOIRS ON
+
 This arc here amounts to ^ of a quadrant, since this fur- nishes results of an accuracy greater than is attainable in the
 observations. In place of the integrals mentioned above, I havesubstituted fdv sin qv"
 1 and fdv cos qv*, where q stands for quadrant or -.
@@ -66,26 +77,26 @@ a i*+p \ 1
 I dv cos qv*= I du cos q\ Zu(a+p)+(a+p)*
 Ja+*P J-p
 2q(a+p)
-122
-THE WAVE-THEORY OF LIGHT
+
 TABLE OF THE NUMERICAL VALUES OF THE INTEGRALS
 fdv cos qv* and J
 dv sin qv*.*
 Limits
 of
 Integrals
-MEMOIRS ON
-Either of the integrals idv cos qv* and jdv sin qv* taken
-from zero to infinity have the value -3-. We may thus by the
-aid of the above table find the intensity of light corresponding
-to any given position of the point P, or, what is the samething, corresponding to any definite value of v, where v is one
-limit of integration and infinity the other. We have only to take from the table the values ofJ
+
+Either of the integrals idv cos qv* and jdv sin qv* taken from zero to infinity have the value -3-. We may thus by the
+aid of the above table find the intensity of light corresponding to any given position of the point P, or, what is the samething, corresponding to any definite value of v, where v is one limit of integration and infinity the other. We have only to take from the table the values ofJ
 civ cos qv* and / dv sin qv*,
 using the value of v as an argument, then add to each , andfinally take the sum of their squares.
+
+
 59. Simple inspection of this table shows a periodic changein the intensity of light as one leaves the geometrical shadow.
+
 To obtain the values of v corresponding to maxima and minima,i. e., the brightest and darkest points in the respective bright
 and dark bands, I take from the table the numbers which mostnearly correspond to them and then compute the corresponding intensities. Finally, by means of these data and a simple
 formula of approximation, I determine with sufficient accu- racy the values of v. which give maxima and minima.
+
 Let us represent by * the approximate value of v taken di- rectly from the table, by / and Y the corresponding values of
 _[_ jdv cos qv* and i+jdv sin qv*, and by t the small arc by
 which v must be increased in order to give the maximum or minimum of light. Neglecting the square of t, we find that the following formula gives the value of t which yields a maximum or a minimum.
@@ -97,9 +108,9 @@ are 6=0.1,
 0=0.2,
 v=0.3,
 etc. The same remark applies to the following tables. [E. Verdet.] 124
-THE WAVE-THEOKY OF LIGHT
+
 TABLE OF MAXIMA AND MINIMA FOR EXTERIOR FRINGESAND OF THE CORRESPONDING INTENSITIES
-MEMOIRS ON
+
 Therefore
 fdz cos fa ^+*>) .__ /~^2 fdv cos J \ ab\ I V 2(^fS)J
 and
@@ -150,16 +161,17 @@ in favor of the new theory is still further increased by the fact that the wave-
 [Four pages, devoted to a description of some experimental
 precautions and to a computation of exterior fringes on Young'shypothesis of reflection from the edge of the opaque body, are
 here omitted.}
-68. We have just seen that both the formation and the posi- tion of the exterior fringes can be explained in a satisfactory manner by considering them as produced by the meeting of aninfinitely great number of secondary waves which originate onthat part of the primary wave which is not intercepted by the
-opaque screen. From this view it follows that the light whichis inflected into the shadow ought not to produce any bright or dark band, but ought to diminish gradually in intensity, pro- vided the screen is sufficiently large to allow no light to goaround the other side; and this is true, even though this inflected light, like that which gives rise to the exterior fringes,
-is the resultant of an infinitude of secondary waves. This will
-i 129
-MEMOIRS ON
+
+68. Both the formation and the position of the exterior fringes can be explained in a satisfactory manner by considering them as produced by the meeting of aninfinitely great number of secondary waves which originate onthat part of the primary wave which is not intercepted by the opaque screen.
+
+From this view it follows that the light whichis inflected into the shadow ought not to produce any bright or dark band, but ought to diminish gradually in intensity, pro- vided the screen is sufficiently large to allow no light to goaround the other side; and this is true, even though this inflected light, like that which gives rise to the exterior fringes, is the resultant of an infinitude of secondary waves. This will 
+
 TABLE COMPARING THE RESULTS OF EXPERIMENT WITHTHOSE OF THEORY
 EXTERIOR FRINGES IN RED LIGHT OP WAVE-LENGTH 0.000638 MM.
+
 Number
 of obser- vation
-THE WAVE-THEORY OF LIGHT
+
 by taking the sums of the squares of the corresponding numbersand subtracting ^. In spite of the inaccuracy introduced by
 the method of partial integration employed in the first table,
 it is seen that the intensity of light diminishes rapidly as v
@@ -168,22 +180,26 @@ outside of the shadow.
 INTENSITIES OF LIGHT DIFFRACTED INTO THE SHADOW
 UNDER DIFFERENT ANGLES
 Values of v
-MEMOIRS ON
+
 and therefore
+
 69. By the aid of these formulae we can find the value of thedistance x or the angle x/b of the inflected ray correspondingto the various values of #; and vice versa, if x or the slant x/bbe given, we can find v, and thus determine the intensity of theinflected light. One striking inference from this formula,\ a
 ~\
 '
 , is that the values of x are not directly pro6(1 portional to those of b, but are related to them as the ordinatesof a hyperbola are to its abscissas. It thus follows that pointsof equal intensity along the edge of the geometrical shadow donot lie upon a straight line as we vary b, but upon a hyperbolaof appreciable curvature, like the corresponding loci in exteriorfringes.
-70. I have not yet succeeded in verifying by direct experiment the ratios of intensity in the inflected light as predictedby the theory of interference applied to the principle of Huygens. A measurement of this kind is very difficult [foot-noteomitted], and I hardly think that one would be able to reachthe same accuracy as in the determination of the darkest andbrightest points in fringes. The results already obtained forfringes, however, appear to me as verifications indirect, itmust be confessed of these very ratios of intensity; forwhenever the positions of maxima and minima have been de-duced from the general expression for the intensity of lightand have been found to coincide accurately with experiment,it becomes more and more probable that this integral correctly represents all the variations of intensity in the inflectedlight.
-71. In the case of exterior fringes one may, as we have seen,use the table of maxima and minima to compute the positionsof the darkest and brightest points in the dark and bright bandsfor all values of a and b. This, however, is not the case withregard to the interior fringes in the shadow of a narrow bodyor in the case of a narrow aperture. The limits of the integralvary all the while, and it is therefore impossible to give generalresults applicable to every case, so that one is obliged to deter-mine the maxima and minima for each particular case, using132
-THE WAVE-THEORY OF LIGHT
-the table, which gives the numerical values of j
+
+70. I have not yet succeeded in verifying by direct experiment the ratios of intensity in the inflected light as predictedby the theory of interference applied to the principle of Huygens. 
+
+A measurement of this kind is very difficult [foot-noteomitted], and I hardly think that one would be able to reachthe same accuracy as in the determination of the darkest andbrightest points in fringes. The results already obtained forfringes, however, appear to me as verifications indirect, itmust be confessed of these very ratios of intensity; forwhenever the positions of maxima and minima have been de-duced from the general expression for the intensity of lightand have been found to coincide accurately with experiment,it becomes more and more probable that this integral correctly represents all the variations of intensity in the inflectedlight.
+
+71. In the case of exterior fringes one may, as we have seen,use the table of maxima and minima to compute the positionsof the darkest and brightest points in the dark and bright bandsfor all values of a and b. This, however, is not the case withregard to the interior fringes in the shadow of a narrow bodyor in the case of a narrow aperture. The limits of the integralvary all the while, and it is therefore impossible to give generalresults applicable to every case, so that one is obliged to deter-mine the maxima and minima for each particular case, using the table, which gives the numerical values of j
 dv cos qv
 2 and/ dv sin qv
 2
 . I propose to give the results of all the computations of this kind which, up to the present, I have made for the
 purpose of testing the theory. They are very long, and I havenot been able to finish as many as I had desired, but this lack in quantity is, perhaps, compensated by the variety of the cases which I have studied, for in trying the theory on the observations, I have, by preference, selected cases in which the disposi- tion of the fringes is somewhat unusual.
-72. And, first, I propose to consider the case of a narrowaperture which presents at once the
+
+72. first, I propose to consider the case of a narrowaperture which presents at once the
 case of exterior and interior fringes.
 Let C be a luminous point, AG
 a narrow aperture whose edges A
@@ -199,8 +215,7 @@ I dz sin l*2q ab\ 1 between the limits A and G, afterwards taking the sum of the
 light at the point P, but we must not forget that the origin
 from which z is measured lies upon the direct line CP, andthat therefore the two limits A and G correspond to z=MGand z= AM. The next step is to compute the correspondingvalues of v from the formula
 /2 v=zyor
-133
-MEMOIRS ON
+
 where x is the distance from the point P to the edge of thegeometrical shadow. From the table of integrals,
 / dv cos qv
 2 and / dv sin qv

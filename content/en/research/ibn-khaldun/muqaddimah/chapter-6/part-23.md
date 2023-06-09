@@ -1,5 +1,5 @@
 ---
-title: "The Science of Physics"
+title: "The Science of Physics and Avicenna"
 description: "This investigates bodies from the point of view of the motion and stationariness which attach to them"
 image: "/covers/muq.jpg"
 icon: "/icons/ibn.jpg"
@@ -9,28 +9,34 @@ author: Ibn Khaldun
 ---
 
 
-<!-- ## 23. Physics. -->
-
 This investigates bodies from the point of view of the motion and stationariness which attach to them. 
 
 It studies the heavenly and the elementary bodies (substances), as well as the human beings, the animals, the plants, and the minerals created from them. 
 
 It also studies the springs and earthquakes that come into being in the earth, as well as the clouds, vapors, thunder, lightning, and storms that are in the atmosphere, and other things. It further studies the beginning of motion in bodies - that is, the soul in the different forms in which it appears in human beings, animals, and plants.
 
-The books of Aristotle on the subject are available to scholars. They were translated together with the other books on the philosophical sciences in the days of al-Ma'mun. Scholars wrote books along the same lines and followed them up with explanation and comment. <!-- 715  -->
+The books of Aristotle on the subject are available to scholars.
+- They were translated together with the other books on the philosophical sciences in the days of al-Ma'mun.
+- Scholars wrote books along the same lines and followed them up with explanation and comment. <!-- 715  -->
 
 The most comprehensive work written on the subject is Avicenna's Kitab ashShifa.
 
-In it, Avicenna treats all the 7 philosophical sciences.<!--  716 --> Avicenna later on abridged the Kitab ash-Shifa in the Kitab an-Najah and the Kitab al-Isharat. 
+In it, Avicenna treats all the 7 philosophical sciences.
+- Avicenna later on abridged the Kitab ash-Shifa in the Kitab an-Najah and the Kitab al-Isharat. 
 
-In a way, he opposed Aristotle on most (physical) problems and expressed his own opinion on them.
+In a way, he opposed Aristotle on most physical problems and expressed his own opinion on them.
 
-Averroes, on the other hand, abridged the books of Aristotle and commented on them, but followed him and did not oppose him. Scholars have written many works on the subject, 717 but these are the works that are famous at this time and to which
-attention is paid when one (studies) the craft (of physics).
+Averroes, on the other hand, abridged the books of Aristotle and commented on them, but followed him and did not oppose him. 
 
-The people of the East are concerned with Avicenna's Kitab al-Isharat. The imam Ibn al-Khatib wrote a good commentary on it. The same was done by al-Amid! <!-- 718 --> 
+<!-- Scholars have written many works on the subject, but these are the works that are famous at this time and to which
+attention is paid when one (studies) the craft (of physics). -->
 
-Another commentary on the work was written by Nasir-ad-din at-Tusi, 719 who is known as Khawajah (Khoja), an 'Iraqi scholar. He investigated many of the problems (of the Isharat) and compared what the imam (Ibn al-Khatib) had to say about them. He went beyond (Ibn al-Khatib's) studies and investigations.
+The people of the East are concerned with Avicenna's Kitab al-Isharat.
+- The imam Ibn al-Khatib wrote a good commentary on it.
+- The same was done by al-Amid
+- Another commentary was written by Nasir-ad-din at-Tusi, who is known as Khawajah (Khoja), an 'Iraqi scholar.
+  - He investigated many of the problems of the Isharat and compared what the imam (Ibn al-Khatib) had to say about them.
+  - He went beyond Ibn al-Khatib's studies and investigations.
 
 
 ## 24. The science of medicine
@@ -47,9 +53,11 @@ They imitate nature and help it a little, as the nature of the matter (underlyin
 Certain limbs are occasionally discussed as individual subjects and are considered to (form the subjects of) special sciences. This is the case, for instance,
 with the eye, the diseases of the eye, and the collyria (used in the treatment of eye diseases).
 
-(Scholars) have also added to this discipline the (study of the) uses of the parts of the body, that is, the useful purpose for which each limb of the animal body
-was created. This is not a medical subject, but it has been made into an annex and subdivision of medicine. Galen has written an important and very useful work on
-this discipline. 722
+Scholars have also added to this discipline the study of the uses of the parts of the body, that is, the useful purpose for which each limb of the animal body
+was created. 
+
+This is not a medical subject, but it has been made into an annex and subdivision of medicine. Galen has written an important and very useful work on
+this discipline.
 
 Galen is the leading ancient authority on medicine. His works have been translated (into Arabic). He is said to have been a contemporary of Jesus and to
 have died in Sicily on his wanderings while in voluntary exile. 723 His works on medicine are classics which have been models for all later physicians.

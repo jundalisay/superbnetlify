@@ -1,7 +1,7 @@
 ---
 title: "From Oligarchy Into Democracy"
-heading: "Chapter 3 of Book 8"
-weight: 1
+heading: "Chapter 3"
+weight: 8
 image: "/covers/republic.jpg"
 description: "Oligarchy turns to democracy after the people taste the pleasures of wealth"
 author: "Socrates"

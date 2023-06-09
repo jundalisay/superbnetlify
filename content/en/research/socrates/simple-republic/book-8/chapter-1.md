@@ -1,7 +1,7 @@
 ---
 title: "Aristocracy, Oligarchy, Democracy, Tyranny"
-heading: "Chapter 1 of Book 8"
-weight: 1
+heading: "Chapter 1"
+weight: 2
 image: "/covers/republic.jpg"
 description: "Dialectics is the last and most important study that is superior to all the sciences as it deals with the nature of things. The four divisions of knowledge are science, understanding, opinion, and perception of shadows"
 author: "Socrates"
@@ -37,10 +37,10 @@ We considered whether the best was not also the happiest, and the worst the most
 {{< l a="Socrates" >}}
 The four governments are:
 
-- Those of Crete and Sparta [Aristocracy]. These are generally applauded.
-- Oligarchy comes next. This is not equally approved as it is a form of government which teems with evils.
-- Democracy, which naturally follows oligarchy, although very different.
-- Tyranny is fourth. It is great and famous and differs from them all. It is the worst disorder of a State.
+1. Those of Crete and Sparta [Aristocracy]. These are generally applauded.
+2. Oligarchy comes next. This is not equally approved as it is a form of government which teems with evils.
+3. Democracy, which naturally follows oligarchy, although very different.
+4. Tyranny is fourth. It is great and famous and differs from them all. It is the worst disorder of a State.
 
 There are lordships and principalities which are bought and sold, and some other intermediate forms of government. But these are nondescripts and may be found equally among Hellenes and barbarians. 
 {{< /l >}}
@@ -53,13 +53,17 @@ Yes, we hear of many curious forms of government among them.
 {{< l a="Socrates" >}}
 Governments vary as the dispositions of men vary. There must be as many of the one as there are of the other. States are not made of 'oak and rock.' They are made out of the human natures which are in them. These, in a figure, turn the scale and draw other things after them. If the constitutions of States are five, the dispositions of individual minds will also be five.
 
-- The aristocracy is made up of those who are right and good.
-- The Spartan polity [timocratical] is made up of the contentious and ambitious
-- The oligarchical
-- The democratical
-- The tyrannical
+1. The aristocracy is made up of those who are right and good.
+2. The Spartan polity [timocratical] is made up of the contentious and ambitious
+3. The oligarchical
+4. The democratical
+5. The tyrannical
 
-Let us place the most just by the side of the most unjust so that we can compare the happiness of the person who lives in pure justice, and the unhappiness the person living in pure injustice. This will then help us choose whether to pursue justice, or to pursue injustice, as Thrasymachus advises. We shall follow our old plan and take the State first, then proceed to the individual.
+Let us place the most just beside the most unjust so that we can compare:
+- the happiness of the person who lives in pure justice, and
+- the unhappiness the person living in pure injustice. 
+
+This will then help us choose whether to pursue justice, or to pursue injustice, as Thrasymachus advises. We shall follow our old plan and take the State first, then proceed to the individual.
 {{< /l >}}
 
 

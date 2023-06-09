@@ -1,7 +1,7 @@
 ---
 title: "From Democracy into Tyranny"
-heading: "Chapter 5 of Book 8"
-weight: 1
+heading: "Chapter 5"
+weight: 10
 image: "/covers/republic.jpg"
 description: "Democracy naturally turns into Tyranny"
 author: "Socrates"
