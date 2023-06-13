@@ -1,10 +1,11 @@
 ---
 heading: "Chapter 4"
-title: "Karma and the Loop of Cause and Effect"
+title: "Karma, Samskara, and the Loop of Cause and Effect"
 date: 2020-04-12
 weight: 10
 image: /photos/meta/buddhism.jpg
-description: "Moral Consequentialism is the effect of actions that are made obscure by fleeting human memory because of the passage of time"
+description: The Sanskrit word karma implies a complete loop from cause and effect
+# description: "Moral Consequentialism is the effect of actions that are made obscure by fleeting human memory because of the passage of time"
 author: Juan
 icon: /icons/sp.png
 ---
@@ -16,16 +17,18 @@ This reaction manifests as:
 - 'movement' from the perspective of space
 - 'change' or 'evolution' from the perspective of time
 
-This dynamics of this movement or change is explained by our Elastic Theory, explained in Chapter 3. 
+The dynamics of this movement or change is explained by our **Elastic Theory**, explained in Chapter 3. 
 - In Material Superphysics, this is applied on physical movement
-- In Medical and Social Superphysics, this is applied to the evolution of a person from health to disease, happiness to sadness, or of a society from peace to war or from prosperity to poverty  
+- In Medical and Social Superphysics, this is applied to:
+  - The evolution of a person from health to disease, happiness to sadness
+  - The metaphysical movement of a society from peace to war, or from prosperity to poverty  
 
 This evolution is divided into the perceptions of cause and effect, just as movement is divided into starting location and ending location. 
 
 
 ## Cause and Effect
 
-Chater 3 explained how the action of bringing ideas near, introducing, or adding to others leads to reaction.
+Chapter 3 explained how the action of bringing ideas near, introducing, or adding to others leads to reaction.
 - The former is called "cause".
 - The latter is called "effect". 
 
@@ -45,7 +48,7 @@ The difference between Physics and Superphysics is that the latter has the Sansk
 
 Science is aware of physical action and physical reaction. However, there are often many cases wherein such action and reaction are made up of a long chain of intervening-actions and intervening-reactions that might escape the observation of the mind.
 
-For example, the floodings from global warming is made up of a long chain of cause and effect:
+For example, the floodings from global warming is made up of a long chain of cause and effect*:
 1. The burning of fossil fuels adds carbon dioxide in the air -- This is the action
 2. The carbon dioxide traps the heat from the sun - This is an intermediate reaction which also becomes an action
 3. The trapped heat causes warmer temperatures 
@@ -53,9 +56,11 @@ For example, the floodings from global warming is made up of a long chain of cau
 5. The increased evaporation causes more water in the air
 6. The increased water in the air falls down as severe floods -- This is the final reaction
 
-This chain has 6 points, connected by 5 'jumps' or chain-links of logic.
+> *This is an example of a Table by Francis Bacon
 
-We call the burning of fossil fuels as karma or action, that leads to severe floods as karma or reaction. We call the formation of carbon dioxide and water in the air as samskara or pending reaction to the final effect of flooding. 
+This chain has 6 points, connected by 5 'jumps' or chain-links of logic.
+- We call the burning of fossil fuels as karma or action, that leads to severe floods, as *karma* or reaction.
+- We call the formation of carbon dioxide and water in the air as *samskara* or pending reaction to the final effect of flooding. 
 
 Treating humans as individuals, we can say that:
 - samskara exists in the metaphysical domain since the intervening actions-reactions are outside of the scope of our perception
