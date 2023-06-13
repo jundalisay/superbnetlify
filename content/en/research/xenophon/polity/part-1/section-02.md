@@ -10,13 +10,17 @@ weight: 4
 
 
 
-As to the heavy infantry, an arm the deficiency of which at Athens is well recognised. 
+Athens is known to be deficient in heavy infantry even if they more numerous.
 
-They recognise the fact that, in reference to the hostile power, they are themselves inferior, and must be, even if their heavy infantry were more numerous.
+<!-- They recognise the fact that, in reference to the hostile power, they are themselves inferior, and must be, even if their heavy infantry were more numerous. -->
 
-(1) But relatively to the allies, who bring in the tribute, their strength even on land is enormous. And they are persuaded that their heavy infantry is sufficient for all purposes, provided they retain this superiority. 
+(1) But relatively to the allies, who bring in the tribute, their strength even on land is enormous.
 
-(2) Apart from all else, to a certain extent fortune must be held responsible for the actual condition. The subjects of a power which is dominant by land have it open to them to form contingents from several small states and to muster in force for battle.
+They are persuaded that their heavy infantry is sufficient for all purposes, provided they retain this superiority. 
+
+(2) Apart from all else, to a certain extent fortune must be held responsible for the actual condition. 
+
+The subjects of a power which is dominant by land have it open to them to form contingents from several small states and to muster in force for battle.
 
 But with the subjects of a naval power it is different. As far as they are groups of islanders it is impossible for their states to meet together for united action, for the sea lies between them, and the dominant power is master of the sea. And even if it were possible for them to assemble in some single island unobserved, they would only do so to perish by famine. 
 
@@ -24,9 +28,15 @@ And as to the states subject to Athens which are not islanders, but situated on 
 
 In the next place, a power dominant by sea can do certain things which a land power is debarred from doing; as for instance, ravage the territory of a superior, since it is always possible to coast along to some point, where either there is no hostile force to deal with or merely a small body; and in case of an advance in force on the part of the enemy they can take to their ships and sail away. Such a performance is attended with less difficulty than that experienced by the relieving force on land. (4) Again, it is open to a power so dominating by sea to leave its own territory and sail off on as long a voyage as you please. 
 
-Whereas the land power cannot place more than a few days' journey between itself and its own territory, for marches are slow affairs; and it is not possible for an army on the march to have food supplies to last for any great length of time. Such an army must either march through friendly territory or it must force a way by victory in battle. The voyager meanwhile has it in his power to disembark at any point where he finds himself in superior force, or, at the worst, to coast by until he reaches either a friendly district or an enemy too weak to resist. Again, those diseases to which the fruits of the earth are liable as visitations from heaven fall severely on a land power, but are scarcely felt by the navel power, for such sicknesses do not visit the whole earth everywhere at once.
+Whereas the land power cannot place more than a few days' journey between itself and its own territory, for marches are slow affairs; and it is not possible for an army on the march to have food supplies to last for any great length of time.
 
-So that the ruler of the sea can get in supplies from a thriving district. And if one may descend to more trifling particulars, it is to this same lordship of the sea that the Athenians owe the discovery, in the first place, of many of the luxuries of life through intercourse with other countries. So that the choice things of Sicily and Italy, of Cyprus and Egypt and Lydia, of Pontus or Peloponnese, or wheresoever else it be, are all swept, as it were, into one centre, and all owing, as I say, to their maritime empire. And again, in process of listening to every form of speech, (5) they have selected this from one place and that from another—for themselves. So much so that while the rest of the Hellenes employ (6) each pretty much their own peculiar mode of speech, habit of life, and style of dress, the Athenians have adopted a composite type, (7) to which all sections of Hellas, and the foreigner alike, have contributed.
+Such an army must either march through friendly territory or it must force a way by victory in battle. The voyager meanwhile has it in his power to disembark at any point where he finds himself in superior force, or, at the worst, to coast by until he reaches either a friendly district or an enemy too weak to resist. Again, those diseases to which the fruits of the earth are liable as visitations from heaven fall severely on a land power, but are scarcely felt by the navel power, for such sicknesses do not visit the whole earth everywhere at once.
+
+So that the ruler of the sea can get in supplies from a thriving district.
+
+If one may descend to more trifling particulars, it is to this same lordship of the sea that the Athenians owe the discovery, in the first place, of many of the luxuries of life through intercourse with other countries. 
+
+So that the choice things of Sicily and Italy, of Cyprus and Egypt and Lydia, of Pontus or Peloponnese, or wheresoever else it be, are all swept, as it were, into one centre, and all owing, as I say, to their maritime empire. And again, in process of listening to every form of speech, (5) they have selected this from one place and that from another—for themselves. So much so that while the rest of the Hellenes employ (6) each pretty much their own peculiar mode of speech, habit of life, and style of dress, the Athenians have adopted a composite type, (7) to which all sections of Hellas, and the foreigner alike, have contributed.
 
 <!--  (7) Or, "have contracted a mixed style, bearing traces of Hellenic and     foreign influence alike." See Mahaffy, "Hist. of Greek Lit." vol.     ii. ch. x. p. 257 (1st ed.); cf. Walt Whitman, "Preface to"     original edition of "Leaves of Grass," p. 29—"The English
     language befriends the grand American expression: it is brawny
@@ -39,9 +49,13 @@ They sacrifice—that is, the whole state sacrifices—at the public cost a larg
 
 As to wealth, the Athenians are exceptionally placed with regard to Hellenic and foreign communities alike, (11) in their ability to hold it. 
 
-For, given that some state or other is rich in timber for shipbuilding, where is it to find a market (12) for the product except by persuading the ruler of the sea? Or, suppose the wealth of some state or other to consist of iron, or may be of bronze, (13) or of linen yarn, where will it find a market except by permission of the supreme maritime power? Yet these are the very things, you see, which I need for my ships. 
+For, given that some state or other is rich in timber for shipbuilding, where is it to find a market (12) for the product except by persuading the ruler of the sea? Or, suppose the wealth of some state or other to consist of iron, or may be of bronze, (13) or of linen yarn, where will it find a market except by permission of the supreme maritime power?
 
-Timber I must have from one, and from another iron, from a third bronze, from a fourth linen yarn, from a fifth wax, etc. Besides which they will not suffer their antagonists in those parts (14) to carry these products elsewhither, or they will cease to use the sea. Accordingly I, without one stroke of labour, extract from the land and possess all these good things, thanks to my supremacy on the sea; whilst not a single other state possesses the two of them. Not timber, for instance, and yarn together, the same city. But where yarn is abundant, the soil will be light and devoid of timber. And in the same way bronze and iron will not be products of the same city. 
+Yet these are the very things, you see, which I need for my ships. 
+
+Timber I must have from one, and from another iron, from a third bronze, from a fourth linen yarn, from a fifth wax, etc. Besides which they will not suffer their antagonists in those parts (14) to carry these products elsewhither, or they will cease to use the sea. 
+
+Accordingly I, without one stroke of labour, extract from the land and possess all these good things, thanks to my supremacy on the sea; whilst not a single other state possesses the two of them. Not timber, for instance, and yarn together, the same city. But where yarn is abundant, the soil will be light and devoid of timber. And in the same way bronze and iron will not be products of the same city. 
 
 And so for the rest, never two, or at best three, in one state, but one thing here and another thing there. Moreover, above and beyond what has been said, the coast-line of every mainland presents, either some jutting promontory, or adjacent island, or narrow strait of some sort, so that those who are masters of the sea can come to moorings at one of these points and wreak vengeance (15) on the inhabitants of the mainland.
 

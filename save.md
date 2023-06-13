@@ -1,3 +1,54 @@
+  <h4 class="title is-6 mt-6 mb-4">Comments</h4>
+  
+  {{ if .Params.comments }}
+    {{ range .Params.comments }}
+      <div class="field box has-addons mb-4">
+        <div class="has-addons-left">
+          <figure class="image zoom-xs is-48x48">
+            <img src="{{ .img }}" alt="Avatar" class="is-rounded">
+            <small class="h" >{{ .name }}</small>
+          </figure>
+        </div>
+        <div class="ml-2">
+          <small>
+            {{ .content }}
+          </small>
+          <span class="h">
+            {{ .commentdate }}
+          </span>          
+        </div>        
+      </div>
+
+    {{ end }}
+  {{ else }}    
+    <div class="field has-addons mb-4">
+      <div class="has-addons-left">
+        <figure class="image is-48x48">
+          <img src="/avatars/blank.png" alt="Avatar" class="is-rounded">
+        </figure>
+      </div>
+      <div class="ml-4">
+        <small style="color: darkslategray;">
+          No comments yet. Post a comment in the form at the bottom. 
+        </small>
+      </div>        
+    </div>
+  {{ end }}
+
+
+
+
+
+
+
+1. safe space to recreate consequence
+2. make it interactive
+
+learm by experiemce
+each child is taught to their strength
+
+
+
 It debunks the big bang because the findings did not match the prediction. 
 
 Big Bang clearly predicts a linear sequence of bang then hot gas then small galaxy then large galaxy. 
@@ -2009,3 +2060,57 @@ After Duterte is gone, who will check an empowered military and police elite? --
 8 scitech
 9 CCT
 10 repro -->
+
+
+
+
+Symptoms: Caya mahahalata nang tauo na malapit na siyang magcasaquit, cun hindi siya malicsi, o masipag na para nang dati, cun nananabang nang pagcain: cun masaquit saquit ang sicmora, cun maraling mapagod, o cun mabigat ang caniyang olo…
+
+(If a person feels that he will get sick, or if he becomes weak or loses enthusiasm, or if he loses appetite: if he gets a stomach ache, fatigue, or gets a heavy feeling in the head…)
+
+Remedy: Capag ganoon ang damdam, ang gagauin niya’y houag titiquim siya nang carne, sabao, o itlog, o alac. Houag siyang magsasaquit gumaua: inomin niya ang bilin sa numero 1, o, 2, ga dalaua o tatlong botella carami maghapon; Cun aayao siya doo’y uminong nang tubig na malacoco na hohologan nang caonting suca. Cun walang suca, ang dalawang botellang tubig na malacoco ay doonan nang caonting asin at yaon ay inomin. Cun baga may roong polot ay mabuting laguian ang tubig nang tatlo o apat na cuchara noon.
+
+Passages: Sulu, An Introduction
+
+(If a person feels any of the symptoms, he must abstain from consuming meat, soup, egg, or alcohol. He must refrain from work. He must drink one or two bottles throughout the afternoon. If he does not like that, he must drink hot water [malacoco] mixed with little vinegar. If there is no vinegar, he must drink two bottles of hot water with a little salt. If honey is available, add three or four spoons of honey into the mix.)
+
+2|  Ang gamut sa bucol na ang pangalan ng tagalog doo’y Bayiqui o Bayicqui
+(The remedy for a person with beke or mumps)
+
+
+PHOTO BY MARIO ALVARO LIMOS.
+Symptoms: Cun minsan namamaga yaong dalauang galandulas o bocol na naroon sa piling nang tayinga’t sibang, cun minsan yaong dalaua naming hinihipo sa ilalim nang gitna nang sihang, na galandulas din yaon.
+
+(If the two lumps below the ears become swollen or inflamed) 
+
+ADVERTISEMENT - CONTINUE READING BELOW 
+Remedy: Itong saquit na ito ay nauauala pagca pinahiran nang tayom na tinunao sa caunting suca.
+
+(This ailment disappears if you dissolve sea urchin in vinegar and apply it on the sore areas.) 
+
+3|  Ang gagaouin sa manga quinagat nang asong olol cun walang mercurio o asogue
+(What to do when a person is bitten by a rabid dog and there is no mercury available)
+
+
+PHOTO BY MARIO ALVARO LIMOS.
+Remedy: Datapoa cun walang mercurio at maliuag naming magpacoha ca sa Maynila, ang gagauin sa quinagat nang asong bang-ao ay gay-on. Pagcaraca huhugasa’t lilinisan ang sugat nang may-saquit nang tubig na malacoco na dinoonan nang asin, nang macoha ang lauay nang asong naca cagat. Saca painomin toloy ang may-saquit nang lana o langis sa castila o langis ng niyog na mabaho man, ga calahating taza carami hanggang siya’y sumuca. Itong pag-inom nang langis, hindi sucat pabayaan, ay siya ang caonaonahang gamut dito.
+
+Saca cun ibig at pumapayag ang may-saquit, ang sugat ay pasoin nang caonting bulac o nang laman ng bonga nang boboy. Cun aayao ang may-saquit na pasoin ang sugat niya’y papasugatin nang isang lanceta o campit o dolo nang gunting man, mangyaring magdugo lamang at doonan ang sugat ng capitol na sungay nang usa, na sinonog, at iuan doon hangan sa siyang cusang malaglag.
+
+(If there is no mercury and it is impractical to procure one from Manila, this is what you should do to a person bitten by a rabid dog. Wash and clean the wound with hot water mixed with salt in order to expel the dog’s saliva from the wound. Make the patient drink half a cup of coconut oil, even though it has a strong aroma until he vomits.
+
+If the patient permits, apply hot cotton on the wound or apply bee sting on the wound. If the patient does not like those treatments, another remedy is cutting the wound with a blade to let it bleed. After it bleeds, apply a deer’s burnt antlers on the wound and don’t remove until it falls off.)
+
+4|  Gamot sa quinagat nang Poquiotan, Laiwan, Potacti, Amboboyog, Lamoc, o Langao na may camandag
+(Remedy for bites coming from bees, wasps, mosquitos, and venomous flies)
+
+Cun mayroong quinagat na tauo niyong manga hayop na yaon, ang gagauin ay gayon. Bonotin mona o sunquitin nang carayom ang panuca nang hayop saca basaing parati yaong lugar na masaquit nang basahang babad sa tubig lamang o tubig na pinaglagaan nang bulaclac nang alagao, o tapalan nang tinapay na minasa sa gatas at polot. Banyosan ang may-saquit hangan tohod nang tubig na malacoco. Huag pacanin nang marami cun gab-i. Painomin siya nang tubig na pinaglagaan nang bulaclac nang alagao.
+
+ADVERTISEMENT - CONTINUE READING BELOW 
+Ang lana o langis ng niog o langis sa castila, cun ilahir agad sa lugar nang quinagatan nang hayop ay nacacauala nang pamamaga, pati nang pagsaquit. Datapoa, cun minsan, hindi cailangan gumaua nang anoman doon sa quinagat niyong manga hayop na yaon, at ang saquit siyang cusang nauauala.
+
+Cun baga maraming hayop ang nacacagat, ay sangralan, o conan nang dugo ang may catauan.
+
+(If a person is stung by any of these insects, this is what you should do. Remove the stinger using a needle. Apply a damp towel on the affected area. The towel may be soaked in a solution of boiled flowers from the alagao plant. You may also put bread that is soaked in milk and honey. Wash the patient with warm water up to the knees and don’t feed him so much at night. Let him drink the boiled water from the alagao plant.
+
+You may apply coconut oil on the affected area to prevent inflammation and ease pain. Sometimes, a person bitten by these insects may not need medical attention at all. But if he is bitten by a lot of insects, perform bloodletting.)

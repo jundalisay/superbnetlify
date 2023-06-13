@@ -43,7 +43,11 @@ The frequency with which they change their encampments is another point. It is d
 
 The law enjoins upon all Spartans, during the whole period of an expedition, the constant practice of gymnastic (8) exercises, whereby their pride (9) in themselves is increased, and they appear freer and of a more liberal aspect than the rest of the world. 
 
-(10) The walk and the running ground must not exceed in length (11) the space covered by a regimental division, (12) so that no one may find himself far from his own stand of arms. After the gymnastic exercises the senior polemarch gives the order (by herald) to be seated. This serves all the purposes of an inspection. After this the order is given "to get breakfast," and for "the outposts (13) to be relieved." After this, again, come pastimes and relaxations before the evening exercises, after which the herald's cry is heard "to take the evening meal." When they have sung a hymn to the gods to whom the offerings of happy omen had been performed, the final order, "Retire to rest at the place of arms," (14) is given.
+(10) The walk and the running ground must not exceed in length (11) the space covered by a regimental division, (12) so that no one may find himself far from his own stand of arms. After the gymnastic exercises the senior polemarch gives the order (by herald) to be seated. 
+
+This serves all the purposes of an inspection. After this the order is given "to get breakfast," and for "the outposts (13) to be relieved." After this, again, come pastimes and relaxations before the evening exercises, after which the herald's cry is heard "to take the evening meal." 
+
+When they have sung a hymn to the gods to whom the offerings of happy omen had been performed, the final order, "Retire to rest at the place of arms," (14) is given.
 
  (8) Cf. Herod. vii. 208; Plut. "Lycurg." 22 (Clough, i. 113 foll.)
 
