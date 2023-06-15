@@ -1,5 +1,5 @@
 ---
-heading: "Part A: Consciousness"
+heading: "Section 2G"
 title: "Force and the play of Forces"
 description: The subject of philosophy is the actual knowledge of what truly is.
 image: /covers/phenom.png
@@ -15,7 +15,7 @@ weight: 16
 
 ## Force
 
-One moment, then, appears as a universal medium, or as the subsistence of independent constituents, as the reality that has stepped aside. 
+{{< s v='136' >}} One moment, then, appears as a universal medium, or as the subsistence of independent constituents, as the reality that has stepped aside. 
 
 The independence of these constituent elements, however, is nothing else than this medium -- this universal is simply and entirely the plurality of such diverse universals. 
 
@@ -35,7 +35,7 @@ When, however, force takes the form of that wherein they disappear and vanish, i
 
 <!-- Φ 137.  -->
 
-When we thus keep both moments in this immediate unity, it is Understanding, to which the conception of force belongs, that is, properly speaking, the principle which carries the different moments qua different. For per se they are not to be different; the distinction consequently exists only in thought. 
+{{< s v='137' >}} When we thus keep both moments in this immediate unity, it is Understanding, to which the conception of force belongs, that is, properly speaking, the principle which carries the different moments qua different. For per se they are not to be different; the distinction consequently exists only in thought. 
 
 Stated otherwise, only the mere conception of force has been put forward in the above, not its realization. In point of fact, however, force is the unconditioned universal, which is in itself just what it is for something else, or which holds difference within itself – for difference is nothing else than existence-for-an-other. 
 
@@ -43,7 +43,9 @@ Hence for force to be what it truly is, it has to be completely set free from th
 
 Force as such, force as driven back within itself, is in this way by itself an excluding unit, for which the unfolding of the elements or differences is another thing subsisting separately; and thus there are set up two sides, distinct and independent. 
 
-But force is also the whole, or it remains what, in its very conception, it is; that is to say, these differences remain mere forms, superficial vanishing “moments”. The differences between force proper, withdrawn into itself, and force unfolded and expressed in independent constituent elements, would at the same time have no being at all if they had no subsistence; i.e., force would have no being if it did not really exist in these opposite ways. But to exist in this way as opposite aspects means nothing else than that both moments are themselves at the same time independent. It is this process we, have now to deal with – the process by which both moments get themselves fixed as independent and then cancel their independence again.
+But force is also the whole, or it remains what, in its very conception, it is. That is to say, these differences remain mere forms, superficial vanishing “moments”. 
+
+The differences between force proper, withdrawn into itself, and force unfolded and expressed in independent constituent elements, would at the same time have no being at all if they had no subsistence; i.e., force would have no being if it did not really exist in these opposite ways. But to exist in this way as opposite aspects means nothing else than that both moments are themselves at the same time independent. It is this process we, have now to deal with – the process by which both moments get themselves fixed as independent and then cancel their independence again.
 
 Looked at broadly, it is manifest that this process nothing else than the process of perceiving, where the aspects, both percipient and content perceived, are at once inseparably united as regards the process of grasping the truth, and yet, by that very fact, each aspect is at the same time reflected into itself, is something on its own account. 
 
@@ -54,7 +56,7 @@ Thus the process, which formerly took the shape of the self-negation of contradi
 
 <!-- Φ 138.  -->
 
-Force, when determined, is taken as force because it is reflected into itself. 
+{{< s v='138' >}} Force, when determined, is taken as force because it is reflected into itself. 
 
 It is the one side of its notion and meaning: but a substantiated extreme, and, moreover, the extreme established with the specific character of oneness. 
 

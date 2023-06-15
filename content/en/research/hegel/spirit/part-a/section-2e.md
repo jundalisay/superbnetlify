@@ -1,5 +1,5 @@
 ---
-heading: "Section 2c"
+heading: "Section 2e"
 title: "The Transition to Unconditioned Universality and the sphere of Understanding"
 description: The subject of philosophy is the actual knowledge of what truly is.
 image: /covers/phenom.png
@@ -10,8 +10,7 @@ weight: 12
 
 
 <!-- Φ 129.  -->
-
-By this process the object in its pure characteristics, in those features which were to constitute its essential nature, is superseded, just as the object in its sensible mode of existence became transcended. 
+{{< s v='129' >}} By this process the object in its pure characteristics, in those features which were to constitute its essential nature, is superseded, just as the object in its sensible mode of existence became transcended. 
 
 From being sensible it passed into being a universal; but this universal, because derived from sense, is essentially conditioned by it, and hence is, in general, not a genuine self-identical universality, but one affected with an opposition. 
 
@@ -22,8 +21,7 @@ These pure determinations appear to express the essential nature itself; but the
 Since, however, both essentially exist in a single unity, we have before us now unconditioned absolute universality; and it is here that consciousness first truly passes into the sphere of Understanding, of Intelligence.
 
 <!-- Φ 130.  -->
-
-Sensible singleness thus disappears in the dialectic process of immediate certainty, and becomes universality, but merely sensuous universality. The stage of “meaning” has vanished, and perceiving takes the object as it inherently is in itself, or, put generally, as a universal. 
+{{< s v='130' >}} Sensible singleness thus disappears in the dialectic process of immediate certainty, and becomes universality, but merely sensuous universality. The stage of “meaning” has vanished, and perceiving takes the object as it inherently is in itself, or, put generally, as a universal. 
 
 Singleness, therefore, makes its appearance there as true singleness, as the inherent nature of the “one”, or as reflectedness into self. This is still, however, a conditioned self-existence alongside which appears another self-existence, the universality opposed to singleness and conditioned by it. 
 
@@ -35,18 +33,23 @@ But these expedients, instead of keeping away deception from the process of appr
 
 
 <!-- Φ 131.  -->
+{{< s v='131' >}} These empty abstractions of “singleness” and antithetic “univerisality”, as also of “essence”, that is attended with a “non-essential” element, an element which is all the same “necessary”, are powers the interplay of which constitutes perceptual understanding, often called “sound common sense” (Menschenverstand). 
 
-These empty abstractions of “singleness” and antithetic “univerisality”, as also of “essence”, that is attended with a “non-essential” element, an element which is all the same “necessary”, are powers the interplay of which constitutes perceptual understanding, often called “sound common sense” (Menschenverstand). 
+This “healthy common sense”, which takes itself to be the solid substantial type of conscious life, is, in its process of perception, merely the sport of these abstractions.
 
-This “healthy common sense”, which takes itself to be the solid substantial type of conscious life, is, in its process of perception, merely the sport of these abstractions; it is always poorest where it means to be richest. In that it is tossed about by these unreal entities, bandied from one to the other, and by its sophistry endeavors to affirm and bold fast alternately now one, then the exact opposite, it sets itself against the truth, and imagines philosophy has merely to do with “things of the intellect” (Gedankendinge), merely manipulates “ideas”.
+It is always poorest where it means to be richest. In that it is tossed about by these unreal entities, bandied from one to the other, and by its sophistry endeavors to affirm and bold fast alternately now one, then the exact opposite, it sets itself against the truth, and imagines philosophy has merely to do with “things of the intellect” (Gedankendinge), merely manipulates “ideas”.
 
 Philosophy does have to do with them, too, and knows them to be the pure essential entities, the absolute powers and ultimate elements. 
 
-But in doing so, philosophy knows them at the same time in their determinate and specific constitution, and is, therefore, master over them; while that perceptual understanding takes them for the real truth, and is led by them from one mistake to another. It does not get the length of being, aware that there are such simple essentialities operating within it and dominating its activity; it thinks it has always to do with quite solid material and content; just as sense-certainty is unaware that its essence is the empty abstraction of pure being. But in point of fact it is these essential elements in virtue of which perceptual understanding makes its way hither and thither through every kind of material and content; they are its principle of coherence and control over its varied material; they alone are what constitutes for consciousness the essence of sensuous things, what determines their relations to consciousness; and they are that in the medium of which the process of perceiving, with the truth it contains, runs its course. 
+But in doing so, philosophy knows them at the same time in their determinate and specific constitution, and is, therefore, master over them; while that perceptual understanding takes them for the real truth, and is led by them from one mistake to another.
+
+It does not get the length of being, aware that there are such simple essentialities operating within it and dominating its activity; it thinks it has always to do with quite solid material and content; just as sense-certainty is unaware that its essence is the empty abstraction of pure being. But in point of fact it is these essential elements in virtue of which perceptual understanding makes its way hither and thither through every kind of material and content; they are its principle of coherence and control over its varied material; they alone are what constitutes for consciousness the essence of sensuous things, what determines their relations to consciousness; and they are that in the medium of which the process of perceiving, with the truth it contains, runs its course. 
 
 The course of this process, a perpetual alternate determining of the truth and superseding of this determination, constitutes, properly speaking, the constant everyday life and activity of perceptual intelligence, of the consciousness that thinks it lives and moves in the truth. In that process it advances, without halt or stay, till the final result is reached, when these essential ultimate elements or determinations are all alike superseded; but in each particular moment it is merely conscious of one given characteristic as the truth, and then, again, of the opposite. It no doubt suspects their unessentiality; and, to save them from the impending danger, it takes to the sophistry of now asserting to be true what it had itself just affirmed to be not true.
 
-What the nature of these untrue entities really wants to force this understanding to do – viz. to bring together and thereby cancel and transcend the ideas about that “universality” and “singleness”, about that “essentiality” which is necessarily connected with an “unessentiality” and about an “unessential” that is yet “necessary” – understanding strives to resist by leaning for support on the so qualifying terms “in-so-far”, “a difference of aspect”, or by making itself answerable for one idea in order to keep the other separate and preserve it as the true one. But the very nature of these abstractions brings them together as they are and of their own accord. “Sound common sense” is the prey of these abstractions; they carry understanding round in their whirling circle. When understanding tries to give them truth by at one time taking their untruth upon itself, while at another it calls their deceptiveness a mere appearance due to the uncertainty and unreliability of things, and separates the essential from an element which is necessary to them, and yet is to be unessential, holding the former to be their truth as against the latter: – when understanding takes this line, it does not secure them their truth, but convicts itself of untruth.
+What the nature of these untrue entities really wants to force this understanding to do – viz. to bring together and thereby cancel and transcend the ideas about that “universality” and “singleness”, about that “essentiality” which is necessarily connected with an “unessentiality” and about an “unessential” that is yet “necessary” – understanding strives to resist by leaning for support on the so qualifying terms “in-so-far”, “a difference of aspect”, or by making itself answerable for one idea in order to keep the other separate and preserve it as the true one. But the very nature of these abstractions brings them together as they are and of their own accord. 
+
+“Sound common sense” is the prey of these abstractions; they carry understanding round in their whirling circle. When understanding tries to give them truth by at one time taking their untruth upon itself, while at another it calls their deceptiveness a mere appearance due to the uncertainty and unreliability of things, and separates the essential from an element which is necessary to them, and yet is to be unessential, holding the former to be their truth as against the latter: – when understanding takes this line, it does not secure them their truth, but convicts itself of untruth.
 
 <!-- 
 Force and the Understanding
