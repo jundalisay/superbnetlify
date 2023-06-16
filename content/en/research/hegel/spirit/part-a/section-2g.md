@@ -1,6 +1,6 @@
 ---
 heading: "Section 2G"
-title: "Force and the play of Forces"
+title: "Force and the Play of Forces"
 description: The subject of philosophy is the actual knowledge of what truly is.
 image: /covers/phenom.png
 author: Hegel
@@ -27,11 +27,15 @@ Along with that, too, goes the fact that they are absolutely pervious and porous
 
 In other words, the elements set up as independent pass directly over into their unity, and their unity directly into its explicit diversity, and the latter back once again into the reduction to unity. 
 
-This process is what is called Force. 
+**This process is called Force.** 
 
 One of its moments, where force takes the form of a dispersion of the independent elements each with a being of its own, is the Expression of Force.
 
-When, however, force takes the form of that wherein they disappear and vanish, it is Force proper, force withdrawn from expressing itself and driven back into itself. But in the first place force driven back into itself must express itself ; and, secondly, in that expression it is still force existing within itself, as much as in thus being within itself it is expression.
+When, however, force takes the form of that wherein they disappear and vanish, it is Force proper, force withdrawn from expressing itself and driven back into itself. 
+
+But in the first place force driven back into itself must express itself. 
+
+Secondly, in that expression it is still force existing within itself, as much as in thus being within itself it is expression.
 
 <!-- Φ 137.  -->
 
@@ -64,9 +68,14 @@ In virtue of this, the subsistence of the differentiated elements falls outside 
 
 But, in point of fact, since it must necessarily express itself, it has within itself this other, which to begin with took up a position as something outside it. We must withdraw from the position which sets up force as a one, and its essence – self-expressions – an other approaching it from outside. 
 
-Force is rather itself this universal medium for the subsistence of the moments as differentiated elements; or, in other words, it has expressed or externalized itself, and what was to be something outside it attracting or inciting it is really force itself. It thus exists now as the medium of the differentiated elements which are evolved. 
+Force is rather itself this universal medium for the subsistence of the moments as differentiated elements. In other words, it has expressed or externalized itself.
+- What was to be something outside it attracting or inciting it is really force itself. 
 
-But all the same it is in its very nature one and single, and has essentially the form of being that in which these subsisting elements are superseded. This oneness is in consequence now something other than, external to, force, since force takes its place as the medium for the elements to exist in; and force therefore has this its essential being outside itself. 
+It thus exists now as the medium of the differentiated elements which are evolved. 
+
+But it is in its very nature one and single. It has essentially the form of being that in which these subsisting elements are superseded. 
+
+This oneness is in consequence now something other than, external to, force, since force takes its place as the medium for the elements to exist in; and force therefore has this its essential being outside itself.
 
 Since, however, it must of necessity be this essential nature, which as yet it is not affirmed to be, this other comes forward soliciting or inciting it to reflect into self, to turn this pseudo-external factor into an aspect of itself; in other words, this other cancels its external expression. 
 
@@ -79,4 +88,10 @@ Consequently force, in that there is an other for it, and it is for an other, ha
 
 Instead of the opposition continuing to be entirely and essentially a mere moment, it appears to have escaped from the control of the unity and to have become, owing to this diremption, two quite independent forces. We have now to see more precisely what sort of situation this independence. introduces.
 
-To begin with, the second force stands towards the force incited in the character of inciting force, and, moreover, with respect to its content, plays the part of universal medium. But since that second force consists essentially in an alternation of these two moments and is itself force, it is likewise, in point of fact, universal medium only then when it is incited or solicited to being so; and in the same way, too, it is negative unity, or incites and leads to the retraction of force, only by being incited thereto. As a result, this distinction, which took place between one force regarded as inciting and the other as incited, turns also into one and the same reciprocal interchange of characteristics.
+The second force stands towards the force incited in the character of inciting force. With respect to its content, it plays the part of universal medium. 
+
+But since that second force consists essentially in an alternation of these 2 moments and is itself force, it is likewise a universal medium only then when it is incited or solicited to being so. 
+
+In the same way, too, it is negative unity. It incites and leads to the retraction of force, only by being incited thereto. 
+
+As a result, this distinction, which took place between one force regarded as inciting and the other as incited, turns also into one and the same reciprocal interchange of characteristics.

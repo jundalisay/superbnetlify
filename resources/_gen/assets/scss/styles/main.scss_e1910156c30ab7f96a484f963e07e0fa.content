@@ -6909,15 +6909,15 @@ body {
   background-color: lightgray;
   background-image: url(/icons/blank.png); }
 
-.kin, .Tsz-Kin, .Lin-Fang {
+.kin, .Tsz-Kin, .Lin-Fang, .Simon-Peter {
   background-color: lightgray;
-  background-image: url(/icons/g00.png); }
+  background-image: url(/icons/g01.png); }
 
-.ade, .Adeimantus, .Tsz-Hi {
+.ade, .Adeimantus, .Tsz-Hi, .Disciples {
   background-color: #d9fefd;
   background-image: url(/icons/g02.png); }
 
-.asker, .Asker {
+.asker, .Asker, .Thomas {
   background-color: gainsboro;
   background-image: url(/icons/g09.png) !important; }
 
@@ -6938,7 +6938,7 @@ body {
   color: black;
   background-image: url(/icons/yellow.png); }
 
-.zeno, .Tsai-Wo {
+.zeno, .Tsai-Wo, .Matthew {
   background-color: darkgray;
   background-image: url(/icons/g10.png); }
 

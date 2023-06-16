@@ -97,16 +97,28 @@ The contradiction which is found in the case of the objective content as a whole
 
 {{< s v='124' >}} Although the contradiction in the object is in this way allotted to different things, yet the isolated individual thing will still be affected with distinction. 
 
-The different things have a subsistence on their own account (für sich); and the conflict between them takes place on both sides in such a way that each is not different from itself, but only from the other. Each, however, is thereby characterized as a something distinctive, and contains in it essential distinction from the others.
+The different things have a subsistence on their own account. The conflict between them takes place on both sides in such a way that each is not different from itself, but only from the other.
 
-But at the same time not in such a way that this is an opposition within its being; on the contrary, it is by itself a simple determinate characteristic which constitutes its essential character, distinguishing it from others. As a matter of fact, since the diversity lies in it, this diversity does indeed necessarily assume the form of a real distinction of manifold qualities within it. But because the determinate characteristic gives the essence of the thing, by which it is distinguished from others, and has a being all its own, this further manifold constitution is something indifferent. 
+Each, however, is thereby characterized as a something distinctive, and contains in it essential distinction from the others.
+- But at the same time not in such a way that this is an opposition within its being.
+- On the contrary, it is by itself a simple determinate characteristic which constitutes its essential character, distinguishing it from others. 
 
-The thing thus no doubt contains in its unity the qualifying “in-so-far” in two ways, which have, however, unequal significance; and by that qualification this oppositeness becomes not a real opposition on the part of the thing itself, but – so far as the thing comes into a condition of opposition through its absolute distinction – this opposition belongs to the thing with reference to an other thing lying outside it. The further manifoldness is doubtless necessarily in the thing too, and cannot be left out; but it is unessential to the thing.
+Since the diversity lies in it, this diversity does necessarily assume the form of a real distinction of manifold qualities within it. 
+- But because the determinate characteristic gives the essence of the thing, by which it is distinguished from others, and has a being all its own, this further manifold constitution is something indifferent. 
+
+The thing thus contains in its unity the qualifying “in-so-far” in 2 ways which have unequal significance.
+- This oppositeness becomes not a real opposition on the part of the thing itself, but – so far as the thing comes into a condition of opposition through its absolute distinction – this opposition belongs to the thing with reference to an other thing lying outside it. 
+
+The further manifoldness is doubtless necessarily in the thing too, and cannot be left out; but it is unessential to the thing.
 
 
-{{< s v='125' >}} This determinate characteristic, which constitutes the essential character of the thing and distinguishes it from all others, is now so defined that thereby the thing, stands in opposition to others, but must therein preserve itself for itself (für sich). It is, however, a thing, a self-existent “one”, only so far as it does not stand in relation to others.
+{{< s v='125' >}} This determinate characteristic, which constitutes the essential character of the thing and distinguishes it from all others, is now so defined that thereby the thing, stands in opposition to others, but must therein preserve itself for itself. 
 
-For in this relation, the connection with another is rather the point emphasized, and connection with another means giving up self-existence, means ceasing to have a being on its own account. It is precisely through the absolute character and its opposition that the thing relates itself to others, and is essentially this process of relation, and only this. The relation, however, is the negation of its independence, and the thing collapses through its own essential property.
+It is, however, a thing, a self-existent “one”, only so far as it does not stand in relation to others.
+
+For in this relation, the connection with another is rather the point emphasized, and connection with another means giving up self-existence, means ceasing to have a being on its own account. 
+
+It is precisely through the absolute character and its opposition that the thing relates itself to others, and is essentially this process of relation, and only this. The relation, however, is the negation of its independence, and the thing collapses through its own essential property.
 
 
 {{< s v='126' >}} The necessity of the experience which consciousness has to go through in finding that the thing is destroyed just by the very characteristic which constitutes its essential nature and its distinctive existence on its own account, may, as regards the bare principle it implies, be shortly stated thus. 

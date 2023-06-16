@@ -1,5 +1,5 @@
 ---
-heading: "Part A: Consciousness"
+heading: "Section 4b"
 title: "Independence and Dependence of Self-Consciousness: Lordship and Bondage"
 description: The subject of philosophy is the actual knowledge of what truly is.
 image: /covers/phenom.png

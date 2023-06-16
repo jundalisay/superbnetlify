@@ -11,11 +11,19 @@ author: William Benham
 
 The Saturnian is identified by the Mount and finger of Saturn.
 
-The higher the Mount of Saturn is developed, the larger and longer the finger, and the squarer the tip of this finger, the more pronounced is the type of the subject.
+He is more pronounced if:
+- his Mount of Saturn is developed
+- his finger is the larger and longer
+- the tip of this finger is squarer
 
-A highly developed Mount of Saturn is a rarity, and in the greatest number of hands there is instead a depression.
+A highly developed Mount of Saturn is rare. Most people just have a depression instead.
 
-A long finger of Saturn is quite common, however, showing the presence of some Saturnian qualities, and the Mount, though it may not be prominent, often shows, by the lines upon it, that it is of more than ordinary development. Great care must be used with this Mount, as it shows strong characteristics.
+A long finger of Saturn is quite common.
+- It shows the presence of some Saturnian qualities
+
+The Mount, though it may not be prominent, often shows, by the lines upon it, that it is of more than ordinary development. 
+
+Great care must be used with this Mount, as it shows strong characteristics.
 
 As single signs or in combination, the triangle, circle, trident, single vertical line, or square increase the strength of the Mount of Saturn.
 
