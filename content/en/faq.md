@@ -79,7 +79,7 @@ Hinduism, Buddhism, and Taoism allow other dimensions by default.
 
 Even Islam has the concept of [Jinns](/research/mohammad/quran/sura-072). This gives us a bigger data set from which we can test their own principles on our reality.
 
-This is different from Roman philosophy which has no metaphysics to allow other dimensions. Notice how Roman gods just mirror human characteristics. 
+This is different from Roman philosophy which has no metaphysics to allow other dimensions. Notice how Roman gods just mirror human characteristics. The Roman mentality evolved to be Western thinking and subsequently as Western Science. 
 {{< /l >}}
 
 {{< r ava="asker" >}}
@@ -101,7 +101,7 @@ So what have you found?
 {{< l a="Superphysics" >}}
 That there is a Supreme Entity, called as God, Allah, Jehovah, Yahweh, Brahma, Amaterasu, etc. and that we are inside It. Parmenides calls It The One, and the Chinese call It The Tao.
 
-This is similar to the idea that Descartes had, despite him using non-Asian techniques. This One then generates everything **in real-time**. Again this is very different from the Roman or Jewish belief that the universe was pre-created, usually in 7 days.
+This is similar to the idea that Descartes and Hegel had, despite them using non-Asian techniques. This One then generates everything **in real-time**. Again this is very different from the Roman or Jewish belief that the universe was pre-created, usually in 7 days.
 {{< /l >}}
 
 {{< r ava="asker" >}}
@@ -165,7 +165,7 @@ But people often use alternative medicine for the wrong purpose and so it unfair
 
 Western medicine works best in the material layer but is awful at the mental layer. This is why the West has a lot of mental problems that lead to mass shootings. 
 
-Yoga is great at the mental layer, but terrible at the material layer. 
+Yoga is great at the mental layer, but terrible at the material layer. This is why the West is usually so materially rich, while India is so materially poor.
 {{< /l >}}
 
 
@@ -179,7 +179,7 @@ I want profits and wealth for myself. I drink my delicious expensive coffee conv
 
 After death, there is nothing and so I say maximize pleasure while alive and don't care about the consequences, even on others! 
 
-So what if there's global warming? In the long-run, we're all dead! At least I've experienced a 5-star lifestyle. 
+So what if there's global warming? In the long-run, we're all dead! At least I've experienced a 5-star lifestyle. Heaven can be on earth, brought by money money money. 
 {{< /r >}}
 
 {{< l ava="Superphysics" >}}
@@ -189,7 +189,7 @@ That's actually one of the attractions of Superphysics -- it rejects selfishness
 
 People who ascribe to Superphysics are open-minded and lovers of philosophy, nature, and the Supreme Entity, as explained by Socrates. These allow and develop the 6th sense of intuition and fellow-feeling, on top of the usual math and 5-sense cognitive abilities usually in IQ tests. 
 
-We are targetting young people for this because they are the ones stuck with warmed-world destroyed by the previous generation. Notice how we use graphics and the chat format to appeal to young people. <!-- , who took all the land, wealth, and capital and left none for the next generation. -->
+We are targetting young people for this because they are the ones stuck with warmed-world destroyed by the previous generation. Notice how we use graphics and the chat format to appeal to young people.  <!-- , who took all the land, wealth, and capital and left none for the next generation. -->
 {{< /l >}}
 
 {{< r ava="Boomer" >}}
