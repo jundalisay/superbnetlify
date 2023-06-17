@@ -5,7 +5,7 @@ description: I am aware of the 'thing' as a one and have to keep it fixed in thi
 image: /covers/phenom.png
 author: Hegel
 icon: /avatars/hegel.png
-weight: 10
+weight: 18
 ---
 
 

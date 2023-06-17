@@ -8,9 +8,7 @@ weight: 10
 ---
 
 
-{{< s v='254' >}}
-
-Such an object which sustains the procedure in the simple activity of the notion is an organism.
+{{< s v='254' >}} Such an object which sustains the procedure in the simple activity of the notion is an organism.
 
 Organic existence is this absolutely fluid condition wherein determinateness, which would only put it in relation to an other, is dissolved. Inorganic things involve determinateness in their very essence; and on that account a thing realizes the completeness of the moments of the notion only along with another thing, and hence gets lost when it enters the dialectic movement. 
 

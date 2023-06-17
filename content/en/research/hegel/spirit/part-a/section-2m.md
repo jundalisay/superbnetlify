@@ -1,19 +1,21 @@
 ---
 heading: ""
-title: "This process as Explanation"
+title: "What is Explanation?"
 description: In contrast, then, with determinate laws stands universal attraction, or the bare conception of law. In so far as this pure conception is looked on as the essentially real, or as the true inner being, the determinateness characterizing the specific law itself belongs still to the sphere of appearance, or rather to sensible existence.
 image: /covers/phenom.png
 author: Hegel
 icon: /avatars/hegel.png
-weight: 16
+weight: 36
 ---
 
 
-(3) Explanation
+This process is called Explanation. 
 
-This process is called Explanation. A law is expressed; from this its inherently universal element or ground is distinguished as force; but regarding this distinction, it is asserted that it is no distinction, rather that the ground has entirely the same constitution as the law. For example, the particular occurrence of lightning is apprehended as universal, and this universal is expressed as the law of electricity; the explanation thereupon merges the law in force as the essence of the law. This force is, then, so constituted that, when it finds expression, opposite electrical discharges appear, and these again disappear into one another. In other words, force has exactly the same constitution as law; both are thus declared to be in no way distinct. The distinctions are pure universal expression or law and pure force; but both have the same content, the same constitutive character; thus the distinction between them qua distinction of content, i.e. of fact, is also again withdrawn.
+A law is expressed; from this its inherently universal element or ground is distinguished as force; but regarding this distinction, it is asserted that it is no distinction, rather that the ground has entirely the same constitution as the law. For example, the particular occurrence of lightning is apprehended as universal, and this universal is expressed as the law of electricity; the explanation thereupon merges the law in force as the essence of the law. This force is, then, so constituted that, when it finds expression, opposite electrical discharges appear, and these again disappear into one another. In other words, force has exactly the same constitution as law; both are thus declared to be in no way distinct. The distinctions are pure universal expression or law and pure force; but both have the same content, the same constitutive character; thus the distinction between them qua distinction of content, i.e. of fact, is also again withdrawn.
 
-{{< s v="155" >}} In this tautological process understanding, as the above shows, holds fast to the changeless unity of its object, and the process takes effect solely within understanding itself, not in the object. It is an explanation that not only explains nothing, but is so plain that, while it makes as if it would say something different from what is already said, it really says nothing at all, but merely repeats the same thing over again. So far as the fact itself goes, this process gives rise to nothing new; the process is only of account as a process of understanding.
+{{< s v="155" >}} In this tautological process understanding, as the above shows, holds fast to the changeless unity of its object, and the process takes effect solely within understanding itself, not in the object.
+
+It is an explanation that not only explains nothing, but is so plain that, while it makes as if it would say something different from what is already said, it really says nothing at all, but merely repeats the same thing over again. So far as the fact itself goes, this process gives rise to nothing new; the process is only of account as a process of understanding.
 
 In it, however, we now get acquainted with just what we missed in the case of the law – absolute change itself: for this process, when looked at more narrowly, is directly the opposite of itself. It sets up, that is. a distinction which is not only for us no distinction, but which it itself cancels as distinction. This is the same process of change which was formerly manifested as the play of forces. In the latter we found the distinction of inciting and incited force, or force expressing itself, and force withdrawn into itself; but these were distinctions which in reality were no distinctions, and therefore were also immediately cancelled again. We have here not merely the naked unity, so that no distinction could be set up at all; the process we have is rather this, that a distinction is certainly made, but because it is no distinction, it is again superseded.
 

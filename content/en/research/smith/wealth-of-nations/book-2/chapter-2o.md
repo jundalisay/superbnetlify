@@ -1,55 +1,97 @@
 ---
-title: "Monetary Policy"
+title: "Promissory Notes"
 heading: "Chapter 2o"
 weight: 38
 image: "/covers/wn.jpg"
-description: "In Yorkshire’s paper currencies, the payment of so small a sum as a sixpence required the note’s holder to bring the change of a guinea to the issuer"
+description: "Paper money in promissory notes would fall below the value of gold and silver"
 icon: "/avatars/smith.png"
 ---
 
 
 
-{{< s v="99" >}} In Yorkshire’s paper currencies, the payment of so small a sum as a sixpence required the note’s holder to bring the change of a guinea to the issuer.
+## The Increase in Fiat (Personal Debt) Increases Inflation 
 
-This was very difficult for the holders of such notes.
-It must have degraded this currency below the value of gold and silver money.
+{{< s v="97" >}} It would be otherwise with a paper money consisting in promissory notes, of which the immediate payment:
+- depended on the goodwill of its issuers,
+- depended on a condition which the holder of the notes might not always be able to fulfill, and
+- could only be made after a certain number of years and bore no interest in the meantime.
+
+Paper money in promissory notes would fall below the value of gold and silver according to:
+- the difficulty or uncertainty of obtaining immediate payment, and
+- the length of time at which payment could be made.
+
+
+### Length of Time
+
+{{< s v="98" >}} Some years ago, the Scottish banks inserted an optional clause into their bank notes. They promised payment to the bearer: 
+- as soon as the note should be presented, or
+- six months after such presentment, with 6-month interest.
+
+Some bank directors took advantage of this optional clause. They sometimes threatened those who demanded gold and silver for their notes, that the demanders should be content with just a part of what they demanded.
+
+At that time, the bank's promissory made up most of Scottish currency.
+- This uncertainty of payment degraded the currency below the value of gold and silver money.
+- This abuse occurred chiefly from 1762-1764.
+- Back then, the exchange between London and Carlisle, Scotland was at par.
+
+The exchange between London and Dumfries, Scotland would sometimes be 4% against Dumfries, even though Dumfries was less than 30 miles away from Carlisle.
+- At Carlisle, bills were paid in gold and silver.
+- At Dumfries, bills were paid in Scotch bank notes.
+
+The uncertainty of getting those bank notes exchanged for gold and silver coin degraded them 4% below the value of that coin.
+
+The same Act of Parliament which suppressed 10 and 5 shilling bank notes also suppressed this optional clause.
+- It restored the exchange between England and Scotland to its natural rate, or to what the course of trade and remittances might make.
+
+
+### Difficulty of Converting Paper to Coins
+
+{{< s v="99" >}} In Yorkshire’s paper currencies, the payment of so small a sum as a sixpence required the bank note’s holder to bring a guinea. 
+<!-- the change of a guinea to the issuer. -->
+- This was very difficult for the holders of such notes.
+- It must have degraded this currency below the value of gold and silver money.
 
 An Act of Parliament declared all such clauses unlawful.
-It suppressed, as in Scotland, all promissory notes payable to the bearer under 20 shillings value.
+- It suppressed, as in Scotland, all promissory notes payable to the bearer under 20 shillings value.
 
 
 {{< s v="100" >}} The North American paper currencies consisted in government paper and not in bank notes payable to the bearer.
-
-The payment was due several years after it was issued.
-The colony governments declared it a legal tender.
-They paid no interest to the holders of this paper.
+- The payment was due several years after it was issued.
+- The colony governments declared it a legal tender.
+  - They paid no interest to the holders of this paper.
 
 If the colony were perfectly secure, £100 payable in 15 years at 6% interest, is worth around £40 ready money today. [100 * 1/(1.06 ^ 15)]
 
 To oblige a creditor to accept £40 payment for a debt of £100 was such violent injustice perhaps never attempted by any other free government.
+- The honest and downright Doctor Douglas assures us that this was originally a scheme of fraudulent debtors to cheat their creditors.
 
-The honest and downright Doctor Douglas assures us that this was originally a scheme of fraudulent debtors to cheat their creditors.
+
 In 1772, the Pennsylvania government pretended on their first paper money to render their paper equal to gold and silver.
-This was done by enacting penalties against those who sold goods with a colony-paper price different from its gold and silver price.
-This regulation was equally tyrannical but much less effective.
-A positive law may render a shilling equal to a guinea because it may direct the courts to discharge the debtor who has made that tender.
+- This was done by enacting penalties against those who sold goods with a colony-paper price different from its gold and silver price.
+- This regulation was equally tyrannical but much less effective.
 
-But no positive law can oblige a free seller to accept a shilling as a payment for something priced at a guinea.
+A positive law can render a shilling equal to a guinea because it can direct the courts to discharge the debtor who made that tender.*
+- **But no positive law can oblige a free seller to accept a shilling as a payment for something priced at a guinea.**
+
+> *Superphysics note: This is because a debt is bound by a long time, which can include changes in circumstances. But a purchase is immediate. 
+
+
 In the exchange with Great Britain, £100 was occasionally considered equal to £130 in some colonies.
-In other colonies, £100 was equal to £1,100 currency.
-This difference in the value was due to the= 
-difference in the amount of paper printed in the colonies
-distance and probability of the term of its final discharge and redemption.
+- In other colonies, £100 was equal to £1,100 currency.
+
+This difference in the value was due to the:
+- difference in the amount of paper printed in the colonies
+- distance and probability of the term of its final discharge and redemption.
 
 
 {{< s v="101" >}} An Act of Parliament which declared that no paper currency created in the colonies should be a legal tender, is most equitable.
-
-However, such a law is so unjustly complained of in the colonies.
+- However, such a law is so unjustly complained of in the colonies.
 
 
 {{< s v="102" >}} Pennsylvania was always more moderate in its creations of paper money than any other of our colonies.
 
 Its paper currency never sunk below the value of the gold and silver in the colony before the first creation of its paper money.
+
 Before that creation, the colony raised its coin denomination.
 
 By an act of assembly. it ordered the colony’s 5 shillings sterling [60 pence] to pass for= 
@@ -57,65 +99,13 @@ By an act of assembly. it ordered the colony’s 5 shillings sterling [60 pence]
 - six and eightpence [80 pence].
 
 Therefore, £1 colony currency was more than 30% below the value of £1 sterling , even when the colony currency was in gold and silver.
+
 When the £1 colony currency was turned into paper, it was seldom much more than 30% below that value.
+
 The pretence for devaluing the coin was to prevent gold and silver exportation.
-It aimed to make equal quantities of those metals have greater value in the colony than in Great Britain.
-However, they found that= 
+- It aimed to make equal quantities of those metals have greater value in the colony than in Great Britain.
+
+However, they found that:
 - the price of all goods from Great Britain rose exactly in proportion as they devalued their coin, and
 - their gold and silver were exported as fast as ever.
 
-
-{{< s v="103" >}} The paper of each colony was used to pay the provincial taxes at its original value.
-
-This gave it some additional value over and above the length of time for its final redemption.
-- This additional value depended on whether the amount of paper issued was in excess of what could be used to pay taxes.
-- In all the colonies, the amount of paper was very much in excess.
-
-104 A prince who orders that taxes paid to him be paid in a paper money, might give a certain value to this paper money, even if the terms of its final redemption depends entirely on the prince.
-
-If the issuing bank kept this quantity of paper always below what was needed to pay taxes= 
-- the demand for paper might cause it to even bear a premium, and
-- the paper could have more value in the market than the gold or silver currency it was issued for.
-
-This is the idea for the Agio of the bank of Amsterdam.
-
-The Agio is the superiority of bank money over current money even if this bank money cannot be taken out at the owner's will.
-
-Most foreign bills of exchange must be paid in this bank money. It must be paid by a transfer in the books of the bank.
-
-The bank of Amsterdam alleges that its directors are careful to keep the total bank money always below the demand.
-This is why they say that its bank money sells for a premium, or bears an agio of 4-5% above the same nominal sum of the country's gold and silver currency.
-
-However, this account of the bank of Amsterdam is mostly imaginary.
-
-
-{{< s v="105" >}} A paper currency which falls below the value of gold and silver coin does not sink the value of those metals.
-
-It does not cause equal quantities of them to exchange for fewer goods.
-The proportion between the value of gold and silver and the value of goods depends on the fertility of the gold and silver mines.
-It does not depend on the amount of any paper money.
-It depends on the proportion between the amount of labour needed= 
-to bring gold and silver to market, and
-to bring a certain quantity of goods.
-
-
-{{< s v="106" >}} Banks are considered perfectly free if:
-
-- Their trade is done with safety to the public. 
-- Its bankers are:
-	- restrained from issuing any bank notes for less than a certain sum, and
-	- obliged to pay immediate and unconditionally for bank notes when they are presented.
-
-The recent multiplication of banking companies in the United Kingdom has alarmed many people.
-
-Their free competition actually increases the security of the public by: 
-- obliging all banks to be more circumspect in their own conduct,
-  - This prevents them from extending their currency beyond its due proportion to their cash.
-	- This guards themselves against those malicious runs caused by their competitors.
-- restraining the circulation of each bank within a narrower circle.
-	- This makes their circulating notes fewer.
-	- By dividing the circulation into more parts, the failure of any company becomes of less consequence to the public.
-		- Company failures must sometimes happen in the course of things.
-- obliging all bankers to be more liberal in their dealings with their customers, lest their rivals should carry them away.
-
-Generally, a trade or division of labour that is advantageous to the public will be more advantageous the freer and more general the competition in it is.

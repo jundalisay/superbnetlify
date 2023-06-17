@@ -24,11 +24,12 @@ It would distribute the burden more equally on all. This increase would not tota
 
 This could only be done by admitting a fair and equal representation of all those different provinces into the British Parliament, consistent with the principles of the British constitution.
 - The representation of each province would be proportional to the proceeds of its taxes in the same way as British representation is proportional to the proceeds of the taxes levied on Great Britain.
-- This change is presently opposed by= 
-  - the private interest of many powerful individuals,
-  - the prejudices of the people.
 
-These are obstacles which may be very difficult to surmount. We should consider= 
+This change is presently opposed by:
+- the private interest of many powerful individuals
+- the prejudices of the people
+
+These are obstacles which may be very difficult to surmount. We should consider: 
 - how far the British tax system can be applied to all the empire's provinces,
 - what revenue might be expected,
 - how this kind of general union might affect the happiness and prosperity of those provinces.

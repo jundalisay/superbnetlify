@@ -55,6 +55,7 @@ It mobilizes more industry, which gives more value to the annual produce.
 But it is consumed by a different set of people.
 In most cases, the part spent by a rich man from his revenue is consumed by idle guests and menial servants.
 They leave nothing in return for their consumption.
+
 The part which he saves is immediately employed as a capital for the sake of profit.
 It is consumed by labourers, manufacturers, and craftsmen.
 They reproduce the value of their consumption with a profit.

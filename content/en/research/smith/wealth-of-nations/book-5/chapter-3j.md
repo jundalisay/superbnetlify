@@ -80,7 +80,7 @@ Gold and silver very seldom appear in the commerce between Great Britain and the
 
 {{< s v="84" >}} In the northern colonies, the value of their own exports to Great Britain is more than the value of their imports.
 
-A balance must be paid to Great Britain in gold and silver. They generally find this balance. The northern colonies are= 
+A balance must be paid to Great Britain in gold and silver. They generally find this balance. The northern colonies are:
 - Pennsylvania
 - New York
 - New Jersey

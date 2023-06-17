@@ -5,7 +5,7 @@ description: In contrast, then, with determinate laws stands universal attractio
 image: /covers/phenom.png
 author: Hegel
 icon: /avatars/hegel.png
-weight: 16
+weight: 34
 ---
 
 
@@ -59,4 +59,8 @@ On that account, however, that first necessity too is itself a merely delusory f
 
 {{< s v="154" >}} The distinction is, then, in both cases no distinction of an inherent or essential kind. Either the universal, force, is indifferent to the division into parts, which is found in the law, or else the distinctions, the parts of the law, are indifferent to one another.
 
-Understanding, however, does have the notion of this distinction per se, just by the fact that law is in part the inner being, the inherent nature, but is at the same time something distinguished within the notion. That this distinction is thereby inner distinction is shown by the fact that law is bare and simple force, or is the notion of that distinction, and thus is a distinction of the notion. But still this inner distinction falls to begin with only within understanding, and is not yet established in the fact itself. It is thus only its own necessity to which understanding gives expression – the distinction, that is to say, is one which it makes only so as at the same time to express that the distinction is not to be a distinction in the nature of the fact itself. This necessity, which is merely verbal, is thus a rehearsal of the moments which make up the cycle of necessity. They are no doubt distinct, but their distinction is at the same time explicitly stated to be not a distinction of the fact itself, and consequently is itself again straightway cancelled and transcended.
+Understanding, however, does have the notion of this distinction per se, just by the fact that law is in part the inner being, the inherent nature, but is at the same time something distinguished within the notion. That this distinction is thereby inner distinction is shown by the fact that law is bare and simple force, or is the notion of that distinction, and thus is a distinction of the notion.
+
+But still this inner distinction falls to begin with only within understanding, and is not yet established in the fact itself. It is thus only its own necessity to which understanding gives expression – the distinction, that is to say, is one which it makes only so as at the same time to express that the distinction is not to be a distinction in the nature of the fact itself. 
+
+This necessity, which is merely verbal, is thus a rehearsal of the moments which make up the cycle of necessity. They are no doubt distinct, but their distinction is at the same time explicitly stated to be not a distinction of the fact itself, and consequently is itself again straightway cancelled and transcended.

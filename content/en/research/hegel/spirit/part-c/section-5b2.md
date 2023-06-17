@@ -1,5 +1,5 @@
 ---
-heading: "Section 2b"
+heading: "Section 5b2"
 title: "Observation of Nature"
 description: The subject of philosophy is the actual knowledge of what truly is.
 image: /covers/phenom.png

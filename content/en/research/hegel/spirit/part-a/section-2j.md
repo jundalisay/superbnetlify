@@ -5,7 +5,7 @@ description: This true being of things does not exist immediately for consciousn
 image: /covers/phenom.png
 author: Hegel
 icon: /avatars/hegel.png
-weight: 18
+weight: 30
 ---
 
 

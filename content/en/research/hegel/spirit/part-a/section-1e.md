@@ -6,7 +6,7 @@ description: This certainty wholly refuses to come out if we direct its attentio
 image: /covers/phenom.png
 author: Hegel
 icon: /avatars/hegel.png
-weight: 6
+weight: 12
 ---
 
 <!-- ## 3.  -->

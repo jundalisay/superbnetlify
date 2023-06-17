@@ -6,7 +6,7 @@ description: The fundamental difference is that in our perceptions (sense-experi
 image: /covers/phenom.png
 author: Hegel
 icon: /avatars/hegel.png
-weight: 5
+weight: 6
 ---
 
 

@@ -5,8 +5,9 @@ description: This second supersensible world is in this way the inverted world (
 image: /covers/phenom.png
 author: Hegel
 icon: /avatars/hegel.png
-weight: 16
+weight: 42
 ---
+
 
 3. Infinitude
 

@@ -1,5 +1,5 @@
 ---
-heading: "Section 2"
+heading: "Section 5b"
 title: "Observation as a Process of Reason"
 description: The subject of philosophy is the actual knowledge of what truly is.
 image: /covers/phenom.png

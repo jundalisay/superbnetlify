@@ -5,7 +5,7 @@ description: Immediate certainty does not make the truth its own, for its truth 
 image: /covers/phenom.png
 author: Hegel
 icon: /avatars/hegel.png
-weight: 10
+weight: 14
 ---
 
 

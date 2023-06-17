@@ -50,3 +50,17 @@ Sequence | Layer | Effect
 As you can see, all 5 layers are used to create the reality of the movement of the object. This then matches our principle that all physical movement and change involves all 5 layers, ultimately commanded by the aethereal layer. 
  
 
+
+
+
+<!-- Our proposed Superphysics uses the principles of the aether which were supported by great physicists like Maxwell, Fresnell, Lorentz, and Poincare before they were discarded by Einstein's Relativity.
+
+	To demonstrate, we take a 1 kilogram weight and induce a state-change via the aether. This makes the mass 1 gram lighter, representing its repelling of the gravity of the Earth via action at a distance, without any Newtonian contact force.
+
+	As we only use household tools such as a digital kitchen scale, we find inconsistencies in the weight change. But this is still different from having no change in the control (i.e video-record the weight-value for 10 minutes with and without the aether induction).
+
+	From here, we can easily see how aether tech makes sense in construction. This is consistent in early civlizations which built large and heavy infrastructure, such as Egyptian pyramids, without any knowledge of electricity or even combustion. This tech only needs the discovery of fire as to create the construction tools. It doesn't even need writing technology since aether knowledge is best transmitted through oral tradition just as you can learn from YouTube videos faster than from reading a book. 
+
+	Accordingly, we see Hindus preferring oral teachings, and the Egyptians not writing their aether technology down. Instead, the latter taught it orally to Pythagoras which taught it to his followers. Eventually it was learned by Timaeus who was recorded by Plato which we can read now online. 
+
+	Timaeus' account of the aether is important as it must match the aether of the Hindus (akasha) who use it to propel themselves, as levitating monks, instead of for construction. This then supports the case for aethereal propulsion in vehicles. The purported round shape of UFOs match our basic concept for propelling a mass using Descates' First Rule of Movement instead of Netwon's 3rd Law used in rockets. -->

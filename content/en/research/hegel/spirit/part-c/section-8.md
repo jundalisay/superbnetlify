@@ -12,7 +12,7 @@ weight: 18
 
 <!-- Φ 788.  -->
 
-THE Spirit manifested in revealed religion has not as yet surmounted its attitude of consciousness as such; or, what is the same thing, its actual self-consciousness is not at this stage the object it is aware of. 
+{{< s v='788' >}}  The Spirit manifested in revealed religion has not as yet surmounted its attitude of consciousness as such; or, what is the same thing, its actual self-consciousness is not at this stage the object it is aware of. 
 
 Spirit as a whole and the moments distinguished in it fall within the sphere of figurative thinking, and within the form of objectivity. The content of this figurative thought is Absolute Spirit. All that remains to be done now is to cancel and transcend this bare form; or better, because the form appertains to consciousness as such, its true meaning must have already come out in the shapes or modes consciousness has assumed.
 
@@ -28,7 +28,9 @@ Consciousness, at the same time, must have taken up a relation to the object in 
 
 <!-- Φ 789.  -->
 
-The object is, then, partly immediate existence, a thing in general – corresponding to immediate consciousness; partly an alteration of itself, its relatedness, (or existence-for-another and existence-for-self), determinatenesss – corresponding to perception; partly essential being or in the form of a universal – corresponding to understanding. The object as a whole is the mediated result [the syllogism] or the passing of universality into individuality through specification, as also the reverse process from individual to universal through cancelled individuality or specific determination.
+{{< s v='789' >}}  The object is, then, partly immediate existence, a thing in general – corresponding to immediate consciousness; partly an alteration of itself, its relatedness, (or existence-for-another and existence-for-self), determinatenesss – corresponding to perception; partly essential being or in the form of a universal – corresponding to understanding. 
+
+The object as a whole is the mediated result [the syllogism] or the passing of universality into individuality through specification, as also the reverse process from individual to universal through cancelled individuality or specific determination.
 
 These three specific aspects, then, determine the ways in which consciousness must know the object as itself. This knowledge of which we are speaking is, however, not knowledge in the sense of pure conceptual comprehension of the object; here this knowledge is to be taken only in its development, has to be taken in its various moments and set forth in the manner appropriate to consciousness as such; and the moments of the notion proper, of pure knowledge, assume the form of shapes or modes of consciousness. 
 
