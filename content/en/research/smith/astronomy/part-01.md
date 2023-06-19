@@ -4,6 +4,7 @@ heading: Part 1
 description: "Of all natural phenomena, mankind has been most curious of the celestial ones because of their"
 image: /covers/astronomy.jpg
 weight: 4
+author: Adam Smith
 # date: 2022-09-20
 ---
 

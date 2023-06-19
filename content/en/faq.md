@@ -179,7 +179,7 @@ I want profits and wealth for myself. I drink my delicious expensive coffee conv
 
 After death, there is nothing and so I say maximize pleasure while alive and don't care about the consequences, even on others! 
 
-So what if there's global warming? In the long-run, we're all dead! At least I've experienced a 5-star lifestyle. Heaven can be on earth, brought by money money money. 
+So what if there's global warming? In the long-run, we're all dead! At least I've experienced a 5-star lifestyle. Heaven can be on earth, bought by money money money in a rich man's world. 
 {{< /r >}}
 
 {{< l ava="Superphysics" >}}
@@ -193,7 +193,7 @@ We are targetting young people for this because they are the ones stuck with war
 {{< /l >}}
 
 {{< r ava="Boomer" >}}
-What makes you so absolutely sure that you know the nature of the universe? What is your qualification?
+What makes you so absolutely sure that you know the nature of the universe? What is your qualification? I have a PhD from a top Western unviersity.
 {{< /r >}}
 
 {{< l ava="Superphysics" >}}
