@@ -9,8 +9,7 @@ icon: "/icons/descartes.png"
 ---
 
 
-
-## 4.146 How the striped particles flow through the paths of the Earth
+{{< s v="4.146" >}} How the striped particles flow through the paths of the Earth
 
 `Earth AB`  has `A`  as the South Pole, and `B` the North Pole.
 
@@ -24,7 +23,7 @@ At the same time the North passes from `B` to `A` through the middle of the Eart
 
 
 
-## 4.147 It is more difficult for them to pass through air, water, and the outer earth than through the interior
+{{< s v="4.147" >}} It is more difficult for them to pass through air, water, and the outer earth than through the interior
 
 However, as many new particles always approach from parts of the sky `E` and `F`.
 
@@ -38,15 +37,14 @@ They dissipate by returning through air, water, and other bodies of the outer ea
 They frequently collide with particles of the air-aether and fire-aether, which they strive to displace and are sometimes shattered by them.
 
 
-
-## 4.148 They pass more easily through a magnet than through other bodies of this outer earth.
+{{< s v="4.148" >}} They pass more easily through a magnet than through other bodies of this outer earth.
 
 If these striped particles encounter a magnet there, when they find passages shaped to their form and likewise arranged as the passages of the inner earth, they can pass through it much more easily than through air or other bodies of the outer earth. 
 
 At least, when this magnet is positioned in such a way that its openings are turned towards those parts of the Earth from which those striped particles come, which can freely enter through them.
 
 
-## 4.149 The poles of the magnet
+{{< s v="4.149" >}} The poles of the magnet
 
 And just as in the Earth, so in the magnet, the middle point of that part, in which there are the openings of the channels, through which enter the striped particles coming from the southern part of the sky, we will call the southern pole.
 
@@ -55,15 +53,13 @@ he middle point of the other part, through which these striped particles leave, 
 Nor do we dwell on the fact that, as others say, the pole which we call Southern, they call Boreal; for the common people, who have the sole right of approving names ill-suited to things by frequent use, do not usually speak of that matter.
 
 
-## 4.150] Why did these poles turn to the poles of the Earth?
+{{< s v="4.150" >}} Why did these poles turn to the poles of the Earth?
 
-But when these magnetic poles do not respect those parts of the Earth from which those striped particles come, to which they can provide free passage, then these striped particles, rushing obliquely into the paths of the magnet, push it to where it is, to continue /290/ in its motion according to straight lines, until they have brought it back to its natural position: so whenever it is restrained by any external force, they cause its South Pole to be turned towards the Boreal Pole of the Earth, and the Boreal towards the South Pole: since those which tend from the Boreal Pole of the Earth through the air to the South from the southern part of the sky through the middle of the Earth, and coming from the Borealis which return to Borea.
-
-
+But when these magnetic poles do not respect those parts of the Earth from which those striped particles come, to which they can provide free passage, then these striped particles, rushing obliquely into the paths of the magnet, push it to where it is, to continue in its motion according to straight lines, until they have brought it back to its natural position: so whenever it is restrained by any external force, they cause its South Pole to be turned towards the Boreal Pole of the Earth, and the Boreal towards the South Pole: since those which tend from the Boreal Pole of the Earth through the air to the South from the southern part of the sky through the middle of the Earth, and coming from the Borealis which return to Borea.
 
 
 
-## 4.151 Why do they lean towards its center?
+{{< s v="4.151" >}} Why do they lean towards its center?
 
 They also cause the magnet, depending on their different locations on Earth, to incline one of its poles towards the other.
 
@@ -89,7 +85,7 @@ On the other hand, the Southern particles are going to enter the magnet `M`, com
 
 
 
-## 4.152 Why does one magnet turn and bow to another, in the same way as to the earth?
+{{< s v="4.152" >}} Why does one magnet turn and bow to another, in the same way as to the earth?
 
 But since these striped particles flow through individual magnets in exactly the same way as they do through the Earth, they must turn two spherical magnets to one another in no other way than to the whole Earth. 
 
@@ -98,8 +94,7 @@ For it should be noted that they are always gathered in much greater abundance a
 And so, as far as the magnetic force is concerned, everything must be thought of in respect of one magnet, in respect of another magnet, and of the Earth, which itself may be said to be the greatest magnet.
 
 
-
-## 4.153 Why do two magnets approach each other, and what is the sphere of activity of each.
+{{< s v="4.153" >}} Why do two magnets approach each other, and what is the sphere of activity of each.
 
 Two magnets turn towards each other until the North pole of one faces the South pole of the other, until they come into contact if no external force hinders their motion. 
 
@@ -165,8 +160,6 @@ Or if this turning is hindered but not their straight motion, then one magnet ag
 So, if the magnet `O` is placed on a small boat floating in water in such a way that its axis remains upright perpendicular, and the magnet `P`, whose South pole faces the South pole of the other magnet, is moved by hand towards `Y`, it will cause the magnet `O` to move away towards `Z` before being touched by the magnet `P`. 
 
 Whichever direction the boat turns, there always needs to be some space between these 2 magnets so that the striped particles, exiting through the poles `A` and `a`, can pass through towards `V` and `X`.
-
-
 
 <!-- The poles of 2 magnets do not approach each other like this, but on the contrary, if they are moved too close, they recede. For the striped particles coming from the pole of one magnet, which is opposed to another magnet, when they cannot enter the other, require some space between these two magnets in which to pass, in order to return to the pole of the other magnet from which they came. Of course, going out from O through the pole A, since they cannot enter P through its pole a, they require some space between A and a, through which the lines V and B can pass, and where they are moved from B to A, they push the magnet P; and thus proceeding from P they drive the magnet O: at least when their axes BA and ab are in the same straight line. But when they are bent a little more in one direction than in another, then these magnets turn themselves, in the manner explained a little before; or if this conversion of them is hindered, but not a straight movement, then again one magnet repels another according to a straight line. Thus, if a magnet O, placed in a small boat, floats in the water in such a way that its axis always remains erect to the perpendicular, and the magnet P, whose south pole is opposite to the south of the other, is moved by hand in the direction of Y, hence it will happen that the magnet O recedes in the direction of Z, before is touched by a magnet P For in whatever direction the boat turns, some space is always required between these two magnets, so that the striped particles, coming out of them through the poles A /295/ and a, can pass towards V and X. -->
 

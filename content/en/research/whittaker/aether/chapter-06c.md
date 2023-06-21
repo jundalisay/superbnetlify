@@ -1,103 +1,84 @@
-The true path was first indicated by Sir John Herschel After his discovery of the connexion between the outward form of quartz crystals and their property of rotating the plane of polarization of light, Herschel remarked that a rectilinear electric current, deflecting a needle to right and left all round it, possesses a helicoidal dissymmetry similar to that displayed by the crystals. "Therefore," he wrote,[65] "induction led me to conclude that a similar connexion exists, and must turn up somehow or other, between the electric current and polarized light, and that the plane of polarization would be deflected by magneto-electricity."
-
-The nature of this connexion was discovered by Faraday, who so far back as 1834[66] had transmitted polarized light through an electrolytic solution during the passage of the current, in the hope of observing a change of polarization, This early attempt failed; but in September, 1845, he varied the experiment by placing a piece of heavy glass between the poles of an excited electro-magnet; and found that the plane of polarization of a beam of light was rotated when the beam traveiled through the glass parallel to the lines of force of the magnetic field.[67]
-
-In the year following Faraday's discovery, Airy[68] suggested a way of representing the effect analytically; as might have been expected, this was by modifying the equations which had been already introduced by MacCullagh for the case of naturally active bodies. In MacCullagh's equations
-
-
-
-the terms 
-
-
-and 
+---
+title: "Frederic Daniell"
+heading: "Chapter 6c"
+weight: 12
+author: Edmund Taylor Whittaker
+image:  "/covers/history.jpg"
+description: ""
+---
 
 
-change sign with x, so that the rotation of the plane of polarization is always right-handed or always left-handed with respect to the direction of the beam. This is the case in naturally-active bodies; but the rotation due to a magnetic field is in the same absolute direction whichever way the light is travelling, so that the derivations with respect to x must be of even order. Airy proposed the equations
+In the interval between Faraday's earlier and later papers on the cell, some important results on the same subject were published by Frederic Daniell (b. 1790, d. 1845), Professor of Chemistry in King's College, London.[47] 
 
-where μ denotes a constant, proportional to the strength of the magnetic field which is used to produce the effect. He remarked, however, that instead of taking 
+Daniell showed that when a current is passed through a solution of a salt in water, the ions which carry the current are those derived from the salt, and not the oxygen and hydrogen ions derived from the water. 
+
+This follows since a current divides itself between different mixed electrolytes according to the difficulty of decomposing each, and it is known that pure water can be electrolysed only with great difficulty. 
+
+Daniell further showed that the ions arising from (say) sodium sulphate are not represented by Na2O and SO3, but by Na and SO4, and that in such a case as this, sulphuric acid is formed at the anode and soda at the cathode by secondary action, giving rise to the observed evolution of oxygen and hydrogen respectively at these terminals.
+
+The researches of Faraday on the decomposition of chemical compounds placed between electrodes maintained at different potentials led him in 1837 to reflect on the behaviour of such substances as oil of turpentine or sulphur, when placed in the same situation. 
+
+These bodies do not conduct electricity, and are not decomposed; but if the metallic faces of a condenser are maintained at a definite potential difference, and if the space between them is occupied by one of these insulating substances, it is found that the charge on either face depends on the nature of the insulating substance. 
+
+If for any particular insulator the charge has a value ε times the value which it would have if the intervening body were air, the number ε may be regarded as a measure of the influence which the insulator exerts on the propagation of electrostatic action through it: it was called by Faraday the specific inductive capacity of the insulator.[48]
+
+The discovery of this property of insulating substances or dielectrics raised the question as to whether it could be harmonized with the old ideas of electrostatic action. Consider, for example, the force of attraction or repulsion between two small electrically-charged bodies. So long as they are in air, the force is proportional to the inverse square of the distance; but if the medium in which they are immersed be partly changed—e.g., if a globe of sulphur be inserted in the intervening space—this law is no longer valid: the change in the dielectric affects the distribution of electric intensity throughout the entire field.
+
+The problem could be satisfactorily solved only by forming a physical conception of the action of dielectrics: and such a conception Faraday now put forward.
+
+The original idea had been promulgated long before by his master Davy. Davy, it will be remembered,[49] in his explanation of the voltaic pile, had supposed that at first, before chemical decompositions take place, the liquid plays a part analogous to that of the glass in a Leyden jar, and that in this is involved an electric polarization of the liquid molecules.[50] This hypothesis was now developed by Faraday. Referring first to his own work on electrolysis, he asserted[51] that the behaviour of a dielectric is exactly the same as that of an electrolyte, up to the point at which the electrolyte breaks down under the electric stress, a dielectric being, in fact, a body which is capable of sustaining the stress without suffering decomposition.
+
+"For," he argued,[52] "let the electrolyte be water, a plate of ice being coated with platina foil on its two surfaces, and these coatings connected with any continued source of the two electrical powers, the ice will charge like a Leyden arrangement, presenting a case of common induction, but no current will pass. If the ice be liquefied, the induction will now fall to a certain degree, because a current can now pass; but its passing is dependent upon a peculiar molecular arrangement of the particles consistent with the transfer of the elements of the electrolyte in opposite directions As, therefore, in the electrolytic action, induction appeared to be the first step, and decomposition the second (the power of separating these steps from each other by giving the solid or fluid condition to the electrolyte being in our hands); as the induction was the same in its nature as that through air, glass, wax, &c., produced by any of the ordinary means; and as the whole effect in the electrolyte appeared to be an action of the particles thrown into a peculiar or polarized state, I was glad to suspect that common induction itself was in all cases an action of contiguous particles, and that electrical action at a distance (i.e., ordinary inductive action) never occurred except through the influence of the intervening matter."
+
+Thus at the root of Faraday's conception of electrostatic induction lay this idea that the whole of the insulating medium through which the action takes place is in a state of polarization similar to that which precedes decomposition in an electrolyte. "Insulators," he wrote,[53] "may be said to be bodies whose particles can retain the polarized state, whilst conductors are those whose particles cannot be permanently polarized."
+
+The conception which he at this time entertained of the polarization may be reconstructed from what he had already written concerning electrolytes. He supposed[54] that in the ordinary or unpolarized condition of a body, the molecules consist of atoms which are bound to each other by the forces of chemical affinity, these forces being really electrical in their nature; and that the same forces are exerted, though to a less degree, between atoms which belong to different molecules, thus producing the phenomena of cohesion. When an electric field is set up, a change takes place in the distribution of these forces; some are strengthened and some are weakened, the effect being symmetrical about the direction of the applied electric force.
+
+Such a polarized condition acquired by a dielectric when placed in an electric field presents an evident analogy to the condition of magnetic polarization which is acquired by a mass of soft iron when placed in a magnetic field; and it was therefore natural that in discussing the matter Faraday should introduce lines of electric force, similar to the lines of magnetic force which he had employed so successfully in his previous researches. A line of electric force he defined to be a curve whose tangent at every point has the same direction as the electric intensity.
+
+The changes which take place in an electric field when the dielectric is varied may be very simply described in terms of lines of force. Thus if a mass of sulphur, or other substance of high specific inductive capacity, is introduced into the field, the effect is as if the lines of force tend to crowd into it: as W. Thomson (Kelvin) showed later, they are altered in the same way as the lines of flow of heat, in a case of steady conduction of heat, would be altered by introducing a body of greater conducting power for heat. By studying the figures of the lines of force in a great number of individual cases, Faraday was led to notice that they always dispose themselves as if they were subject to a mutual repulsion, or as if the tubes of force had an inherent tendency to dilate.[55]
+
+It is interesting to interpret by aid of these conceptions the law of Priestley and Coulomb regarding the attraction between two oppositely-charged spheres. In Faraday's view, the medium intervening between the spheres is the seat of a system of stresses, which may be represented by an attraction or tension along the lines of electric force at every point, together with a mutual repulsion of these lines, or pressure laterally. Where a line of force ends on one of the spheres, its tension is exercised on the sphere: in this way, every surface-element of each sphere is pulled outwards. If the spheres were entirely removed from each other's influence, the state of stress would be uniform round each sphere, and the pulls on its surface-elements would balance, giving no resultant force on the sphere. But when the two spheres are brought into each other's presence, the unit lines of force become somewhat more crowded together on the sides of the spheres which face than on the remote sides, and thus the resultant pull on either sphere tends to draw it Loward the other, When the spheres are at distances great compared with their radii, the attraction is nearly proportional to the inverse square of the distance, which is Priestley's law.
+
+In the following year 1838, Faraday amplified[56] his theory of electrostatic induction, by making further use of the analogy with the induction of magnetism. 
+
+Fourteen years previously Poisson had imagined[57] an admirable model of the molecular processes which accompany magnetization; and this was now applied with very little change by Faraday to the case of induc- tion in dielectrics. "The particles of an insulating dielectric," he suggested,[58] "whilst under induction may be compared to a series of small magnetic needles, or, more correctly still, to a series of small insulated conductors. If the space round a charged globe were filled with a mixture of an insulating dielectric, as oil of turpentine or air, and small globular conductors, as shot, the latter being at a little distance from each other so as to be insulated, then these would in their condition and action exactly resemble what I consider to be the condition and action of the particles of the insulating dielectric itself. If the globe were charged, thcso little con- ductors would all be polar; if the globe were discharged, they would all return to their normal state, to be polarized again upon the recharging of the globe."
+
+That this explanation accounts for the phenomena of specific inductive capacity may be seen by what follows, which is substantially a translation into electrostatical language of Poisson's theory of induced magnetism.[59]
+
+Let `ρ` denote volume-density of clectric charge. For each of Faraday's "small shot" the integral
 
 
-and 
+integrated throughout the shot, will vanish, since the total charge of the shot is zero: but if r denote the vector (x, y, z), the integral
 
 
-as the additional terms, it would be possible to take 
+will not be zero, since it represents the electric polarization of the shot: if there are N shot per unit volume, the quantity
+
+will represent the total polarization per unit volume. If d denote the electric force, and E the average value of d, P will be proportional to E, say
 
 
-and 
+By integration by parts, assuming all the quantities concerned to vary continuously and to vanish at infinity, we have
+
+where φ denotes an arbitrary function, and the volume-integrals are taken throughout infinite space. This equation shows that the polar-distribution of electric charge on the shot is equivalent to a volume-distribution throughout space, of density
+
+Now the fundamental equation of electrostatics may in suitable units be written,
 
 
-or 
+and this gives on averaging
 
+where ρ1 denotes the volume-density of free electric charge, i.e. excluding that in the doublets; or
 
-and 
-
-
-or any other derivates in which the number of differentiations is odd with respect to t and even with respect to x. It may, in fact, be shown by the method previously applied to MacCullagh's formulae that, if the equations are
-
-
-where (r + s) is an odd number, the angle through which the plane of polarization rotates in unit length of path is a numerical multiple of
-
-where τ denotes the period of the light. Now it was shown by Verdet[69] that the magnetic rotation is approximately proportional to the inverse square of the wave-length; and hence we must have
-
-so that the only equations capable of correctly representing Faraday's effect are either
 
 or
 
-The former pair arise, as will appear later, in Maxwell's theory of rotatory polarization: the latter pair, which were suggested in 1868 by Boussinesq.[70] follow from that physical theory of the phenomenon which is generally accepted at the present time.[71]
 
-Airy's work on the magnetic rotation of light was limited in the same way as MacCullagh's work on the rotatory power of quartz; it furnished only an analytical representation of the effect, without attempting to justify the equations. The earliest endeavour to provide a physical theory seems to have been made in 1858, in the inaugural dissertations of Carl Neumann, of Halle.[72] Neumann assumed that every element of an electric current exerts force on the particles of the aether; and in particular that this is true of the molecular currents which constitute magnetization, although in this case the force vanishes except when the aethereal particle is already in motion. If e donote the displacement of the aethereal particle m, the force in question may be represented by the term
+This is the fundamental equation of electrostatics, as modified in order to take into account the effect of the specific inductive capacity ε.
 
+The conception of action propagated step by step through a medium by the influence of contiguous particles had a firm hold on Faraday's mind, and was applied by him in almost every part of physics. "It appears to me possible," he wrote in 1838,[60] "and even probable, that magnetic action may be communicated to a distance by the action of the intervening particles, in a manner having a relation to the way in which the inductive forces of static electricity are transferred to a distance, the intervening particles assuming for the time more or less of a peculiar condition, which (though with a very imperfect idea) I have several times expressed by the term electro-tonic state."[61]
 
-where K denotes the imposed magnetic field, and k denotes a magneto-optic constant characteristic the body. When this term is introduced into the equations of motion of the aether, they take the form which had been suggested by Airy; whence Neumann's hypothesis is seen to lead to the incorrect conclusion that the rotation is independent of the wave-length.
+The same set of ideas sufficed to explain electric currents. Conduction, Faraday suggested,[62] might be "an action of contiguous particles, dependent on the forces developed in electrical excitement; these forces bring the particles into a state of tension or polarity;[63] and being in this state the contiguous particles have a power or capability of communicating these forces, one to the other, by which they are lowered and discharge occurs."
 
-The rotation of plane-polarized light depends, as Fresnel had shown,[73] on a difference between the velocities of propagation of the right-handed and left-handed circularly polarized waves into which plane-polarized light may be resolved. 
+After working strenuously for the ten years which followed the discovery of induced currents, Faraday found in 1841 that his health was affected; and for four years he rested. A second period of brilliant discoveries began in 1845.
 
-In the case of magnetic rotation, this difference was shown by Verdet to be proportional to the component of the magnetic force in the direction of propagation of the light; and Cornu[74] showed further that the mean of the velocities of the right-handed and left-handed waves is equal to the velocity of light in the medium when there is no magnetic field. 
-
-From these data, by Fresnel's geometrical method, the wave-surface in the medium may be obtained; it is found to consist of two spheres (one relating to the right-handed and one to the left-handed light), each identical with the spherical wave-surface of the unmagnetized medium, displaced from each other along the lines of magnetic force.[75]
-
-The discovery of the connexion between magnetism and light gave interest to a short paper of a speculative character which Faraday published[76] in 1846, under the title "Thoughts on Ray-Vibrations." In this it is possible to trace the progress of Faraday's thought towards something like an electro-magnetic theory of light.
-
-Considering first the nature of ponderable matter, he suggests that an ultimate atom may be nothing else than a field of force—electric, magnetic,and gravitational—surrounding a point-centre; on this view, which is substantially that of Michell and Boscovich, an atom would have no definite size, but ought rather to be conceived of as completely penetrable, and extending throughout all space; and the molecule of a chemical compound would consist not of atoms side by side, but of "spheres of power mutually penetrated, and the centres even coinciding."[77]
-
-All space being thus permeated by lines of force, Faraday suggested that light and radiant heat might be transverse vibrations propagated along these lines of force. In this way he proposed to "dismiss the aether," or rather to replace it by lines of force between centres, the centres together with their lines of force constituting the particles of material substances.
-
-If the existence of a luminiferous aether were to be admitted, Faraday suggested that it might be the vehicle of magnetic force; " for," he wrote in 1851,[78] "it is not at all unlikely that if there be an aether, it should have other uses than simply the conveyance of radiations." 
-
-This sentence may be regarded as the origin of the electro-magnetic theory of light.
-
-At the time when the "Thoughts on Ray-Vibrations" were published, Faraday was evidently trying to comprehend everything in terms of lines of force. His confidence in which had been recently justified by another discovery. A few weeks after the first observation of the magnetic rotation of light, he noticed[79] that a bar of the heavy glass which had been used in this investigation, when suspended between the poles of an electro-magnet, set itself across the line joining the poles: thus behaving in the contrary way to a bar of an ordinary magnetic substance, which would tend to set itself along this line. 
-
-A simpler manifestation of the effect was obtained when a cube or sphere of the substance was used; in such forms it showed a disposition to move from the stronger to the weaker places of the magnetic field. The pointing of the bar was then seen to be merely the resultant of the tendencies of each of its particles to move outwards into the positions of weakest magnetic action.
-
-Many other bodies besides heavy glass were found to display the same property; in particular, bismuth.[80] The name diamagnetic was given to them.
-
-Faraday remarked:
-
-"Theoretically, an explanation of the movements of the diamagnetic bodies might be offered in the supposition that magnetic induction caused in them a contrary state to that which it produced in magnetic matter. 
-
-If a particle of each kind of matter were placed in the magnetic field, both would become magnetic, and each would have its axis parallel to the resultant of magnetic force passing through it. ut the particle of magnetic matter would have its north and south poles opposite, or facing toward the contrary poles of the inducing magnet, whereas with the diamagnetic particles the reverse would be the case; and hence would result approximation in the one substance, recession in the other. 
-
-Upon Ampère's theory, this view would be equivalent to the supposition that, as currents are induced in iron and magnetics parallel to those existing in the inducing magnet or battery wire, so in bismuth, heavy glass, and diamagnetic bodies, the currents induced are in the contrary direction."[81][errata 1]
-
-This explanation became generally known as the "hypothesis of diamagnetic polarity".
-
-It represents diamagnetism as similar to ordinary induced magnetism in all respects, except that the direction of the induced polarity is reversed. It was accepted by other investigators, notably by W. Weber, Plücker, Reich, and Tyndall; but was afterwards displaced from the favour of its inventor by another conception, more agreeable to his peculiar views on the nature of the magnetic field. In this second hypothesis, Faraday supposed an ordinary magnetic or para- magnetic[82] body to be one which offers a specially easy passage to lines of magnetic force, so that they tend to crowd into it in preference to other bodies; while he supposed a dia- magnetic body to have a low degree of conducting power for the lines of force, so that they tend to avoid it. "If, then," he reasoned,[83] "a medium having a certain conducting power occupy the magnetic field, and then a portion of another medium or substance be placed in the field having a greater conducting power, the latter will tend to draw up towards the place of greatest force, displacing the former." There is an electrostatic effect to which this is quite analogous ; a charged body attracts a body whose specific inductive capacity is greater than that of the surrounding medium, and repels a body whose specific inductive capacity is less; in either case the tendency is to afford the path of best conductance to the lines of force.[84]
-
-For some time the advocates of the "polarity" and "conduction" theories of diamagnetism carried on a contro- versy which, indeed, like the controversy between the adherents of the one-fluid and two-fluid theories of electricity, persisted after it had been shown that the rival hypotheses were mathe- matically equivalent, and that no experiment could be suggested which would distinguish between them.
-
-Meanwhile new properties of magnetizable bodies were being discovered. In 1847 Julius Plücker (b. 1801, d. 1868), Professor of Natural Philosophy in the University of Bonn, while repeating and extending Faraday's magnetic experiments, observed[85] that certain uniaxal crystals, when placed between the two poles of a magnet, tend to set themselves so that the optic axis has the equatorial position. At this time Faraday was continuing his researches; and, while investigating the diamagnetic properties of bismuth, was frequently embarrassed by the occurrence of anomalous results. In 1848 he ascertained that these were in some way connected with the crystalline form of the substance, and showed[86] that when a crystal of bismuth is placed in a field of uniform magnetic force (so that no tendency to motion arises from its diamagnetism) it sets itself so as to have one of its crystalline axes directed along the lines of force.
-
-At first he supposed this effect to be distinct from that which had been discovered shortly before by Plücker. "The results," he wrote,[87] "are altogether very different from those produced by diamagnetic action. They are equally distinct from those discovered and described by Plücker, in his beautiful researches into the relation of the optic axis to magnetic action; for there the force is equatorial, whereas here it is axial. So they appear to present to us a new force, or a new form of force, in the molecules of matter, which, for convenience sake, I will conventionally designate by a new word, as the magnecrystallic force." Later in the same year, however, he recognized[88] that "the phaenomena discovered by Plücker and those of which I have given an account have one common origin and cause."
-
-The idea of the "conduction" of lines of magnetic force by different substances, by which Faraday had so successfully explained the phenomena of diamagnetism, he now applied to the study of the magnetic behaviour of crystals. "If," he wrote[89] "the idea of conduction be applied to these magnecrystallic bodies, it would seem to satisfy all that requires explanation in their special results. A magnecrystallic substance would then be one which in the crystallized state could conduct onwards, or permit the exertion of the magnetic force with more facility in one direction than another; and that direction would be the magnecrystallic axis. Hence, when in the magnetic field, the magnecrystallic axis would be urged into a position coincident with the magnetic axis, by a force correspondent to that difference, just as if two different bodies were taken, when the one with the greater conducting power displaces that which is weaker."
-
-This hypothesis led Faraday to predict the existence of another type of magnecrystallic effect, as yet unobserved. "If such a view were correct," he wrote,[90] "it would appear to follow that a diamagnetic body like bismuth ought to be less diamagnetic when its magnecrystallic axis is parallel to the magnetic axis than when it is perpendicular to it. In the two positions it should be equivalent to two substances having different conducting powers for magnetism, and therefore if submitted to the differential balance ought to present differential phaenomena." This expectation was realized when the matter was subjected to the test of experiment.[91]
-
-The series of Faraday's "Experimental Researches in Electricity" end in the year 1855. The closing period of his life was quietly spent at Hampton Court, in a house placed at his disposal by the kindness of the Queen; and here on August 25th, 1867, he passed away.
-
-Among experimental philosophers Faraday holds by universal consent the foremost place. 
-
-<!-- The memoirs in which his discoveries are enshrined will never cease to be read with admiration and delight; and future generations will preserve with an affection not less enduring the personal records and familiar letters, which recall the memory of his humble and unselfish spirit. -->
-
+Many experiments had been made at different times by various investigators[64] with the purpose of discovering a connexion between magnetism and light. These had generally taken the form of attempts to magnetize bodies by exposure in particular ways to particular kinds of radiation; and a successful issue had been more than once reported, only to be negatived on re-examination.
 

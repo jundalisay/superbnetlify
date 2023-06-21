@@ -13,6 +13,9 @@ icon: "/icons/descartes.png"
 
 Light pushes on our eyes. The principal properties of light are:
 
+
+## The Movement of Light
+
 1. It travels in all directions around "luminous" bodies
 
 This is due to the circular motion of their parts.
@@ -34,8 +37,6 @@ This is the same as:
 
 <!-- ; or rather (so you make no difficulty on the basis that the parts of the heaven are not attached to one another as are those of a stick) in just the same way that, as the small ball marked  -->
 
-
-
 4. It travels ordinarily in straight lines, as rays of light
 
 This straight-line motion is different from the straight-line motion of the air-aether which is its medium. Such a medium is immaterial. But it designates only in what direction and according to what determination the luminous body acts on the body it is shining on. 
@@ -51,6 +52,8 @@ This is similar to hand `A` pushing the body `E` along the straight line `AE` ev
 In the same way, `Ball 1` pushes `Ball 7` through `Balls 5`, as directly as through the other balls.
 
 
+
+## Source and Destination of Light
 
 5. These rays coming from diverse points can come together at the same point
 
@@ -74,6 +77,9 @@ This happens when their force is very unequal. Strong light impedes the effect o
 If one pushes the air much more strongly F through than through H or through K, it will not tend at all toward I or toward L, but only toward G.	
 
 
+
+## Refraction and Reflection
+
 9. They can be diverted by reflection
 
 10. They can be diverted by refraction
@@ -88,6 +94,8 @@ Light get refracted in water just as a ball enters or leaves a body of water obl
 
 When they enter obliquely some place through which they can extend more or less easily than they can through that from which they are coming, they must also be diverted and undergo refraction at the point of that change.
 
+
+## The Force of Light
 
 11. Their force can be increased
 

@@ -1,7 +1,7 @@
 ---
 title: "True Motion and the Infinite Material Universe"
 heading: Section 3
-weight: 8
+weight: 12
 description: "True motion is THE TRANSPORTING OF ONE PART OF MATTER OR OF ONE BODY FROM THE VICINITY OF THOSE BODIES THAT ARE IN IMMEDIATE CONTACT WITH IT, OR WHICH WE REGARD AS AT REST, to the vicinity of other bodies"
 author: "Rene Descartes"
 image: "/covers/philos.png"
@@ -9,7 +9,8 @@ icon: "/icons/descartes.png"
 ---
 
 
-## 21. The extension of the world is indefinite
+
+{{< s v="21" >}} The extension of the world is indefinite
 
 This world or the whole (universitas) of corporeal substance, is extended without limit.
 
@@ -18,8 +19,7 @@ Wherever we fix a limit, we still not only imagine beyond it spaces indefinitely
 In this way, they contain in them corporeal substance indefinitely extended. This is because  the idea of extension which we conceive in any space whatever is plainly identical with the idea of corporeal substance.
 
 
-
-## 22. It also follows that the matter of the heavens and earth is the same, and that there cannot be a plurality of worlds.
+{{< s v="22" >}} It also follows that the matter of the heavens and earth is the same, and that there cannot be a plurality of worlds.
 
 The earth and heavens are made of the same matter. Although there were an infinity of worlds*, they would all be composed of this matter.
 
@@ -30,7 +30,7 @@ It follows that a plurality of worlds is impossible. This is because we clearly 
 We cannot find in ourselves the idea of any other matter.
 
 
-## 23. All the variety of matter, or the diversity of its forms, depends on motion.
+{{< s v="23" >}} All the variety of matter, or the diversity of its forms, depends on motion.
 
 There is therefore just one kind of matter in the whole universe. This we know only by its being extended. 
 
@@ -45,7 +45,7 @@ The philosophers even seem universally to have observed this. They said that:
 - 'nature' meant how all corporeal things become such as they are found in experience.
 
 
-## 24. What is motion?
+{{< s v="24" >}} What is motion?
 
 There is only local motion*. 
 
@@ -74,7 +74,7 @@ The person thus seated is more properly said to be at rest than in motion, seein
 
 
 
-## 25. What is true motion?
+{{< s v="25" >}} What is true motion?
 
 True motion is **THE TRANSPORTING OF ONE PART OF MATTER OR OF ONE BODY FROM THE VICINITY OF THOSE BODIES THAT ARE IN IMMEDIATE CONTACT WITH IT, OR WHICH WE REGARD AS AT REST, to the vicinity of other bodies**.
 

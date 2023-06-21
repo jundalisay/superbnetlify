@@ -58,26 +58,44 @@ The employment of mathematical symbols is perfectly natural when the relations b
 
 There are authors, like Smith and Say, who, in writing on Political Economy, have preserved all the beauties of a purely literary style.
 
-But there are others, like Ricardo, who, when treating the most abstract questions, or when seeking great accuracy, have not been able to avoid algebra, and have only disguised it under arithmetical calculations of tiresome length. 
+But there are others who have not been able to avoid algebra.
+- They have only disguised it as long and tiresome arithmetical calculations.
+- An examples is Ricardo
 
 Anyone who understands algebraic notation, reads at a glance in an equation results reached arithmetically only with great labour and pains.
 
-The solution of the general questions which arise from the theory of wealth, depends essentially not on elementary algebra, but on that branch of analysis which comprises arbitrary functions, which are merely restricted to satisfying certain conditions. 
 
-As only very simple conditions will be considered, the first principles of the differential and integral calculus suffice for understanding this little treatise. 
+## Differential and Integral Calculus
 
-Also, although I fear that it may appear too abstruse to most people who have a liking for these topics, I hardly dare to hope that it will deserve the attention of professional mathematicians, except as they may discover in it the germ of questions more worthy of their powers.
+The theory of wealth raises questions which can be solved essentially not on elementary algebra, but on differential and integral calculus.
+- This is because such calculus comprise arbitrary functions, which are merely restricted to satisfy certain conditions. 
+- These only consider very simple conditions
+ <!-- will be , the first principles of the   suffice for understanding this little treatise.  -->
 
-But there is a large class of men, and, thanks to a famous school, especially in France, who, after thorough mathematical training, have directed their attention to applications of those sciences which particularly interest society. 
+I fear that calculus may be too abstruse to most people who like the topic of wealth.
+- But these will not deserve the attention of professional mathematicians, except as they may discover in it the germ of questions more worthy of their powers.
 
-Theories of the wealth of the community must attract their attention.
+<!-- But there is a large class of men, and,  -->
 
-In considering them they are sure to feel, as I have felt, the need of rendering determinate by symbols familiar to them, an analysis which is generally indeterminate and often obscure, in authors who have thought fit to confine themselves to the resources of ordinary language. 
+A famous French school gives thorough mathematical training. Its graduates have directed their attention to applications of those sciences which particularly interest society. 
+- Theories of the wealth of the community must attract their attention.
 
-In thinking that they may be led by their reflexions to enter upon this path, I hope that my book may be of some use to them, and may lessen their labour.
+In considering them they are sure to feel, as 
 
-In the remarks on the first notions of competition and the mutual relations of producers, they may possibly notice certain relations, which are very curious from a purely abstract standpoint, without reference to proposed applications.
+The previous authors have thought fit to write about wealth, something generally indeterminate and often obscure, in ordinary language.
+- But I have felt the need to write analyses using familiar mathematical symbols to render them determinate. 
 
-I have not set out to make a complete and dogmatic treatise on Political Economy; I have put aside questions, to which mathematical analysis cannot apply, and those which seem to me entirely cleared up already. I have assumed that this book will only fall into the hands of readers who are familiar with what is found in the most ordinary books on these topics.
+I wrote this book to help them and lessen their labour. 
+<!-- In thinking that they may be led by their reflexions to enter upon this path, I hope that my book may be of some use to them,  -->
 
-I am far from having thought of writing in support of any system, and from joining the banners of any party; I believe that there is an immense step in passing from theory to governmental applications; I believe that theory loses none of its value in thus remaining preserved from contact with impassioned polemics; and I believe, if this essay is of any practical value, it will be chiefly in making clear how far we are from being able to solve, with full knowledge of the case, a multitude of questions which are boldly decided every day.
+The first notions of competition and the mutual relations of producers, the writers might notice certain relations which are very curious from a purely abstract standpoint, without reference to proposed applications.
+
+I am not making a complete and dogmatic treatise on Political Economy.
+- I did not include questions to which mathematical analysis cannot apply, and those which seem to me entirely cleared up already. 
+
+<!-- I have assumed that this book will only fall into the hands of readers who are familiar with what is found in the most ordinary books on these topics. -->
+
+I am not supporting any system or any party. I believe that:
+- there is an immense step in passing from theory to governmental applications
+- theory loses none of its value in remaining preserved from contact with impassioned polemics
+- my essay will make clear how far we are from being able to solve, with full knowledge of the case, many questions which are boldly decided every day.

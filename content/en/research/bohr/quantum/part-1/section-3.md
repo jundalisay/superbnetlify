@@ -14,12 +14,9 @@ If we consider systems of several degrees of freedom the motion will be periodic
 ) See E. C. Kemble, Phys. Rev., VIII, p. 701, 1916.
 28
 
-therefore be derived by means of the same simple kind of considerations as in the former section. As mentioned in the introduction, however, Sommerfeld and others have recently succeeded, by means of a suitable generalisation of (10), to
-obtain conditions for an important class of systems of several degrees of freedom, which, in connection with (1), have
-been found to give results in convincing agreement with experimental results about line-spectra. Subsequently these
+therefore be derived by means of the same simple kind of considerations as in the former section. As mentioned in the introduction, however, Sommerfeld and others have recently succeeded, by means of a suitable generalisation of (10), to obtain conditions for an important class of systems of several degrees of freedom, which, in connection with (1), have been found to give results in convincing agreement with experimental results about line-spectra. Subsequently these
 conditions have been proved by Ehrenfest and especially
-by Burgers1
-) to be invariant for slow mechanical transformations.
+by Burgers1) to be invariant for slow mechanical transformations.
 
 To the generalisation under consideration we are naturally led, if we first consider such systems for which the motions corresponding to the different degrees of freedom are dynamically independent of each other. This occurs if the expression for the total energy E in Hamilton’s equations (4) for a system of s degrees of freedom can be written as a sum
 E1 +· · ·+Es, where Ek contains qk and pk only. 
@@ -67,17 +64,14 @@ p1 dq1 = n1h, I2 =
 Z
 p2 dq2 = n2h. (16)
 While the first integral obviously must be taken over a period of the radial motion, there might at first sight seem to
-be a difficulty in fixing the limits of integration of q2. This
-disappears, however, if we notice that an integral of the type
-under consideration will not be altered by a change of coordinates in which q is replaced by some function of this
-variable. In fact, if instead of the angular distance of the
-radius-vector we take for q2 some continuous periodic function of this angle with period 2π, every point in the plane
-of the orbit will correspond to one set of coordinates only
-and the relation between p and q will be exactly of the same
-type as for a periodic system of one degree of freedom for
-which the motion is of oscillating type. It follows therefore
-that the integration in the second of the conditions (16) has
-to be taken over a complete revolution of the radius-vector,
+be a difficulty in fixing the limits of integration of q2. 
+
+This disappears, however, if we notice that an integral of the type under consideration will not be altered by a change of coordinates in which q is replaced by some function of this variable. 
+
+In fact, if instead of the angular distance of the radius-vector we take for q2 some continuous periodic function of this angle with period 2π, every point in the plane
+of the orbit will correspond to one set of coordinates only and the relation between p and q will be exactly of the same
+type as for a periodic system of one degree of freedom for which the motion is of oscillating type. It follows therefore
+that the integration in the second of the conditions (16) has to be taken over a complete revolution of the radius-vector,
 and that consequently this condition is equivalent with the
 simple condition that the angular momentum of the particle
 round the centre of the field is equal to an entire multiple
@@ -87,19 +81,11 @@ of h
 are invariant for such special transformations of the system
 for which the central symmetry is maintained. This follows
 31
-immediately from the fact that the angular momentum in
-transformations of this type remains invariant, and that the
-equations of motion for the radial coordinate as long as p2 remains constant are the same as for a system of one degree of
-freedom. On the basis of (16), Sommerfeld has, as mentioned in the introduction, obtained a brilliant explanation of
-the fine structure of the lines in the hydrogen spectrum, due
-to the change of the mass of the electron with its velocity.1
-)
+immediately from the fact that the angular momentum in transformations of this type remains invariant, and that the equations of motion for the radial coordinate as long as p2 remains constant are the same as for a system of one degree of freedom. On the basis of (16), Sommerfeld has, as mentioned in the introduction, obtained a brilliant explanation of the fine structure of the lines in the hydrogen spectrum, due
+to the change of the mass of the electron with its velocity.1)
 To this theory we shall come back in Part II.
-As pointed out by Epstein2
-) and Schwarzschild3
-) the
-1
-) In this connection it may be remarked that conditions of the same
+
+As pointed out by Epstein 2) and Schwarzschild 3) the 1) In this connection it may be remarked that conditions of the same
 type as (16) were proposed independently by W. Wilson (Phil. Mag.
 XXIX p. 795 (1915) and XXXI p. 156 (1916)), but by him applied
 only to the simple Keplerian motion described by the electron in the

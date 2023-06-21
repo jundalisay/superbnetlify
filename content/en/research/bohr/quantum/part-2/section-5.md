@@ -11,57 +11,29 @@ author: Niels Bohr
 
 A theory of the Zeeman effect of the hydrogen fines based on the quantum theory of line spectra has, as mentioned in the introduction, been given independently by Sommerfeld and by Debye. 
 
-The calculations of these authors rest upon the fact, that it is possible, also in the
-presence of a magnetic field, to write the equations of mo1
-) Besides the discussion of this problem, the paper in question will
-contain a general treatment of the theory of perturbed periodic systems
-from the point of view of the possibility of describing the motion by
-means of angle variables (compare Note on page 112).
-157
-tion of the electron in the canonical Hamiltonian form given
-by (4), if the momenta p1, p2, p3 which are conjugated to the
-positional coordinates of the electron q1, q2, q3, are defined
-in a suitable way. In complete analogy to the problem of
-the fixation of the stationary states of an atomic system
-when the relativity modifications are taken into account, it
-follows therefore that, if these equations can be solved by the
-method of separation of variables, we obtain, by fixing the
-stationary states by means of the conditions (22), a relation
-between the total energy of the atom in the presence of a
+The calculations of these authors rest upon the fact, that it is possible, also in the presence of a magnetic field, to write the equations of mo1
+) Besides the discussion of this problem, the paper in question will contain a general treatment of the theory of perturbed periodic systems
+from the point of view of the possibility of describing the motion by means of angle variables (compare Note on page 112).
+
+tion of the electron in the canonical Hamiltonian form given by (4), if the momenta p1, p2, p3 which are conjugated to the
+positional coordinates of the electron q1, q2, q3, are defined in a suitable way. In complete analogy to the problem of
+the fixation of the stationary states of an atomic system when the relativity modifications are taken into account, it
+follows therefore that, if these equations can be solved by the method of separation of variables, we obtain, by fixing the
+stationary states by means of the conditions (22), a relation between the total energy of the atom in the presence of a
 magnetic field and the fundamental frequencies characterising the motion of the electron, which is exactly the same as
 that holding between the energy and frequencies in the stationary states of an ordinary conditionally periodic system.
-By a procedure analogous to that applied by Burgers in
-his proof of the mechanical invariance of the relations (22)
-for slow changes of the external conditions, mentioned in
-Part I on page 36, it may further be proved that also in the
-presence of a magnetic field these relations are invariant,
-when regard is taken to the effect of the induced electric
+By a procedure analogous to that applied by Burgers in his proof of the mechanical invariance of the relations (22)
+for slow changes of the external conditions, mentioned in Part I on page 36, it may further be proved that also in the
+presence of a magnetic field these relations are invariant, when regard is taken to the effect of the induced electric
 forces which, according to the ordinary theory of electrodynamics, will accompany a variation of the magnetic field.
-In the following, however, we shall not treat the problem of
-the influence of an external magnetic field on the hydrogen
-spectrum by means of the method of separation of variables,
-but in analogy to the treatment of the problems of the fine
-structure and of the Stark effect of the hydrogen lines,
-given in the preceding sections, we shall treat the problem
-158
-from the point of view of the theory of perturbed periodic
-systems. Before entering on the detailed discussion of the
-necessary modifications to be introduced in the general considerations in § 2, in order that they may be applied also to
-the problem of the fixation of the stationary states of the
-atom in the presence of external magnetic forces, we shall for
-the sake of illustration first show how it is possible in certain
-cases to treat the problem of the effect of a homogeneous
-magnetic field on the hydrogen spectrum in a simple way,
-which will be seen to present a close formal analogy with
-the theory originally devised by Lorentz on the basis of
-the classical theory of electrons.
-In these considerations we shall make use of a well known
-theorem of Larmor, which states that, if we look apart from
-small quantities proportional to the square of the intensity
-of the magnetic field, the motion of a system of electrons
-moving in a conservative field of force possessing axial symmetry round a fixed axis will, in the presence of an external
-homogeneous magnetic field parallel to this axis, differ from
-a mechanically possible motion of the system without field,
+In the following, however, we shall not treat the problem of the influence of an external magnetic field on the hydrogen
+spectrum by means of the method of separation of variables, but in analogy to the treatment of the problems of the fine
+structure and of the Stark effect of the hydrogen lines, given in the preceding sections, we shall treat the problem from the point of view of the theory of perturbed periodic systems. 
+
+Before entering on the detailed discussion of the necessary modifications to be introduced in the general considerations in § 2, in order that they may be applied also to
+the problem of the fixation of the stationary states of the atom in the presence of external magnetic forces, we shall for the sake of illustration first show how it is possible in certain cases to treat the problem of the effect of a homogeneous magnetic field on the hydrogen spectrum in a simple way, which will be seen to present a close formal analogy with the theory originally devised by Lorentz on the basis of the classical theory of electrons.
+
+We use the theorem of Larmor which states that if we look apart from small quantities proportional to the square of the intensity of the magnetic field, the motion of a system of electrons moving in a conservative field of force possessing axial symmetry round a fixed axis will, in the presence of an external homogeneous magnetic field parallel to this axis, differ from a mechanically possible motion of the system without field,
 only by a superposed uniform rotation of the entire system
 round the axis, the frequency of which is given by
 vH =
@@ -71,14 +43,12 @@ H, (79)
 where H is the intensity of the magnetic field and c the velocity of light, while −e and m represent the charge and
 159
 the mass of an electron.1
-) If the magnetic field is not constant, but if its intensity increases slowly and uniformly from
-zero, it is further simply shown that the electric induction
-forces, which will accompany the change in the intensity of
-the magnetic force, will just effect that a rotation as that
-described will be impressed on the original motion of the
-system.2
-) Moreover, as regards the effect of the magnetic
-field on the total energy of the system,3
+
+If the magnetic field is not constant, but if its intensity increases slowly and uniformly from zero, it is further simply shown that the electric induction
+forces, which will accompany the change in the intensity of the magnetic force, will just effect that a rotation as that
+described will be impressed on the original motion of the system.2
+
+Moreover, as regards the effect of the magnetic field on the total energy of the system,3
 ) it will be observed
 1
 ) J. Larmor, Aether & Matter, Cambridge 1900, p. 341. This theorem, which was established in connection with an attempt to develop
@@ -131,16 +101,12 @@ values of the additional energy of the system due to the presence of
 the magnetic field. It would therefore be possible to escape from the
 difficulty, mentioned above, as regards the absence of paramagnetism,
 by assuming that only the energy in the so called “normal” state of an
-atomic system (i. e. the stationary state of the system which possesses
-161
-that the superposed rotation under consideration will not affect the mutual potential energy of the particles, while, with
-neglect of small quantities proportional to H2
-, it will produce
-a change in the kinetic energy equal to 2πPvH, where P represents the total angular momentum of the system round the
+atomic system (i. e. the stationary state of the system which possesses that the superposed rotation under consideration will not affect the mutual potential energy of the particles, while, with neglect of small quantities proportional to H2
+, it will produce a change in the kinetic energy equal to 2πPvH, where P represents the total angular momentum of the system round the
 axis, taken in the same direction as that of the superposed
 rotation.
-From these results it follows that the motion of the electron in any stationary state of a hydrogen atom, which is exposed to a homogeneous magnetic field, will—if we look apart
-from small quantities proportional to the square of the intensity of the magnetic force and to the product of this intensity
+
+From these results it follows that the motion of the electron in any stationary state of a hydrogen atom, which is exposed to a homogeneous magnetic field, will—if we look apart from small quantities proportional to the square of the intensity of the magnetic force and to the product of this intensity
 with the ratio between the mass of the electron and that of
 the nucleus—differ from the motion in some stationary state
 of the atom in the absence of the field, only by a superposed
@@ -342,31 +308,24 @@ approximative character. This point will be discussed more
 closely in Kramers’ paper on the relative intensities of the
 components of the fine structure and the Stark effect of the
 hydrogen lines.
-A procedure quite analogous to that applied above may
-be used to treat the problem of the effect of a homogeneous
-magnetic field on the hydrogen spectrum, also when the relativity modifications are taken into account, and when the
-atoms at the same time are exposed to a small external field
-of force of constant potential, which possesses axial symmetry round an axis through the nucleus parallel to the magnetic force; because also in this case we can obviously make
-direct use of Larmor’s theorem. We shall not, however,
-170
-proceed in this way, but shall come back to these questions
-when we have shown how, by a simple modification of the
-general considerations of perturbed periodic systems given
-in § 2, it is possible to represent the theory of the stationary
+
+A procedure quite analogous to that applied above may be used to treat the problem of the effect of a homogeneous magnetic field on the hydrogen spectrum, also when the relativity modifications are taken into account, and when the atoms at the same time are exposed to a small external field
+of force of constant potential, which possesses axial symmetry round an axis through the nucleus parallel to the magnetic force; because also in this case we can obviously make direct use of Larmor’s theorem. 
+
+We shall not, however, proceed in this way, but shall come back to these questions when we have shown how, by a simple modification of the
+general considerations of perturbed periodic systems given in § 2, it is possible to represent the theory of the stationary
 states of the hydrogen atom in the presence of a small magnetic field on a form, which allows to discuss the effect on the
-hydrogen spectrum also if the atom is exposed to a magnetic
-field which is not homogeneous, or to discuss the effect of a
-homogeneous magnetic field if electric forces, which do not
-possess axial symmetry round an axis through the nucleus
-parallel to the magnetic field, are acting on the atom at the
-same time.
-In order to examine the general problem of the secular
-perturbations of the orbit of the electron in the hydrogen
+hydrogen spectrum also if the atom is exposed to a magnetic field which is not homogeneous, or to discuss the effect of a
+homogeneous magnetic field if electric forces, which do not possess axial symmetry round an axis through the nucleus
+parallel to the magnetic field, are acting on the atom at the same time.
+
+In order to examine the general problem of the secular perturbations of the orbit of the electron in the hydrogen
 atom which take place if the atom is exposed to small external forces which, entirely or partly, are of magnetic origin,
 we shall, as in the usual theory of planetary perturbations,
 take our starting point in the equations of motion in their
-canonical form. Now the equations of motion of an electron
-of charge −e, which besides by an electric field of potential V
+canonical form.
+
+Now the equations of motion of an electron of charge −e, which besides by an electric field of potential V
 is acted upon by a magnetic field of vector potential A (defined by div A = 0 and curl A = H, where H is the magnetic
 force considered as a vector), can be written in the Hamiltonian form given by (4), if, just as in the absence of the
 magnetic field, E is taken equal to the sum of the kinetic energy T of the electron and its potential energy −eV relative

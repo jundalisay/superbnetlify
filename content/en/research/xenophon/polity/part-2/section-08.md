@@ -1,5 +1,5 @@
 ---
-heading: Section 8
+heading: Section 8-9
 title: "The Spartan Discipline"
 description: "The Discipline of The Spartans"
 image: "/covers/polity.jpg"
@@ -26,11 +26,31 @@ But of all the many beautiful contrivances invented by Lycurgus to kindle a will
 
 IX
 
-The following too may well excite our admiration for Lycurgus. I speak of the consummate skill with which he induced the whole state of Sparta to regard an honourable death as preferable to an ignoble life. And indeed if any one will investigate the matter, he will find that by comparison with those who make it a principle to retreat in face of danger, actually fewer of these Spartans die in battle, since, to speak truth, salvation, it would seem, attends on virtue far more frequently than on cowardice—virtue, which is at once easier and sweeter, richer in resource and stronger of arm, (1) than her opposite. And that virtue has another familiar attendant—to wit, glory—needs no showing, since the whole world would fain ally themselves after some sort in battle with the good.
+<!-- The following too may well excite our admiration for Lycurgus. I speak of the consummate skill with which he -->
+
+Lycurgus induced the whole state of Sparta to regard an honourable death as preferable to an ignoble life.
+
+<!-- And indeed if any one will investigate the matter, he will find that by comparison with those who make it a principle to ,  -->
+
+This causes fewer Spartans to die in battle than those who retreat in the face of danger.
+
+, since, to speak truth, salvation, it would seem, attends on virtue far more frequently than on cowardice—virtue, which is at once easier and sweeter, richer in resource and stronger of arm, (1) than her opposite. 
+
+And that virtue has another familiar attendant—to wit, glory—needs no showing, since the whole world would fain ally themselves after some sort in battle with the good.
 
 
 Yet the actual means by which he gave currency to these principles is a point which it were well not to overlook. It is clear that the lawgiver set himself deliberately to provide all the blessings of heaven for the good man, and a sorry and ill-starred existence for the coward.
 
-In other states the man who shows himself base and cowardly wins to himself an evil reputation and the nickname of a coward, but that is all. For the rest he buys and sells in the same market-place as the good man; he sits beside him at play; he exercises with him in the same gymnasium, and all as suits his humour. But at Lacedaemon there is not one man who would not feel ashamed to welcome the coward at the common mess-tabe, or to try conclusions with such an antagonist in a wrestling bout. 
+In other states the man who shows himself base and cowardly wins to himself an evil reputation and the nickname of a coward, but that is all. 
+\
+For the rest he buys and sells in the same market-place as the good man; he sits beside him at play; he exercises with him in the same gymnasium, and all as suits his humour. 
 
-Consider the day's round of his existence. The sides are being picked up in a football match, (2) but he is left out as the odd man: there is no place for him. During the choric dance (3) he is driven away into ignominious quarters. Nay, in the very streets it is he who must step aside for others to pass, or, being seated, he must rise and make room, even for a younger man. At home he will have his maiden relatives to support in isolation (and they will hold him to blame for their unwedded lives). (4) A hearth with no wife to bless it—that is a condition he must face, (5) and yet he will have to pay damages to the last farthing for incurring it. Let him not roam abroad with a smooth and smiling countenance; (6) let him not imitate men whose fame is irreproachable, or he shall feel on his back the blows of his superiors. Such being the weight of infamy which is laid upon all cowards, I, for my part, am not surprised if in Sparta they deem death preferable to a life so steeped in dishonour and reproach.
+But at Sparta, there is not one man who would not feel ashamed to welcome the coward at the common mess-tabe, or to try conclusions with such an antagonist in a wrestling bout. 
+
+Consider the day's round of his existence. 
+
+The sides are being picked up in a football match, (2) but he is left out as the odd man: there is no place for him. During the choric dance (3) he is driven away into ignominious quarters. 
+
+Nay, in the very streets it is he who must step aside for others to pass, or, being seated, he must rise and make room, even for a younger man. At home he will have his maiden relatives to support in isolation (and they will hold him to blame for their unwedded lives). (4) 
+
+A hearth with no wife to bless it—that is a condition he must face, (5) and yet he will have to pay damages to the last farthing for incurring it. Let him not roam abroad with a smooth and smiling countenance; (6) let him not imitate men whose fame is irreproachable, or he shall feel on his back the blows of his superiors. Such being the weight of infamy which is laid upon all cowards, I, for my part, am not surprised if in Sparta they deem death preferable to a life so steeped in dishonour and reproach.

@@ -253,51 +253,46 @@ any point of its orbit once in each direction. If, however,
 we confine ourselves to systems of one degree of freedom, it
 will be seen that systems in which the motion is of rotating type, i. e. where the particle during a period passes only
 once through every point of its orbit, cannot be formed in a
-21
-continuous manner from a linear harmonic vibrator without
-passing through singular states in which the period becomes
-infinite long and the result becomes ambiguous. We shall
-not here enter more closely on this difficulty which has been
-pointed out by Ehrenfest, because it disappears when we
-consider systems of several degrees of freedom, where we
-shall see that a simple generalisation of (10) holds for any
-system for which every motion is periodic.
-As regards the application of (9) to statistical problems
-it was assumed in Planck’s theory that the different states
-of the vibrator corresponding to different values of n are
-a-priori equally probable, and this assumption was strongly
-supported by the agreement obtained on this basis with the
-measurements of the specific heat of solids at low temperatures. Now it follows from the considerations of Ehrenfest,
-mentioned in the former section, that the a-priori probability
-of a given stationary state is not changed by a continuous
-transformation, and we shall therefore expect that for any
+
+continuous manner from a linear harmonic vibrator without passing through singular states in which the period becomes
+infinite long and the result becomes ambiguous. 
+
+We shall not here enter more closely on this difficulty which has been pointed out by Ehrenfest, because it disappears when we
+consider systems of several degrees of freedom, where we shall see that a simple generalisation of (10) holds for any
+system for which every motion is periodic. 
+
+As regards the application of (9) to statistical problems it was assumed in Planck’s theory that the different states
+of the vibrator corresponding to different values of n are a-priori equally probable, and this assumption was strongly
+supported by the agreement obtained on this basis with the measurements of the specific heat of solids at low temperatures.
+
+It follows from the considerations of Ehrenfest, mentioned in the former section, that the a-priori probability
+of a given stationary state is not changed by a continuous transformation, and we shall therefore expect that for any
 system of one degree of freedom the different states corresponding to different entire values of n in (10) are a-priori
 equally probable.
+
 As pointed out by Planck in connection with the application of (9), it is simply seen that statistical considerations, based on the assumption of equal probability for the
 different states given by (10), will show the necessary relation to considerations of ordinary statistical mechanics in
-the limit where the latter theory has been found to give results in agreement with experiments. Let the configuration
-22
-and motion of a mechanical system be characterised by s independent variables q1, . . . , qs and corresponding momenta
+the limit where the latter theory has been found to give results in agreement with experiments. 
+
+Let the configuration and motion of a mechanical system be characterised by s independent variables q1, . . . , qs and corresponding momenta
 p1, . . . , ps and let the state of the system be represented
 in a 2s-dimensional phase-space by a point with coordinates
 q1, . . . , qs, p1, . . . , ps. Then, according to ordinary statistical mechanics, the probability for this point to lie within a
 small element in the phase-space is independent of the position and shape of this element and simply proportional to
 its volume, defined in the usual way by
-δW =
-Z
+δW = Z
 dq1 . . . dqs dp1 . . . dps. (11)
-In the quantum theory, however, these considerations cannot be directly applied, since the point representing the state
-of a system cannot be displaced continuously in the 2sdimensional phase-space, but can lie only on certain surfaces of lower dimensions in this space. For systems of one
-degree of freedom the phase-space is a two-dimensional surface, and the points representing the states of some system
+
+In the quantum theory, however, these considerations cannot be directly applied, since the point representing the state of a system cannot be displaced continuously in the 2sdimensional phase-space, but can lie only on certain surfaces of lower dimensions in this space. 
+
+For systems of one degree of freedom the phase-space is a two-dimensional surface, and the points representing the states of some system
 given by (10) will be situated on closed curves on this surface. Now, in general, the motion will differ considerably
 for any two states corresponding to successive entire values
 of n in (10), and a simple general connection between the
 quantum theory and ordinary statistical mechanics is therefore out of question. In the limit, however, where n is large,
 the motions in successive states will only differ very little
 from each other, and it would therefore make little difference
-whether the points representing the systems are distributed
-23
-continuously on the phase-surface or situated only on the
+whether the points representing the systems are distributed continuously on the phase-surface or situated only on the
 curves corresponding to (10), provided the number of systems which in the first case are situated between two such
 curves is equal to the number which in the second case lies on
 one of these curves. But it will be seen that this condition is
@@ -416,12 +411,9 @@ n = n
 and the probabilities of transition from a given stationary
 state to the different neighbouring stationary states, characterised by different values of n
 0 − n
-00, may clearly be expected to be of a general nature. Although, of course, we
-cannot without a detailed theory of the mechanism of transition obtain an exact calculation of the latter probabilities,
-unless n is large, we may expect that also for small values
-of n the amplitude of the harmonic vibrations corresponding
-to a given value of τ will in some way give a measure for
-the probability of a transition between two states for which
+00, may clearly be expected to be of a general nature. Although, of course, we cannot without a detailed theory of the mechanism of transition obtain an exact calculation of the latter probabilities, unless n is large, we may expect that also for small values
+of n the amplitude of the harmonic vibrations corresponding to a given value of τ will in some way give a measure for
+the probability of a transition between two states for which 
 n
 0 − n
 00 is equal to τ . Thus in general there will be a certain
@@ -433,25 +425,13 @@ transition will be possible, for which n
 0 − n
 00 is equal to one
 of these values.
-A simple illustration of these considerations is offered by
-the linear harmonic vibrator mentioned above in connection
-with Planck’s theory. Since in this case Cτ is equal to zero
-27
-for any τ different from 1, we shall expect that for this system only such transitions are possible in which n alters by
-one unit. From (1) and (9) we obtain therefore the simple result that the frequency of any radiation emitted or absorbed
-by a linear harmonic vibrator is equal to the constant frequency ω0. This result seems to be supported by observations on the absorption-spectra of diatomic gases, showing
-that certain strong absorption-lines, which according to general evidence may be ascribed to vibrations of the two atoms
-in the molecule relative to each other, are not accompanied
-by lines of the same order of intensity and corresponding to
-entire multipla of the frequency, such as it should be expected
-from (1) if the system had any considerable tendency to pass
-between non-successive states. In this connection it may be
-noted that the fact, that in the absorption spectra of some
-diatomic gases faint lines occur corresponding to the double
-frequency of the main lines,1
-) obtains a natural explanation
-by assuming that for finite amplitudes the vibrations are not
-exactly harmonic and that therefore the molecules possess
-a small probability of passing also between non-successive
-states.
+
+A simple illustration of these considerations is offered by the linear harmonic vibrator mentioned above in connection
+with Planck’s theory. Since in this case Cτ is equal to zero for any τ different from 1, we shall expect that for this system only such transitions are possible in which n alters by one unit. 
+
+From (1) and (9) we obtain therefore the simple result that the frequency of any radiation emitted or absorbed
+by a linear harmonic vibrator is equal to the constant frequency ω0.
+
+This result seems to be supported by observations on the absorption-spectra of diatomic gases, showing that certain strong absorption-lines, which according to general evidence may be ascribed to vibrations of the two atoms in the molecule relative to each other, are not accompanied by lines of the same order of intensity and corresponding to entire multipla of the frequency, such as it should be expected from (1) if the system had any considerable tendency to pass between non-successive states. In this connection it may be noted that the fact, that in the absorption spectra of some diatomic gases faint lines occur corresponding to the double frequency of the main lines,1) obtains a natural explanation by assuming that for finite amplitudes the vibrations are not
+exactly harmonic and that therefore the molecules possess a small probability of passing also between non-successive states.
 

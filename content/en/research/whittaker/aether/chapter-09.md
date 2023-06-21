@@ -37,116 +37,15 @@ But the other analogy was felt to be too valuable to be altogether discarded, es
 
 There is, however, an important difference between the two cases, which was subsequently discussed by W. Thomson, who pursued the analogy in several memoirs.[12] In order to represent the magnetic field by a conservative dynamical system, we shall suppose that it is produced by a number of rings of perfectly conducting material, in which electric currents are circulating; the surrounding medium being free aether. Now any perfectly conducting body acts as an impenetrable barrier to lines of magnetic force; for, as Maxwell showed,[13] when a perfect conductor is placed in a magnetic field, electric currents are induced on its surface in such a way as to make the total magnetic force zero throughout the interior of the conductor.[14] Lines of force are thus deflected by the body in the same way as the lines of flow of an incompressible fluid would be deflected by an obstacle of the same form, or as the lines of flow of electric current in a uniform conducting mass would be deflected by the introduction of a body of this form and of infinite resistance. If, then, for simplicity we consider two perfectly conducting rings carrying currents, those lines of force which are initially linked with a ring cannot escape from their entanglement, and new lines cannot become involved in it. This implies that the total number of lines of magnetic force which pass through the aperture of each ring is invariable. If the coefficients of self and mutual induction of the rings are denoted by L1, L2, L12, the electrokinetic energy of the system may be represented by
 
-�
-=
-1
-2
-(
-�
-1
-�
-1
-2
-+
-2
-�
-12
-�
-1
-�
-2
-+
-�
-2
-�
-2
-2
-)
-{\displaystyle T={\tfrac {1}{2}}(L_{1}i_{1}^{2}+2L_{12}i_{1}i_{2}+L_{2}i_{2}^{2})},
 
 where i1, i2, in denote the strengths of the currents; and the condition that the number of lines of force linked with each circuit is to be invariable gives the equations
 
-�
-1
-�
-1
-+
-�
-12
-�
-2
-=
- constant
-{\displaystyle L_{1}i_{1}+L_{12}i_{2}={\text{ constant}}},
 
-�
-12
-�
-1
-+
-�
-2
-�
-2
-=
- constant
-{\displaystyle L_{12}i_{1}+L_{2}i_{2}={\text{ constant}}}.
+When the system is considered from the point of view of general dynamics, the electric currents must be regarded as generalized velocities, and the quantities
 
-It is evident that, when the system is considered from the point of view of general dynamics, the electric currents must be regarded as generalized velocities, and the quantities
-
-(
-�
-1
-�
-1
-+
-�
-12
-�
-2
-)
-{\displaystyle (L_{1}i_{1}+L_{12}i_{2})} and 
-(
-�
-12
-�
-1
-+
-�
-2
-�
-2
-)
-{\displaystyle (L_{12}i_{1}+L_{2}i_{2})}
 
 as momenta. The electromagnetic ponderomotive force on the rings tending to increase any coordinate x is ∂T/∂x. In the analogous hydrodynamical system, the fluid velocity corresponds to the magnetic force: and therefore the circulation through each ring (which is defined to be the integral ∫vds, taken round a path linked once with the ring) corresponds kinematically to the electric current; and the flux of fluid through each ring corresponds to the number of lines of magnetic force which pass through the aperture of the ring. But in the hydrodynamical problem the circulations play the part of generalized momenta; while the fluxes of fluid through the rings play the part of generalized velocities. The kinetic energy may indeed be expressed in the form
 
-�
-=
-1
-2
-(
-�
-1
-�
-1
-2
-+
-2
-�
-12
-�
-1
-�
-2
-+
-�
-2
-�
-2
-2
-)
-{\displaystyle K={\tfrac {1}{2}}(N_{1}\kappa _{1}^{2}+2N_{12}\kappa _{1}\kappa _{2}+N_{2}\kappa _{2}^{2})},
 
 where κ1, κ2, denote the circulations (so that κ1 and κ2 are proportional respectively to i1, and i2), and N1, N12, N2, depend on the positions of the rings; but this is the Hamiltonian (as opposed to the Lagrangian) form of the energy-function,[15] and the ponderomotive force on the rings tending to increase any coordinate x is - ∂K/∂x. Since ∂K/∂x is equal to ∂T/∂x, we see that the ponderomotive forces on the rings in any position in the hydrodynamical system are equal, but opposite, to the ponderomotive forces on the rings in the electric system.
 
@@ -154,7 +53,14 @@ The reason for the difference between the two cases may readily be understood, T
 
 Imperfect though the analogy is, it is not without interest. A bar-magnet, being equivalent to a current circulating in a wire wound round it, may be compared (as W. Thomson remarked) to a straight tube immersed in a perfect fluid, the fluid entering at one end and flowing out by the other, so that the particles of fluid follow the lines of magnetic force. If two such tubes are presented with like ends to each other, they attract; with unlike ends, they repel. The forces are thus diametrically opposite in direction to those of magnets; but in other respects the laws of mutual action between these tubes and between magnets are precisely the same.[16]
 
-Thomson, moreover, investigated[17] the ponderomotive forces which act between two solid bodies immersed in a fluid, when one of the bodies is constrained to perform small oscillations. If, for example, a small sphere immersed in an incompressible fluid is compelled to oscillate along the line which joins its centre to that of a much larger sphere, which is free, the free sphere will be attracted if it is denser than the fluid; while if it is less dense than the fluid, it will be repelled or attracted according as the ratio of its distance from the vibrator to its radius is greater or less than a certain quantity depending on the ratio of its density to the density of the fluid. Systems of this kind were afterwards extensively investigated by C. A. Bjerknes.[18] Bjerknes showed that two spheres which are immersed in an incompressible fluid, and which pulsate (i.e., change in volume) regularly, exert on each other (by the mediation of the fluid) an attraction, determined by the inverse square law, if the pulsations are concordant; and exert on each other a repulsion, determined likewise by the inverse square law, if the phases of the pulsations differ by half a period. It is necessary to suppose that the medium is incompressible, so that all pulsations are propagated instantaneously: otherwise attractions would change to repulsions and vice versa at distances greater than a quarter wave-length.[19] If the spheres, instead of pulsating, oscillate to and fro in straight lines about their mean positions, the forces between them are proportional in magnitude and the same in direction, but
+Thomson, moreover, investigated[17] the ponderomotive forces which act between two solid bodies immersed in a fluid, when one of the bodies is constrained to perform small oscillations.
+
+If, for example, a small sphere immersed in an incompressible fluid is compelled to oscillate along the line which joins its centre to that of a much larger sphere, which is free, the free sphere will be attracted if it is denser than the fluid; while if it is less dense than the fluid, it will be repelled or attracted according as the ratio of its distance from the vibrator to its radius is greater or less than a certain quantity depending on the ratio of its density to the density of the fluid.
+
+Systems of this kind were afterwards extensively investigated by C. A. Bjerknes.[18] Bjerknes showed that two spheres which are immersed in an incompressible fluid, and which pulsate (i.e., change in volume) regularly, exert on each other (by the mediation of the fluid) an attraction, determined by the inverse square law, if the pulsations are concordant; and exert on each other a repulsion, determined likewise by the inverse square law, if the phases of the pulsations differ by half a period.
+
+
+It is necessary to suppose that the medium is incompressible, so that all pulsations are propagated instantaneously: otherwise attractions would change to repulsions and vice versa at distances greater than a quarter wave-length.[19] If the spheres, instead of pulsating, oscillate to and fro in straight lines about their mean positions, the forces between them are proportional in magnitude and the same in direction, but
 
 opposite in sign, to those which act between two magnets oriented along the directions of oscillation.[20]
 
@@ -166,63 +72,18 @@ A model of magnetic action may evidently be constructed on the basis of these re
 
 We have now discussed models in which the magnetic force is represented as the velocity in a liquid, and others in which it is represented as the displacement in an elastic solid. Some years before the date of Leahy's memoir, George Francis FitzGerald (b. 1851, d. 1901)[23] had instituted a comparison between magnetic force and the velocity in a quasi-elastic solid of the type first devised by MacCullagh.[24] An analogy is at once evident when it is noticed that the electromagnetic equation
 
-4
-�
-�
-˙
-=
-curl 
-�
-{\displaystyle 4\pi {\dot {\mathbf {D} }}={\text{curl }}\mathbf {H} }
-
 is satisfied identically by the values
 
-{
-4
-�
-�
-=
-curl 
-�
-,
-�
-=
-�
-˙
-,
-{\displaystyle {\begin{cases}4\pi \mathbf {D} ={\text{curl }}\mathbf {e} ,\\\mathbf {H} ={\dot {\mathbf {e} }},\end{cases}}}
 
 where e denotes, any vector; and that, on substituting these values in the other electromagnetic equation,
 
-−
-curl
-(
-4
-�
-�
-2
-�
-/
-�
-)
-=
-�
-˙{\displaystyle -{\text{curl}}(4\pi c^{2}\mathbf {D} /\epsilon )={\dot {\mathbf {H} }}},    ·
 
 we obtain the equation
-�
-�
-¨
-+
-�
-2
- curl curl 
-�
-=
-0
-{\displaystyle \epsilon {\ddot {\mathbf {e} }}+c^{2}{\text{ curl curl }}\mathbf {e} =0},
 
-which is no other than the equation of motion of MacCullagh's aether,[25] the specific inductive capacity e corresponding to the reciprocal of MacCullagh's constant of elasticity. In the analogy thus constituted, electric displacement corresponds to the twist of the elements of volume of the aether; and electric charge must evidently be represented as an intrinsic rotational strain. Mechanical models of the electromagnetic field, based on FitzGerald's analogy, were afterwards studied by A. Sommerfeld,[26] by R. Reiff,[27] and by Sir J. Larmor.[28] The last-named author[29] supposed the electric charge to exist in the form of discrete electrons, for the creation of which he suggested the following ideal process[30]:—A filament of aether, terminating at two nuclei, is supposed to be removed, and circulatory motion is imparted to the walls of the channel so formed, at each point of its length, so as to produce throughout the medium a rotational strain. When this has been accomplished, the channel is to be filled up again with aether, which is to be made continuous with its walls. When the constraint is removed from the walls of the channel, the circulation imposed on them proceeds to undo itself, until this tendency is balanced by the elastic resistance of the aether with which the channel has been filled up; thus finally the system assumes a state of equilibrium in which the nuclei, which correspond to a positive and a negative electron, are surrounded by intrinsic rotational strain.
+
+which is no other than the equation of motion of MacCullagh's aether,[25] the specific inductive capacity e corresponding to the reciprocal of MacCullagh's constant of elasticity. In the analogy thus constituted, electric displacement corresponds to the twist of the elements of volume of the aether; and electric charge must evidently be represented as an intrinsic rotational strain. Mechanical models of the electromagnetic field, based on FitzGerald's analogy, were afterwards studied by A. Sommerfeld,[26] by R. Reiff,[27] and by Sir J. Larmor.[28] The last-named author[29] supposed the electric charge to exist in the form of discrete electrons, for the creation of which he suggested the following ideal process[30]:—
+
+A filament of aether, terminating at two nuclei, is supposed to be removed, and circulatory motion is imparted to the walls of the channel so formed, at each point of its length, so as to produce throughout the medium a rotational strain. When this has been accomplished, the channel is to be filled up again with aether, which is to be made continuous with its walls. When the constraint is removed from the walls of the channel, the circulation imposed on them proceeds to undo itself, until this tendency is balanced by the elastic resistance of the aether with which the channel has been filled up; thus finally the system assumes a state of equilibrium in which the nuclei, which correspond to a positive and a negative electron, are surrounded by intrinsic rotational strain.
 
 Models in which magnetic force is represented by the velocity of an aether are not, however, secure from objection, It is necessary to suppose that the aether is capable of lowing like a perfect fluid in irrotational motion (which would correspond to a steady magnetic field), and that it is at the same time endowed with the power (which is requisite for the explanation of electric phenomena) of resisting the rotation of any element of volume.[31] But when the aether moves irrotationally in the fashion which corresponds to a steady magnetic field, each element of volume acquires after a finite time a rotatory displacement from its original orientation, in consequence of the motion, and it might therefore be expected that the quasi-elastic power of resisting rotation would be called into play—i.e., that a steady magnetic field would develop electric phenomena.[32]
 
@@ -234,26 +95,8 @@ In 1879 E. H. Hall,[34] at that time a student at Baltimore, repeating an experi
 
 From the physical point of view we may therefore regard Hall's effect as an additional electromotive force generated by the action of the magnetic field on the current; or alternatively we may regard it as a modification of the ohmic resistance of the metal, such as would be produced if the molecules of the metal assumed a helicoidal structure about the lines of magnetic force. From the latter point of view, all that is needed is to modify Ohm's law
 
-�
-=
-�
-�
-{\displaystyle \mathbf {S} =k\mathbf {E} }
 
 (where S denotes electric current, k specific conductivity, and E electric force) so that it takes the form
-
-�
-=
-�
-�
-+
-ℎ
-[
-�
-.
-�
-]
-{\displaystyle \mathbf {S} =k\mathbf {E} +h[\mathbf {E.H} ]}
 
 where H denotes the imposed magnetic force, and h denotes a constant on which the magnitude of Hall's phenomenon depends. It is a curious circumstance that the occurrence, in the case of magnetized bodies, of an additional term in Ohm's law, formed from a vector-product of E, had been expressly suggested in Maxwell's Treatise[35]: although Maxwell had not indicated the possibility of realizing it by Hall's experiment.
 
@@ -264,15 +107,6 @@ In the year following his discovery, Hall[38] extended his researches in another
 We must now consider the bearing of Hall's effect on the question as to whether magnetism is a rotatory or a linear phenomenon.[41] If magnetism be linear, electric currents must be rotatory, and if Hall's phenomenon be supposed to take place in a horizontal strip of metal, the magnetic force being directed vertically upwards, and the primary current flowing horizontally from north to south, the only geometrical entities involved are the vertical direction and a rotation in the east-and-west vertical plane; and these are indifferent with respect to a rotation in the north-and-south vertical plane, so that there is nothing in the physical circumstances of the system to determine in which direction the secondary current shall flow, The hypothesis that magnetism is linear appears therefore to be inconsistent with the existence of Hall's effect.[42] There are, however, some considerations which may be urged on the other side. Hall's effect, like the magnetic rotation of light, takes place only in ponderable bodies, not in free aether; and its direction is sometimes in one sense, sometimes in the other, according to the nature of the substance. It may therefore be doubted whether these phenomena are not of a secondary character, and the argument based on them invalid. Moreover, as FitzGerald remarked,[43] the magnetic lines of force associated with a system of currents are circuital and have no open ends, making it difficult to imagine how alteration of rotation inside them could be produced.
 
 Of the various attempts to represent electric and magnetic phenomena by the motions and strains of a continuous medium, none of those hitherto considered has been found free from objection.[44] Before proceeding to consider models which are not constituted by a continuous medium, mention must be made of a suggestion offered by Riemann in his lectures[45] of 1861. Riemann remarked that the scalar-potential φ and vector-potential a, corresponding to his own law of force between electrons, satisfy the equation
-
-�
-˙
-+
-div 
-�
-=
-0
-{\displaystyle {\dot {\phi }}+{\text{div }}\mathbf {a} =0};
 
 an equation which, as we have seen, is satisfied also by the potentials of L. Lorenz[46] This appeared to Riemann to indicate that φ might represent the density of an aether, of which a represents the velocity. It will be observed that on this hypothesis the electric and magnetic forces correspond to second derivates of the displacement—a circumstance which makes it somewhat difficult to assimilate the energy possessed by the electromagnetic field to the energy of the model.
 
@@ -300,1182 +134,96 @@ Let (u, v, w) denote the components of velocity, and p the pressure, at the poin
 
 Substituting these values of the components of velocity in the equation of motion
 
-∂
-�
-∂
-�
-=
-−
-�
-∂
-�
-∂
-�
-−
-�
-∂
-�
-∂
-�
-−
-�
-∂
-�
-∂
-�
-−
-∂
-�
-∂
-�
-{\displaystyle {\frac {\partial u}{\partial t}}=-u{\frac {\partial u}{\partial x}}-v{\frac {\partial u}{\partial y}}-w{\frac {\partial u}{\partial z}}-{\frac {\partial p}{\partial x}}},
 
 there results
-∂
-�
-(
-�
-,
-�
-)
-∂
-�
-+
-∂
-�
-′
-∂
-�
-=
-−
-�
-(
-�
-,
-�
-)
-∂
-�
-′
-∂
-�
-−
-�
-∂
-�
-(
-�
-,
-�
-)
-∂
-�
-−
-�
-′
-∂
-�
-′
-∂
-�
-−
-�
-∂
-�
-′
-∂
-�
-{\displaystyle {\frac {\partial f(y,t)}{\partial t}}+{\frac {\partial u^{\prime }}{\partial t}}=-f(y,t){\frac {\partial u^{\prime }}{\partial x}}-v{\frac {\partial f(y,t)}{\partial y}}-u^{\prime }{\frac {\partial u^{\prime }}{\partial x}}-v{\frac {\partial u^{\prime }}{\partial y}}}
-−
-�
-∂
-�
-′
-∂
-�
-−
-∂
-�
-∂
-�
-.
-{\displaystyle -w{\frac {\partial u^{\prime }}{\partial z}}-{\frac {\partial p}{\partial x}}.}
+
+
 Take now the xz-averages of both members. The quantities ∂u′/∂t, ∂u′/∂x, v, ∂p/∂x have zero averages; so the equation takes the form
 
-∂
-�
-(
-�
-,
-�
-)
-∂
-�
-=
-−
-�
-.
-(
-�
-′
-∂
-�
-′
-∂
-�
-+
-�
-∂
-�
-′
-∂
-�
-+
-�
-∂
-�
-′
-∂
-�
-)
-{\displaystyle {\frac {\partial f(y,t)}{\partial t}}=-A.\left(u^{\prime }{\frac {\partial u^{\prime }}{\partial x}}+v{\frac {\partial u^{\prime }}{\partial y}}+w{\frac {\partial u^{\prime }}{\partial z}}\right)},
 
 if the symbol A is used to indicate that the xz-average is to be taken of the quantity following. Moreover, the incompressibility of the fluid is expressed by the equation
 
-∂
-�
-′
-∂
-�
-+
-∂
-�
-∂
-�
-+
-∂
-�
-∂
-�
-=
-0
-{\displaystyle {\frac {\partial u^{\prime }}{\partial x}}+{\frac {\partial v}{\partial y}}+{\frac {\partial w}{\partial z}}=0}
 
 whence
 
-0
-=
-−
-�
-.
-(
-�
-′
-∂
-�
-′
-∂
-�
-+
-�
-′
-∂
-�
-∂
-�
-+
-�
-′
-∂
-�
-∂
-�
-)
-{\displaystyle 0=-A.\left(u^{\prime }{\frac {\partial u^{\prime }}{\partial x}}+u^{\prime }{\frac {\partial v}{\partial y}}+u^{\prime }{\frac {\partial w}{\partial z}}\right)}.
-
 When this is added to the preceding equation, the first and third pairs of terms of the second member vanish, since the x-average of any derivate ∂Q/∂x vanishes if Q is finite for infinitely great values of x; and the equation thus becomes
 
-∂
-�
-(
-�
-,
-�
-)
-∂
-�
-=
-−
-�
-.
-∂
-�
-′
-�
-∂
-�
-.
-{\displaystyle {\frac {\partial f(y,t)}{\partial t}}=-A.{\frac {\partial u^{\prime }v}{\partial y}}.\qquad \qquad }(1)
+
 
 From this it is seen that if the turbulent motion were to remain continually isotropic as at the beginning, f (y, t) would constantly retain its critical value f(y). In order to examine the deviation from isotropy, we shall determine A∂(u′v)/∂t, which may be done in the following way:—Multiplying the u- and v-equations of motion by v, u′ respectively, and adding, we have
 
-�
-∂
-�
-(
-�
-,
-�
-)
-∂
-�
-+
-∂
-�
-′
-�
-∂
-�
-=
-−
-�
-(
-�
-,
-�
-)
-∂
-�
-′
-�
-∂
-�
-−
-�
-2
-∂
-�
-(
-�
-,
-�
-)
-∂
-�
-−
-�
-′
-∂
-�
-′
-�
-∂
-�
-{\displaystyle v{\frac {\partial f(y,t)}{\partial t}}+{\frac {\partial u^{\prime }v}{\partial t}}=-f(y,t){\frac {\partial u^{\prime }v}{\partial x}}-v^{2}{\frac {\partial f(y,t)}{\partial y}}-u^{\prime }{\frac {\partial u^{\prime }v}{\partial x}}}
-−
-�
-∂
-�
-′
-�
-∂
-�
-−
-�
-∂
-�
-′
-�
-∂
-�
-−
-�
-∂
-�
-∂
-�
-−
-�
-′
-∂
-�
-∂
-�
-{\displaystyle -v{\frac {\partial u^{\prime }v}{\partial y}}-w{\frac {\partial u^{\prime }v}{\partial z}}-v{\frac {\partial p}{\partial x}}-u^{\prime }{\frac {\partial p}{\partial x}}}
+
 Taking the xz-average of this, we observe that the first term of the first member disappears, since A . v is zero, and the first term of the second member disappears, since A . ∂(u′v)/∂x is zero. Denoting by 
 1
 3
 R2 the average value of u2, v2, or ω2, so that R may be called the average velocity of the turbulent motion, the equation becomes
-∂
-∂
-�
-{
-�
-.
-(
-�
-′
-�
-)
-}
-=
-−
-1
-3
-�
-2
-∂
-�
-(
-�
-,
-�
-)
-∂
-�
-−
-�
-{\displaystyle {\frac {\partial }{\partial t}}\{A.(u^{\prime }v)\}=-{\tfrac {1}{3}}R^{2}{\frac {\partial f(y,t)}{\partial t}}-Q},
+
 
 where
 
-�
-=
-�
-.
-{
-�
-′
-∂
-(
-�
-′
-�
-)
-∂
-�
-+
-�
-∂
-(
-�
-′
-�
-)
-∂
-�
-+
-�
-∂
-(
-�
-′
-�
-)
-∂
-�
-+
-�
-∂
-�
-∂
-�
-+
-�
-′
-∂
-�
-∂
-�
-}
-{\displaystyle Q=A.\left\{u^{\prime }{\frac {\partial (u^{\prime }v)}{\partial x}}+v{\frac {\partial (u^{\prime }v)}{\partial y}}+w{\frac {\partial (u^{\prime }v)}{\partial z}}+v{\frac {\partial p}{\partial x}}+u^{\prime }{\frac {\partial p}{\partial y}}\right\}}.
 
 Let p be written (
-�
-′
-+
-�
+
 ¯{\displaystyle r^{\prime }+{\bar {\omega }}}), where p′ denotes the value which p would have if f were zero. The equations of motion immediately give
 
-−
-∇
-2
-�
-=
-(
-∂
-�
-∂
-�
-)
-2
-+
-(
-∂
-�
-∂
-�
-)
-2
-+
-(
-∂
-�
-∂
-�
-)
-2
-+
-2
-∂
-�
-∂
-�
-∂
-�
-∂
-�
-+
-2
-∂
-�
-∂
-�
-∂
-�
-∂
-�
-+
-2
-∂
-�
-∂
-�
-∂
-�
-∂
-�
-{\displaystyle -\nabla ^{2}p=\left({\frac {\partial u}{\partial x}}\right)^{2}+\left({\frac {\partial v}{\partial y}}\right)^{2}+\left({\frac {\partial w}{\partial z}}\right)^{2}+2{\frac {\partial v}{\partial z}}{\frac {\partial w}{\partial y}}+2{\frac {\partial w}{\partial x}}{\frac {\partial u}{\partial z}}+2{\frac {\partial u}{\partial y}}{\frac {\partial v}{\partial x}}};
 
 and on subtracting the forms which this equation takes in the two cases, we have
 
-−
-∇
-2
-�
-¯
-=
-2
-∂
-�
-(
-�
-,
-�
-)
-∂
-�
-∂
-�
-∂
-�
-{\displaystyle -\nabla ^{2}{\bar {w}}=2{\frac {\partial f(y,t)}{\partial y}}{\frac {\partial v}{\partial x}}},
 
 which, when the turbulent motion is fine-grained, so that f(y, t) is sensibly constant over ranges within which u′, v, 'ω pass through all their values, may be written
 
-�
-¯
-=
-−
-2
-∂
-�
-(
-�
-,
-�
-)
-∂
-�
-∇
-−
-2
-∂
-�
-∂
-�
-{\displaystyle {\bar {w}}=-2{\frac {\partial f(y,t)}{\partial y}}\nabla ^{-2}{\frac {\partial v}{\partial x}}}.
-
 Moreover, we have
 
-�
-=
-�
-{
-�
-′
-∂
-(
-�
-′
-�
-)
-∂
-�
-+
-�
-∂
-(
-�
-′
-�
-)
-∂
-�
-+
-�
-∂
-(
-�
-′
-�
-)
-∂
-�
-+
-�
-∂
-�
-′
-∂
-�
-+
-�
-′
-∂
-�
-′
-∂
-�
-}
-{\displaystyle O=A\left\{u^{\prime }{\frac {\partial (u^{\prime }v)}{\partial x}}+v{\frac {\partial (u^{\prime }v)}{\partial y}}+w{\frac {\partial (u^{\prime }v)}{\partial z}}+v{\frac {\partial p^{\prime }}{\partial x}}+u^{\prime }{\frac {\partial p^{\prime }}{\partial y}}\right\}};
 
 for positive and negative values of u′, v, ω are equally probable; and therefore the value of the second member of this equation is doubled by adding to itself what it becomes when for u′, v, ω we substitute -u′, -v, -ω; which (as may be seen by inspection of the above equation in Δ2p) does not change the value of p′. Comparing this equation with that which determines the value of Q, we have
 
-�
-=
-�
-.
-(
-�
-∂
-�
-¯
-∂
-�
-+
-�
-′
-∂
-�
-¯
-∂
-�
-)
-{\displaystyle Q=A.\left(v{\frac {\partial {\bar {w}}}{\partial x}}+u^{\prime }{\frac {\partial {\bar {w}}}{\partial y}}\right)},
 
 or substituting for 
 �
 ¯{\displaystyle {\bar {w}}},
 
-�
-=
-−
-2
-∂
-�
-(
-�
-,
-�
-)
-∂
-�
-.
-�
-.
-(
-�
-∂
-∂
-�
-+
-�
-′
-∂
-∂
-�
-)
-.
-∇
-−
-2
-∂
-�
-∂
-�
-{\displaystyle Q=-2{\frac {\partial f(y,t)}{\partial y}}.A.\left(v{\frac {\partial }{\partial x}}+u^{\prime }{\frac {\partial }{\partial y}}\right).\nabla ^{-2}{\frac {\partial v}{\partial x}}}.
-
 The isotropy with respect to x and z gives the equation
 
-2
-�
-.
-(
-�
-0
-∂
-∂
-�
-+
-�
-0
-′
-∂
-∂
-�
-)
-.
-∇
-−
-2
-∂
-�
-0
-∂
-�
-=
-�
-.
-{
-�
-0
-(
-∂
-2
-∂
-�
-2
-+
-∂
-2
-∂
-�
-2
-)
-{\displaystyle 2A.\left(v_{0}{\frac {\partial }{\partial x}}+u_{0}^{\prime }{\frac {\partial }{\partial y}}\right).\nabla ^{-2}{\frac {\partial v_{0}}{\partial x}}=A.\left\{v_{0}\left({\frac {\partial ^{2}}{\partial x^{2}}}+{\frac {\partial ^{2}}{\partial z^{2}}}\right)\right.\qquad \qquad }
-+
-(
-�
-0
-′
-∂
-∂
-�
-+
-�
-0
-∂
-∂
-�
-)
-∂
-∂
-�
-}
-∇
-−
-2
-�
-0
-{\displaystyle \left.+\left(u_{0}^{\prime }{\frac {\partial }{\partial x}}+w_{0}{\frac {\partial }{\partial z}}\right){\frac {\partial }{\partial y}}\right\}\nabla ^{-2}v_{0}}.
+
 But by integration by parts we obtain the equation
 
-(
-�
-0
-′
-∂
-∂
-�
-+
-�
-0
-∂
-∂
-�
-)
-∂
-∂
-�
-.
-∇
-−
-2
-�
-0
-=
-−
-�
-(
-∂
-�
-0
-′
-∂
-�
-+
-∂
-�
-0
-∂
-�
-)
-∂
-∂
-�
-∇
-−
-2
-�
-0
-{\displaystyle \left(u_{0}^{\prime }{\frac {\partial }{\partial x}}+w_{0}{\frac {\partial }{\partial z}}\right){\frac {\partial }{\partial y}}.\nabla ^{-2}v_{0}=-A\left({\frac {\partial u_{0}^{\prime }}{\partial x}}+{\frac {\partial w_{0}}{\partial z}}\right){\frac {\partial }{\partial y}}\nabla ^{-2}v_{0}};
 
 and by the condition of incompressibility the second member may be written
 
-�
-.
-(
-∂
-�
-0
-/
-∂
-�
-)
-.
-(
-∂
-/
-∂
-�
-)
-.
-∇
-−
-2
-�
-0
-,
-{\displaystyle A.(\partial v_{0}/\partial y).(\partial /\partial y).\nabla ^{-2}v_{0},}    or    
-−
-�
-.
-�
-0
-.
-(
-∂
-2
-/
-∂
-�
-2
-)
-.
-∇
-−
-2
-�
-0
-{\displaystyle -A.v_{0}.(\partial ^{2}/\partial y^{2}).\nabla ^{-2}v_{0}}[errata 1];
 
 So we have
 
-�
-0
-=
-∂
-�
-(
-�
-,
-�
-)
-∂
-�
-�
-.
-{
-�
-0
-(
-∂
-2
-∂
-�
-2
-+
-∂
-2
-∂
-�
-2
-−
-∂
-2
-∂
-�
-2
-)
-}
-.
-∇
-−
-2
-�
-0
-{\displaystyle Q_{0}={\frac {\partial f(y,t)}{\partial y}}A.\left\{v_{0}\left({\frac {\partial ^{2}}{\partial x^{2}}}+{\frac {\partial ^{2}}{\partial z^{2}}}-{\frac {\partial ^{2}}{\partial y^{2}}}\right)\right\}.\nabla ^{-2}v_{0}}.
+
 
 On account of the isotropy, we may write 
-1
-3
- for
 
-(
-∂
-2
-∂
-�
-2
-−
-∂
-2
-∂
-�
-2
-+
-∂
-2
-∂
-�
-2
-)
-∇
-−
-2
-{\displaystyle \left({\frac {\partial ^{2}}{\partial x^{2}}}-{\frac {\partial ^{2}}{\partial y^{2}}}+{\frac {\partial ^{2}}{\partial z^{2}}}\right)\nabla ^{-2}};
-
-so
-�
-0
-=
-1
-9
-�
-2
-∂
-�
-(
-�
-,
-�
-)
-∂
-�
-{\displaystyle Q_{0}={\frac {1}{9}}R^{2}{\frac {\partial f(y,t)}{\partial y}}};
 and, therefore,
 
-∂
-∂
-�
-(
-�
-=
-0
-)
-{
-�
-.
-(
-�
-′
-�
-)
-}
-=
-−
-2
-9
-�
-2
-{
-∂
-�
-(
-�
-,
-�
-)
-∂
-�
-}
-�
-=
-0
-{\displaystyle {\frac {\partial }{\partial t}}_{(}t=0)\{A.(e^{\prime }v)\}=-{\tfrac {2}{9}}R^{2}\left\{{\frac {\partial f(y,t)}{\partial y}}\right\}_{t=0}}.
+
 
 The deviation from isotropy shown by this equation is very small, because of the smallness of ∂f(y,t)/∂y. The equation is therefore not restricted to the initial values of the two members, for we may neglect an infinitesimal deviation from (2/9) R2 in the first factor of the second member, in consideration of the smallness of the second factor. Hence for all values of t we have the equation
 
-∂
-∂
-�
-�
-.
-(
-�
-′
-�
-)
-=
-2
-9
-�
-2
-∂
-�
-(
-�
-,
-�
-)
-∂
-�
-{\displaystyle {\frac {\partial }{\partial t}}A.(u^{\prime }v)={\tfrac {2}{9}}R^{2}{\frac {\partial f(y,t)}{\partial y}}},
 
 which, in combination with (1), yields the result
 
-∂
-2
-∂
-�
-2
-�
-(
-�
-,
-�
-)
-=
-2
-9
-�
-2
-∂
-2
-∂
-�
-2
-�
-(
-�
-,
-�
-)
-{\displaystyle {\frac {\partial ^{2}}{\partial t^{2}}}f(y,t)={\tfrac {2}{9}}R^{2}{\frac {\partial ^{2}}{\partial y^{2}}}f(y,t)};
 
 the form of this equation shows that laminar disturbances are propagated through the vortex-sponge in the same manner as waves of distortion in a homogeneous elastic solid.
 
 The question of the stability of the turbulent motion remained undecided; and at the time Thomson seems to have thought it likely that the motion would suffer diffusion. But two years later[57] he showed that stability was ensured at any rate when space is filled with a set of approximately straight hollow vortex filaments. FitzGerald[58] subsequently determined the energy per unit-volume in a turbulent liquid which is transmitting laminar waves. Writing for brevity
 
-(
-2
-/
-9
-)
-�
-2
-=
-�
-2
-{\displaystyle (2/9)R^{2}=V^{2}}, 
-�
-(
-�
-,
-�
-)
-=
-�
-{\displaystyle f(y,t)=P}, and 
-�
-(
-�
-′
-�
-)
-=
-�{\displaystyle A(u^{\prime }v)=\gamma },
+
 
 the equations are
 
-∂
-�
-∂
-�
-=
-−
-∂
-�
-∂
-�
-{\displaystyle {\frac {\partial P}{\partial t}}=-{\frac {\partial \gamma }{\partial y}}}, and 
-∂
-�
-∂
-�
-=
-−
-�
-2
-∂
-�
-∂
-�
-{\displaystyle {\frac {\partial \gamma }{\partial t}}=-V^{2}{\frac {\partial P}{\partial y}}}
 
 If the quantity
 
-�
-2
-+
-�
-2
-/
-�
-2
-=
-2
-Σ{\displaystyle P^{2}+\gamma ^{2}/V^{2}=2\Sigma }
+
 
 is integrated throughout space, and the variations of the integral with respect to time are determined, it is found that
 
-∂
-∂
-�
-∭
-∑
- 
-�
-�
- 
-�
-�
- 
-�
-�
-=
-∭
-(
-�
-∂
-�
-∂
-�
-+
-�
-�
-2
-∂
-�
-∂
-�
-)
- 
-�
-�
- 
-�
-�
- 
-�
-�
-{\displaystyle {\frac {\partial }{\partial t}}\iiint \textstyle \sum \ dx\ dy\ dz=\iiint \left(P{\frac {\partial P}{\partial t}}+{\frac {\gamma }{V^{2}}}{\frac {\partial \gamma }{\partial t}}\right)\ dx\ dy\ dz}
-∭
-(
-�
-∂
-�
-∂
-�
-−
-�
-∂
-�
-∂
-�
-)
- 
-�
-�
- 
-�
-�
- 
-�
-�
-{\displaystyle \iiint \left(P{\frac {\partial P}{\partial t}}-\gamma {\frac {\partial P}{\partial y}}\right)\ dx\ dy\ dz}
 Integrating the second term under the integral by parts, and omitting the superficial terms (which may be at infinity, or wherever energy enters the space under consideration), we have
-∂
-∂
-�
-∭
-Σ
- 
-�
-�
- 
-�
-�
- 
-�
-�
-=
-∭
-�
-(
-∂
-�
-∂
-�
-+
-∂
-�
-∂
-�
-)
- 
-�
-�
- 
-�
-�
- 
-�
-�
-=
-0
-{\displaystyle {\frac {\partial }{\partial t}}\iiint \Sigma \ dx\ dy\ dz=\iiint P\left({\frac {\partial P}{\partial t}}+{\frac {\partial \gamma }{\partial y}}\right)\ dx\ dy\ dz=0}.
+
 
 Hence it appears that the quantity Σ, which is of the dimensions of energy, must be proportional to the energy per unit-volume of the medium—a result which shows that there is a pronounced similarity between the dynamics of a vortex-sponge and of Maxwell's elastic aether.
 
