@@ -42,8 +42,8 @@ And that virtue has another familiar attendant—to wit, glory—needs no showin
 Yet the actual means by which he gave currency to these principles is a point which it were well not to overlook. It is clear that the lawgiver set himself deliberately to provide all the blessings of heaven for the good man, and a sorry and ill-starred existence for the coward.
 
 In other states the man who shows himself base and cowardly wins to himself an evil reputation and the nickname of a coward, but that is all. 
-\
-For the rest he buys and sells in the same market-place as the good man; he sits beside him at play; he exercises with him in the same gymnasium, and all as suits his humour. 
+
+For the rest, he buys and sells in the same market-place as the good man; he sits beside him at play; he exercises with him in the same gymnasium, and all as suits his humour. 
 
 But at Sparta, there is not one man who would not feel ashamed to welcome the coward at the common mess-tabe, or to try conclusions with such an antagonist in a wrestling bout. 
 

@@ -1,15 +1,15 @@
-+++
-title= "The Commerce of the Ancients"
-heading= "Chapter 6"
-date= 2021-09-27
-author= "Montesquieu"
-image= "/covers/spirit.jpg"
-description= "Research from Montesquieu"
-linkb= "/research/montesquieu/spirit-of-the-laws/book-21/chapter-4"
-linkbtext= "Chapter 4"
-linkf= "/research/montesquieu/spirit-of-the-laws/book-21/chapter-7"
-linkftext= "Chapter 7"
-+++
+---
+heading: "Chapter 6"
+title: "The Commerce of the Ancients"
+weight: 10
+description: "Philip 2nd succeeded Charles 5th. He was obliged to make the celebrated bankruptcy known to all the world"
+image: "/covers/spirit.jpg"
+author: Montesquieu
+icon: /icons/mont.png
+---
+
+
+
 
 Semiramis had immense treasures which could not be acquired in a day. It means that the Assyrians had pillaged other rich nations, as other nations afterwards pillaged them.
 

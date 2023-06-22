@@ -1,14 +1,14 @@
-+++
-title= "The Public Revenues"
-description= "THE public revenues are a portion that each subject gives of his property, in order to secure or enjoy the remainder"
-date= 2015-09-30
-author= "Montesquieu"
-image= "/covers/spirit.jpg"
-linkb= "/research/montesquieu/spirit-of-the-laws/book-12"
-linkbtext= "Book 12"
-linkf= "/research/montesquieu/spirit-of-the-laws/book-13/chapter-3"
-linkftext= "Chapter 2"
-+++
+---
+heading: "Chapters 1-2"
+title: "The Public Revenues"
+linkTitle: "Chapter 1"
+weight: 2
+description: "The public revenues are a portion that each subject gives of his property, in order to secure or enjoy the remainder"
+image: "/covers/spirit.jpg"
+icon: "/icons/mont.png"
+---
+
+
 
 THE public revenues are a portion that each subject gives of his property, in order to secure or enjoy the remainder.
 
@@ -27,7 +27,7 @@ The public revenues should not be measured by the people's abilities to give, bu
 
 
 
-## Chapter 2= It is Wrong to say that the Greatness of Taxes is good in its own Nature.
+## Chapter 2: It is Wrong to say that the Greatness of Taxes is good in its own Nature.
 
 Some monarchies of small vassal states were exempt from taxes and were as miserable as the bigger state which had heavy taxes. 
 

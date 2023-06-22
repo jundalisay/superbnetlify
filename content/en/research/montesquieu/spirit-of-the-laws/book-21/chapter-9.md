@@ -1,15 +1,13 @@
-+++
-title= "The Commerce of the Greek Kings after the Death of Alexander"
-heading= "Chapter 9"
-date= 2021-09-24
-author= "Montesquieu"
-image= "/covers/spirit.jpg"
-description= "When Alexander conquered Egypt, they only had an imperfect idea of the Red sea and none of the Indian ocean. They thought it impossible to sail around the Arabian peninsula."
-linkb= "/research/montesquieu/spirit-of-the-laws/book-21/chapter-8"
-linkbtext= "Chapter 8"
-linkf= "/research/montesquieu/spirit-of-the-laws/book-21/chapter-10"
-linkftext= "Chapter 10"
-+++
+---
+heading: "Chapter 9"
+title: "The Commerce of the Greek Kings after the Death of Alexander"
+weight: 14
+description: "When Alexander conquered Egypt, they only had an imperfect idea of the Red sea and none of the Indian ocean. They thought it impossible to sail around the Arabian peninsula."
+image: "/covers/spirit.jpg"
+author: Montesquieu
+icon: /icons/mont.png
+---
+
 
 
 When Alexander conquered Egypt, they only had an imperfect idea of the Red sea and none of the Indian ocean. They thought it impossible to sail around the Arabian peninsula.
@@ -91,6 +89,7 @@ Alexander’s fleet, therefore, sailing from Patala in July must have been expos
 
 Pliny says that they set out for India at the end of summer. Thus, they spent the time proper for taking advantage of the monsoon, in their passage from Alexandria to the Red sea.
 
+
 ## How navigation has gradually become perfected
 
 Darius’s fleet took 2.5 years to sail down the Indus into to the Red sea. 
@@ -106,5 +105,3 @@ Thus. the commerce of the Greeks and Romans to India was much less extensive tha
 But this commerce of the ancients was carried on with far greater facility than ours.
 
 And if the moderns were to trade only to the coast of Guzarat and Malabar, and, without seeking for the southern isles, were satisfied with what these islanders brought them, they would certainly prefer the way of Egypt to that of the cape of Good-hope. Strabo informs us, that they traded thus with the people of Taprobane.
-
-

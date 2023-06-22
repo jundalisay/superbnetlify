@@ -1,15 +1,12 @@
-+++
-title= "The Abuse of Liberty, Muslim Conquest"
-heading= "Chapter 15 "
-date= 2015-09-26
-image= "/covers/spirit.jpg"
-description= "The Spirit of the Laws Volume 3"
-linkb= "/research/montesquieu/spirit-of-the-laws/book-13/chapter-12"
-linkbtext= "Chapter 12"
-linkf= "/research/montesquieu/spirit-of-the-laws/book-13/chapter-16"
-linkftext= "Chapter 16"
-icon = "/icons/mont.png"
-+++
+---
+heading: "Chapters 15"
+title: "The Abuse of Liberty"
+linkTitle: "Chapter 15"
+weight: 10
+description: "In order to make the purchaser confound the price of the commodity with the tax, there must be some proportion between the tax and the value of the commodity"
+image: "/covers/spirit.jpg"
+icon: "/icons/mont.png"
+---
 
 
 The great advantages of liberty causes that liberty itself to be abused.

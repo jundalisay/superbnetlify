@@ -1,8 +1,9 @@
-+++
-title=  "Book 14"
-description=  "Book 14 of The Simplified Spirit of the Laws by Montesquieu"
-date=  "2021-09-17"
-author=  "Montesquieu"
-image=  "/covers/spirit.jpg"
+---
+title: "Book 14"
+linkTitle: "Book 14"
+weight: 26
+# "2021-09-30"
+description: "Book 14 of The Spirit of the Laws by Montesquieu Simplified"
+image: "/covers/spirit.jpg"
+---
 
-+++

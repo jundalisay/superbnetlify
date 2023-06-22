@@ -5,7 +5,7 @@ description: "The Polity Of The Athenians And The Spartans"
 image: "/covers/polity.jpg"
 author: Xenophon
 icon: /icons/xeno.png
-weight: 6
+weight: 8
 ---
 
 

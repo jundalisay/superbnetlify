@@ -1,18 +1,14 @@
+---
+heading: "Chapter 7"
+title: "The Commerce of the Greeks"
+weight: 12
+description: "THE first Greeks were all pirates. Minos was a pirate who enjoyed the empire of his own isle"
+image: "/covers/spirit.jpg"
+author: Montesquieu
+icon: /icons/mont.png
+---
 
 
-
-+++
-title= "The Commerce of the Greeks"
-heading= "Chapter 7"
-date= 2021-09-26
-author= "Montesquieu"
-image= "/covers/spirit.jpg"
-description= "THE first Greeks were all pirates. Minos was a pirate who enjoyed the empire of his own isle"
-linkb= "/research/montesquieu/spirit-of-the-laws/book-21/chapter-4"
-linkbtext= "Chapter 6"
-linkf= "/research/montesquieu/spirit-of-the-laws/book-21/chapter-7"
-linkftext= "Chapter 8"
-+++
 
 THE first Greeks were all pirates.
 
@@ -24,15 +20,37 @@ One would imagine, that Xenophon was speaking of England.
 
 The Athenians had heads were filled with ambitious projects;
 
-the Athenians, who augmented their jealousy, instead of increasing their influence; who were more attentive to extend their maritime empire than to enjoy it; whose political government was such, that the common people distributed the public revenues amongst themselves, while the rich were in a state of oppression; the Athenians, I say, did not carry on so extensive a commerce as might be expected from the produce of their mines, from the multitude of their slaves, from the number of their seamen, from their influence over the cities of Greece; and, above all, from the excellent institutions of Solon. Their trade was almost wholly confined to Greece, and to the Euxine sea; from whence they drew their subsistence.
+the Athenians, who augmented their jealousy, instead of increasing their influence; who were more attentive to extend their maritime empire than to enjoy it; whose political government was such, that the common people distributed the public revenues amongst themselves, while the rich were in a state of oppression.
+
+<!-- The  did not carry on so extensive a commerce as might be expected from the produce of their  -->
+
+The Athenians had:
+- mining
+- many slaves and seamen
+- influence over other Greek cities
+- excellent institutions of Solon
+
+But their trade was almost wholly confined to Greece and to the Euxine sea from whence they drew their subsistence.
 
 
-Corinth had a good location. It separated two seas, and opened and shut the Peloponnesus. it was the key of Greece, and a city of the greatest importance, at a time when the people of Greece were a world, and the cities of Greece, nations. Its trade was more extensive than that of Athens, having a port to receive the merchandizes of Asia; and another those of Italy= for the great difficulties which attended the doubling cape Malea, where the> * meeting of opposite winds causes shipwrecks, induced every one to go to Corinth, and they could even convey their vessels over land from one sea to the other. Never was there a city, in which the works of art were carried to so high a degree of perfection. But here religion finished the corruption, which their opulence began. They erected a temple to Venus, in which more than a thousand courtesans were consecrated to that deity; from this seminary came the   greatest part of those celebrated beauties, whose history Athenæus has presumed to commit to writing.
+Corinth had a good location. 
+
+It separated two seas, and opened and shut the Peloponnesus. 
+
+It was the key of Greece, and a city of the greatest importance, at a time when the people of Greece were a world, and the cities of Greece, nations. 
+
+Its trade was more extensive than that of Athens. 
+
+It had a port to receive the merchandizes of Asia and another those of Italy. The great difficulties which attended the doubling cape Malea, where the meeting of opposite winds causes shipwrecks. It induced every one to go to Corinth, and they could even convey their vessels over land from one sea to the other. 
+
+Never was there a city, in which the works of art were carried to so high a degree of perfection. 
+
+But here religion finished the corruption, which their opulence began. They erected a temple to Venus, in which more than a thousand courtesans were consecrated to that deity; from this seminary came the   greatest part of those celebrated beauties, whose history Athenæus has presumed to commit to writing.
 
 
 In Homer’s time, the opulence of Greece centered in Rhodes, Corinth, and Orchomenus. 
 
-He says= “Jupiter loved the Rhodians and made them a very wealthy nation.” 
+He says: “Jupiter loved the Rhodians and made them a very wealthy nation.” 
 He calls Corinth as rich. 
 manner, when he speaks of cities that have plenty of gold, he mentions Orchomenus, to which he joins Thebes in Egypt. 
 
@@ -42,7 +60,7 @@ The situation of Orchomenus in the neighbourhood of the Hellespont, the Proponti
 
 The name of Minyeios has been given to Orchomenus, as well as to the Argonauts. 
 
-But these seas becoming afterwards more frequented, the Greeks planted along the coasts a greater number of colonies, which traded with the barbarous nations, and at the same time preserved an intercourse with their mother country= in consequence of this, Orchomenus began to decline, till at length it was lost in the croud of the other cities of Greece.
+But these seas becoming afterwards more frequented, the Greeks planted along the coasts a greater number of colonies, which traded with the barbarous nations, and at the same time preserved an intercourse with their mother country: in consequence of this, Orchomenus began to decline, till at length it was lost in the croud of the other cities of Greece.
 
 Before Homer’s time, the Greeks had scarce any trade but among themselves, and with a few barbarous nations; in proportion, however, as they formed new colonies, they extended their dominion.
 

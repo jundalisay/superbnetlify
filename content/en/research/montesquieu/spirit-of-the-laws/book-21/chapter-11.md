@@ -1,7 +1,7 @@
 ---
 heading: "Chapter 11"
 title: "Carthage and Marseilles"
-weight: 60
+weight: 18
 description: "THE law of nations which obtained at Carthage, was very extraordinary all strangers, who traded to Sardinia and towards Hercules’s pillars, this haughty republic sentenced to be drowned"
 image: "/covers/spirit.jpg"
 author: Montesquieu

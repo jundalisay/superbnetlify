@@ -1,34 +1,33 @@
-+++
-title= "Taxes in Countries where some people are Villains or Bondmen"
-description= "The bondman or villain that tills the land should have a kind of partnership with his master"
-date= 2015-09-29
-image= "/covers/spirit.jpg"
-author= "Montesquieu"
-linkb= "/research/montesquieu/spirit-of-the-laws/book-13/chapter-1"
-linkbtext= "Chapter 1"
-linkf= "/research/montesquieu/spirit-of-the-laws/book-13/chapter-8"
-linkftext= "Chapter 8"
-+++
+---
+heading: "Chapters 3-7"
+title: "Taxes in Countries where some people are Villains or Bondmen"
+linkTitle: "Chapter 3"
+weight: 4
+description: "The bondman or villain that tills the land should have a kind of partnership with his master"
+image: "/covers/spirit.jpg"
+icon: "/icons/mont.png"
+---
+
+
 
 THE state of villainage is sometimes established after a conquest. In that case the bondman or villain that tills the land should have a kind of partnership with his master. Nothing but a communication of loss or profit can reconcile those who are doomed to labour to such as are blessed with a state of affluence.
 
 
 
-## Chapter 4= A Republic in the like Case
+## Chapter 4: A Republic in the like Case
 
 WHEN a republic has reduced a nation to the drudgery of cultivating her lands, she should never suffer the free subject to have a power of increasing the tribute of the bondman. This was not permitted at Sparta. Those brave people thought the Helotes* would be more industrious in cultivating their lands, upon knowing that their servitude was not to increase:they imagined likewise that the masters would be better citizens, when they desired no more than what they were accustomed to enjoy.
 
 
 
-## Chapter 5= A Monarchy in the like Case
+## Chapter 5: A Monarchy in the like Case
 
 WHEN the nobles of a monarchical state cause the lands to be cultivated for their own use by a conquered people, they should never have a power of increasing the service or tribute*. Besides, it is right the prince should be satisfied with his own demesne and the military service. 
 
 But, if he wants to raise taxes on the vassals of his nobility, the lords of the several districts ought to be answerable for the tax=E2=80=A0, and be obliged to pay it for the vassals, by whom they may be afterwards reimbursed. If this rule be not followed, the lord and the collectors of the public taxes will harrass the poor vassal by turns, till he perishes with misery, or flies into the woods.
 
 
-
-## Chapter 6= A despotic Government in the like Case
+## Chapter 6: A despotic Government in the like Case
 
 THE foregoing rule is still more indispensably necessary in a despotic government. The lord, who is every moment liable to be stripped of his lands and his vassals, is not so eager to preserve them.
 
@@ -36,7 +35,7 @@ When Peter I. thought proper to follow the custom of Germany, and to demand his 
 
 
 
-## Chapter 7= Taxes in Countries where Villainage is not established.
+## Chapter 7: Taxes in Countries where Villainage is not established.
 
 WHEN the inhabitants of a state are all free subjects, and each man enjoys his property with as much right as the prince his sovereignty, taxes may then be laid either on persons, on lands, on merchandizes, on two of these, or on all three together.
 

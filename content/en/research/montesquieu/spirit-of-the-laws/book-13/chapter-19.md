@@ -1,14 +1,14 @@
-+++
-title= "Is tax farming or commission better?"
-description= "THE managing of the revenues by commission is like the conduct of a good father of a family, who collects his own rents himself with economy and order"
-date= 2015-09-24
-author= "Montesquieu"
-image= "/covers/spirit.jpg"
-linkb= "/research/montesquieu/spirit-of-the-laws/book-13/chapter-16"
-linkbtext= "Chapter 16-18"
-linkf= "/research/montesquieu/spirit-of-the-laws/book-14"
-linkftext= "Book 14"
-+++
+---
+heading: "Chapters 8-11"
+title: "Is Tax Farming Or Commission Better?"
+linkTitle: "Chapter 8"
+weight: 14
+description: "The managing of the revenues by commission is like the conduct of a good father of a family, who collects his own rents himself with economy and order"
+image: "/covers/spirit.jpg"
+icon: "/icons/mont.png"
+---
+
+
 
 THE managing of the revenues by commission is like the conduct of a good father of a family, who collects his own rents himself with economy and order. It:
 - allows the prince to press or retard the levy of the taxes, either according to his own wants or to those of his people
@@ -29,7 +29,7 @@ In republics, the state's revenues are generally managed by commission. The cont
 
 In despotic governments, the people are infinitely happier where this management is established; witness Persia and China. The unhappiest of all are those where the prince farms out his sea-ports and trading cities. The history of monarchies abounds with mischiefs done by the farmers of the revenue.
 
-Incensed at the oppressive extortions of the publicans, Nero formed a magnanimous but impracticable scheme of abolishing all kinds of imposts. He did not think of managing the revenues by commissioners. Instead, he made four edicts= 
+Incensed at the oppressive extortions of the publicans, Nero formed a magnanimous but impracticable scheme of abolishing all kinds of imposts. He did not think of managing the revenues by commissioners. Instead, he made four edicts:
 
 1. The laws enacted against publicans, which had hitherto been kept secret, should be promulged
 2. that they sh ould exact no claims for above a year backward; 
@@ -39,10 +39,26 @@ Incensed at the oppressive extortions of the publicans, Nero formed a magnanimou
 
 
 
-## Chapter 20= The Tax Collectors [Farmers of the Revenues]
+## Chapter 20: The Tax Collectors [Farmers of the Revenues]
 
-WHEN the lucrative profession of a farme r of the revenue becomes likewise a post of honour, the state is ruined. It may do well enough in despotic governments, where this employment is often times exercised by the governors themselves. But it is by no means proper i n a republic; since a custom of the like nature destroyed that of Rome. Nor is it better in monarchies; nothing being more opposite to the spirit of t his government. All the other orders of the state are dissatisfied; honour  loses its whole value; the gradual and natural means of distinction are no  longer respected; and the very principle of the government is subverted.
+The state is ruined when the lucrative profession of a tax farmer becomes a post of honour.
 
-It is true, indeed, that scandalous fort unes were raised in former times; but this was one of the calamities of the fifty years war. These riches were then considered as ridiculous; now we a dmire them.
+It may do well enough in despotic governments, where this employment is often times exercised by the governors themselves. 
 
-Every profession has its particular lot= that of the tax-gatherers is wealth; and wealth is its own reward. Glory a nd honour fall to the share of that nobility who are sensible of no other h appiness. Respect and esteem are for those ministers and magistrates whose  whole life is a continued series of labour, and who watch day and night ove r the welfare of the empire.
+But it is improper in a republic. This is because a custom of the like nature destroyed that of Rome. 
+
+It is also improper in monarchies. It is the most opposite to the spirit of a monarchy because:
+- all the other orders of the state are dissatisfied
+- honour loses its whole value
+- the gradual and natural means of distinction are no longer respected
+<!-- the very principle of monarchy is subverted. -->
+
+Scandalous fortunes were raised in former times. But this was one of the calamities of the Fifty Years War.
+- These riches were then considered as ridiculous
+- Now we admire them.
+
+Every profession has its particular reward.
+- Tax-gathering is wealth.
+<!-- ; and wealth is its own reward.  -->
+- Glory and honour fall to the share of that nobility who are sensible of no other h appiness. 
+- Respect and esteem are for those ministers and magistrates whose  whole life is a continued series of labour, and who watch day and night ove r the welfare of the empire.
