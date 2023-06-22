@@ -1,19 +1,16 @@
+---
+title: "How the Proceedings at Law Became Secret and Incur Costs"
+heading: "Chapter 34-35"
+description: "The Spread of Literacy Allowed Proceedings to be Secret, while the appeals allowed lawsuits to multiply, leading to court fees"
+image: "/covers/spirit.jpg"
+weight: 76
+author: Montesquieu
+icon: /icons/mont.png
+# date: 2020-03-31
+---
 
 
-+++
-title=  "How the Proceedings at Law became secret and incur costs"
-heading=  "Chapter 34-35"
-description=  "The Spread of Literacy Allowed Proceedings to be Secret, while the appeals allowed lawsuits to multiply, leading to court fees"
-date=  2020-03-11
-author=  "Montesquieu"
-image= "/covers/spirit.jpg"
-linkb=  "/research/montesquieu/spirit-of-the-laws/book-28/chapter-30"
-linkbtext=  "Chapter 30"
-linkf=  "/research/montesquieu/spirit-of-the-laws/book-28/chapter-36"
-linkftext=  "Chapter 36"
-+++
-
-DUELS had introduced a public form of proceeding. Beaumanoir says= 
+DUELS had introduced a public form of proceeding. Beaumanoir says: 
 
 {{< quote >}}
 The witnesses should give their testimony in open court.
@@ -34,7 +31,7 @@ Boutillier’s commentator says this change to the ordinance happened in 1539.
 
 I believe that the change was made insensibly and passed from one lordship to another, in proportion as the lords renounced the ancient form of judging, and that derived from the institutions of St. Lewis was improved. 
 
-Beaumanoir says that witnesses were publicly heard only in cases in which it was allowed to give pledges of battle=  in others, they were heard in secret, and their depositions were reduced to writing. The proceedings became therefore secret, when they ceased to give pledges of battle.
+Beaumanoir says that witnesses were publicly heard only in cases in which it was allowed to give pledges of battle:  in others, they were heard in secret, and their depositions were reduced to writing. The proceedings became therefore secret, when they ceased to give pledges of battle.
 
 
 
@@ -45,7 +42,7 @@ In the past, no one was condemned in the temporal courts of France to the paymen
 
 The party cast was punished by pecuniary fines to the lord and his peers.
     
-From the manner of proceeding by judicial combat, it followed that the party condemned and deprived of life and fortune, was punished as much as he could be= 
+From the manner of proceeding by judicial combat, it followed that the party condemned and deprived of life and fortune, was punished as much as he could be: 
 
 and in the other cases of the judicial combat, there were fines sometimes fixed and sometimes dependent on the disposition of the lord, which were sufficient to make people dread the consequences of suits.
 
@@ -60,13 +57,13 @@ The number of suits increased from the new facility of appealing in different co
 
 When the new method of proceeding multiplied and perpetuated the suits; when 
 
-The art of eluding the very justest demands was refined when= 
+The art of eluding the very justest demands was refined when: 
 - the parties at law knew how to fly only in order to be followed
 - actions proved destructive, and pleas easy
 - the arguments were lost in whole volumes of writings
 - the kingdom was filled with members of the law, who were strangers to justice; when knavery found encouragement from mean practitioners, though discountenanced by the law; then it was necessary to deter litigious people by the fear of costs.
 
-They were obliged to pay costs for= 
+They were obliged to pay costs for: 
 - the judgment
 - the means used to elude it.
 

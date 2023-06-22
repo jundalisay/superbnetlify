@@ -9,9 +9,6 @@ icon: /icons/mont.png
 ---
 
 
-
-## Chapter 4: How Despotic Governments provide for their Security
-
 Republics provide for their security by uniting. 
 
 Despotic governments do it by separating, and by keeping themselves single. They sacrifice a part of the country; and, by rav aging and desolating the frontiers, they render the heart of the empire inaccessible. This practice is more tolerable in large than in middling states.

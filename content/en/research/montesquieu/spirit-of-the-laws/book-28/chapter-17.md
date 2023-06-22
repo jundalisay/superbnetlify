@@ -1,19 +1,18 @@
+---
+title: "Particular Notions of our Ancestors"
+heading: "Chapter 17"
+description: "The Germans were never subdued and so enjoyed excessive independence. Different families waged war with each other, to obtain satisfaction for murders, robberies, or affronts"
+image: "/covers/spirit.jpg"
+weight: 54
+author: Montesquieu
+icon: /icons/mont.png
+# date: 2020-03-31
+---
 
 
-+++
-title=  "Particular Notions of our Ancestors"
-heading=  "Chapter 17"
-description=  "The Germans were never subdued and so enjoyed excessive independence. Different families waged war with each other, to obtain satisfaction for murders, robberies, or affronts"
-date=  2020-03-24
-author=  "Montesquieu"
-image=  "/covers/spirit.jpg"
-linkb=  "/research/montesquieu/spirit-of-the-laws/book-28/chapter-13"
-linkbtext=  "Chapter 13"
-linkf=  "/research/montesquieu/spirit-of-the-laws/book-28/chapter-18"
-linkftext=  "Chapter 18"
-+++
 
-IT is astonishing that our ancestors should= 
+
+IT is astonishing that our ancestors should: 
 - rest the honour, fortune, and life of the subject, on things that depended less on reason than on hazard, and
 - incessantly make use of proofs incapable of convicting, and that had no manner of connexion either with innocence or guilt.
 
@@ -37,7 +36,7 @@ Men of any tolerable extraction seldom want either the dexterity requisite to co
 
 Besides, in a military nation, where strength, courage, and prowess are esteemed, crimes really odious are those which arise from fraud, artifice, and cunning, that is, from cowardice.
 
-With regard to the trial by fire, after the party accused had put his hand on a hot iron, or in boiling water, they wrapped the hand in a bag, and sealed it up= 
+With regard to the trial by fire, after the party accused had put his hand on a hot iron, or in boiling water, they wrapped the hand in a bag, and sealed it up: 
 
 If after three days there appeared no mark, he was acquitted.
 Is it not plain, that amongst people inured to the handling of arms, the impression made on a rough or callous skin by the hot iron, or by boiling water, could not be so great, as to be seen three days afterwards?
@@ -51,7 +50,7 @@ By the law of the† Thuringians, a woman accused of adultery was condemned to t
 
 The law of the Ripuarians admits of this trial, only when a person had no witnesses to appear in his justification. Now a woman, that could not prevail upon any one relation to defend her cause, or a man that could not produce one single witness to attest his honesty, were, from those very circumstances, sufficiently convicted.
 
-Thus, the trial by combat and the trial by hot iron and boiling water showed= 
+Thus, the trial by combat and the trial by hot iron and boiling water showed: 
 - an agreement between those laws and the manners of the people
 - that the laws were unjust in themselves than productive of injustice
 - that the effects were more innocent than the cause

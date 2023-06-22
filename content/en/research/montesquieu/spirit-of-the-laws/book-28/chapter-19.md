@@ -1,17 +1,15 @@
+---
+title: "Why the Salic and Roman Laws and the Capitularies were Disused"
+heading: "Chapter 19"
+description: "AFTER the Franks left their own country, they compiled the Salic laws with the help of their own sages"
+image: "/covers/spirit.jpg"
+weight: 58
+author: Montesquieu
+icon: /icons/mont.png
+# date: 2020-03-31
+---
 
 
-+++
-title=  "Why the Salic and Roman Laws and the Capitularies were disused"
-heading=  "Chapter 19"
-description=  "Research from Montesquieu"
-date=  2020-03-22
-author=  "Montesquieu"
-image=  "/covers/spirit.jpg"
-linkb=  "/research/montesquieu/spirit-of-the-laws/book-28/chapter-18"
-linkbtext=  "Chapter 18"
-linkf=  "/research/montesquieu/spirit-of-the-laws/book-28/chapter-20"
-linkftext=  "Chapter 20"
-+++
 
 The principal cause for the disuse of the Salic and Roman laws, and the Capitularies was the great extent given to judiciary combats.
 
@@ -25,7 +23,7 @@ If there happened to be any disputes between two parties, they had only to order
 
 All civil and criminal actions are reduced to facts. It is upon these facts they fought; and not only the substance of the affair, but likewise the incidents and imparlances were decided by combat, as Beaumanoir observes,* who produces several instances.
 
-Towards the commencement of the third race, the jurisprudence of those times related entirely to personal quarrels, and was governed by the point [284] of honour. If the judge was not obeyed, he insisted upon satisfaction from the person that contemned his his authority. At Bourges, if† the provost had summoned a person and he refused to come=  his way of proceeding was, to tell him, “I sent for thee, and thou didst not think it worth thy while to come; I demand therefore satisfaction for this thy contempt.” 
+Towards the commencement of the third race, the jurisprudence of those times related entirely to personal quarrels, and was governed by the point [284] of honour. If the judge was not obeyed, he insisted upon satisfaction from the person that contemned his his authority. At Bourges, if† the provost had summoned a person and he refused to come:  his way of proceeding was, to tell him, “I sent for thee, and thou didst not think it worth thy while to come; I demand therefore satisfaction for this thy contempt.” 
 
 Upon which they fought. Lewis the Fat reformed this custom.
 

@@ -1,17 +1,14 @@
+---
+title: "Judicial Combats and Appeal of false Judgment"
+heading: "Chapter 27"
+description: "Judicial Combats Resolved Cases Quickly and made appeals unknown"
+image: "/covers/spirit.jpg"
+weight: 68
+author: Montesquieu
+icon: /icons/mont.png
+# date: 2020-03-31
+---
 
-
-+++
-title=  "Judicial Combats and Appeal of false Judgment"
-
-description=  "Judicial Combats Resolved Cases Quickly and made appeals unknown"
-date=  "2020-03-15"
-author=  "Montesquieu"
-image=  "/covers/spirit.jpg"
-linkb=  "/research/montesquieu/spirit-of-the-laws/book-28/chapter-25"
-linkbtext=  "Chapter 25"
-linkf=  "/research/montesquieu/spirit-of-the-laws/book-28/chapter-28"
-linkftext=  "Chapter 28"
-+++
 
 
 Judicial combats ended the affair forever. It was incompatible with a new judgment, and new prosecutions. This made appeals unknown in France. Appeals were established by the Roman and Canon laws to a superior court, in order to re-judge the proceedings of an inferior court.

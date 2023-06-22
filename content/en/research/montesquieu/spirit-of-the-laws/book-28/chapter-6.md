@@ -1,14 +1,15 @@
-+++
-title=  "How the Roman Law kept its Ground in the Demesne of the Lombards"
-heading=  "Chapter 6 to 8 of The Spirit of the Laws by Montesquieu"
-date=  2020-03-28
-author=  "Montesquieu"
-image= "/covers/spirit.jpg"
-linkb=  "/research/montesquieu/spirit-of-the-laws/book-28/chapter-4"
-linkbtext=  "Chapter 4"
-linkf=  "/research/montesquieu/spirit-of-the-laws/book-28/chapter-9"
-linkftext=  "Chapter 9"
-+++
+---
+title: "How the Roman Law kept its Ground in the Demesne of the Lombards"
+heading: "Chapter 6"
+description: "The law of the Lombards was impartial. The Romans were under no temptation to quit their own for it."
+image: "/covers/spirit.jpg"
+weight: 8
+author: Montesquieu
+icon: /icons/mont.png
+# date: 2020-03-31
+---
+
+
 
 
 The law of the Lombards was impartial. The Romans were under no temptation to quit their own for it. 
@@ -23,7 +24,7 @@ Besides, the institutions of the Lombards had not that extent, that majesty of t
 
 
 
-## Chapter 7=  How the Roman Law came to be lost in Spain
+## Chapter 7:  How the Roman Law came to be lost in Spain
 
 THINGS happened otherwise in Spain. 
 
@@ -42,7 +43,7 @@ The Goths were the first that were oppressed, because they were the ruling natio
 
 
 
-## Chapter 8=  A False Capitulary
+## Chapter 8:  A False Capitulary
 
 DID not that wretched compiler Benedictus Levita attempt to transform this Visigoth establishment, which prohibited the use of the Roman law, into a capitulary, ascribed since to Charlemagne?
 

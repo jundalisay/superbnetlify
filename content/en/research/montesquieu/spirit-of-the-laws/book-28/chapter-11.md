@@ -1,19 +1,20 @@
-+++
-title=  "Other Causes of the Disuse of the Barbarian Laws, Roman Law, and Capitularies"
-heading=  "Chapter 11-12"
-description=  "Research from Montesquieu"
-image= "/covers/spirit.jpg"
-date=  2020-03-26
-author=  "Montesquieu"
-linkb=  "/research/montesquieu/spirit-of-the-laws/book-28/chapter-9"
-linkbtext=  "Chapter 9"
-linkf=  "/research/montesquieu/spirit-of-the-laws/book-28/chapter-13"
-linkftext=  "Chapter 13"
-+++
+---
+title: "Other Causes of the Disuse of the Barbarian Laws, Roman Law, and Capitularies"
+heading: "Chapter 11"
+description: "WHEN the German nations subdued the Roman empire, they learned to write so they imitated the Romans and wrote down their own usages and digested them into codes."
+image: "/covers/spirit.jpg"
+weight: 12
+author: Montesquieu
+icon: /icons/mont.png
+# date: 2020-03-31
+---
+
+
+
 
 WHEN the German nations subdued the Roman empire, they learned to write so they imitated the Romans and wrote down their own usages and digested them into codes.
 
-The reign of Charlemagne was followed by= 
+The reign of Charlemagne was followed by: 
 - unhappy reigns
 - the Norman invasions, and
 - the civil wars.
@@ -33,7 +34,7 @@ Thus, as in the establishment of the monarchy they had passed from German custom
 
 
 
-## Chapter 12=  The Local Customs. Revolution of the Laws of barbarous Nations, as well as of the Roman Law
+## Chapter 12:  The Local Customs. Revolution of the Laws of barbarous Nations, as well as of the Roman Law
 
 
 BY several monuments it appears, that there were local customs, so early as the first and second race. We find mention made of the custom of the place, of the ancient usage, of the custom, of  the laws, and of the customs. It has been the opinion of some authors, that what went by the name of customs were the laws of the barbarous nations, and what had the appellation of law were the Roman institutes.
@@ -55,7 +56,7 @@ But it was not natural that they should prevail over the Salic law itself.
 
 Thus there were in each place an established law, and received customs, which served as a supplement to that law when they did not contradict it.
 
-They might even happen to supply a law that was no way territorial= 
+They might even happen to supply a law that was no way territorial: 
 
 To continue the same example, if a Burgundian was judged by the law of his own nation, in a place where the Salic law was territorial, and the case happened not to be explicitly mentioned in the very text of this law,
 there is no manner of doubt but judgment would have been passed upon him according to the custom of the place.
@@ -72,7 +73,7 @@ The Roman was become the general personal law, and the Gothic the particular per
 Consequently the Roman law was territorial.
 
 But how came it, some will ask, that the personal laws of the Barbarians fell every where into disuse, while the Roman law was continued as a territorial institution in the Visigoth and Burgundian provinces?
-I answer, that even the Roman law had very near the same fate as the other personal institutions= 
+I answer, that even the Roman law had very near the same fate as the other personal institutions: 
 Otherwise we should still have the Theodosian code in those provinces where the Roman law was territorial, whereas we have the institutes of Justinian.
 
 Those provinces retained scarce any thing more than the name of the country under the Roman, or written law; than the natural affection which people have for their own institutions, especially when they consider them as privileges;

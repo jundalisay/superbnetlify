@@ -1,21 +1,16 @@
+---
+title: "How the Custom of judicial Combats gained Ground"
+heading: "Chapter 8"
+description: "The clergy themselves were the cause of judicial combats in a great measure"
+image: "/covers/spirit.jpg"
+weight: 56
+author: Montesquieu
+icon: /icons/mont.png
+# date: 2020-03-31
+---
 
 
 
-
-
-
-+++
-title=  "How the Custom of judicial Combats gained Ground"
-heading=  "Chapter 18"
-description=  "The clergy themselves were the cause of judicial combats in a great measure"
-date=  2020-03-23
-author=  "Montesquieu"
-image=  "/covers/spirit.jpg"
-linkb=  "/research/montesquieu/spirit-of-the-laws/book-28/chapter-17"
-linkbtext=  "Chapter 17"
-linkf=  "/research/montesquieu/spirit-of-the-laws/book-28/chapter-19"
-linkftext=  "Chapter 19"
-+++
 
 We can infer from Agobard’s letter to Lewis the Debonnaire that the custom of judicial combats was not established among the Franks. 
 

@@ -1,17 +1,14 @@
+---
+heading: "Chapter 3"
+title: "How the Romans Raised Themselves to Empire"
+weight: 6
+description: "Modern Europeans have very near the same arts, the same arms, the same discipline, and the same manner of making war."
+image: "/covers/spirit.jpg"
+author: Montesquieu
+icon: /icons/mont.png
+---
 
 
-+++
-title=  "How the Romans raised themselves to Empire"
-heading=  "Chapter 3 of Volume 3"
-date=  2015-09-27
-author=  "Montesquieu"
-image=  "/covers/spirit.jpg"
-description=  "The Spirit of the Laws Volume 3"
-linkb=  "/research/montesquieu/spirit-of-the-laws/book-29/chapter-2"
-linkbtext=  "Chapter 2"
-linkf=  "/research/montesquieu/spirit-of-the-laws/book-29/chapter-4"
-linkftext=  "Chapter 4"
-+++
 
 Modern Europeans have very near the same arts, the same arms, the same discipline, and the same manner of making war. 
 

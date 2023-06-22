@@ -1,16 +1,15 @@
+---
+title: "The Bounds prescribed to the Custom of judicial Combats"
+heading: "Chapter 25"
+description: "WHEN pledges of battle had been received upon a civil affair of small importance, the lord obliged the parties to withdraw them"
+image: "/covers/spirit.jpg"
+weight: 66
+author: Montesquieu
+icon: /icons/mont.png
+# date: 2020-03-31
+---
 
-+++
-title=  "The Bounds prescribed to the Custom of judicial Combats"
-heading=  "Chapter 25"
-description=  "WHEN pledges of battle had been received upon a civil affair of small importance, the lord obliged the parties to withdraw them"
-date=  2020-03-17
-author=  "Montesquieu"
-image= "/covers/spirit.jpg"
-linkb=  "/research/montesquieu/spirit-of-the-laws/book-28/chapter-23"
-linkbtext=  "Chapter 23"
-linkf=  "/research/montesquieu/spirit-of-the-laws/book-28/chapter-27"
-linkftext=  "Chapter 27"
-+++
+
 
 WHEN pledges of battle had been received upon a civil affair of small importance, the lord obliged the parties to withdraw them.
 

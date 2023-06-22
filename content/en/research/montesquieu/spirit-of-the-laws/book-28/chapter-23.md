@@ -1,15 +1,15 @@
-+++
-title=  "The Code of Laws on judicial Combats"
-heading=  "Chapter 23"
-description=  "Before the combat, the magistrates ordered three rules to be published"
-date=  2020-03-19
-author=  "Montesquieu"
-image= "/covers/spirit.jpg"
-linkb=  "/research/montesquieu/spirit-of-the-laws/book-28/chapter-22"
-linkbtext=  "Chapter 22"
-linkf=  "/research/montesquieu/spirit-of-the-laws/book-28/chapter-25"
-linkftext=  "Chapter 25"
-+++
+---
+title: "The Code of Laws on judicial Combats"
+heading: "Chapter 23"
+description: "Before the combat, the magistrates ordered three rules to be published"
+image: "/covers/spirit.jpg"
+weight: 64
+author: Montesquieu
+icon: /icons/mont.png
+# date: 2020-03-31
+---
+
+
 
 <!-- SOME perhaps will have a curiosity to see this abominable custom of judiciary combat reduced to principle, and to find a code of such extraordinary laws. -->
 

@@ -1,15 +1,14 @@
-+++
-title=  "How the Judiciary Forms were borrowed from the Decretals"
-heading=  "Chapter 40"
-description=  "The judicial forms of the canon law were preferred to those of the Roman law because they constantly had before them the ecclesiastic courts which followed the forms of the canon law"
-date=  2020-03-08
-author=  "Montesquieu"
-image= "/covers/spirit.jpg"
-linkb=  "/research/montesquieu/spirit-of-the-laws/book-28/chapter-37"
-linkbtext=  "Chapter 37"
-linkf=  "/research/montesquieu/spirit-of-the-laws/book-28/chapter-41"
-linkftext=  "Chapter 41"
-+++
+---
+title: "How the Judiciary Forms were borrowed from the Decretals"
+heading: "Chapter 40"
+description: "The judicial forms of the canon law were preferred to those of the Roman law because they constantly had before them the ecclesiastic courts which followed the forms of the canon law"
+image: "/covers/spirit.jpg"
+weight: 84
+author: Montesquieu
+icon: /icons/mont.png
+# date: 2020-03-31
+---
+
 
 <!-- But how comes it, some will say, that when the institutions were laid aside,  -->
 

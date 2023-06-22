@@ -1,17 +1,14 @@
+---
+title: "The Revival of the Roman Law and the Change in the Tribunals"
+heading: "Chapter 42"
+description: "AFTER the Franks left their own country, they compiled the Salic laws with the help of their own sages"
+image: "/covers/spirit.jpg"
+weight: 88
+author: Montesquieu
+icon: /icons/mont.png
+# date: 2020-03-31
+---
 
-
-+++
-title=  "The Revival of the Roman Law and the Change in the Tribunals"
-heading=  "Chapter 42"
-description=  "Research from Montesquieu"
-date=  2020-03-06
-author=  "Montesquieu"
-image= "/covers/spirit.jpg"
-linkb=  "/research/montesquieu/spirit-of-the-laws/book-28/chapter-41"
-linkbtext=  "Chapter 41"
-linkf=  "/research/montesquieu/spirit-of-the-laws/book-28/chapter-44"
-linkftext=  "Chapter 44"
-+++
 
 The Roman law seemed to rise out of its ashes upon the discovery of Justinian’s digest towards the year 1137
 

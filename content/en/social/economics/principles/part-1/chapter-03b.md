@@ -98,7 +98,7 @@ Cons | It has no control to prevent this moblization from being unproductive | I
 
 ## Pointization Solution
 
-Superphysics introduces the concept of pointization or the conversion of economic value into points which are pegged to grains. These points are created whenever there is an agreement by two parties.
+Supereconomics introduces the concept of pointization or the conversion of economic value into points which are pegged to grains. These points are created whenever there is an agreement by two parties.
 
 For example, John can give his harvest of 1 kilogram of potatoes to Martha in exchange for 2 points if 1 kilogram of potatoes is worth 2 kilograms of wheat.
 - John will then have a right to claim those 2 points as whatever Martha is producing. 

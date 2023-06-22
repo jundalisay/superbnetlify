@@ -3,6 +3,7 @@ title: "Flux and Reflux of the ecclesiastic and temporal Jurisdiction"
 heading: "Chapter 41"
 description: "Research from Montesquieu"
 author: "Montesquieu"
+weight: 86
 image: "/covers/spirit.jpg"
 ---
 

@@ -1,15 +1,15 @@
-+++
-title=  "The Proof by Witnesses"
-heading=  "Chapter 44"
-description=  "It is much easier to see the baptismal register whether Peter is the son of Paul than to prove it by a tedious inquest"
-date=  2020-03-05
-author=  "Montesquieu"
-image= "/covers/spirit.jpg"
-linkb=  "/research/montesquieu/spirit-of-the-laws/book-28/chapter-42"
-linkbtext=  "Chapter 42"
-linkf=  "/research/montesquieu/spirit-of-the-laws/book-28/chapter-45"
-linkftext=  "Chapter 45"
-+++
+---
+title: "The Proof by Witnesses"
+heading: "Chapter 44"
+description: "It is much easier to see the baptismal register whether Peter is the son of Paul than to prove it by a tedious inquest"
+image: "/covers/spirit.jpg"
+weight: 90
+author: Montesquieu
+icon: /icons/mont.png
+# date: 2020-03-31
+---
+
+
 
 THE judges, who had no other rule to go by than the usages, inquired very often by witnesses into every cause that was brought before them.
 

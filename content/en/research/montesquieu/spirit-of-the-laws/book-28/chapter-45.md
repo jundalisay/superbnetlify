@@ -1,21 +1,15 @@
+---
+title: "The Customs of France"
+heading: "Chapter 45"
+description: "FRANCE was governed by written customs. The particular usages of each lordship constituted the civil law"
+image: "/covers/spirit.jpg"
+weight: 99
+author: Montesquieu
+icon: /icons/mont.png
+# date: 2020-03-31
+---
 
 
-
-
-
-
-+++
-title=  "The Customs of France"
-heading=  "Chapter 45"
-description=  "FRANCE was governed by written customs. The particular usages of each lordship constituted the civil law"
-date=  2020-03-04
-author=  "Montesquieu"
-image= "/covers/spirit.jpg"
-linkb=  "/research/montesquieu/spirit-of-the-laws/book-28/chapter-44"
-linkbtext=  "Chapter 44"
-linkf=  "/research/montesquieu/spirit-of-the-laws/book-29/chapter-1"
-linkftext=  "Chapter 1"
-+++
 
 FRANCE was governed by written customs. The particular usages of each lordship constituted the civil law.
 

@@ -1,23 +1,15 @@
+---
+title: "The Appeal of Default of Justice"
+heading: "Chapter 8"
+description: "THE appeal of default of justice was when the court of a particular lord deferred, evaded, or refused to do justice to the parties"
+image: "/covers/spirit.jpg"
+weight: 70
+author: Montesquieu
+icon: /icons/mont.png
+# date: 2020-03-31
+---
 
 
-
-
-
-
-
-
-+++
-title=  "The Appeal of Default of Justice"
-description=  "THE appeal of default of justice was when the court of a particular lord deferred, evaded, or refused to do justice to the parties"
-date=  2020-03-14
-author=  "Montesquieu"
-image= "/covers/spirit.jpg"
-linkb=  "/research/montesquieu/spirit-of-the-laws/book-28/chapter-27"
-linkbtext=  "Chapter 27"
-linkf=  "/research/montesquieu/spirit-of-the-laws/book-28/chapter-29"
-linkftext=  "Chapter 29"
-heading=  "Chapter 28"
-+++
 
 THE appeal of default of justice was when the court of a particular lord deferred, evaded, or refused to do justice to the parties.
 

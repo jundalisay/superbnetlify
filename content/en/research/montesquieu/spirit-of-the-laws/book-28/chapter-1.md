@@ -1,17 +1,15 @@
+---
+title: "The Different Character of the Laws of the German People"
+heading: "Chapter 1"
+description: "AFTER the Franks left their own country, they compiled the Salic laws with the help of their own sages"
+image: "/covers/spirit.jpg"
+weight: 2
+author: Montesquieu
+icon: /icons/mont.png
+# date: 2020-03-31
+---
 
-+++
-title=  "The Different Character of the Laws of the German People"
-heading=  "Chapter 1"
-description=  "AFTER the Franks left their own country, they compiled the Salic laws with the help of their own sages"
-date=  2020-03-31
-author=  "Montesquieu"
-image= "/covers/spirit.jpg"
-# image=  "https= //sorasystem.sirv.com/photos/medieval/sest.jpg"
-linkb=  "/research/montesquieu/spirit-of-the-laws/book-28"
-linkbtext=  "Index"
-linkf=  "/research/montesquieu/spirit-of-the-laws/book-28/chapter-2"
-linkftext=  "Chapter 2"
-+++
+
 
 <!-- In nova fert animus mutatas dicere formas Corpora Ovid Metam. -->
 
@@ -60,4 +58,3 @@ The bishops had an immense authority at the court of the Visigoth kings. The mos
 In other respects, the laws of Gundebald for the Burgundians seem pretty judicious. Those of Rotharis, and of the other Lombard princes, are still more so. 
     
 But the laws of the Visigoths, those, for instance, of Recessuinthus, Chaindasuinthus, and Egigas, are puerile, ridiculous, and foolish and were stuffed with rhetoric and void of sense; frivolous in the substance, and bombastic in the stile.
-

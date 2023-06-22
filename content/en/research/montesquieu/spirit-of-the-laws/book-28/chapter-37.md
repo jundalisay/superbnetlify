@@ -1,15 +1,15 @@
-+++
-title=  "How the Institutions of St. Lewis fell into Oblivion"
-heading=  "Chapter 37"
-description=  "The code called St. Lewis’s institutions, was never designed as a law for the whole kingdom, though such a design is mentioned in the preface."
-date=  2020-03-09
-author=  "Montesquieu"
-image= "/covers/spirit.jpg"
-linkb=  "/research/montesquieu/spirit-of-the-laws/book-28/chapter-36"
-linkbtext=  "Chapter 36"
-linkf=  "/research/montesquieu/spirit-of-the-laws/book-28/chapter-40"
-linkftext=  "Chapter 40"
-+++
+---
+title: "How the Institutions of St. Lewis Fell Into Oblivion"
+heading: "Chapter 37"
+description: "The code called St. Lewis’s institutions, was never designed as a law for the whole kingdom, though such a design is mentioned in the preface"
+image: "/covers/spirit.jpg"
+weight: 80
+author: Montesquieu
+icon: /icons/mont.png
+# date: 2020-03-31
+---
+
+
 
 The origin, progress, and decline of institutions happened within a very short period.
 

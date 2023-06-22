@@ -1,8 +1,9 @@
 ---
-title:  "The public Prosecutor"
+title:  "The Public Prosecutor"
 heading:  "Chapter 36"
 description:  "The Roman law had popular form for the prosecution of crimes, which were inconsistent with the office of a public prosecutor"
-date:  2020-03-10
+# date:  2020-03-10
+weight: 78
 author:  "Montesquieu"
 image: "/covers/spirit.jpg"
 ---

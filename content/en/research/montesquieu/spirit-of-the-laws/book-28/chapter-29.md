@@ -1,16 +1,14 @@
+---
+title: "Epoch of the Reign of St. Lewis"
+heading: "Chapter 29"
+description: "Why did St. Lewis ordain for the courts of his barons a different form of proceeding from that which he had established in the courts of his demesne?"
+image: "/covers/spirit.jpg"
+weight: 72
+author: Montesquieu
+icon: /icons/mont.png
+# date: 2020-03-31
+---
 
-+++
-title=  "Epoch of the Reign of St. Lewis"
-description=  "Why did St. Lewis ordain for the courts of his barons a different form of proceeding from that which he had established in the courts of his demesne?"
-date=  "2020-03-13"
-author=  "Montesquieu"
-image=  "/covers/spirit.jpg"
-linkb=  "/research/montesquieu/spirit-of-the-laws/book-28/chapter-28"
-linkbtext=  "Chapter 28"
-linkf=  "/research/montesquieu/spirit-of-the-laws/book-28/chapter-30"
-linkftext=  "Chapter 30"
-
-+++
 
 ST. LEWIS abolished the judicial combats in all the courts of his demesne. But he did not suppress them in the courts of his barons, except in the case of appeal of false judgment.
 

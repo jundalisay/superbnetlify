@@ -1,7 +1,7 @@
 ---
-heading: "Chapters 1-4"
+heading: "Chapter 9"
 title: "Two Causes which destroyed Rome"
-weight: 4
+weight: 19
 description: "Some nations chose to preserve their ancient usages and not assist Rome"
 image: "/covers/spirit.jpg"
 author: Montesquieu
@@ -10,7 +10,7 @@ icon: /icons/mont.png
 
 
 
-WHILST the sovereignty of Rome was confined to Italy, it was easy for the commonwealth to subsist. 
+While the sovereignty of Rome was confined to Italy, it was easy for the commonwealth to subsist. 
 
 Every soldier was also a citizen. Every consul raised an army, and other citizens marched into the field under his successor. 
 
@@ -19,7 +19,6 @@ Their forces were not very numerous, such persons only were received among the t
 The senate:
 - kept a watchful eye over the conduct of the generals
 - did not give them an opportunity of machinating any thing to the prejudice of their country.
-
 
 
 During several campaigns, the Romans were supposed to leave their soldiers in the countries they were subduing. 

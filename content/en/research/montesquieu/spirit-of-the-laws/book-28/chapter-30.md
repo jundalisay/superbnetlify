@@ -1,26 +1,25 @@
-+++
-title=  "Observations on Appeals"
-heading=  "Chapter 30-33"
-description=  "As the practice of judicial combats began to decline, and the usage of new appeals to be introduced, it was reckoned unfair that freemen should have a remedy against the injustice of the court of their lords"
-date=  2020-03-12
-author=  "Montesquieu"
-image= "/covers/spirit.jpg"
-linkb=  "/research/montesquieu/spirit-of-the-laws/book-28/chapter-29"
-linkbtext=  "Chapter 29"
-linkf=  "/research/montesquieu/spirit-of-the-laws/book-28/chapter-34"
-linkftext=  "Chapter 34"
-+++
+---
+title: "Observations on Appeals"
+heading: "Chapter 30"
+description: "As the practice of judicial combats began to decline, and the usage of new appeals to be introduced, it was reckoned unfair that freemen should have a remedy against the injustice of the court of their lords"
+image: "/covers/spirit.jpg"
+weight: 74
+author: Montesquieu
+icon: /icons/mont.png
+# date: 2020-03-31
+---
+
 
 Appeals were challenges to a combat. They must have been made immediately on the spot. 
 
-Beaumanoir says= 
+Beaumanoir says: 
 
 {{< quote >}}
 “If the party leaves the court without appealing he loses his appeal, and the judgment stands good.” This continued still in force, even after all the restrictions of judicial combat.
 {{< /quote >}}
 
 
-THE villain could not bring an appeal of false judgment against the court of his lord. This we learn from Défontaines, and is confirmed moreover by the institutions. Hence Défontaines says= 
+THE villain could not bring an appeal of false judgment against the court of his lord. This we learn from Défontaines, and is confirmed moreover by the institutions. Hence Défontaines says: 
 
 {{< quote >}}
 between the lord and his villain there is no other judge but God.”
@@ -40,7 +39,7 @@ WHEN an appeal of false judgment was brought against the lord’s court, the lor
 
 In time, practice observed in those two cases became general. The introduction of all sorts of appeals, it seemed very extraordinary that the lord should be obliged to spend his whole life in strange tribunals for other people’s affairs. 
 
-Philip of Valois ordained, that none but the bailiffs should be summoned; and when the usage of appeals became still more frequent, the parties were obliged to defend the appeal=  the fact of the judge became that of the party.
+Philip of Valois ordained, that none but the bailiffs should be summoned; and when the usage of appeals became still more frequent, the parties were obliged to defend the appeal:  the fact of the judge became that of the party.
 
 I took notice that in the appeal of default of justice, the lord lost only the privilege of having the cause tried in his own court. But if the lord himself was sued as a party, which was become a very common practice, he paid a fine of sixty livres to the king, or to the paramount, before whom the appeal was brought.
 
@@ -51,12 +50,12 @@ In judicial combats, the person who had appealed one of the judges of false judg
 
 The party who had a judgment in his favour, ought not to have been deprived of it by another man’s act. 
 
-The appellant, therefore, who had gained the battle, was obliged to fight likewise against the adverse party=  not in order to know whether the judgment was good or bad (for this judgment was out of the case, being reversed by the combat) but to determine whether the demand was just or not; and it was on this new point they fought. From thence proceeds our manner of pronouncing decrees= 
+The appellant, therefore, who had gained the battle, was obliged to fight likewise against the adverse party:  not in order to know whether the judgment was good or bad (for this judgment was out of the case, being reversed by the combat) but to determine whether the demand was just or not; and it was on this new point they fought. From thence proceeds our manner of pronouncing decrees: 
 
 {{< quote >}}
 “The court annuls the appeal; the court annuls the appeal, and the judgment against which the appeal was brought.” 
 {{< /quote >}}
 
-In effect, when the person who had made the appeal of false judgment, happened to be overcome, the appeal was reversed; when he proved victorious, both the judgment and the appeal were reversed=  then they were obliged to proceed to a new judgment.
+In effect, when the person who had made the appeal of false judgment, happened to be overcome, the appeal was reversed; when he proved victorious, both the judgment and the appeal were reversed:  then they were obliged to proceed to a new judgment.
 
-This is so far true, that when the cause was tried by inquests, this manner of pronouncing did not take place=  witness what M. de la Roche Flavin says, namely, that the chamber of inquests could not use this form at the beginning of its creation.
+This is so far true, that when the cause was tried by inquests, this manner of pronouncing did not take place:  witness what M. de la Roche Flavin says, namely, that the chamber of inquests could not use this form at the beginning of its creation.

@@ -1,17 +1,15 @@
+---
+title: "The Laws of Barbarians"
+heading: "Chapter 8"
+description: "The laws of Barbarians were all personal"
+image: "/covers/spirit.jpg"
+weight: 4
+author: Montesquieu
+icon: /icons/mont.png
+# date: 2020-03-31
+---
 
 
-+++
-title=  "The laws of Barbarians"
-heading=  "Chapters 2-3"
-description=  "The laws of Barbarians were all personal"
-date=  2020-03-30
-author=  "Montesquieu"
-image= "/covers/spirit.jpg"
-linkb=  "/research/montesquieu/spirit-of-the-laws/book-28/chapter-1"
-linkbtext=  "Chapter 1"
-linkf=  "/research/montesquieu/spirit-of-the-laws/book-28/chapter-4"
-linkftext=  "Chapter 4"
-+++
 
 The laws of these Barbarians were distinguished in the fact that they were not confined to a certain district.
 - The Frank was tried by the law of the Franks
