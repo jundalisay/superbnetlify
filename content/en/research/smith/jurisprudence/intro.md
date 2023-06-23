@@ -1,6 +1,4 @@
-
 ---
-
 title: "Introduction on Jurisprudence"
 description: "The goal of justice is security from injury"
 image: /covers/lectures.jpg

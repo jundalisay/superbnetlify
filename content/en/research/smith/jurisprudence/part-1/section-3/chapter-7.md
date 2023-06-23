@@ -1,11 +1,12 @@
 ---
 heading: Chapter 7
 title: "Pledges and Mortgages"
-date: 2015-09-16
+# date: 2015-09-16
 author: "Adam Smith"
 icon: /avatars/smith.png
 image: "/covers/lectures.jpg"
 description: "Pledges and mortgages are certain securities for the payment of debts"
+weight: 18
 ---
 
 

@@ -6,6 +6,7 @@ author: "Adam Smith"
 icon: /avatars/smith.png
 image: "/covers/lectures.jpg"
 description: "Section 1 of The Simple Lectures on Jurisprudence by Adam Smith"
+weight: 2
 ---
 
 

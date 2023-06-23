@@ -1,4 +1,5 @@
 ---
+heading: Part 2
 title: "Police"
 description: "Adam Smith explains Police in the Simplified Lectures on Jurisprudence"
 author: Adam Smith

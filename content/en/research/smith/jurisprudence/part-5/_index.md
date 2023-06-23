@@ -1,4 +1,5 @@
 ---
+heading: Part 5
 title: "National Laws"
 description: "Adam Smith explains National Laws"
 author: Adam Smith

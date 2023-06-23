@@ -1,4 +1,5 @@
 ---
+heading: Section 2
 title: "Cheapness and Plenty"
 # date: 2015-09-30
 weight: 4

@@ -1,152 +1,161 @@
-+++
-title=  "Robbery and Piracy"
-heading=  "Chapter 11b of the Simplified Lectures of Jurisprudence of Adam Smith Part 1 Section 3"
-description=  ""
-date=  2015-09-09
-image=  "/covers/lectures.jpg"
-linkb=  "/research/smith/jurisprudence/part-1/section-3/chapter-11"
-linkbtext=  "Chapter 11"
-linkf=  "/research/smith/jurisprudence/part-2/section-1"
-linkftext=  "Section 1"
-icon=  "/avatars/smith.png"
-+++
-
-A man may be injured in his moveables three ways, by= 
-- theft
-- robbery
-- piracy
+---
+heading: Chapter 11b
+title: "Justifiable homicide"
+author: "Adam Smith"
+icon: /avatars/smith.png
+image: "/covers/lectures.jpg"
+description: "Delicts are of two kinds ex dolo and ex culpa"
+weight: 28
+---
 
 
-## Theft
 
-Theft is the clandestinely taking away the property of another. It does not naturally invite the resentment that urges capital punishment. For a long time. it was not punished with death.
+Justifiable homicide is of two kinds: 
+1. In defence of one’s person, goods, or house. It differs from homicidese defendendo in this, that there is no quarrel, but an attack on the highway, or in a man’s house.
+2. Homicide is justifiable in support of a constable or officer of justice.
 
-By the old Roman law the thief was obliged to restore what he had taken, and to add to it as much more.
-- If he stole a sheep he restored two.
+These are the different species of murder and homicide, we shall next show what is the nature of each.
+When a person lies in wait for another and kills him, it is plainly murder.
+It is the same when a man kills another without provocation.
 
-There was, however, a peculiar distinction between the *fur manifestus* and *fur nec manifestus*.
-- fur manifestus gives punishment for <!-- being having the goods with him or --> being caught in the act and demanded a quadruple repayment
-  - Barbarous nations punish crimes according to the degree of resentment they excite, and so being caught prompted severe punishment
-- fur nec manifestus demanded only double the value of things stolen
+By the English law there is no provocation without a blow; no words or menaces are sufficient.
 
-They borrowed this from the Spartans who taught their youth to steal and hide well, as it improved them in that cunning which is necessary in war. However, they never encouraged the stealing the property of another.
+However, if a man give you a blow, and you return it and kill him, it is not murder, but manslaughter.
+If a man be shooting at tame fowl, or doing any other criminal action, and without intending it, kill a man, it is murder.
+Whereever there is any appearance of malice or forethought it is murder.
 
-In their feasts, nothing was prepared for their young men. They were expected to steal from the tables of their fathers what was sufficient for themselves, such as a crust of bread, but nothing else.
+If a person kills another in the afternoon for some provocation received in the forenoon, it is murder, but if he has only retired a few steps, and returned to do it immediately, it is not murder, but manslaughter.
 
-<!-- The real reason of their punishing the *fur manifestus* more severely than another was that  -->
-<!-- , and when the thief was catched in the act their resentment was very high, and consequently disposed them to punish him severely. -->
+Homicide se defendendois not punishable if there was no possibility of escape, but if a man had time to retire and draw his sword, it is punishable, because he might have escaped.
 
-Since the 13th century, theft has been punished capitally.
-- The vassals of great lords were continually invading neighbouring territories and carrying off booty.
+The Scotch law makes no distinction between manslaughter and murder.
+In England manslaughter was introduced by what is called benefit of clergy.
 
-When government came to be established, it naturally most severely punished those crimes that excited resentment.
-<!-- to which men had the greatest propensity, and consequently endeavoured to restrain this practice. -->
+When civil government increased in authority, the punishment[s] of crimes were made more severe that the peace might be less disturbed.
 
-The Emperor Barbarossa first made theft a capital offence. 
-- He was followed by all civilized nations
-<!-- , though undoubtedly the punishment is too great, for a thief is but a petty mean creature and does not excite a very high degree of resentment; he seems to be in some degree below this passion. -->
+The clergy pled that this was not agreeable to the word of God, and as they derived their authority from Jesus Christ and the Pope, they would answer before no civil judicatory.
 
-By the old Scotch law, theft by a landed gentleman was considered as treason because the gentry were considered as the abettors and assistants of thieves and vagrants
-<!-- - The made war on one another, which  -->
-- Such a theft looked like an usurpation of sovereignty and so was looked on as treason.
+They pretended that the scripture did not consider any crime where there was no malice or forethought as murder, and this they proved from Deuteronomy xixth.
+When any [clerical] person therefore had committed a crime, the bishop had a power to claim him and take him out of the hands of the secular power.
+If a person could get twelve persons to swear for him, he was acquitted.
+If not, the bishop judged whether he was corrigible or not.
+If he was incorrigible, he was degraded.
 
-By the English law, any theft below a shilling was punished with the pillory, and above that with death.
-- In Scotland it requires a much greater sum.
+The bishop could claim in this manner all clergy and beadles, wardens, or other persons who had [141] any connexion with the Church, but the civil courts afterwards allowed him only to claim those that could read, as this [was] more immediately connected with the office of the clergy.
 
-Nothing is theft with us but what belongs to particular persons.
-The man who stole deer in a forest or pigeons at a distance from a pigeon-house could not be punished till by a late statute.
+Queen Anne afterwards extended the privileges arising from benefit of clergy, with regard to manslaughter, to all equally.
+For chance medley a man forfeits his goods, but he has the power of suing for them again and of obtaining pardon.
+In justifiable homicide a man must plead not guilty of anything the court can meddle [with], and if he can bring in his evidence he is not arraigned
 
-House-breaking was punished capitally even if nothing was stolen. Such punishments were necessary before, but are now too severe.
+Our resentment naturally falls upon inanimate as well as animate objects, and in many places the sword or instrument that had killed any person was considered as execrable, and accordingly was destroyed, particularly among the Athenians.
+By the English law if a man fell from a house and was killed, the house was forfeited by the law of deodand.
+Deodand signifies to be given to the devil, by the same sort of metaphor that the scripture uses where it is said he blessed God in his heart, that is, he cursed him.
 
-Government was then weak and could not punish crimes. It was obliged to interpose in those cases in which the interest of society was concerned. 
+Afterwards, the clergy applied *deodands* to charitable uses.
+- If a man were killed by an object at rest, only the part by which he was killed was forfeited.
+- If he was killed by falling from the wheel of a wagon standing, only that wheel was deodand
+  - But if the wagon were in motion, the whole team was forfeited.
 
-But when it acquired more strength, it made punishments severe to restrict the licentiousness arising from lax discipline. Accordingly, the laws of the twelve tables made almost every crime capital.
+Should a ship be forfeited when a man is killed in it? Seamen are so much exposed to danger that it was hard to think so.
 
-In Europe after the custom of compensation went out, they punished everything as treason= 
-- theft in a landed man
-- a servant killing his master
-- a curate killing his bishop
-- a husband killing his wife
+A person may also be injured in his body by demembration, mutilation, assault and battery, or restraint on his liberty.
 
-These were all petty treason. Afterwards, only crimes respecting the state were considered as treason. Gradually, treason came to its proper extent.
+Maiming and mutilation originally by the Roman law were compensated for in the same way with murder, and if the person was incapable, with the assistance of his friends, to pay the compensation, he was given over to the person maimed, to be maimed in the same manner, as we are acquainted by the Salic law, which gives us the form of their procedure.
 
+In the same way, all hurts among many nations, particularly among the Lombards, were compounded for. 
 
-### Robbery
+They paid so much for a tooth, so much more if it was a foretooth, so much for two teeth, but, what is very remarkable, though 20 were knocked out, the injured person could claim no more than the price of three.
+They had a precise sum for every member of the body.
+Among the Romans, if a man could not pay his composition, he was obliged to make satisfaction by the law of retaliation; he received as many blows as he gave.
 
-Robbery puts a man to the greatest bodily fear and so it is subjected to the greatest punishment.
+An eye went for an eye, and a tooth for a tooth.
+- This custom continued for a long time
+- It is generally reasonable
+- But in some cases, it is not proper
 
-Nothing can save the robber, even though he should cover the injury by pretending to buy a man’s goods after he has forced him to sell them to him.
+If a man got his arm broken in wrestling, it was hard that another’s should be broken for it in cold blood.
+In some cases, it was impracticable, as when a man causes an abortion in a woman, he could not be punished in the same manner.
 
-Piracy is punished still more severely. A man may be injured in his personal estate by fraud or forgery.
-The natural punishment of the *dolus malus* is not death, but some sort of ignominy such as the pillory.
+This custom by degrees went out, and pecuniary fines, according to the circumstances of him who was to pay them, were introduced, and the praetor at Rome caused them to be received, but in some countries it continued longer, and there are remains of it in Holland to this day.
+When a person was maimed in any member that rendered him incapable of military service1, the punishment was more severe.
 
-Some frauds, however, on account of the facility and security with which they may be committed, and the loss which they occasion, are justly subjected to capital punishment.
+By the Coventry Act, maiming in the face from malice or forethought was punished with death.
 
-For example, when an insured ship is cast away, it is difficult to prove that it was done by fraud. But if she were insured to the full value there is a great temptation to cast her away. Therefore the law made death the punishment in order to intimidate the merchant.
+The reason of this was that Sir John Coventry had spoken impertinently against the king in parliament.
+The Prince of Wales, with some others, probably not without the king’s permission, laid wait for him, and cut his ears and his face.
 
-Should a ship be insured for her value at the port where she came from? Or at the port where she is supposed to go? It was determined that it should be at the port where she comes from.
-- If a Glasgow merchant sends out a ship with £3,000 worth of goods for Virginia, they are worth more than £4000 when they arrive in Virginia 
-- If the merchant were allowed to insure it for £4,000, he would have a great temptation to make shipwreck of her.
+The parliament immediately enacted that maiming in the face from forethought should be punishable with death.
+There was never one, however, executed upon this law but one Cook, who lay in wait to murder his brother, but did not get it executed, only he maimed him in the face.
+He was therefore by the Coventry Act found guilty of deliberate malice.
+He pled that his intention was to murder, not to maim, but the court from the instrument he used found that he intended to maim as well as murder.
 
-He can expect no more than £3,000 while he is shipping his goods to Virginia. He may meet with bad debtors, and he can lose nothing by the insurers.
+A man may also be injured by assault and battery. When a person is put to bodily fear it is assault, and when he is actually beat it is battery. Originally no assault by words subjected to punishment, unless there was likewise a shaking of the fist, drawing an instrument or something of this kind. A composition was the first punishment for these crimes, but now it is fine and imprisonment.
 
-In the same way, it was anciently a capital offense to steal anything from the plough, as it was so much exposed.
+A man may further be injured in his body by restraining his liberty, therefore the laws of every country are particularly careful of securing it.
 
-In England, a bankrupt may have a discharge by surrendering himself and all his effects. But he can defraud his creditors if he does not give up all he has. And so this is punishable by death.
+No magistrate in this country has an arbitrary power of imprisonment.
+It is indeed reasonable that he should have it in his power to imprison when there is ground of suspicion, though an innocent man may sometimes suffer a little by it.
 
-### Forgery
+Nothing is more difficult than perfectly to secure liberty.
+If the person can bring some circumstances to alleviate the suspicion, he may be set at liberty upon bail, unless it be a capital crime.
+If the bail be not sufficient, it is unjust in the magistrate to accept of it, but if it be, he is punishable if he do not.
+If a person be wrongously kept in prison beyond the time when he should have been tried, he has so much a day according to his station.
 
-Forgery is also punished capitally. Nobody complains that this punishment is too severe, because when contracts sustain action property can never be secure unless the forging of false ones be restrained.
+In England, if a person be confined the day after the assizes, forty days after he may have the benefit of the Habeas Corpus Act, that is, he may be carried to London at his own expense, but if he cannot afford this, he must wait till the next assizes.
 
-However, the forgery of every deed is not capital, but only the forgery of deeds payable to the bearer on demand, because any forgery of a deed regarding the conveyance of land may easily be discovered before any damage be done.
+In Scotland there is no occasion for the Habeas Corpus Act.
+A person may be tried by the sheriff if he pleases, and at any rate can be carried to Edinburgh to the king’s court.
+All this is for the security of liberty in free governments, but in despotic governments the will of the magistrate is law.
 
-### Perjury
+It is to be observed with respect to what is done through fear, that a bond given from this principle is not binding; no obligation is valid unless the person acted voluntar[il]y.
+However if a person is threatened to be pursued, and gives a bond to avoid it, the bond is valid, and the fear is not considered as a metus iniustus.
 
-Perjury is not punished capitally.
+A rape or forcible marriage is capital, because the woman is so dishonoured that no other punishment can be a sufficient retaliation.
+Though forcible marriage be forbidden by law, yet if the woman afterwards consent, the friends can have no appeal, yet the king may pursue it.
 
-There are several ways of acquiring personal rights, so there are several ways in which they expire.
-1. By payment of what is due by contract or quasi-contract, because the fulfilment of the obligation satisfies the other party.
-2. By discharge or acquittance, even though the debt be not paid. This also takes place with regard to crimes, for when the king or the injured person choose to drop prosecution or to give a pardon, the person is free.
-3. By prescription. If a debt be not claimed within a certain time the debtor is free.
+A man may be injured in his reputation, by affronts, by words, and by writings.
 
-This is very reasonable. If a debt be not claimed for a long time the negligence of the debtor is encouraged.
+An affront in company is a real injury; if the affront be offered in words it is a verbal injury; if in writing it is a written injury. In all these the law gives redress.
+Affronts by the old law were punished in the same manner with assault and battery.
+Affronts in company are most atrocious crimes; the trifling fine of five or ten pounds is by no means an adequate compensation for them.
 
-By the Scotch law, if he call for neither principal nor interest of a bond for forty years, it very justly prescribes.
-Nobody of common prudence would neglect any part of his affairs for forty years, if ever he intended to meddle with them again.
+Where the law denies justice, we are naturally led to take it ourselves.
+This introduced duelling in Europe, which brings along with it an additional injury; I must not only receive a box on the ear, but I am obliged to expose my life, or become altogether odious.
+It is to be observed that in Socrates’ time the affront of giving the lie was little thought of; he does it himself without any ceremony.
 
-According to strict law, if the interest be demanded in the thirty-ninth year the capital does not prescribe.
-Crimes likewise prescribe, and it is reasonable that they should, whether they be punished from a sympathy with the resentment of the sufferer, or from public utility, or to satisfy the public.
-Resentment wears out in a few years, and a person who has behaved well for twenty years, the time fixed on by our law, cannot be very dangerous to the public.
+Verbal injuries are redressed both by ancient and modern laws.
 
-Appeals by the English law prescribe in one year, but an indictment does not prescribe so soon, because the king prosecutes for public security and not to gratify private resentment, and therefore the law favours his claim.
-At any rate it would be unreasonable to prosecute a man for a crime committed forty years ago, because he may now be a quite different man from what he was then.
-Besides, the thing is quite forgotten, and the end of punishing and public example is entirely lost.
-Treason itself prescribes in a few years.
+When a person is accused by words, it sustains a process before a court of justice.
+If he be accused of forgery, theft, or any crime, as he may be subjected to great damages, he is entitled to sufficient redress.
+In the same manner if a person’s right or title be slandered he suffers an injury.
+If I say you have no more right to your own house than I have, it is an injury, as it may excite those who have pretended titles.
+Though it be true, this is only an alleviation, and will not secure me from a prosecution.
+There are some offences that are only prosecuted in spiritual courts, as if a person call a woman a whore.
 
-From a resentment in law, however, if sentence have actually passed upon a person, and he have made his escape, he may be executed on his former sentence=  the escape is considered as a new crime.
+Written injuries are subjected to severer punishments than verbal ones, as they are more deliberate malice.
+Abusive words in a libel give a process, though the same words would not if spoken.
 
-However, this is not very natural, and if a man live quietly after his return he is seldom troubled.
-We had an instance of an earl who had been sentenced in 1715 and had returned to his native country and lived peaceably in it till the year 1745, when he again joined the rebels and was executed on his former sentence.
+Libels and satires are punished according to the nature of the government.
 
-Dr. Cameron suffered in Scotland in the same manner.
-In every country, if a person return after twenty years he is not troubled; it would be thought invidious in the officers of justice to meddle with him.
+In aristocratical governments they are punished severely.
+Little petty princes may be quite destroyed by abusive libels, whereas kings and ministers of state in a free country, being far out of their reach, cannot be hurt by them.
 
-Some general observations on the criminal law is all that remains on this subject.
+In governments, and in Rome for a long time, they were not punished.
+Augustus at last revived the law subjecting the authors to a capital punishment2.
+In general people of circumstances take no notice of such libels unless it be absolutely necessary to clear themselves of some crime.
 
-Resentment seems best to account for the punishment of crimes. If a person fires a pistol down a street, though he do no harm, public utility requires that he should be punished;
+A person may be injured in his estate, real or personal.
+With regard to his real estate he may be injured either in his moveables or immoveables.
 
-but such crimes are by the laws of every country more slightly punished than if some mischief had ensued.
-The reason is plain.
-Resentment never rises to any great pitch unless some injury be actually done; some things that are in themselves criminal are not punished unless some bad consequence follow.
-A man meets with little resentment for riding an unruly horse in the market-place, but if he kill anybody, resentment is very high.
-For the same reason, deodands, though inanimate objects, are accounted execrable.
-In many cases the resentment falls upon the very member of the body which perpetrated the action.
-Resentment is on the whole a very indiscriminating principle, and pays little attention to the disposition of the mind.
+In his immoveables he may be injured by arson or forcible entry.
+Arson is wilful fire-raising3 either in the house of another, or in our own, so as to affect that of another. By the Roman, English and Scotch law this is punished capitally.
 
-Certain persons are not to be considered as subjects of punishment, such as idiots, madmen, and children.
-We are not so much shocked by an action done by a madman, as one done by another person.
-We think binding the only punishment adequate to their crimes.
+If the fire be occasioned by negligence no punishment is inflicted.
+Forcible entry is the violently putting a man out of his estate.
 
-These are all the injuries that a man can do to another man. 
+The laws are so strict on this head that the person ousted may retake his own by violence4.
+This was occasioned by the feudal customs, by which it was very common for barons and their vassals to deprive one another of their possessions, and this was the only way [that] then could be fallen on to get it restored.
 
-Having now considered man as a member of a state, as a member of a family, and as a man, we proceed to police, [the] second division of jurisprudence.
+Afterwards it was enacted that if any person could prove that he was violent[ly] dispossessed, his estate should be restored1.
+But if the violent possessor had kept it three years, the old possessor must prove not only that he was dispossessed by violence, but that he has a real right to it, before it be restored2
+

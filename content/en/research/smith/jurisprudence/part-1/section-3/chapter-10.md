@@ -1,15 +1,13 @@
-+++
-title=  "What is a Quasi-Contract?"
-heading=  "Chapter 10 of the Simplified Lectures of Jurisprudence of Adam Smith Part 1 Section 3"
-date=  2020-01-01
-description=  "A quasi-contract is founded on the duty of restitution"
-image=  "/covers/lectures.jpg"
-linkb=  "/research/smith/jurisprudence/part-1/section-3/chapter-9"
-linkbtext=  "Chapter 9"
-linkf=  "/research/smith/jurisprudence/part-1/section-3/chapter-11"
-linkftext=  "Chapter 11"
-icon=  "/avatars/smith.png"
-+++
+---
+heading: Chapter 10
+title: "What is a Quasi-Contract?"
+author: "Adam Smith"
+icon: /avatars/smith.png
+image: "/covers/lectures.jpg"
+description: "A quasi-contract is founded on the duty of restitution"
+weight: 24
+---
+
 
 
 A quasi-contract is founded on the duty of restitution.
