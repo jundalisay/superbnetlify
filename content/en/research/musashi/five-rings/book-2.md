@@ -1,12 +1,12 @@
-+++
-title= "The Water Book"
-image= "/covers/musashi.jpg"
-description= "The Water Book"
-linkb=  "/research/musashi/five-rings/book-1"
-linkbtext=  "Book 1"
-linkf=  "/research/musashi/five-rings/book-3"
-linkftext=  "Book 3"
-+++
+---
+heading: Book 2
+title: "The Water Book"
+description: "Five Rings by Musashi"
+image: "/covers/musashi.jpg"
+icon: "/icons/musashi.jpg"
+weight: 6
+---
+
 
 The spirit of the *Ni Ten Ichi* school of strategy is based on water. 
 

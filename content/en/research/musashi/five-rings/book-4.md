@@ -1,12 +1,13 @@
-+++
-title=  "Tke Wind Book"
-image=  "/covers/musashi.jpg"
-description=  "The Wind Book"
-linkb=  "/research/musashi/five-rings/book-3"
-linkbtext=  "book-3"
-linkf=  "/research/musashi/five-rings/book-5"
-linkftext=  "book-5"
-+++
+---
+heading: Book 4
+title: "The Wind Book"
+description: "Five Rings by Musashi"
+image: "/covers/musashi.jpg"
+icon: "/icons/musashi.jpg"
+weight: 10
+---
+
+
 
 In strategy you must know the Ways of other schools, so I have written about various other traditions of strategys in this the Wind Book. 
 

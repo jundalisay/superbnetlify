@@ -1,12 +1,13 @@
-+++
-title=  "Tke Fire Book"
-image=  "/covers/musashi.jpg"
-description=  "The Fire Book"
-linkb=  "/research/musashi/five-rings/book-2"
-linkbtext=  "Book 2"
-linkf=  "/research/musashi/five-rings/book-4"
-linkftext=  "Book 4"
-+++
+---
+heading: Book 3
+title: "The Fire Book"
+description: "Five Rings by Musashi"
+image: "/covers/musashi.jpg"
+icon: "/icons/musashi.jpg"
+weight: 8
+---
+
+
 
 In this the Fire Book of the Ni To Ichi school of strategy I describe fighting as fire.
 
