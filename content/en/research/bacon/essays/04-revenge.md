@@ -2,7 +2,7 @@
 heading: "Essay 4"
 title: "Revenge"
 weight: 10
-description: "Learning should be delivered from the discredits and disgraces which it has received from disguised ignorance"
+description: "REVENGE is a kind of wild justice -- the more man's nature runs to, the more the law should weed it out"
 image: "/covers/essaysbacon.png"
 icon: /icons/bacon.png
 author: Francis Bacon

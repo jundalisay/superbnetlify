@@ -2,7 +2,7 @@
 heading: "Essay 52"
 title: "Ceremonies and Respects"
 weight: 64
-description: "I would rather believe in all the fables than to think tthat this universal frame is without a mind"
+description: "HE THAT is only real, had need have exceeding great parts of virtue; as the stone had need to be rich, that is set without foil."
 image: "/covers/essaysbacon.png"
 icon: /icons/bacon.png
 author: Francis Bacon

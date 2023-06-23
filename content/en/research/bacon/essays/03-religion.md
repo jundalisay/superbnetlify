@@ -2,7 +2,7 @@
 heading: "Essay 3"
 title: "Unity In Religion"
 weight: 8
-description: "I would rather believe in all the fables than to think tthat this universal frame is without a mind"
+description: "RELIGION is the chief band of human society."
 image: "/covers/essaysbacon.png"
 icon: /icons/bacon.png
 author: Francis Bacon
@@ -10,7 +10,7 @@ author: Francis Bacon
 
 
 
-RELIGION is the chief band of human society. 
+RELIGION is the chief band of human society.
 
 It is a happy thing, when itself is well contained within the true band of unity. 
 

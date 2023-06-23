@@ -2,7 +2,7 @@
 heading: "Essay 55"
 title: "Anger"
 weight: 72
-description: "I would rather believe in all the fables than to think tthat this universal frame is without a mind"
+description: "The Stoics were brave to seek to extinguish anger utterly."
 image: "/covers/essaysbacon.png"
 icon: /icons/bacon.png
 author: Francis Bacon
@@ -10,7 +10,7 @@ author: Francis Bacon
 
 
 
-The Stoics were brave to seek to extinguish anger utterly. 
+The Stoics were brave to seek to extinguish anger utterly.
 
 We have better oracles: 
 

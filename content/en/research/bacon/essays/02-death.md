@@ -2,7 +2,7 @@
 heading: "Essay 2"
 title: "Death"
 weight: 6
-description: "I would rather believe in all the fables than to think tthat this universal frame is without a mind"
+description: "MEN fear death just as children fear to go in the dark."
 image: "/covers/essaysbacon.png"
 icon: /icons/bacon.png
 author: Francis Bacon
@@ -10,7 +10,7 @@ author: Francis Bacon
 
 
 
-MEN fear death just as children fear to go in the dark. 
+MEN fear death just as children fear to go in the dark.
 
 <!-- ; and as that natural fear in children, is increased with tales, so is the other.  -->
 

@@ -46,42 +46,24 @@ Merit and good works, is the end of man's motion; and conscience of the same is 
 
 In the discharge of thy place, set before thee the best examples; for imitation is a globe of precepts. And after a time, set before thee thine own example; and examine thyself strictly, whether thou didst not best at first. Neglect not also the examples, of those that have carried themselves ill, in the same place; not to set off thyself, by taxing their memory, but to direct thyself, what to avoid.
 
-Reform therefore, without bravery, or scandal of former times and persons; but yet set it down to thyself, as well to create good precedents, as to follow them. Reduce things to the first institution, and observe wherein, and how, they have degenerate; but yet ask counsel of both times; of the ancient time, what is best; and of the latter time, what is fittest. Seek to make thy course regular, that men may know beforehand, what they may expect; but be not too positive and peremptory; and express thyself well, when thou digressest from thy rule. Preserve the right of thy place; but stir not questions of jurisdiction; and rather assume thy right, in silence and de facto, than voice it with claims, and challenges. Preserve likewise the rights of inferior places; and think it more honor, to direct in chief, than to be busy in all. Embrace and invite helps, and advices, touching the execution of thy place; and do not drive away such, as bring thee information, as meddlers; but accept of them in good part. The vices of authority are chiefly four: delays, corruption, roughness, and facility. For delays: give easy access; keep times appointed; go through with that which is in hand, and interlace not business, but of necessity. For corruption: do not only bind thine own hands, or thy servants' hands, from taking, but bind the hands of suitors also, from offering. For integrity used doth the one; but integrity professed, and with a manifest detestation of bribery, doth the other. And avoid not only the fault, but the suspicion. Whosoever is found variable, and changeth manifestly without manifest cause, giveth suspicion of corruption. Therefore always, when thou changest thine opinion or course, profess it plainly, and declare it, together with the reasons that move thee to change; and do not think to steal it. A servant or a favorite, if he be inward, and no other apparent cause of esteem, is commonly thought, but a by-way to close corruption. For roughness: it is a needless cause of discontent: severity breedeth fear, but roughness breedeth hate. Even reproofs from authority, ought to be grave, and not taunting. As for facility: it is worse than bribery. For bribes come but now and then; but if importunity, or idle respects, lead a man, he shall never be without. As Solomon saith, To respect persons is not good; for such a man will transgress for a piece of bread. It is most true, that was anciently spoken, A place showeth the man. And it showeth some to the better, and some to the worse. Omnium consensu capax imperii, nisi imperasset, saith Tacitus of Galba; but of Vespasian he saith, Solus imperantium, Vespasianus mutatus in melius; though the one was meant of sufficiency, the other of manners, and affection. It is an assured sign of a worthy and generous spirit, whom honor amends. For honor is, or should be, the place of virtue; and as in nature, things move violently to their place, and calmly in their place, so virtue in ambition is violent, in authority settled and calm. All rising to great place is by a winding star; and if there be factions, it is good to side a man's self, whilst he is in the rising, and to balance himself when he is placed. Use the memory of thy predecessor, fairly and tenderly; for if thou dost not, it is a debt will sure be paid when thou art gone. If thou have colleagues, respect them, and rather call them, when they look not for it, than exclude them, when they have reason to look to be called. Be not too sensible, or too remembering, of thy place in conversation, and private answers to suitors; but let it rather be said, When he sits in place, he is another man.
+Reform therefore, without bravery, or scandal of former times and persons; but yet set it down to thyself, as well to create good precedents, as to follow them. Reduce things to the first institution, and observe wherein, and how, they have degenerate; but yet ask counsel of both times; of the ancient time, what is best; and of the latter time, what is fittest. Seek to make thy course regular, that men may know beforehand, what they may expect; but be not too positive and peremptory; and express thyself well, when thou digressest from thy rule.
+
+Preserve the right of thy place; but stir not questions of jurisdiction; and rather assume thy right, in silence and de facto, than voice it with claims, and challenges. Preserve likewise the rights of inferior places; and think it more honor, to direct in chief, than to be busy in all. 
+
+Embrace and invite helps, and advices, touching the execution of thy place; and do not drive away such, as bring thee information, as meddlers; but accept of them in good part. The vices of authority are chiefly four: delays, corruption, roughness, and facility. For delays: give easy access; keep times appointed; go through with that which is in hand, and interlace not business, but of necessity. 
+
+For corruption: do not only bind thine own hands, or thy servants' hands, from taking, but bind the hands of suitors also, from offering. For integrity used doth the one; but integrity professed, and with a manifest detestation of bribery, doth the other. And avoid not only the fault, but the suspicion. Whosoever is found variable, and changeth manifestly without manifest cause, giveth suspicion of corruption. 
+
+Therefore always, when thou changest thine opinion or course, profess it plainly, and declare it, together with the reasons that move thee to change; and do not think to steal it. 
+
+A servant or a favorite, if he be inward, and no other apparent cause of esteem, is commonly thought, but a by-way to close corruption. For roughness: it is a needless cause of discontent: severity breedeth fear, but roughness breedeth hate. Even reproofs from authority, ought to be grave, and not taunting. As for facility: it is worse than bribery. For bribes come but now and then; but if importunity, or idle respects, lead a man, he shall never be without. 
+
+As Solomon saith, To respect persons is not good; for such a man will transgress for a piece of bread. It is most true, that was anciently spoken, A place showeth the man. And it showeth some to the better, and some to the worse. 
+
+Omnium consensu capax imperii, nisi imperasset, saith Tacitus of Galba; but of Vespasian he saith, Solus imperantium, Vespasianus mutatus in melius; though the one was meant of sufficiency, the other of manners, and affection. It is an assured sign of a worthy and generous spirit, whom honor amends. For honor is, or should be, the place of virtue; and as in nature, things move violently to their place, and calmly in their place, so virtue in ambition is violent, in authority settled and calm. 
+
+All rising to great place is by a winding star; and if there be factions, it is good to side a man's self, whilst he is in the rising, and to balance himself when he is placed. Use the memory of thy predecessor, fairly and tenderly; for if thou dost not, it is a debt will sure be paid when thou art gone. 
+
+If thou have colleagues, respect them, and rather call them, when they look not for it, than exclude them, when they have reason to look to be called. Be not too sensible, or too remembering, of thy place in conversation, and private answers to suitors; but let it rather be said, When he sits in place, he is another man.
 
 
-
-## Boldness
-
-IT IS a trivial grammar-school text, but yet worthy a wise man's consideration. 
-
-Demosthenes was asked: What was the chief part of an orator? 
-
-He answered, action
-
-What next? 
-
-action; 
-
-What next again? 
-
-action. 
-
-He said it, that knew it best, and had, by nature, himself no advantage in that he commended. 
-
-A strange thing, that that part of an orator, which is but superficial, and rather the virtue of a player, should be placed so high, above those other noble parts, of invention, elocution, and the rest; nay, almost alone, as if it were all in all. 
-
-But the reason is plain. There is in human nature generally, more of the fool than of the wise; and therefore those faculties, by which the foolish part of men's minds is taken, are most potent. Wonderful like is the case of boldness in civil business: what first? boldness; what second and third? boldness. And yet boldness is a child of ignorance and baseness, far inferior to other parts. But nevertheless it doth fascinate, and bind hand and foot, those that are either shallow in judgment, or weak in courage, which are the greatest part; yea and prevaileth with wise men at weak times. 
-
-Therefore we see it hath done wonders, in popular states; but with senates, and princes less; and more ever upon the first entrance of bold persons into action, than soon after; for boldness is an ill keeper of promise. 
-
-Surely, as there are mountebanks for the natural body, so are there mountebanks for the politic body; men that undertake great cures, and perhaps have been lucky, in two or three experiments, but want the grounds of science, and therefore cannot hold out. Nay, you shall see a bold fellow many times do Mahomet's miracle. Mahomet made the people believe that he would call an hill to him, and from the top of it offer up his prayers, for the observers of his law. 
-
-The people assembled; Mahomet called the hill to come to him, again and again; and when the hill stood still, he was never a whit abashed, but said, If the hill will not come to Mahomet, Mahomet will go to the hill. So these men, when they have promised great matters, and failed most shamefully, yet (if they have the perfection of boldness) they will but slight it over, and make a turn, and no more ado.
-
-To men of great judgment, bold persons are a sport to behold; nay, and to the vulgar also, boldness has somewhat of the ridiculous.
-
-For if absurdity be the subject of laughter, doubt you not but great boldness is seldom without some absurdity. Especially it is a sport to see, when a bold fellow is out of countenance; for that puts his face into a most shrunken, and wooden posture; as needs it must; for in bashfulness, the spirits do a little go and come; but with bold men, upon like occasion, they stand at a stay; like a stale at chess, where it is no mate, but yet the game cannot stir. But this last were fitter for a satire than for a serious observation. 
-
-This is well to be weighed; that boldness is ever blind; for it seeth not danger, and inconveniences. 
-
-Therefore it is ill in counsel, good in execution; so that the right use of bold persons is, that they never command in chief, but be seconds, and under the direction of others. For in counsel, it is good to see dangers; and in execution, not to see them, except they be very great.

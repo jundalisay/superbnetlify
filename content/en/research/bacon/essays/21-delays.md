@@ -9,13 +9,29 @@ author: Francis Bacon
 ---
 
 
-FORTUNE is like the market; where many times if you can stay a little, the price will fall. Again, it is sometimes like Sibylla's offer; which at first, offereth the commodity at full, then consumeth part and part, and still holdeth up the price. For occasion (as it is in the common verse) turneth a bald noddle, after she hath presented her locks in front, and no hold taken; or at least turneth the handle of the bottle, first to be received, and after the belly, which is hard to clasp. There is surely no greater wisdom, than well to time the beginnings, and onsets, of things. Dangers are no more light, if they once seem light; and more dangers have deceived men, than forced them. Nay, it were better, to meet some dangers half way, though they come nothing near, than to keep too long a watch upon their approaches; for if a man watch too long, it is odds he will fall asleep. On the other side, to be deceived with too long shadows (as some have been, when the moon was low, and shone on their enemies' back), and so to shoot off before the time; or to teach dangers to come on, by over early buckling towards them; is another extreme. The ripeness, or unripeness, of the occasion (as we said) must ever be well weighed; and generally it is good, to commit the beginnings of all great actions to Argus, with his hundred eyes, and the ends to Briareus, with his hundred hands; first to watch, and then to speed. For the helmet of Pluto, which maketh the politic man go invisible, is secrecy in the counsel, and celerity in the execution. For when things are once come to the execution, there is no secrecy, comparable to celerity; like the motion of a bullet in the air, which flieth so swift, as it outruns the eye.
+FORTUNE is like the market; where many times if you can stay a little, the price will fall. 
+
+Again, it is sometimes like Sibylla's offer; which at first, offereth the commodity at full, then consumeth part and part, and still holdeth up the price. For occasion (as it is in the common verse) turneth a bald noddle, after she hath presented her locks in front, and no hold taken; or at least turneth the handle of the bottle, first to be received, and after the belly, which is hard to clasp. 
+
+There is surely no greater wisdom, than well to time the beginnings, and onsets, of things. Dangers are no more light, if they once seem light; and more dangers have deceived men, than forced them. 
+
+It were better to meet some dangers half way, though they come nothing near, than to keep too long a watch upon their approaches; for if a man watch too long, it is odds he will fall asleep. 
+
+On the other side, to be deceived with too long shadows (as some have been, when the moon was low, and shone on their enemies' back), and so to shoot off before the time; or to teach dangers to come on, by over early buckling towards them; is another extreme. 
+
+The ripeness, or unripeness, of the occasion (as we said) must ever be well weighed; and generally it is good, to commit the beginnings of all great actions to Argus, with his hundred eyes, and the ends to Briareus, with his hundred hands; first to watch, and then to speed. For the helmet of Pluto, which maketh the politic man go invisible, is secrecy in the counsel, and celerity in the execution. For when things are once come to the execution, there is no secrecy, comparable to celerity; like the motion of a bullet in the air, which flieth so swift, as it outruns the eye.
 
 
 
 ## Cunning
 
-WE TAKE cunning for a sinister or crooked wisdom. And certainly there is a great difference, between a cunning man, and a wise man; not only in point of honesty, but in point of ability. There be, that can pack the cards, and yet cannot play well; so there are some that are good in canvasses and factions, that are otherwise weak men. Again, it is one thing to understand persons, and another thing to understand matters; for many are perfect in men's humors, that are not greatly capable of the real part of business; which is the constitution of one that hath studied men, more than books. Such men are fitter for practice, than for counsel; and they are good, but in their own alley: turn them to new men, and they have lost their aim; so as the old rule, to know a fool from a wise man, Mitte ambos nudos ad ignotos, et videbis, doth scarce hold for them. And because these cunning men, are like haberdashers of small wares, it is not amiss to set forth their shop.
+WE TAKE cunning for a sinister or crooked wisdom. 
+
+Certainly there is a great difference, between a cunning man, and a wise man; not only in point of honesty, but in point of ability. There be, that can pack the cards, and yet cannot play well; so there are some that are good in canvasses and factions, that are otherwise weak men. 
+
+Again, it is one thing to understand persons, and another thing to understand matters; for many are perfect in men's humors, that are not greatly capable of the real part of business; which is the constitution of one that hath studied men, more than books. 
+
+Such men are fitter for practice, than for counsel; and they are good, but in their own alley: turn them to new men, and they have lost their aim; so as the old rule, to know a fool from a wise man, Mitte ambos nudos ad ignotos, et videbis, doth scarce hold for them. And because these cunning men, are like haberdashers of small wares, it is not amiss to set forth their shop.
 
 It is a point of cunning, to wait upon him with whom you speak, with your eye; as the Jesuits give it in precept: for there be many wise men, that have secret hearts, and transparent countenances. Yet this would be done with a demure abasing of your eye, sometimes, as the Jesuits also do use.
 
