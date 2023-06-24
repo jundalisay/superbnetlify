@@ -13,7 +13,9 @@ Our people must constantly remember that China is a big socialist country but an
 
 This is a very great contradiction. Making China rich and strong needs several decades of intense effort in  practicing strict economy and combating waste, i.e., the policy of building up our country through diligence and frugality.
 
+{{< cite >}}
 On the Correct Handling of Contradictions Among the People (February 27, 1957), 1st pocket ed., p. 71.
+{{< /cite >}}
 
 The principle of diligence and frugality should be observed in everything, especially in running factories and shops and all state-owned, co-operative and other enterprises.  
 
