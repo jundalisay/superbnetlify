@@ -53,10 +53,9 @@ One way of overcoming it is to simplify our organizations in the course of our c
 
 On the Correct Handling of Contradictions Among the People (February 27, 1957), 1st pocket ed., p 71.
 
-Production by the army for its own support has not only improved the army's
-living conditions and lightened the burden on the people, thereby making it
-possible further to expand the army. In addition, it has had many immediate
-side-effects. They are as follows:
+Production by the army for its own support has not only improved the army's living conditions and lightened the burden on the people, thereby making it
+possible further to expand the army. In addition, it has had many immediate side-effects. They are as follows:
+
 1. Improved relations between officers and men. Officers and men work
 together in production and become like brothers.
 2. Better attitude to labour… since the army began to produce for its own
@@ -70,30 +69,25 @@ exchange labour and help each other in production, the friendship
 between them is strengthened.
 5. Less grumbling in the army about the government and improved
 relations between the two.
-6. An impetus to the great production campaign of the people. Once the
-army engages in production, the need for government and other
-organizations to do likewise becomes more obvious, and they do so
-more energetically; also, the need for a universal campaign of the whole
-people to increase production naturally becomes more obvious, and this
+6. An impetus to the great production campaign of the people. 
+
+Once the army engages in production, the need for government and other organizations to do likewise becomes more obvious, and they do so
+more energetically; also, the need for a universal campaign of the whole people to increase production naturally becomes more obvious, and this
 too is carried on more energetically.
-"On Production by the Army for Its Own Support and on the Importance of the Great
-Movements for Rectification and for Production" (April 27, 1945), Selected Works,
+
+"On Production by the Army for Its Own Support and on the Importance of the Great Movements for Rectification and for Production" (April 27, 1945), Selected Works,
 Vol. III, pp. 327-28.*
 
-Some people say that if the army units go in for production, they will be
-unable to train or fight and that if the government and other organizations do
-so, they will be unable to do their own work. This is a false argument. In
-recent years our army units in the Border Region have undertaken production
-on a big scale to provide themselves with ample food and clothing and have
-simultaneously done their training and conducted their political studies and
-literacy and other courses much more successfully than before, and there is
-greater unity than ever within the army and between the army and the people.
-While there was a large-scale production campaign at the front last year,
-great successes were gained in the fighting and in addition an extensive
-training campaign was started. And thanks to production, the personnel of the
-government and other organizations live a better life and work with greater
-devotion and efficiency; this is the case both in the Border Region and at the
-front.
+Some people say that if the army units go in for production, they will be unable to train or fight and that if the government and other organizations do
+so, they will be unable to do their own work. This is a false argument. 
+
+In recent years our army units in the Border Region have undertaken production on a big scale to provide themselves with ample food and clothing and have
+simultaneously done their training and conducted their political studies and literacy and other courses much more successfully than before, and there is
+greater unity than ever within the army and between the army and the people. 
+
+While there was a large-scale production campaign at the front last year, great successes were gained in the fighting and in addition an extensive
+training campaign was started. And thanks to production, the personnel of the government and other organizations live a better life and work with greater
+devotion and efficiency; this is the case both in the Border Region and at the front.
 
 "We Must Learn to Do Economic Work" (January 10, 1945), Selected Works, Vol. III,
 pp. 243-44.
