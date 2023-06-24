@@ -1,6 +1,6 @@
 ---
 title: "Dammar"
-heading: "Part 1"
+heading: "Part 6"
 weight: 64
 description: "When the Emperor Wu-ti (BC 140-86) 86) had made the conquest of Southern Yue, he sent a mission from Suwon across the sea to reconnoitre Hainan"
 image: "/covers/chun.jpg"

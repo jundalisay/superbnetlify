@@ -10,32 +10,18 @@ description: "The ki-pei tree resembles a small  mulberry-tree, with a hibiscus-
 
 ## 23. COTTON
 
-The ki-pei tree resembles a small  mulberry-tree, with a hibiscus-like  furnishing a floss half an inch and more in length, very much like goose-down, and containing some dozens of seeds. 
+The ki-pei tree resembles a small mulberry-tree, with a hibiscus-like flower furnishing a floss over 1/2 inch long. It is very much like goose-down, and containing some dozens of seeds. 
 
-In the south the means of iron chopsticks, upon
-people remove the seed from the floss by
-troubling about which the floss is taken in the hand and spun without
-woven therefrom there are
-85 twisting together the thread. Of the cloth (^)
-strongest is called tou-lo-mien
-several qualities)), the most durable and the
-second quality
-is called
-mu-mien (:^
+In the south, the people remove the seed from the floss by means of iron chopsticks, upon which the floss is taken in the hand and spun without troubling about twisting together the thread. Of the cloth woven therefrom, there are several qualities. 
 
-the third «tree-cotton» or
-fan-pu or aforeign cloths
+1. The most durable and the strongest is called tou-lo-mien.
+2. The second quality is called fan-pu or foreign cloth.
+3. The next is called tree-cotton or mu-mien
+4. Ki-pu
 
-the fourth
+These are sometimes dyed in various colours and brightened with strange patterns. The resulting pieces measure 5-6 feet in width.
 
-These textures are sometimes dyed in various colours and brightened with strange patterns.
-
-The 
-up
-pieces measure
-to five or six feet in breadth.
-
-All the
+<!-- All the
 part of this article
 first
 substantially a quotation from Ling-wai-tai-ta, 6,12-is,
@@ -432,7 +418,7 @@ Onthesubjectof cotton in the Middle Ages, see Heyd, Histoire du Commerce,
 693—710, and Hirth, J. C. B. K. A. S., XXI, 230 et seqq.
 to China,
 II,
-611— 614,
+611— 614, -->
 
 
 ## 24. MATS

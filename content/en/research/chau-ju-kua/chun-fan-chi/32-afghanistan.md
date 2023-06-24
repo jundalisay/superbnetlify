@@ -270,16 +270,13 @@ and
  -->
 
 
-## 33. Herat (Wussili)
+## 33. Mosul (Wussili)
 
-Herat has many rocky mountains. In autumn, there falls a heavy dew, which, under the action of the sun's rays, hardens into a substance like powdered sugar. 
+Mosul has many rocky mountains. In autumn, there falls a heavy dew, which, under the action of the sun's rays, hardens into a substance like powdered sugar. 
 
 This is gathered and is a a sweet, pleasant tasting food with purifying and cooling properties. It is real kanlu. 
 
-found in the mountains of this country a tree which grows 20
-wild, and which the first year hears chestnuts
-The next year grow on it.
-called pulu
+The mountains of Mosul has a tree which bears chestnuts in the first year called pulu. The next year, moshi grow on it.
 
 Asbestos cloth and coral are native products.
 
