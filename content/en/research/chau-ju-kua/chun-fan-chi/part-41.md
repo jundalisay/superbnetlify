@@ -10,48 +10,21 @@ description: "Fresh ambergris is white. It turns red when slightly stale, and bl
 
 ## 41: Ambergris
 
-In the Arabian Sea, there are many dragons. When a dragon sleeps, his spittle floats on the water, collects and hardens. 
+In the Western Arabian Sea, there are many whales [dragons]. When a whale sleeps, his spittle floats on the water, collects and hardens. 
 
 The fishermen gather it as a most valuable substance. Fresh ambergris is white. It turns red when slightly stale, and black when it is old. 
 
 It is not fragrant nor bad-smelling. It is like pumice-stone but lighter. 
 
-The statement that a special
-derived from ambergris, and the other statement to the
-is
-as a most
-odour of ambergris can bring out
-eflFect
-that
-other scents, are both erroneous.
-all
+It is wrong to say:
+- that a special perfume is derived from ambergris, and
+- that the odor of ambergris can bring out other scents
 
-Ambergris does not affect the properties of perfumes in any way, either
-by improving or by spoiling them;
-When
-fumes together.
-and
-15 the
-is
-merely has the power of keeping the
-a quantity of genuine ambergris
-is mixed with incense,
-being burned, a straight column of clear blue smoke rises high up into
-air,
-and the smoke will not
-cut the column of smoke
+Ambergris does not affect the properties of perfumes in any way, either by improving or by spoiling them.
 
-and those present is
-could
-occasioned by the
-by which the dragon exhales cloud-borne build-
-^ # ft ;^ ^
-(#
-dissipate,
-with a pair of scissors. This
-virtue left in the ambergris
-ings))
-it
+It merely has the power to keep fumes together.
+
+When a quantity of genuine ambergris is mixed and burned with incense, a straight column of clear blue smoke rises high up into the air. The smoke will not dissipate. Those present could cut the column of smoke with a pair of scissors. This is occasioned by the virtue left in the ambergris by which the wale exhales cloud-borne buildings.
 
 <!-- Note.
 

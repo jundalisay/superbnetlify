@@ -16,33 +16,13 @@ It comes from a tree which resembles the pine and juniper in shape. But its gum 
 
 When the tree is old, it runs out spontaneously as a white and vitreous resin called tu-nau which does not melt even in the hot summer.
 
-If the trunk is scorched in the summer, 
-kept burning around
+If the trunk is scorched in the summer by a fire kept burning around it, the fluid resin will flow out freely again. It may be  gathered during the winter, when it hardens.
 
-it
-may be
-variety of incense
+This variety of incense is liquid in the summer, and hardens during the winter. It is called hei (black) tu-nau.
 
-of the tree
-liquid in the
-(or black) tu-naun.
-does not
-scorched by a fire
-cause the fluid resin to flow out freely
-this will gathered during the winter, when
+The natives fill gourds with it. The shippers afterwards transfer it into porcelain vessels.
 
-hardens; for this
-summer, and hardens during the winter;
-
-The natives fill gourds
-
-and the shippers afterwards
-The
-transfer it into porcelain vessels.
-ilavour of
-and lasting; 
-
-The black variety easily melts and leaks through the gourd. 
+Its flavour is pure and lasting. The black variety easily melts and leaks through the gourd. 
 
 But by breaking the gourd and exposing it to fire, one may obtain something similar to the original substance.
 
@@ -425,13 +405,11 @@ The chi-tzi-hua comes from the 2 countries of Ya-pa-hien and Lo-shi-mei of the A
 
 It resembles the safflower, but is light brown. 
 
-Its scent is pene-
+<!-- Its scent is pene- -->
 
-The natives gather the flowers, dry them in the sun, and
-them in bottles of opaque glass. Flowers of carnation colour are rare.
-What in Buddhist books is called tan-ipo
+The natives gather the flowers, dry them in the sun, and put them in bottles of opaque glass. Flowers of carnation colour are rare.
 
-the same as this.
+What in Buddhist books is called tan-ipo is the same as this.
 
 <!-- Note.
 On the Gardenia florida or becho-nuts, see Hanbury, Science Papers, 241 et seqq., and
@@ -521,15 +499,9 @@ Tsiang-wei-shui is the dew of flowers in Arabia. In 907-960, the foreign envoy t
 Nowadays, a common substitute is manufactured by gathering the flowers, which are steeped in water and steamed, in order to extract the essence.
 
 Rose-water is much counterfeited and adulterated. To test its genuineness, the substance should be placed in glass bottles and shaken about for a while, then, if full
-of bubbles moving
-The flower (from which
+of bubbles moving up and down, the substance is genuine. 
 
-up and down, the substance
-made)
-
-genuine.
-
-not identical with the Chinese rose
+The flower (from which it is made) is not identical with the Chinese rose.
 
 <!-- Note.
 ts iang-wet-lu or «rose-dew». In a preceding passage

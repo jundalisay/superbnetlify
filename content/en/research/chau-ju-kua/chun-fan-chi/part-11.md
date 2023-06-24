@@ -25,88 +25,28 @@ Its shape varies widely, leading to several varieties.
 
 One looks like a rhinoceros horn (si-kio) and is called si-kio-chon "rhinoceros horn gharu-wood»)
 
-Another which resembles the beak of a swallow (yen-k'ou),
-is
-called
-resembling aconite roots (fu-tsi)
-kind resembles a shuttle
-(so)
-yen-¥6u-c¥6n
-and
-(^ p
-called fu-td-ch'6n
+Another which resembles the beak of a swallow (yen-k'ou), is called yen-kou-chohn. Anothher kind resembling aconite roots (fu-tsi) is called fu-tzi-chon. 
 
-One The hard and black
-considered superior, the yellow (or brown) inferior.
+Anothehr kind resembles a shuttle (so) and is called so-chon. 
 
+If the graining is well-marked and the veins are close togethehr, then it is called hong-ko-chon. 
 
-is
-is
-called so-ch'on
-be well marked and the veins close together,
-m m UY-
-it
-(pjfvj-
-JJg);
-^
-{H^ |^),
-is
-another kind,
-^);
-another
-If the graining
-called
-hong-ko-dfon
-35
-But, on the whole, when judging of the. quality, more importance
-attached to fragrance than to appearance. Furthermore, the
-that
-it is
-a product of P'o-ni
-Some
-(y^
-'^^ Borneo)
-is
-common
-is
-opinion
-a fallacy ^
-authorities assert that sh6ng-kie-c¥on or «fresh»
-(^
-&t) gharu11,11
-is
-GHAKU-WOOD,
-pruned
-off the tree
-205
-with a knife while
-still growing, whereas shou-ch'on,
-or «ripe» (fb) gharu, drops from the tree of itself*. The
-produce of the Lower
-Coast is called fan-cJi'on
-«foreign gharu-wood»).
-(^
-the breath and
-5 it is also called
-yau-c¥on
-(^
-Its smell catches
-JJg
-its taste is bitter
-and pungent. As
-^
-it is
-(^
-^
-chills,
-cmedicinal gharu-wood»). Hai-nan also
-prodnces^gharu-wood of a pure and lasting fragrance;
-Uang
-used for curing
-it is
-called jp'ow^-Zai-
+<!-- One The hard and black
+considered superior, the yellow (or brown) inferior. -->
 
-Notes.
+But, on the whole, when judging of the. quality, more importance is attached to fragrance than to appearance. Most people think it comes from Borneo, which is wrong. 
+
+Some authorities assert that shong-kie-chon or fresh gharu is pruned off the tree with a knife while still growing, whereas shou-chon, or ripe gharu drops from the tree of itself. 
+
+The produce of the Lower Coast is called fan-chhon «foreign gharu-wood». 
+
+Its smell catches the breath. Its taste is bitter and pungent. 
+
+It is used for curing chills. It is also called yau-chon medicinal gharu-wood. 
+
+Hainan also prodnces gharu-wood, called pong-lai-hiang, of a pure and lasting fragrance.
+
+<!-- Notes.
 Ch'on-Mang means literally Ksinking-incensei); it is thus called because it sinks in
 10 water. Its name in Malay and Javanese is Tcalambak or Manibah, but it is also known
 in those
@@ -199,8 +139,9 @@ and Kamarah (the Khmer country, Kamboja). The Arabs knew also the lign-aloes of 
 (their Sanf), which they called Sanfi. See Heyd, Hist, du Commerce, II, 581, 584.
 According to Loureiro, Flor. Cochin., 327, gharu is a product of the Aloexylon agallochum
 (the Aquilaria agalocha, Koxb.), Bretschneider, Bot. Sinic, III, 459. W. W. Skeat, Malay
-lo-an, see supra, p. 69) is far superior to the
+lo-an, see supra, p. 69) is far superior to the -->
 
+<!-- 
 TSIEX-HIAXO GHAKU-WOOD.
 
 Straits Branch, JV» 18, 359—361) says= «The
@@ -221,7 +162,8 @@ even in trees of one foot in diameter, thus showing that the disease attacks the
 stage. The gharu is found in pockets, and may sometimes be discovered by the veins which run
 to these
 pockets
-....
+
+
 The
 about six months
 tree
@@ -318,25 +260,14 @@ weak but agreeable. There is also a 30
 also a good variety ot p'ong-lai-hiang called cho-leu-pan-hiang
 spotted like a partridge's breast. Its perfume
 is
-pong-lai-tsien-hiang which comes from Hainan.
-11 ^
-TSIEN-HIANG GHARU-AVOOD (^
-Tsien-Mang
-is
-liiang) in fragrance
-^).
-an inferior quality of gharu-wood, being similar to (ch'on-
-and
-taste,
-but fibrous and not very
-solid,
-whence
-considered inferior to the ch'dn-Mang, though better than the «ripe
-jg)
-it is 35
-sm (^
-variety.
-Note.
+pong-lai-tsien-hiang which comes from Hainan. -->
+
+
+## 11. TSIEN-HIANG GHARU-AVOOD
+
+Tsien-Mang is an inferior quality of gharu-wood, being similar to (ch'on-hiang) in fragrance and taste. But it is fibrous and not very solid, making it inferior to the chon-hiang, but better than the «ripe su variety.
+
+<!-- Note.
 Nan-fang-ts'au-mu-chuang
 [^ ^)
 says that chan-hiang
@@ -368,112 +299,39 @@ STJ
 AXD CHAN GHAKU-ATOOD,
 207
 GHARTJ-WOOD.
-lib.
-SU AND CHAN GHARU-WOOD
-(jg
-^ ^).
-Shong (or fresli)-SM
-^g) comes from Chon-la and Chan-cli'ong, but
-shou (or ripe)-si« (ft
-jg) has various sources. The Chon-la kind is the best;
-the second class is the one from Chan-ch'ong, and the
-lowest that of Sho-p'o.'
-(^
-5
-We
-shong-su that kind which
-call
-down
-is
-obtained from the
-for the express purpose (of getting
-wood
-of the tree cut
-and
-sJiou-su the incense remain-
-ing in the rotten wood of a tree which has fallen down. The fragrance
-and
-taste of shong-su are lasting, those of shou-su are apt to have
-a singed
-10 smell; for this
-A
-still
-reason the shong kind
-superior to the shou.
-is
-inferior incense is called chan
-same as that of shou-su; but we
-tree from its
-chan;
-it),
-own accord
-(§).
-Its source
-of origin is the
-the incense which has fallen off the
-call
-shou-su, and that which consists partly of
-wood
-partly shong, partly shou. Traders slice the wood with a knife,
-order to obtain the incense, of which the better pieces are selected to be
-15 in
-it
-is
-mixed with shou-su,
-ers distinguish
-in
-which state
-from the genuine
-it
-reaches the market; nor can purchas-
-it
-article
-(i.
-e.,
-shou-su-hiang).
-11'=.
-HUANG-SHOU-HIANG GHARU-W^OOD
-20
-Huang-shdii-hiang comes from several countries, but the Chon-la variety
-is
-the best. It
-is
-so called because it is yellow (huang)
-called hua-ng-shou-Pung
-is
-25
-decayed, and
-and
-is
-if it is
-(^
-^ ^^)
-if its
-surface
-barrel (rtOT^)-shaped.
-black throughout, and
-kia-tsien-huang-shou
-of
-(^
-when
-^^
-its
-^);
-aroma
-is
-is
-When
-and
-ripe (shou). It is
-hard, while the inside
-it
-contains tsien-hiang
-particularly good,
-it is
-called
-this is the best quality of this variety
-gharu^
-Note.
+lib. -->
+
+
+## 11b. SU AND CHAN GHARU-WOOD
+
+Shong (fresh) su comes from Cambodia and South Vietnam. But shou (or ripe)-si has various sources. 
+
+- The Cambodian kind is the best
+- The second class is the one from South Vietnam
+- The lowest is that of Java.
+
+Shong-su is that kind obtained from the wood cut for it. 
+
+Shou-su is the incense remaining in the rotten wood of a tree which has fallen down. 
+
+The fragrance and taste of shong-su are lasting. Those of shou-su are apt to have a singed smell. This is why shong is superior to shou.
+
+Chan is a more inferior kind. It has the samme origin as the shou-su, but it consists partly of wood. It is partly shong, partly shou. 
+
+Traders slice the wood with a knife, in order to obtain the incense, of which the better pieces are selected to be mixed with shou-su to be sold, so that purchasers cannot distinguish it from the genuine shou-su-hiang. 
+
+
+
+## 11c. HUANG-SHOU-HIANG GHARU-W^OOD
+
+Huang-shdii-hiang comes from several countries, but the Cambodian variety is the best. It is so called because it is yellow (huang) and ripe (shou).
+
+It is called hua-ng-shou-tung if its surface is hard while its inside is decayed, and if it is barrel-shaped.
+
+When it contains tsien-hiang and is black throughout, and when its aroma is particularly good, it is called kia-tsien-huang-shou, the best quality of this kind of gharu. 
+
+
+<!-- Note.
 Hainan liuang-shou-Mang, that
 1) Nan-yiie-pi-ki, 14,3 says, speaking of
 30 Tcio-cKon
@@ -495,22 +353,24 @@ huang-
 literally nyellow-ripe-208
 SHOXG-HIASO GHAKU-WOOD.
 — SANDAL-AVOOD.
-11,11^-12
-11^.
-SHONG-HIANG GHARU-W^OOD (^
-Chan-ch'ong and Chon-la;
-Shong-Jiiang comes from
-throughout Hai-nan.
-The incense
-incense
-procured from the lopped
-(^)
+11,11^-12 -->
+
+
+## 11d. SHONG-HIANG GHARU-WOOD
+
+
+Shong-hiang comes from South Vietnam and Cambodia. It is also found throughout Hai-nan.
+
+It is cheaper than black kio-chon. 
+
+The incense is procured from the lopped-off young branches.
+
 fresh
 is
 in the
 wood,
 off
-young branches.
+
 an inch) thick, it is
 eh'on-Mang (JJg ^)^.
 is
