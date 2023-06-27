@@ -5,7 +5,7 @@ title: "Lecturer at Edinburgh"
 image: /covers/life.jpg
 description: "Smith as Lecturer at Edinburgh"
 author: Rae
-weight: 18
+weight: 8
 ---
 
 

@@ -4,5 +4,5 @@ title: "The Military"
 description: "Adam Smith explains The Military in the Simplified Lectures on Jurisprudence"
 author: Adam Smith
 image: /covers/lectures.jpg
-weight: 6
+weight: 8
 ---

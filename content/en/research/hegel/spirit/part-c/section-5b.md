@@ -59,8 +59,7 @@ We have to consider the operation of this observational phase of reason in all t
 
 It takes up this attitude towards Nature, Mind, and finally towards the relation of both in the form of sense-existence; and in all these it seeks to find itself as a definitely existing concrete actuality.
 
-Observation of Nature
+<!-- Observation of Nature
 
 1. v. p. 154 ff.
-
-Hegel-by-HyperText Home Page @ marxists.org
+ -->

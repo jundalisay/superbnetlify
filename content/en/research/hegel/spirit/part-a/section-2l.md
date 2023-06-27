@@ -10,13 +10,20 @@ weight: 34
 
 
 
-(1) Specific Law and General Law
+## 1. Specific Law and General Law
 
-{{< s v="151" >}} In contrast, then, with determinate laws stands universal attraction, or the bare conception of law. In so far as this pure conception is looked on as the essentially real, or as the true inner being, the determinateness characterizing the specific law itself belongs still to the sphere of appearance, or rather to sensible existence. 
+{{< s v="151" >}} In contrast, with determinate laws stands universal attraction, or the bare conception of law. 
 
-But the pure conception of law transcends not merely the law, which, being itself a determinate law, stands contrasted with other determinate laws, but also transcends law as such. The determinateness, of which we spoke, is itself strictly a mere vanishing moment which can no longer come forward here as an essential entity (Wesenheit), for it is only the law which is the truth here: but the conception of law is turned against the law itself. That is to say, in the law distinction itself is immediately apprehended and taken up into the universal, thereby, however, making the moments, whose relation it expresses, subsist as mutually indifferent and inherently real entities. These parts of the distinction found in the law are, however, at the same time themselves. determinate aspects. The pure concept of law, as universal attraction, must, to get its true significance, be so apprehended that in it, as the absolutely single and simple, the distinctions which are present in law as such, return again themselves into the inner being, qua bare and simple unity. This unity is the inner “necessity” of the law.
+In so far as this pure conception is looked on as the essentially real, or as the true inner being, the determinateness characterizing the specific law itself belongs still to the sphere of appearance, or rather to sensible existence. 
 
-(2) Law and Force
+But the pure conception of law transcends not merely the law, which, being itself a determinate law, stands contrasted with other determinate laws, but also transcends law as such. 
+
+The determinateness, of which we spoke, is itself strictly a mere vanishing moment which can no longer come forward here as an essential entity (Wesenheit), for it is only the law which is the truth here: but the conception of law is turned against the law itself. That is to say, in the law distinction itself is immediately apprehended and taken up into the universal, thereby, however, making the moments, whose relation it expresses, subsist as mutually indifferent and inherently real entities. 
+
+These parts of the distinction found in the law are, however, at the same time themselves. determinate aspects. The pure concept of law, as universal attraction, must, to get its true significance, be so apprehended that in it, as the absolutely single and simple, the distinctions which are present in law as such, return again themselves into the inner being, qua bare and simple unity. This unity is the inner “necessity” of the law.
+
+
+## 2. Law and Force
 
 {{< s v="152" >}}  The law is thereby present in a twofold form. 
 
@@ -55,7 +62,12 @@ But in that the determinateness of being through another is what the necessity c
 
 They are indifferent the one to the other. Space is thought of as able to be without. time, time without space, and distance at least without velocity – just as their magnitudes are indifferent the one to the other, since they are not related like positive and negative, and consequently do not refer to one another by their very nature. The necessity of partition into distinct factors, then, we certainly do have here; but not the necessity of the parts as such for one another.
 
-On that account, however, that first necessity too is itself a merely delusory false necessity. For motion is not itself thought of as something simple or as bare essence, but as, from the first, divided into elements; time and space are in themselves its independent parts or its real elements: in other words, distance and velocity are modes of being, or ways of thinking, each of which can very well be without the other; and motion is consequently no more than their superficial relation, not their true nature. If it is represented as simple essence or as force, motion is no doubt gravity; but this does not contain these distinctions at all.
+On that account, however, that first necessity too is itself a merely delusory false necessity. 
+
+For motion is not itself thought of as something simple or as bare essence, but as, from the first, divided into elements; time and space are in themselves its independent parts or its real elements: in other words, distance and velocity are modes of being, or ways of thinking, each of which can very well be without the other.
+
+Motion is consequently no more than their superficial relation, not their true nature. If it is represented as simple essence or as force, motion is no doubt gravity; but this does not contain these distinctions at all.
+
 
 {{< s v="154" >}} The distinction is, then, in both cases no distinction of an inherent or essential kind. Either the universal, force, is indifferent to the division into parts, which is found in the law, or else the distinctions, the parts of the law, are indifferent to one another.
 

@@ -4,7 +4,7 @@ title: "Student at Glasgow College"
 # date: 2015-09-28
 image: /covers/life.jpg
 description: "Adam Smith was a Student of Francis Hutcheson at Glasgow College"
-weight: 14
+weight: 4
 author: Rae
 ---
 

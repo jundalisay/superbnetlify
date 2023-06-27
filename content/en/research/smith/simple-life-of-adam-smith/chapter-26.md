@@ -1,8 +1,8 @@
 ---
 title: "The American Question"
-linkTitle: "Chapter 26"
+heading: "Chapter 26"
 description: "The American Question"
-date: 2015-08-06
+weight: 64
 author: "Rae"
 image: "/covers/life.jpg"
 ---

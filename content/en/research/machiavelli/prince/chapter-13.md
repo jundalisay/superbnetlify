@@ -31,9 +31,7 @@ The Emperor of Constantinople sent 10,000 Turks into Greece to oppose his neighb
 
 ## Mercenaries Versus Auxiliaries
 
-Therefore, let him who has no desire to conquer make use of auxiliaries, because they are much more
-dangerous than mercenaries. With them the failure is ready made. They are all united, and all yield
-obedience to others. 
+Therefore, let him who has no desire to conquer make use of auxiliaries, because they are much more dangerous than mercenaries. With them the failure is ready made. They are all united, and all yield obedience to others. 
 
 But with mercenaries, when they have conquered, more time and better opportunities are needed to injure you. They are not all of one community, they are found and paid by you, and a third party which you have made their head, is not able all at once to assume enough authority to injure you. 
 
@@ -46,6 +44,7 @@ So he hired the Orsini and Vitelli and found them unreliable, unfaithful, and da
 The difference between one and the other of these forces can be easily seen when one considers the difference there was in the reputation of Cesare, when he had the French, when he had the Orsini and Vitelli, and when he relied on his own soldiers, on whose loyalty he could always count and found ever increasing. 
 
 He was rated much more highly when everyone saw that he was complete master of his own forces.
+
 I was not intending to go beyond Italian examples and recent examples, but I am unwilling to leave out Hiero, the Syracusan, who I have mentioned before. This man, as I have said, who was made head of the army by the Syracusans, soon found out that a mercenary army was of no use. He realised that he could neither keep them nor let them go, so he had them all cut to pieces, and afterwards made war using his own forces and not foreigners.
 
 David offered himself to Saul to fight Goliath. To give him courage, Saul armed him with some weapons, which David rejected. He said he only wanted to use his own simple weapons. Thus,  the weapons of others either fall from your back, or they weigh you down.

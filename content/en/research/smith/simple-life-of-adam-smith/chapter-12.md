@@ -1,9 +1,9 @@
 ---
 title: "Smith in Toulouse"
-linkTitle: "Chapter 12"
+heading: "Chapter 12"
 description: "Smith joined his pupil in London in the end of January 1764"
 # date: 2015-09-04
-weight: 36
+weight: 26
 author: "Rae"
 image: "/covers/life.jpg"
 ---

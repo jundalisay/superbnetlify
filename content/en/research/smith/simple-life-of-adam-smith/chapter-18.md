@@ -1,8 +1,9 @@
 ---
 title: "The Wealth Of Nations"
-linkTitle: "Chapter 18"
+heading: "Chapter 18"
 description: "The Wealth of Nations was published on March 9, 1776"
-date: 2015-08-22
+# date: 2015-08-22
+weight: 48
 author: "Rae"
 image: "/covers/life.jpg"
 ---

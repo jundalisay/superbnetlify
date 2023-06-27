@@ -1,8 +1,8 @@
 ---
 title: "Free Trade for Ireland"
-linkTitle: "Chapter 23"
+heading: "Chapter 23"
 description: "Adam Smith's stance for Free Trade for Ireland"
-date: 2015-08-12
+weight: 58
 author: "Rae"
 image: "/covers/life.jpg"
 ---

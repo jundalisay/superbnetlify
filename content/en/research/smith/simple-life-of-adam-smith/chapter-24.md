@@ -1,8 +1,8 @@
 ---
 title: "Wealth of Nations Abroad and Home"
-linkTitle: "Chapter 24"
+heading: "Chapter 24"
 description: "The reception of the Wealth of Nations Abroad and Home"
-date: 2015-08-10
+weight: 60
 author: "Rae"
 image: "/covers/life.jpg"
 ---

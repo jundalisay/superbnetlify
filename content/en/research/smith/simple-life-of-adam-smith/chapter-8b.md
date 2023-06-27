@@ -4,7 +4,7 @@ title: "The Select Society"
 # date: 2015-09-30
 image: /covers/life.jpg
 description: "The Select Society imitated the academies which were then common in the larger French towns"
-weight: 12
+weight: 18
 author: Rae
 ---
 

@@ -5,7 +5,7 @@ title: "At Oxford"
 image: /covers/life.jpg
 description: "Smith left Scotland for Oxford in June 1740, riding the whole way on horseback"
 author: Rae
-weight: 16
+weight: 6
 ---
 
 

@@ -1,6 +1,6 @@
 ---
 title: "Visit to Samuel Rodgers"
-linkTitle: "Chapter 30"
+heading: "Chapter 30"
 description: "Visit of Samuel Rodgers to Adam Smith"
 date: 2015-07-28
 author: "Rae"

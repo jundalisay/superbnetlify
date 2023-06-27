@@ -1,8 +1,8 @@
 ---
 title: "1778 Letters"
-linkTitle: "Chapter 22"
+heading: "Chapter 22"
 description: "Soon after Smith settled in Edinburgh"
-date: 2015-08-14
+weight: 56
 author: "Rae"
 image: "/covers/life.jpg"
 ---

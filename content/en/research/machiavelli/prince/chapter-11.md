@@ -23,6 +23,7 @@ So only such principalities are secure and happy, being supported by powers whic
 
 They are created and maintained by God. It would be foolish to discuss them.
 
+
 ## How could the Church gain such earthly power?
 
 Up to Pope Alexander 6th's time, Italian leaders have not placed much value on the Church’s earthly power. Yet now a king of France trembles before it and was able to drive him from Italy, and to ruin the Venetians.

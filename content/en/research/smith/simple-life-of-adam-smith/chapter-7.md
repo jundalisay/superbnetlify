@@ -5,7 +5,7 @@ title: "Among Glasgow Folk"
 image: /covers/life.jpg
 description: "In Glasgow, Smith was a teacher and a learner. The conditions of time and place were most favourable for his instruction"
 author: Rae
-weight: 26
+weight: 14
 ---
 
 

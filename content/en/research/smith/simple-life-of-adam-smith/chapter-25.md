@@ -1,8 +1,8 @@
 ---
 title: "Smith Interviewed"
-linkTitle: "Chapter 25"
+heading: "Chapter 25"
 description: "In his letter to Cadell, Smith reproaches himself with his idleness during his first few years in Edinburgh"
-date: 2015-08-08
+weight: 62
 author: "Rae"
 image: "/covers/life.jpg"
 ---

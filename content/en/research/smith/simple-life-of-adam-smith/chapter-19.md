@@ -1,8 +1,9 @@
 ---
 title: "The Death of Hume"
-linkTitle: "Chapter 19"
+heading: "Chapter 19"
 description: "After the publication of his book in the beginning of March, Smith still dallied in London, without going to see Hume in Edinburgh"
-date: 2015-08-20
+# date: 2015-08-20
+weight: 50
 author: "Rae"
 image: "/covers/life.jpg"
 ---

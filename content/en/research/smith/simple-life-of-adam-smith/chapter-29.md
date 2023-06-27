@@ -1,8 +1,8 @@
 ---
 title: "Visit to London"
-linkTitle: "Chapter 29"
+heading: "Chapter 29"
 description: "Adam Smith Visits London"
-date: 2015-07-30
+weight: 70
 author: "Rae"
 image: "/covers/life.jpg"
 ---

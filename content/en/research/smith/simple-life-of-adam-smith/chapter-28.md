@@ -1,8 +1,8 @@
 ---
 title: "The Population Question"
-linkTitle: "Chapter 28"
+heading: "Chapter 28"
 description: "Adam Smith answers the Population Question"
-date: 2015-08-02
+weight: 68
 author: "Rae"
 image: "/covers/life.jpg"
 ---

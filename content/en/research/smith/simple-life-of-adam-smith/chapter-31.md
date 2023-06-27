@@ -1,6 +1,6 @@
 ---
 title: "Revision of The Theory of Moral Sentiments"
-linkTitle: "Chapter 31"
+heading: "Chapter 31"
 description: "Smith published The Theory of Moral Sentiments"
 date: 2015-07-26
 author: "Rae"

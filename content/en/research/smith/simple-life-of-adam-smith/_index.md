@@ -1,6 +1,6 @@
 ---
 title: "The Life of Adam Smith Simplified"
-linkTitle: "Life"
+heading: "Life"
 image: /covers/life.jpg
 description: "In order to easily navigate the Life of Adam Smith by Rae, we've simplified it according to bullet-style writing"
 author: Rae

@@ -1,6 +1,6 @@
 ---
 title: "Smith's Last Days"
-linkTitle: "Chapter 32"
+heading: "Chapter 32"
 description: "Smith died from a long and painful illness"
 date: 2015-07-24
 author: "Rae"

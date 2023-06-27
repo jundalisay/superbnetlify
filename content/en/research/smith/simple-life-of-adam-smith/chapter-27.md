@@ -1,8 +1,8 @@
 ---
 title: "Burke in Scotland"
-linkTitle: "Chapter 27"
+heading: "Chapter 27"
 description: "Burke in Scotland"
-date: 2015-08-04
+weight: 66
 author: "Rae"
 image: "/covers/life.jpg"
 ---

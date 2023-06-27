@@ -1,9 +1,9 @@
 ---
 title: "Smith in Paris"
-linkTitle: "Chapter 13"
+heading: "Chapter 13"
 description: "Smith left Geneva in December for Paris and arrived around Christmas 1765"
 # date: 2015-08-30
-weight: 40
+weight: 30
 author: "Rae"
 image: "/covers/life.jpg"
 ---

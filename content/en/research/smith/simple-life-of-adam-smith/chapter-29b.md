@@ -1,10 +1,20 @@
+---
+title: "The British Society for extending the Fisheries"
+heading: "Chapter 29b"
+description: "In 1786, the British Society for extending the Fisheries was incorporated for that purpose by Royal Charter with a capital of £150,000."
+weight: 72
+author: "Rae"
+image: "/covers/life.jpg"
+---
+
+
 In 1786, the British Society for extending the Fisheries was incorporated for that purpose by Royal Charter with a capital of £150,000.
 
 It has the Duke of Argyle for Governor and many leading personages for directors.
-One of them was Wilberforce.
+- One of them was Wilberforce.
+- It was the grand philanthropic scheme of the day.
+  - The shares were rapidly subscribed to justify a start.
 
-It was indeed the grand philanthropic scheme of the day.
-The shares were rapidly subscribed to justify a start.
 When Smith was in London in 1787, the society had just begun operations on a paid-up capital of £35,000.
 
 One of the directors was Isaac Hawkins Browne, M.P.

@@ -1,6 +1,6 @@
 ---
 title: "Smith Back in London"
-linkTitle: "Chapter 15"
+heading: "Chapter 15"
 description: "Smith arrived in London early in November and remained there for the next six months"
 # date: 2015-08-28
 weight: 42

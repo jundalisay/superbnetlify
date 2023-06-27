@@ -5,7 +5,7 @@ title: "College Administrator"
 image: /covers/life.jpg
 description: "A common misconception was that Smith was helpless in business"
 author: Rae
-weight: 24
+weight: 12
 ---
 
 

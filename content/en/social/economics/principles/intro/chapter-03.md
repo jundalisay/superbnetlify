@@ -34,23 +34,24 @@ aliases:
 
 Supereconomics falls under [Social Superphysics](/social).
 
-Superphysics is a paradigm that sees reality as waves that manifest as particles. This is different from science which prefers particles over waves. The scientific paradigm seems to be changing as proven by electrons nowadays being regarded as a probability cloud instead of as a material point. 
+Superphysics is a paradigm that sees reality as waves that manifest as particles. This is different from science which prefers particles over waves. The scientific paradigm seems to be changing, as proven by electrons nowadays being regarded as a probability 'cloud' instead of as a material point. 
 
 
-## Value vs Price
+## Value versus Price, Subjective versus Objective
 
-These waves in economics manifest as 'value' which are the abstract feelings of worth (from Latin valere). This worth is the ability of a perception to produce usefulness & pleasure or reduce pain & stress. 
+These waves in economics manifest as 'value' which represent the **abstract feelings of worth** (from Latin *valere*). This worth is the ability of something to produce usefulness & pleasure, or reduce pain & stress. 
 
-Particles in economics manifest as 'prices' (from Latin pretium or reward or prize). These are objective ideas of worth, manifesting as a discrete number. 
+Particles in economics manifest as 'prices' (from Latin *pretium* whic means 'reward' or 'prize'). These are **objective ideas of worth**, manifesting as a discrete number.
 
-- You can imagine value as a fluffy cloud with no specific boundaries, or as water in a stream that isn't contained as a single object
-- You can imagine price as a cotton ball that has been compressed as to give it a specific shape, or as a water in a glass that has a specific measure, such as 100mL
+- 'Value' can be imagined as a fluffy cloud with no specific boundaries, or as water in a stream that isn't contained as a single object
+- 'Price' can be imagined as a cotton ball that has been compressed as to give it a specific shape, or as a water in a glass that has a specific measure, such as 100mL
 
-Economics is full of specific numbers as GDP, population size, unemployment rate, trade deficit, etc. but only has a few concepts of value. 
+Economics is full of **specific numbers** as GDP, population size, unemployment rate, trade deficit, etc, but only has a few concepts of **abstract value**. 
 
-The economic value of a bridge, for example, is more abstract than its cost-price. 
+The economic value of a bridge, for example, is more abstract than its cost-price.
 - The economic value has a range such as $1b-$1.5b over 10 years
 - It cost price is a specific number such as $100m, paid in 2010
+
 
 
 ### Desire

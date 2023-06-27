@@ -13,7 +13,7 @@ icon: "/icons/mach.jpg"
 18considered in some degree the causes of their being good or bad. I have also shown the methods by which
 many have sought to acquire principalities and to hold them. It now remains for me to discuss generally
  -->
-What is the means of attack and defence which go with each of the principalities?
+What is the means of attack and defence in each of the principalities?
 
 A prince must have his foundations well laid, otherwise he will go to ruin. The chief foundations of all states, new, old, or mixed, are good laws and good arms. 
 
@@ -49,7 +49,12 @@ The mercenary captains are either capable or incapable. If they are, you cannot 
 
 If the mercenary captain is not skilful, you are ruined anyway.
 
-Some say that soldiers will act in the same way, whether mercenary or not. , I reply that when arms must be used, they are under the control of a prince or a republic. The prince should go in person and perform the duty of a captain. The republic has to send its citizens, and when one is sent who does not turn out satisfactorily it ought to send him back. When one is a worthy captain, it ought to hold on to him by the laws so that he does not leave the command. 
+Some say that soldiers will act in the same way, whether mercenary or not. 
+
+I reply that when arms must be used, they are under the control of a prince or a republic. 
+- The prince should go in person and perform the duty of a captain. 
+- The republic has to send its citizens.
+  - It should send back the unsatisfactory ones, and hold the worthy captains by the laws so that they do not leave the command. 
 
 Princes and republics, single-handed, make the greatest progress. Mercenaries do nothing except damage. 
 
@@ -57,7 +62,7 @@ It is easier for a republic with its own army to take over another republic with
 
 <!--  more difficult for a republic armed with its own arms to be taken over by one of its citizens, than it is to  one armed with foreign arms.  -->
 
-Rome and Sparta stood for many ages armed and free. The Swiss are completelyarmed and quite free. 
+Rome and Sparta stood for many ages armed and free. The Swiss are completely armed and quite free. 
 
 The Carthaginians were oppressed by their mercenary soldiers after the first war with the Romans, even if the Carthaginians had their own citizens for captains. 
 
@@ -66,11 +71,11 @@ After the death of Epaminondas, Philip of Macedon was made captain of their sold
 
 ## Italian Mercenaries
 
-After the death of Duke Filippo, the Milanese hired Francesco Sforza to fight against the Venetians. He defeated them at Caravaggio. He then joined with the Venetians to crush the Milanese, his masters. 
+After the death of Duke Filippo, the Milanese hired Francesco Sforza to fight against the Venetians. He defeated them at Caravaggio. He then joined with the Venetians to crush the Milanese, his masters.
 
 His father, Sforza, was hired by Queen Johanna of Naples. He left her unprotected and so she was19 forced to surrender to the King of Aragon. 
 
-On the other hand, the Venetians and Florentines formerly extended their possessions by using mercenaries. Yet their captains did not make themselves princes, but have defended them. 
+On the other hand, the Venetians and Florentines formerly extended their possessions by using mercenaries. Yet their captains did not make themselves princes, but have defended them.
 
 The Florentines, in this case, were lucky because of the able captains, of whom they might have stood in fear, some have not conquered, some have been successfully opposed, and others have turned their ambitions elsewhere. 
 
@@ -88,11 +93,11 @@ Having found him a very brave man (they beat the Duke of Milan under his leaders
 
 So, in order not to lose what they had acquired again, they were forced to murder him, in order to secure themselves. Afterwards they had Bartolomeo da Bergamo, Roberto da San Severino, the count of Pitigliano, and the like, for their captains under whom they had to fear loss and not gain. 
 
-This happened afterwards at Vaila, where in one battle they lost that which in eight hundred years they had acquired with so much trouble. From such mercenaries conquests come slowly, are long delayed and are not very significant. The losses however are sudden and very great. 
+This happened afterwards at Vaila, where in one battle they lost that which in 800 years they had acquired with so much trouble. From such mercenaries, conquests come slowly, are long delayed, and not very significant. The losses however are sudden and very great. 
 
 Italy has been ruled for many years by mercenaries. <!-- , I wish to discuss them in depth in order that, having seen their rise and progress, one may be better prepared to stand against them. You must understand that  -->
 
-The Italian empire has recently been destroyed, divided up into more states. The Pope has acquired more earthly power. This is because many of the great cities rebelled against their oppressive nobles who formerly were supported by the emperor. 
+The Italian empire has recently been destroyed, divided up into states. The Pope has acquired more earthly power. This is because many of the great cities rebelled against their oppressive nobles who formerly were supported by the emperor.
 
 The Church supported the rebellions to gain earthly authority.
 
@@ -118,7 +123,7 @@ The mercenaries' principles were:
 
 They did this because they did not have their own lands to give them income and so had to survive on their pay. They were thus unable to support many soldiers. 
 
-Moreover, having foot soldiers did not give them any authority, so they were led to employ cavalry. In this way, a moderate force could maintain themselves with some20 status. 
+Moreover, having foot soldiers did not give them any authority, so they were led to employ cavalry. In this way, a moderate force could maintain themselves with some status. 
 
 However, this meant that in an army of 20,000 soldiers, there were not even 2,000 foot soldiers. 
 
@@ -126,7 +131,7 @@ Besides this, they used every trick to reduce:
 - their own involvement
 - the danger to themselves and their soldiers.
 
-These tricks included:
+2. These tricks included:
 - not killing in the battle, but taking prisoners and liberating without getting money in return
 - not attacking at night 
 - not surrounding their own camps with a wall or a ditch
@@ -135,4 +140,4 @@ These tricks included:
 All these things were permitted by the military rules they created to avoid both effort and danger. Thus, they reduced Italy’s reputation and have brought it into slavery*.
 
 
-> *Superphysics Note= This indicates that Italy then was in a philosophical cycle
+> *Superphysics Note: This indicates that Italy then was in a philosophical cycle

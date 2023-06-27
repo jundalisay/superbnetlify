@@ -5,7 +5,7 @@ title: "Edinburgh Activities"
 image: /covers/life.jpg
 description: "Adam Smith's Activities in Edinburgh"
 author: Rae
-weight: 28
+weight: 16
 ---
 
 

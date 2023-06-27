@@ -1,8 +1,8 @@
 ---
 title: "London 1777—Appointed Commissioner Of Customs"
-linkTitle: "Chapter 20"
+heading: "Chapter 20"
 description: "Smith remained at Kirkcaldy from May to December 1776, except for occasional visits to Edinburgh or Dalkeith"
-date: 2015-08-18
+weight: 52
 author: "Rae"
 image: "/covers/life.jpg"
 ---

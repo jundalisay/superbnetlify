@@ -82,7 +82,7 @@ Its only positive significance is that of being the mediating agency, but outsid
 The relation of understanding to the inner world through mediation is, however, its own process, by which the inner world will be found to receive fullness of content.
 
 
-(3) Law as the True nature of Appearance
+## 3. Law as the True nature of Appearance
 
 The play of forces is what understanding has directly to do with; but the real truth for it is the inner world bare and simple. The movement of force is consequently the truth only by being in like manner something simple.
 
@@ -106,13 +106,19 @@ This implicit simple universal, however, is essentially absolute universal diffe
 But change, when planted in the inner reality as it [change] truly is, forthwith is taken up into that reality as equally absolute universal difference at peace with itself, and remaining at one with itself. In other words, negation is an essential moment of the universal; and negation or mediation in what is universal is universal difference. This difference is expressed in the law, which is the stable presentment or picture of unstable appearance. The supersensible world is in this way a quiescent “kingdom of laws”, no doubt beyond the world of perception-for this exhibits the law only through incessant change – but likewise present in it, and its direct immovable copy or image.
 
 
-(b) Law as Distinction and Sameness
+### b. Law as Distinction and Sameness
 
-Φ 150. This kingdom of laws is indeed the truth for understanding; and that truth finds its content in the distinction which lies in the law. At the same time, however, this kingdom of laws is only the preliminary truth and does not give all the fullness of the world of appearance. 
+{{< s v='150' >}} This kingdom of laws is indeed the truth for understanding; and that truth finds its content in the distinction which lies in the law. 
 
-The law is present therein, but is not all the appearance present; under ever-varying circumstances the law has an ever-varying actual existence. Thereby appearance continues to keep one aspect which is not in the inner world; i.e. appearance is not yet in very truth established as appearance, as that whose independent being has been done away with. 
+At the same time, however, this kingdom of laws is only the preliminary truth and does not give all the fullness of the world of appearance. 
 
-This defect in the law has to be brought out in the law itself. What seems defective in it is that while it no doubt has difference within it, it contains this in a merely universal indeterminate way. So far, however, as it is not law in general, but a law, it has determinateness within it; and as a result there are found an indeterminate plurality of laws. But this plurality is rather itself a defect; it contradicts the principle of understanding, for which, since it is consciousness of the simple inner being, truth is the inherently universal unity. 
+The law is present therein, but is not all the appearance present; under ever-varying circumstances the law has an ever-varying actual existence. 
+
+Thereby appearance continues to keep one aspect which is not in the inner world; i.e. appearance is not yet in very truth established as appearance, as that whose independent being has been done away with. 
+
+This defect in the law has to be brought out in the law itself. What seems defective in it is that while it no doubt has difference within it, it contains this in a merely universal indeterminate way. 
+
+So far, however, as it is not law in general, but a law, it has determinateness within it; and as a result there are found an indeterminate plurality of laws. But this plurality is rather itself a defect; it contradicts the principle of understanding, for which, since it is consciousness of the simple inner being, truth is the inherently universal unity. 
 
 It must, therefore, let the many laws coalesce into a single law, just as, e.g., the law by which a stone falls, and that by which the heavenly bodies move have been conceived as one law. When the laws thus coincide, however, they lose their specific character. 
 

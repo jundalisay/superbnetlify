@@ -1,9 +1,9 @@
 ---
 title: "Smith in Geneva"
-linkTitle: "Chapter 13"
+heading: "Chapter 13"
 description: "In the end of August, Smith and his pupils left Toulouse and made an extensive tour in the South of France"
 # date: 2015-09-02
-weight: 38
+weight: 28
 author: "Rae"
 image: "/covers/life.jpg"
 ---

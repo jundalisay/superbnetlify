@@ -1,8 +1,9 @@
 ---
 title: "Smith in London to Publish"
-linkTitle: "Chapter 17"
+heading: "Chapter 17"
 description: "In the spring of 1773, Smith virtually completed the Wealth of Nations. He thought of going to London to publish it"
-date: 2015-08-24
+# date: 2015-08-24
+weight: 46
 author: "Rae"
 image: "/covers/life.jpg"
 ---

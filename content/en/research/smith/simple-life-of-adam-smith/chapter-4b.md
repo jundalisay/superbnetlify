@@ -5,7 +5,7 @@ title: "Smith the Poet"
 image: /covers/life.jpg
 description: "Smith seems to have dreamed of becoming a poet when he was young."
 author: Rae
-weight: 20
+weight: 9
 ---
 
 
