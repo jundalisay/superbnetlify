@@ -2,7 +2,7 @@
 title: "Natural Diet for Abnormal Menstruation"
 weight: 52
 author: "PR Sarkar"
-description: "In a healthy woman the menstrual discharge is usually about one-fourth seer. If for any reason the quantity is less than normal, it is called hypomenorrhoea"
+description: "In a healthy woman the menstrual discharge is usually about 1/4 seer. If for any reason the quantity is less than normal, it is called hypomenorrhoea"
 image: "/photos/toilet.jpg"
 icon: "/icons/sarkar.png"
 ---

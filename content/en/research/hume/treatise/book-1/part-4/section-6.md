@@ -1,7 +1,7 @@
 ---
 heading: "Section 6"
 title: "Personal Identity"
-weight: 32
+weight: 35
 image: /covers/treatise.png
 description: "Complex Ideas are Connected by Seven Kinds of Philosophical Relations"
 author: David Hume

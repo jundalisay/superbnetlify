@@ -1,7 +1,7 @@
 ---
 heading: "Section 6c"
 title: "Discerning Identities"
-weight: 36
+weight: 377
 image: /covers/treatise.png
 description: "Complex Ideas are Connected by Seven Kinds of Philosophical Relations"
 author: David Hume

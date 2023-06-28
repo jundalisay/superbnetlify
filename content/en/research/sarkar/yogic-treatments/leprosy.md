@@ -1,7 +1,7 @@
 ---
 title: "Natural Remedies for Leprosy"
 weight: 46
-description: "Femoral hernia happens if the intenstine pushes out through the hole in the canal of nerve fibres and the muscular network controlling the legs"
+description: "The Saḿskrta word Kuśt́ha means skin disease. So in Saḿskrta, prickly heat is also a kind of Kuśt́ha. But what in modern Indian languages we take kuśt́ha (leprosy) to be is called in Saḿskrta, Bátarakta Roga."
 image: "/photos/med/leprosy.jpg"
 icon: "/icons/sarkar.png"
 ---
@@ -59,11 +59,6 @@ The blood becomes very weak when the following are lacking for many days:
 - green vegetables
 - milk, ghee and other fatty substances
 
-If in this condition, a person continues 
-
- to eat foods
-
-
 Leprosy develops if this condition continues for a long period and the person continues to:
 - eat foods which cause dysentery or constipation, or
 - eats a large quantity of:
@@ -111,7 +106,7 @@ Leprosy is mainly a disease of the poor. Unless the masses are provided with suf
 
 For a patient, any of the following should be eaten everyday:
 - the fruit or leaves of ucche
-- bitter gourd (Momordica charantia Linn.
+- bitter gourd (Momordica charantia Linn.)
 - paltá
 - neem (Azadirachta indica A. Juss.) 
 - leaves, flowers, or stems of shobháiṋjana
