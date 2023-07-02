@@ -15,14 +15,16 @@ weight: 14
 <!-- This. -->
 
 Perception, on the other hand, takes what exists for it to be a universal. 
-- Universality is the general principle of perception
+- **Universality is the general principle of perception**
  - The mini-perceptions immediately distinguished within it are also universal.
 <!-- moments -->
 
-"I" is a universal. The object is a universal. 
-- This principle comes into being for those who are tracing the course of experience.
+"I" is a universal. The object is a universal.
+- **This principle comes into being for those who are tracing the course of experience.**
 
-Our process of understanding what perception is, therefore, no longer depends on a series of acts of understanding, as is the case with the understanding of perception (sense-certainty). 
+
+The understanding of perception (sense-certainty) depends on a series of acts of understanding.
+- But the process of understanding what perception is, therefore, no longer depends on a series of acts of understanding
 - Instead, this understanding is a logically necessitated process. 
 
 With emergence of that principle, both the mini-perceptions and the understanding of them, both arise. 
@@ -31,9 +33,9 @@ With emergence of that principle, both the mini-perceptions and the understandin
 
 <!-- The one, the process of pointing out and indicating, the other the same process, but as a simple fact – the former , the latter the object perceived. -->
 
-Here, the object is in its essential nature, the same as the process. 
+Here, the object is in its essential nature, the same as the process of perceiving that object. 
 - The process is the unfolding and distinguishing of the elements involved.
-- The object is these same elements taken and held together as a single totality. 
+- The object is these same elements taken together as a single totality. 
 
 To those who are tracing the process, the universal, qua principle, is the essence of perception.
 <!-- ) or in itself,(2) -->
@@ -135,11 +137,9 @@ All these many properties exist in a simple Here, where they interpenetrate each
 None of these has a different Here from the others. 
 - Each is everywhere in the same Here where the others are. 
 
-At the same time, without being divided by different Heres, they do not affect each other in their interpenetration.
+At the same time, without being divided by different 'Heres', they do not affect each other in their interpenetration.
 - Its being white does not affect or alter the cubical shape it has, and neither affects its tart taste, and so on.
 
 On the contrary, since each is simple relation to self, it leaves the others alone and is related to these merely by being also along with them, a relation of mere indifference. 
 
 This “Also” is thus the pure universal itself, the “medium”, the “Thinghood” keeping them together.
-
-

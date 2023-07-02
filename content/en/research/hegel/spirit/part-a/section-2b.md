@@ -19,9 +19,13 @@ In view of this opposition, however, they cannot exist together in the bare and 
 
 The process of distinguishing them, so far as it does not leave them indifferent, but effectually excludes, negates one from another, thus falls outside this simple “medium”. 
 
-This, consequently, is not merely an “also”, an unity indifferent to what is in it, but a “one” as well, an excluding repelling unity.
+Consequently, this is not merely an “also” or a unity indifferent to what is in it. It is a “one” as well, an excluding repelling unity.
 
-The “One” is the moment of negation, as, in a direct and simple manner, relating itself to itself, and excluding an other: and is that by which “Thinghood” is determined qua Thing. In the property of a thing the negation takes the form of a specific determinateness, which is directly one with the immediacy of its being, an immediacy which, by this unity with negation, is universality. Qua “one”, however, negation, the specific quality, takes a form in which it is freed from this unity with the object, and exists per se on its own account.
+The “One” is the moment of negation, as, in a direct and simple manner, relating itself to itself, and excluding an other: and is that by which “Thinghood” is determined qua Thing. 
+
+In the property of a thing, the negation takes the form of a specific determinateness, which is directly one with the immediacy of its being. It is an immediacy which, by this unity with negation, is universality. 
+
+Qua “one”, however, negation, the specific quality, takes a form in which it is freed from this unity with the object, and exists per se on its own account.
 
 
 {{< s v='115' >}} These moments taken together exhaust the nature of the Thing, the truth of perception, so far as it is necessary to develop it here. 
@@ -81,5 +85,4 @@ In this way we have, now, in the case of perception, as happened in the case of 
 
 Rather consciousness is aware that the untruth, that comes out there, falls within it. By knowing this, however, consciousness is able to cancel and supersede this untruth. It distinguishes its apprehension of the truth from the untruth of its perception, corrects this untruth, and, so far as itself takes in hand to make this correction, the truth, qua truth of perception, certainly falls within its own consciousness. 
 
-The procedure of consciousness, which we have now to consider, is thus so constituted that it no longer merely perceives, but is also conscious of its reflection into self, and keeps this apart from the simple apprehension proper.
-
+The procedure of consciousness is thus so constituted that it no longer merely perceives, but is also conscious of its reflection into self, and keeps this apart from the simple apprehension proper.
