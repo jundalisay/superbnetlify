@@ -18,17 +18,21 @@ I am unjust in blaming the for:
 
 There are two kinds of imagination:
 
-- the imagination based on permanent, irresistible, and universal principles
-  - Examples are the habitual transition from causes to effects, and from effects to causes.
-  - These are the foundation of all our thoughts and actions.
-  - Upon their removal, human nature must immediately perish and go to ruin.
-- the imagination based on changeable, weak, and irregular principles
-  - Examples are those of the ancient philosophers. 
-  - These are avoidable, unnecessary, and not useful.
-  - On the contrary, they:
-	- only to take place in weak minds,
-	- are opposite to the other principles of custom and reasoning, and
-	- may easily be subverted by a due contrast and opposition
+1. The imagination based on permanent, irresistible, and universal principles
+
+Examples are the habitual transition from causes to effects, and from effects to causes.
+- These are the foundation of all our thoughts and actions.
+- Upon their removal, human nature must immediately perish and go to ruin.
+
+2. The imagination based on changeable, weak, and irregular principles
+
+Examples are those of the ancient philosophers. 
+- These are avoidable, unnecessary, and not useful.
+
+On the contrary, they:
+- only to take place in weak minds,
+- are opposite to the other principles of custom and reasoning, and
+- may easily be subverted by a due contrast and opposition
 
 This is why philosophy accepts universal principles but rejects the irregular ones. Therefore, the ultimate judge of all systems of philosophy cannot be the irregular kind of imagination.
 
@@ -37,7 +41,7 @@ A person reasons justly and naturally when he concludes that somebody is near hi
 - But a person who is tormented by spectres in the dark, might reason naturally too.
   - But then a disease arising from natural causes is also natural, though contrary to health.
 
-The following are like the spectres in the dark= 
+The following are like the spectres in the dark: 
 - the opinions of the ancient philosophers*,
 - their fictions of substance and accident, and
 - their reasonings on substantial forms and occult qualities.
@@ -47,7 +51,7 @@ The following are like the spectres in the dark=
 
 They are derived from common principles in human nature which are not universal and are avoidable.
 
-The modern philosophy of Descartes pretends to= 
+The modern philosophy of Descartes pretends to: 
 - be entirely free from this defect, and
 - arise only from the solid, permanent, and consistent principles of the imagination.
 
@@ -58,17 +62,17 @@ The fundamental principle of Descartes' philosophy is its opinion that colours, 
 - Our impressions of the colours, sounds, tastes, smells, and temperature of objects vary even if the external object stays the same. 
   - This is the only thing that Descartes gets totally correct
 
-<!-- Only one of its reasons is satisfactory=   -->
+<!-- Only one of its reasons is satisfactory:   -->
 <!-- are derived from the variations of those impressions, even while  continues the same. -->
 
-These variations depend on several circumstances= 
+These variations depend on several circumstances: 
 - on the different situations of our health,
   - A sick man feels a disagreeable taste in meat even if meat pleased him the most before.
 - on the different complexions and constitutions of men, and
   - Some seem bitter to one but sweet to another.
 - on the difference of their external situation and position.
 
-Colours reflected from the clouds change according to= 
+Colours reflected from the clouds change according to: 
 - the distance of the clouds, and
 - the angle they make with the eye and luminous body.
 

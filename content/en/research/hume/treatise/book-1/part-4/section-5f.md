@@ -84,7 +84,8 @@ We are left with Dilemma 1b, that all objects constantly conjoined are only to b
 
 All objects which are not contrary are susceptible of a constant conjunction.
 All real objects can be conjoined by the mind.
-It follows that anything can be the cause or effect of anything..
+
+It follows that anything can be the cause or effect of anything.
 This gives the advantage to the materialists.
 The question on the soul's substance is absolutely unintelligible.
 
