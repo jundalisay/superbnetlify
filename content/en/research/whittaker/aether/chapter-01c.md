@@ -30,9 +30,11 @@ These Rays meet with the plain surface NO of a medium that yields an easier tran
 
 Falling obliquely' on it, they will in the medium MM be refracted towards the perpendicular of the surface. 
 
-This medium is more easily trajected than the former by a third, therefore the point U of the orbicular pulse FC will be moved to H four spaces in the same time that F, the other end of it, is inoved to three spaces, therefore the whole refracted pulse to H shall be oblique to the refracted Rays CHK and GI."
+This medium is more easily trajected than the former by a third, therefore the point `U` of the orbicular pulse FC will be moved to `H` four spaces in the same time that `F`, the other end of it, is inoved to 3 spaces, therefore the whole refracted pulse to `H` shall be oblique to the refracted Rays CHK and GI."
 
-This is not in all respects successful. But it advances the treatment of the same problem by Descartes, which rested on a mere analogy.
+This is not in all respects successful. 
+
+But it advances the treatment of the same problem by Descartes, which rested on a mere analogy.
 
 Hooke tries to determine what happens to the wave-front when it meets the interface between two media.
 
@@ -176,28 +178,48 @@ The process of wave-propagation he discussed by aid of a principle which was now
 
 Let AB represent the interface at which reflexion takes place, AHC the incident wave-front at an instant t0, GMB the position which the wave-front would occupy at a later instant t if the propagation were not interrupted by reflexion. Then by
 
-A history of the theories of aether and electricity. Whittacker E.T. (1910).pdf
-Huygens' principle the secondary wave from A is at the instant t a sphere RNS of radius equal to AG: the disturbance from H, after meeting the interface at K, will generate a secondary wave TV of radius equal to KM, and similarly the secondary wave corresponding to any other element of the original wavefront can be found. It is obvious that the envelope of these secondary waves, which constitutes the final wave-front, will be a plane BN, which will be inclined to AB at the same angle as AC. This gives the law of reflexion.
+A history of the theories of aether
+Huygens' principle the secondary wave from A is at the instant t a sphere RNS of radius equal to AG: the disturbance from H, after meeting the interface at K, will generate a secondary wave TV of radius equal to KM, and similarly the secondary wave corresponding to any other element of the original wavefront can be found. 
 
-The law of refraction is established by similar reasoning, on the supposition that the velocity of light depends on the medium in which it is propagated. Since a ray which passes from air to glass is bent inwards towards the normal, it may be inferred that light travels more slowly in glass than in air.
+The envelope of these secondary waves, which constitutes the final wave-front, will be a plane BN, which will be inclined to AB at the same angle as AC. This gives the law of reflexion.
+
+The law of refraction is established by similar reasoning, on the supposition that the velocity of light depends on the medium in which it is propagated. 
+
+Since a ray which passes from air to glass is bent inwards towards the normal, it may be inferred that light travels more slowly in glass than in air.
 
 Huygens offered a physical explanation of the variation in velocity of light from one medium to another, by supposing that transparent bodies consist of hard particles which interact with the aethereal matter, modifying its elasticity. The opacity of metals he explained by an extension of the same idea, supposing that some of the particles of metals are hard (these account for reflexion) and the rest soft: the latter destroy the luminous motion by damping it.
 
-The second half of the Théorie de la lumière is concerned with a phenomenon which had been discovered a few years previously by a Danish philosopher, Erasmus Bartholin (b. 1625, d. 1698). A sailor had brought from Iceland to Copenhagen a number of beautiful crystals which he had collected in the Bay of Röerford. Bartholin, into whose hands they passed, noticed[49] that any small object viewed through one of these crystals appeared double, and found the immediate cause of this in the fact that a ray of light entering the crystal gave rise in general to two refracted rays. One of these rays was subject to the ordinary law of refraction, while the other, which was called the extraordinary ray, obeyed a different law, which Bartholin did not succeed in determining.
+The second half of the Théorie de la lumière is concerned with a phenomenon which had been discovered a few years previously by a Danish philosopher, Erasmus Bartholin (b. 1625, d. 1698). A sailor had brought from Iceland to Copenhagen a number of beautiful crystals which he had collected in the Bay of Röerford. 
 
-The matter had arrived at this stage when it was taken up by Huygens. Since in his conception each ray of light corresponds to the propagation of a wave-front, the two rays in Iceland spar must correspond to two different wave-fronts propagated simultaneously. In this idea he found no difficulty; as he says: “It is certain that a space occupied more than one kind of matter may permit the propagation of several kinds of waves, different in velocity; for this actually happens in air mixed with aethereal matter, where sound-waves and light-waves are propagated together."
+Bartholin, into whose hands they passed, noticed[49] that any small object viewed through one of these crystals appeared double, and found the immediate cause of this in the fact that a ray of light entering the crystal gave rise in general to two refracted rays. 
 
-Accordingly he supposed that a light-disturbance generated at any spot within a crystal of Iceland spar spreads out in the form of a wave-surface, composed of a sphere and a spheroid having the origin of disturbance as centre. The spherical wave-front corresponds to the ordinary ray, and the spheroid to the extraordinary ray: and the direction in which the extraordinary ray is refracted may be determined by a geometrical construction, in which the spheroid takes the place which in the ordinary construction is taken by the sphere.
+One of these rays was subject to the ordinary law of refraction, while the other, which was called the extraordinary ray, obeyed a different law, which Bartholin did not succeed in determining.
 
-Thus, let the plane of the figure be at right angles to the intersection of the wave-front with the surface of the crystal; let AB represent the trace of the incident wave-front; and suppose that in unit time the disturbance from B reaches the interface at T. In this unit-interval of time the disturbance from A will have spread out within the crystal into a sphere and spheroid: so the wave-front corresponding to the ordinary ray will be the tangent-plane to the sphere through the line whose trace is T, while the wave-front corresponding to the extraordinary ray will be the tangent-plane to the spheroid through the same line. The points of contact N and M will determine the directions AN and AN of the two refracted rays[50] within the crystal.
+The matter had arrived at this stage when it was taken up by Huygens. 
 
+Since in his conception each ray of light corresponds to the propagation of a wave-front, the two rays in Iceland spar must correspond to two different wave-fronts propagated simultaneously. 
 
+In this idea he found no difficulty; as he says: “It is certain that a space occupied more than one kind of matter may permit the propagation of several kinds of waves, different in velocity; for this actually happens in air mixed with aethereal matter, where sound-waves and light-waves are propagated together."
 
-Huygens did not in the Théorie de la lumière attempt a detailed physical explanation of the spheroidal wave, but communicated one later in a letter to Papin,[51] written in December, 1690, “As to the kinds of matter contained in Iceland crystal," he says, "I suppose one composed of small spheroids, and another which occupies the interspaces around these spheroids, and which serves to bind them together. Besides these, there is the matter of aether permeating all the crystal, both between and within the parcels of the two kinds of matter just mentioned; for I suppose both the little spheroids, and the matter which occupies the intervals around them, to be composed of small fixed particles, amongst which are diffused in perpetual motion the still finer particles of the aether. 
+Accordingly he supposed that a light-disturbance generated at any spot within a crystal of Iceland spar spreads out in the form of a wave-surface, composed of a sphere and a spheroid having the origin of disturbance as centre. 
+
+The spherical wave-front corresponds to the ordinary ray, and the spheroid to the extraordinary ray: and the direction in which the extraordinary ray is refracted may be determined by a geometrical construction, in which the spheroid takes the place which in the ordinary construction is taken by the sphere.
+
+Thus, let the plane of the figure be at right angles to the intersection of the wave-front with the surface of the crystal; let AB represent the trace of the incident wave-front; and suppose that in unit time the disturbance from B reaches the interface at T. 
+
+In this unit-interval of time the disturbance from A will have spread out within the crystal into a sphere and spheroid: so the wave-front corresponding to the ordinary ray will be the tangent-plane to the sphere through the line whose trace is T, while the wave-front corresponding to the extraordinary ray will be the tangent-plane to the spheroid through the same line. The points of contact N and M will determine the directions AN and AN of the two refracted rays[50] within the crystal.
+
+Huygens did not in the Théorie de la lumière attempt a detailed physical explanation of the spheroidal wave, but communicated one later in a letter to Papin,[51] written in December, 1690, “As to the kinds of matter contained in Iceland crystal," he says, "I suppose one composed of small spheroids, and another which occupies the interspaces around these spheroids, and which serves to bind them together. 
+
+Besides these, there is the matter of aether permeating all the crystal, both between and within the parcels of the two kinds of matter just mentioned. 
+
+I suppose both the little spheroids, and the matter which occupies the intervals around them, to be composed of small fixed particles, amongst which are diffused in perpetual motion the still finer particles of the aether. 
 
 There is now no reason why the ordinary ray in the crystal should not be due to waves propagated in this aethereal matter.
 
-To account for the extraordinary refraction, I conceive another kind of waves, which have for vehicle both the aethereal matter and the two other kinds of matter constituting the crystal. Of these latter, I suppose that the matter of the small spheroids transmits the waves a little more quickly than the aethereal matter, while that around the spheroids transmits these waves a little more slowly than the same aethereal matter.
+To account for the extraordinary refraction, I conceive another kind of waves, which have for vehicle both the aethereal matter and the two other kinds of matter constituting the crystal. 
+
+Of these latter, I suppose that the matter of the small spheroids transmits the waves a little more quickly than the aethereal matter, while that around the spheroids transmits these waves a little more slowly than the same aethereal matter.
 
 These same waves, when they travel in the direction of the breadth of the spheroids, meet with more of the matter of the spheroids, or at least pass with less obstruction, and so are propagated a little more quickly in this sense than in the other ; thus the light-disturbance is propagated as a spheroidal sheet."
 
@@ -207,9 +229,13 @@ He observed that the two rays which are obtained by the double refraction of a s
 
 In particular, if one of these rays is incident on a second crystal of Iceland spar, it gives rise in some circumstances to two, and in others to only one, refracted ray. 
 
-The behaviour of the ray at this second refraction can be altered by simply rotating the second crystal about the direction of the ray as axis; the ray undergoing the ordinary or extraordinary refraction according as the principal section of the crystal is in a certain direction or in the direction at right angles to this.
+The behaviour of the ray at this second refraction can be altered by simply rotating the second crystal about the direction of the ray as axis. 
 
-The first stage in the explanation of Huygens' observation was reached by Newton, who in 1717 showed[53] that a ray obtained by double refraction differs from a ray of ordinary light in the same way that a long rod whose cross-section is a rectangle differs from a long rod whose cross-section is a circle: in other words, the properties of a ray of ordinary light are the same with respect to all directions at right angles to its direction of propagation, whereas a ray obtained by double refraction must be supposed to have sides, or properties related to special directions at right angles to its own direction. 
+The ray undergoing the ordinary or extraordinary refraction according as the principal section of the crystal is in a certain direction or in the direction at right angles to this.
+
+The first stage in the explanation of Huygens' observation was reached by Newton, who in 1717 showed[53] that a ray obtained by double refraction differs from a ray of ordinary light in the same way that a long rod whose cross-section is a rectangle differs from a long rod whose cross-section is a circle. 
+
+In other words, the properties of a ray of ordinary light are the same with respect to all directions at right angles to its direction of propagation, whereas a ray obtained by double refraction must be supposed to have sides, or properties related to special directions at right angles to its own direction. 
 
 The refraction of such a ray at the surface of a crystal depends on the relation of its sides to the principal plane of the crystal.
 
