@@ -10,7 +10,7 @@ description: ""
 
 Newton died in 1727. 
 
-Of the expositions of his philosophy which were published in his lifetime by his followers, one at least deserves to be noticed for the sake of the insight which it affords into the state of opinion regarding light, heat, and electricity in the first half of the eighteenth century. 
+His philosophy was published in his lifetime by his followers. , one at least deserves to be noticed for the sake of the insight which it affords into the state of opinion regarding light, heat, and electricity in the first half of the eighteenth century. 
 
 This was the Physices elementa mathematica experimentis confirmata of Wilhelm Jacob s'Gravesande (b. 1688, d. 1742), published at Leyden in 1720. The Latin edition was afterwards reprinted several times, and was, moreover, translated into French and English: it seems to have exercised a considerable and, on the whole, well-deserved influence on contemporary thought.
 
