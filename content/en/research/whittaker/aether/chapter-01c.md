@@ -12,19 +12,18 @@ Hooke's next effort was to produce a mechanical theory of refraction, to replace
 
 Hooke says:
 
-"Because all transparent mediums are not Homogeneous to one another, therefore we will next examine how this pulse or motion will be propagated through differingly transparent mediums. 
+"All transparent mediums are not Homogeneous to one another. How will this pulse or motion be propagated through differingly transparent mediums?
 
-According to the most acute and excellent Philosopher Descartes, I suppose the sine of the angle of inclination in the first medium to be to the sine of refraction in the second, as the density of the first to the density of the second. 
+According to the most acute and excellent Philosopher Descartes, the sine of the angle of inclination in the first medium is the sine of refraction in the second, as the density of the first to the density of the second. 
 
-By density, I mean not the density in respect of gravity (with which the refractions or transparency of mediums hold no proportion), but in respect only to the trajection of the Rays of light, in which respect they only differ in this, that the one propagates the pulse more easily and weakly, the other more slowly, but more strongly. 
+Density is not the density in respect of gravity (with which the refractions or transparency of mediums hold no proportion).
 
-But as for the pulses themselves, they will by the refraction acquire another property, which we shall now endeavour to explicate."
+Density is in respect only to the trajection of the Rays of light, in which respect they only differ in this, that the one propagates the pulse more easily and weakly, the other more slowly, but more strongly. 
+
+But as for the pulses themselves, they will by the refraction acquire another property, which we shall now explicate."
 
 
-We will suppose, therefore, in the first Figure, ACFD to be
-
-A history of the theories of aether and electricity. Whittacker E.T. (1910).pdf
-a physical Ray, or ABC and DEF to be two mathematical Rays, trajected from a very remote point of a luminous body through an Homogeneous transparent medium LL, and DA, EB, FC, to be small portions of the orbicular impulses which must therefore cut the Rays at right angles: these Hays meeting with the plain surface NO of a medium that yields an easier transitus to the propagation of light, and falling obliquely' on it, they will in the medium MM be refracted towards the perpendicular of the surface. And because this medium is more easily trajected than the former by a third, therefore the point U of the orbicular pulse FC will be moved to H four spaces in the same time that F, the other end of it, is inoved to three spaces, therefore the whole refracted pulse to H shall be oblique to the refracted Rays CHK and GI."
+`ACFD` is a physical Ray. `ABC` and `DEF` are 2 mathematical Rays, trajected from a very remote point of a luminous body through an Homogeneous transparent medium LL, and DA, EB, FC, to be small portions of the orbicular impulses which must therefore cut the Rays at right angles. These Hays meeting with the plain surface NO of a medium that yields an easier transitus to the propagation of light, and falling obliquely' on it, they will in the medium MM be refracted towards the perpendicular of the surface. And because this medium is more easily trajected than the former by a third, therefore the point U of the orbicular pulse FC will be moved to H four spaces in the same time that F, the other end of it, is inoved to three spaces, therefore the whole refracted pulse to H shall be oblique to the refracted Rays CHK and GI."
 
 Although this is not in all respects successful, it represents a decided advance on the treatment of the same problem by Descartes, which rested on a mere analogy. Hooke tries to determine what happens to the wave-front when it meets the interface between two media, and for this end he introduces the correct principle that the side of the wave-front which first meets the interface will go forward in the second medium with the velocity proper to that medium, while the other side of the wave-front which is still in the first medium is still moving with the old velocity: so that the wave-front will be deflected in the transition from one medium to the other.
 
