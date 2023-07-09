@@ -72,7 +72,7 @@ The crisis years came via Covid. It turned out that the medical system was the f
 
 
 {{< me d="July 2022" >}}
-Sri Lanka's economic and political system actually collapsed proving the pattern correct. This will be the pattern unless people drop Neoclassical Economics (selfish-interest, marginal utility, profit maximization, equity investments, and liquidity preference) and switch to Classical Economics (common interest, life purpose, dharma, social lending, and goal preference).
+The invasion by Russia on Ukraine proves the collapse of international law, while the collapse of Sri Lanka, and soon Pakistan, proves the failure of economic systems. This will be the pattern unless people drop Neoclassical Economics (selfish-interest, marginal utility, profit maximization, equity investments, and liquidity preference) and national interest, and switch to Classical Economics (common interest, life purpose, dharma, social lending, and goal preference).
 {{< /me >}}
 
 
