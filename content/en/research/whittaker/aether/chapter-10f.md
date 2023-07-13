@@ -39,11 +39,9 @@ where h0, denotes the impressed magnetic forces other than that induced by motio
 We must now consider the advances which were effected during the period following the publication of Maxwell's Treatise in some of the special problems of electricity and optics.
 
 We have seen[74] that Maxwell accounted for the rotation of the plane of polarization of light in a medium subjected to a magnetic field K by adding to the kinetic energy of the aether, which is represented by 
-1
-2
+
 ρė2, a term 
-1
-2
+
 σ(ė. curl ∂e/∂θ, where σ is a magneto-optic constant characteristic of the substance through which the light is transmitted, and ∂/∂θ stands for Kx∂/∂x + Ky∂/∂y + Kz∂/∂z. This theory was developed further in 1879 by FitzGerald,[75] who brought it into closer connexion with the electromagnetic theory of light by identifying the curl of the displacement e of the aethereal particles with the electric displacement; the derivate of e with respect to the time then corresponds to the magnetic force. Being thus in possession of a definitely electromagnetic theory of the magnetic rotation of light, FitzGerald proceeded to extend it so as to take account of a closely related phenomenon. In 1876 J. Kerr[76] had shown experimentally that when plane-polarized light is regularly reflected from either pole of an iron electromagnet, the reflected ray has a component polarized in a plane at right angles to the ordinary reflected ray. Shortly after this discovery had been made known, FitzGerald[77] had proposed to explain it by means of the same term in the equations which accounts for the magnetic rotation of light in transparent bodies. His argument was that if the incident plane-polarized ray be resolved into two rays circularly polarized in opposite senses, the refractive index will have different values for these two rays, and hence the intensities after reflexion will be different; so that on recompounding them, two plane-polarized rays will be obtained—one polarized in the plane of incidence, and the other polarized at right angles to it.
 
 The analytical discussion of Kerr's phenomenon, which was given by FitzGerald in his memoir of 1879, was based on these ideas; the most essential features of the phenomenon were explained, but the investigation was in some respects imperfect.[78]

@@ -1,13 +1,14 @@
 ---
-title: "Proximate Instances wanting the Nature of Heat"
-heading: Chapter 5
-weight: 1
+title: "Proximate Instances Lacking the Nature of Heat"
+heading: Chapter 17
+weight: 64
 description: ""
 image: "/covers/nova.jpg"
 icon: /icons/bacon.png
 ---
 
-## 25. Suggesting instances
+
+## 25. Suggesting Instances
 
 {{< s v="49" >}} These point out, that which is advantageous to mankind
 
@@ -15,7 +16,7 @@ Bare power and knowledge in themselves exalt rather than enrich human nature. We
 
 
 
-## 26. Generally useful instances
+## 26. Generally Useful instances
 
 {{< s v="50" >}} These relate to various points, and frequently occur, sparing by that means considerable labor and new trials. The proper place for treating of instruments and contrivances, will be that in which we speak of the application to practice, and the methods of experiment. 
 

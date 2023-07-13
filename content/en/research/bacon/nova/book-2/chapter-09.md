@@ -1,7 +1,7 @@
 ---
 title: "Constitutive or Collective Instances"
 heading: Chapter 9
-weight: 1
+weight: 28
 description: ""
 image: "/covers/nova.jpg"
 icon: /icons/bacon.png

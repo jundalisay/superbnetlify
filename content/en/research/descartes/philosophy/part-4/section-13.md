@@ -73,7 +73,7 @@ If anyone, wishing to decipher a letter written in Latin characters that are not
 
 {{< s v="206" >}} We possess even more than a moral certainty of it.
 
-Besides, there are some, even among natural, things which we judge to be absolutely certain. [Absolute certainty arises when we judge that it is impossible a thing can be otherwise than as we think it].
+There are some, even among natural, things which we judge to be absolutely certain. [Absolute certainty arises when we judge that it is impossible a thing can be otherwise than as we think it].
 
 This certainty is founded on the metaphysical ground, that, as God is supremely good and the source of all truth, the faculty of distinguishing truth from error which he gave us, cannot be fallacious so long as we use it aright, and distinctly perceive anything by it. Of this character are the demonstrations of mathematics, the knowledge that material things exist, and the clear reasonings that are formed regarding them. 
 

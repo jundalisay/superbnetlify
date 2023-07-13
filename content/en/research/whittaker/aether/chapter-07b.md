@@ -154,24 +154,6 @@ but the former of these integrals is equivalent to
 
 which vanishes, since B is a circuital vector. The energy of the field, therefore, reduces to
 
-1
-8
-�
-∭
-�
-�
-2
- 
-�
-�
- 
-�
-�
- 
-�
-�
-{\displaystyle {\frac {1}{8\pi }}\iiint \mu \mathbf {H} ^{2}\ dx\ dy\ dz},
-
 integrated over all space; which is equivalent to Thomson's form.[50]
 
 In the same memoir Thomson returned to the question of the energy which is possessed by a circuit in virtue of an electric current circulating in it. As he remarked, the energy may be determined by calculating the amount of work which must be done in and on the circuit in order to double the circuit on itself while the current is sustained in it with constant strength; for Faraday's experiments show that a circuit doubled on itself has no stored energy. Thomson found that the amount of work required may be expressed in the form 
@@ -184,26 +166,14 @@ It may be noticed that in the doubling process the inherent ​electrodynamic en
 Thomson next proceeded[51] to show that the energy which is stored in connexion with a circuit in which a current is flowing may be expressed as a volume-integral extended over the whole of space, similar to the integral by which he had already represented the energy of a system of permanent and temporary magnets. The theorem, as originally stated by its author, applied only to the case of a single circuit; but it may be established for a system formed by any number of circuits in the following way:—
 
 If Ns denote the number of unit tubes of magnetic induction which are linked with the sth circuit, in which a current is is flowing, the electrokinetic energy of the system is 
-1
-2
-∑
-�
-�
-�
-�
-�
-{\displaystyle \textstyle {\frac {1}{2}}\sum _{s}N_{s}i_{s}}; which may be written 
-1
-2
-∑
-�
-�
-�
-{\displaystyle \textstyle {\frac {1}{2}}\sum _{r}I_{r}}, where Ir, denotes the total current flowing through the gap formed by the rth path unit tube of magnetic induction. But if H denote the (vector) magnetic force, and H its numerical magnitude, it is known that (1/4π)∫ Hds, integrated along a closed line of magnetic induction, measures the total current flowing through the gap formed by the line. The energy is therefore 
 
-{\displaystyle \textstyle {\frac {1}{8\pi }}\sum \int Hds}, the summation being extended over all the unit tubes of magnetic induction, and the integration being taken along them. But if dS denote the cross-section of one of these tubes, we have BdS = 1, where B denotes the numerical magnitude of the magnetic induction B: so the energy is 
+which may be written 
 
-{\displaystyle \textstyle {\frac {1}{8\pi }}\iiint BH\ dx\ dy\ dz}, where the integration is extended over the whole of space; and since in the present case B = μH, the energy may also be represented by 
+I_{r}}, where Ir, denotes the total current flowing through the gap formed by the rth path unit tube of magnetic induction. But if H denote the (vector) magnetic force, and H its numerical magnitude, it is known that (1/4π)∫ Hds, integrated along a closed line of magnetic induction, measures the total current flowing through the gap formed by the line. The energy is therefore 
+
+, the summation being extended over all the unit tubes of magnetic induction, and the integration being taken along them. But if dS denote the cross-section of one of these tubes, we have BdS = 1, where B denotes the numerical magnitude of the magnetic induction B: so the energy is 
+
+, where the integration is extended over the whole of space; and since in the present case B = μH, the energy may also be represented by 
 
 
 But this is identical with the form which was obtained for a field due to permanent and temporary magnets. It thus appears that in all cases the stored energy of a system of electric currents and permanent and temporary magnets is
@@ -248,135 +218,3 @@ In 1834 Charles Wheatstone,[62] Professor of Experimental Philosophy in King's C
 
 The first step towards explaining these discrepancies was made by Faraday, who[64] early in 1854 showed experimentally that a submarine cable, formed of copper wire covered with ​gutta-percha, "may be assimilated exactly to an immense Leyden battery; the glass of the jars represents the gutta-percha; the internal coating is the surface of the copper wire," while the outer coating corresponds to the sea-water. It follows that in all calculations relating to the propagation of electric disturbances along submarine cables, the electrostatic capacity of the cable must be taken into account.
 
-The theory of signalling by cable originated in a correspondence between Stokes and Thomson in 1854. In the case of long submarine lines, the speed of signalling is so much limited by the electrostatic factor that electro-magnetic induction has no sensible effect; and it was accordingly neglected in the investigation. In view of other applications of the analysis, however, we shall suppose that the cable has a self-induction L per unit length, and that R denotes the ohmic resistance, and C the capacity per unit length, V the electric potential at a distance x from one terminal, and i the current at this place. Ohm's law, as modified for inductance, is expressed by the equation
-
-moreover, since the rate of accumulation of charge in unit length at x is - ∂i/∂x, and since this increases the potential at the rate - (1/C)∂i/∂x, we have
-
-Eliminating i between these two equations, we have
-
-
-which is known as the equation of telegraphy.[65]
-
-Thomson, in one of his letters[66] to Stokes in 1854, obtained this equation in the form which applies to Atlantic cables, i.e., with the term in L neglected. In this form it is ​the same as Fourier's equation for the linear propagation of heat: so that the known solutions of Fourier's theory may be used in a new interpretation. If we substitute
-we obtain
-
-and therefore a typical elementary solution of the equation is
-
-
-The form of this solution shows that if a regular harmonic variation of potential is applied at one end of a cable, the phase is propagated with a velocity which is proportional to the square root of the frequency of the oscillations: since therefore the different harmonics are propagated with different velocities, it is evident that no definite "velocity of transmission" is to be expected for ordinary signals. If a potential is suddenly applied at one end of the cable, a certain time elapses before the current at the other end attains a definite percentage of its maximum value; but it may easily be shown[67] that this retardation is proportional to the square of the length of the cable, so that the apparent velocity of propagation would be less, the greater the length of cable used.
-
-The case of a telegraph line insulated in the air on poles is different from that of a cable; for here the capacity is small, and it is necessary to take into account the inductance. If in the general equation of telegraphy we write
-
-
-we obtain the equation
-
-
-as the capacity is small, we may replace the quantity under the radical by its second term: and thus we see that a typical elementary solution of the equation is
-
-this shows that any harmonic disturbance, and therefore any disturbance whatever, is propagated along the wire with velocity (CL)-
-1
-2
-. The difference between propagation in an aerial wire and propagation in an oceanic cable is, as Thomson remarked, similar to the difference between the propagation of an impulsive pressure through a long column of fluid in a tube when the tube is rigid (case of the aerial wire) and when it is elastic, so as to be capable of local distension (case of the cable, the distension corresponding to the effect of capacity): in the former case, as is well known, the impulse is propagated with a definite velocity, namely, the velocity of sound in the fluid.
-The work of Thomson on signalling along cables was followed in 1857 by a celebrated investigation[68] of Kirchhoff's, on the propagation of electric disturbance along an aerial wire of circular cross-section.
-
-Kirchhoff assumed that the electric charge is practically all resident on the surface of the wire, and that the current is uniformly distributed over its cross-section; his idea of the current was the same as that of Fechner and Weber, namely, that it consists of equal streams of vitreous and resinous electricity flowing in opposite directions. Denoting the electric potential by V, the charge per unit length of wire by e, the length of the wire by l, and the radius of its cross-section by α, he showed that V is determined approximately by the equation[69]
-
-The next factor to be considered is the mutual induction of the current-elements in different parts of the wire. Assuming with Weber that the electromotive force induced in an clement ds due to another element ds′ carrying a current i′ is derivable from a vector-potential
-
-
-Kirchhoff found for the vector-potential due to the entire wire the approximate value
-
-
-where i denotes the strength of the current;[70] the vector-potential being directed parallel to the wire. Ohm's law then gives the equation
-where k denotes the specific conductivity of the material of which the wire is composed; and finally the principle of conservation of electricity gives the equation
-
-
-Denoting log (l/α) by γ, and eliminating e, i, w from these four equations, we have
-
-which is, as might have been expected, the equation of telegraphy. When the term in a ∂V/∂t is ignored, as we have seen is in certain cases permissible, the equation becomes
-
-
-which shows that the electric disturbance is propagated along the wire with the velocity c.[71] Kirchhoff's procedure has, in fact, involved the calculation of the capacity and self-induction of the wire, and is thus able to supply the definite values of the quantities which were left undetermined in the general equation of telegraphy.
-The velocity c, whose importance was thus demonstrated, has already been noticed in connexion with Weber's law of force; it is a factor of proportionality, which must be introduced when electrodynamic phenomena are described in terms of units which have been defined electrostatically,[72] or conversely when units which have been defined electrodynamically[73] are used in the description of electrostatic phenomena. That the factor which is introduced on such occasions must be of the dimensions (length/time), may be easily seen: for the electrostatic repulsion between electric charges is a quantity of the same kind as the electrodynamic repulsion between two definite lengths of wire, carrying currents which may be specified by the amount of charge which travels past any point in unit time.
-
-Shortly before the publication of Kirchhoff's memoir, the value of c had been determined by Weber and Kohlrausch;[74] their determination rested on a comparison of the measures of the charge of a Leyden jar, as obtained by a method depending on electrostatic attraction, and by a method depending on the ​magnetic effects of the current produced by discharging the jar. The resulting value was nearly
-
-c = 3·1 × 1010 cm./sec.;
-
-which was the same, within the limits of the errors of measurement, as the speed with which light travels in interplanetary space. The coincidence was noticed by Kirchhoff, who was thus the first to discover the important fact that the velocity with which an electric disturbance is propagated along a perfectlyconducting aerial wire is equal to the velocity of light.
-
-In a second memoir published in the same year, Kirchhoff[75] extended the equations of propagation of electric disturbance to the case of three-dimensional conductors.
-
-As in his earlier investigation, he divided the electromotive force at any point into two parts, of which one is the gradient of the electrostatic potential φ, and the other is the derivate with respect to the time (with sign reversed) of a vectorpotential a; so that if i denote the current and k the specific conductivity, Ohm's law is expressed by the equation
-
-Kirchhoff calculated the value of a by aid of Weber's formula for the inductive action of one current element on another; the result is
-
-where r denotes the vector from the point (x, y, z), at which a is measured, to any other point (x′, y′, z′) of the conductor, at which the current is i′; and the integration is extended over the whole volume of the conductor. The remaining general equations are the ordinary equation of the electrostatic potential
-
-(where ρ denotes the density of electric charge), and the equation of conservation of electricity
-
-It will be seen that Kirchhoff's electrical researches were greatly influenced by those of Weber. The latter investigations, however, did not enjoy unquestioned authority; for there was still a question as to whether the expressions given by Weber for the mutual energy of two current elements, and for the mutual energy of two electrons, were to be preferred to the rival formulae of Neumann and Riemann. The matter was examined in 1870 by Helmholtz, in a series of memoirs[76] to which reference has already been made.[77] Helmholtz remarked that, for two elements ds, ds′, carrying currents i, i′, the electrodynamic energy is
-
-
-according to Neumann, and
-
-according to Weber; and that these expressions differ from each other only by the quantity
-
-since this vanishes when integrated round either circuit, the two formulae give the same result when applied to entire currents. A general formula including both that of Neumann and that of Weber is evidently
-
-where k denotes an arbitrary constant.[78]
-
-Helmholtz's result suggested to Clausius[79] a new form for the law of force between electrons; namely, that which is ​obtained by supposing that two electrons of charges e, e′, and velocities v, v′, possess electrokinetic energy of amount
-
-Subtracting from this the mutual electrostatic potential energy, which is ee′c2/r, we may write the mutual kinetic potential of the two electrons in the form
-
-where (x, y, z) denote the coordinates of e, and (x′, y′, z′) those of e′.
-
-The unknown constant k has clearly no influence so long as closed circuits only are considered: if k be replaced by zero, the expression for the kinetic potential becomes
-
-
-which, as will appear later, closely resembles the corresponding expression in the modern theory of electrons.
-
-Clausius' formula has the great advantage over Weber's, that it does not compel us to assume equal and opposite velocities for the vitreous and resinous charges in an electric current; on the other hand, Clausius' expression involves the absolute velocities of the electrons, while Weber's depends only on their relative motion; and therefore Clausius' theory requires the assumption of a fixed aether in space, to which the velocities v and v′ may be referred.
-
-When the behaviour of finite electrical systems is predicted from the formulae of Weber, Riemann, and Clausius, the three laws do not always lead to concordant results. For instance, if a circular current be rotated with constant angular velocity round its axis, according to Weber's law there would be a development of free electricity on a stationary conductor in the neighbourhood; whereas, according to Clausius' formula there would be no induction on a stationary body, but electrification ​would appear on a body turning with the circuit as if rigidly connected with it. Again,[80] let a magnet be suspended within a hollow metallic body, and let the hollow body be suddenly charged or discharged; then, according to Clausius' theory, the magnet is unaffected; but according to Weber's and Riemann's theories it experiences an impulsive couple. And again, if an electrified disk be rotated in its own plane, under certain circumstances a steady current will be induced in a neighbouring circuit according to Weber's law, but not according to the other formulae.
-
-An interesting objection to Clausius' theory was brought forward in 1879 by Fröhlich[81]—namely, that when a charge of free electricity and a constant electric current are at rest relatively to each other, but partake together of the translatory motion of the earth in space, a force should act between them if Clausius' law were true. It was, however, shown by Budde[82] that the circuit itself acquires an electrostatic charge, partly as a result of the same action which causes the force on the external conductor, and partly as a result of electrostatic induction by the charge on the external conductor; and that the total force between the circuit and external conductor is thus reduced to zero.[83]
-
-
-We have seen that the discrimination between the different laws of electrodynamic force is closely connected with the question whether in an electric current there are two kinds of electricity moving in opposite directions, or only one kind moving in one direction. On the unitary hypothesis, that the ​current consists in a transport of one kind of electricity with a definite velocity relative to the wire, it might be expected that a coil rotated rapidly about its own axis would generate a magnetic field different from that produced by the same coil at rest. Experiments to determine the matter were performed by A. Föppl[84] and by E. L Nichols and W. S. Franklin,[85] but with negative results. The latter investigators found that the velocity of electricity must be such that the quantity conveyed past a specified point in a unit of time, when the direction of the current was that in which the coil was travelling, did not differ from that transferred when the current and coil were moving in opposite directions by as much as one part in ten million, even when the velocity of the wire was 9096 cm./sec. They considered that they would have been able to detect a change of deflexion due to the motion of the coil, even though the velocity of the current had been considerably greater than a thousand million metres per second.
-
-
-During the decades in the middle of the century consider- able progress was made in the science of thermo-electricity, whose beginnings we have already described.[86] In Faraday's laboratory note-book, under the date July 28th, 1836, we read[87]:—"Surely the converse of thermo-electricity ought to be obtained experimentally. Pass current through a circuit of antimony and bismuth."
-
-Unknown to Faraday, the experiment here indicated had already been made, although its author had arrived at it by a different train of ideas. In 1834 Jean Charles Peltier[88] (b. 1785, d. 1845) attempted the task, which was afterwards performed with success by Joule,[89] of measuring the heat evolved by the passage of an electric current through a conductor. He found that a current produces in a homogeneous conductor an elevation ​of temperature, which is the same in all parts of the conductor where the cross-section is the same; but he did not succeed in connecting the thermal phenomena quantitatively with the strength of the current—a failure which was due chiefly to the circumstance that his attention was fixed on the rise of temperature rather than on the amount of the heat evolved. But incidentally the investigation led to an important discovery—namely, that when a current was passed in succession through two conductors made of dissimilar metals, there was an evolution of heat at the junction; and that this depended on the direction of the current; for if the junction was heated when the current flowed in one sense, it was cooled when the current flowed in the opposite sense. This Peltier effect, as it is called, is quite distinct from the ordinary Joulian liberation of heat, in which the amount of energy set free in the thermal form is unaffected by a reversal of the current; the Joulian effect is, in fact, proportional to the square of the current-strength, while the Peltier effect is proportional to the current-strength directly. The Peltier heat which is absorbed from external sources when a current i flows for unit time through a junction from one metal B to another metal A may therefore be denoted by
-
-where T denotes the absolute temperature of the junction. The function 
-
-
-is found to be expressible as the difference of two parts, of which one depends on the metal A only, and the other on the metal B only; thus we can write
-
-
-
-In 1851 a general theory of thermo-electric phenomena was constructed on the foundation of Seebeck's[90] and Peltier's discoveries by W. Thomson.[91] Consider a circuit formed of two ​metals, A and B, and let one junction be maintained at a slightly higher temperature (T + δT) than the temperature T of the other junction. As Seebeck had shown, a thermo-electric current will be set up in the circuit. Thomson saw that such a system might be regarded as a heat-engine, which absorbs a certain quantity of heat at the hot junction, and convorts part of this into electrical energy, liberating the rest in the form of heat at the cold junction. If the Joulian evolution of heat be neglected, the process is reversible, and must obey the second law of thermodynamics; that is, the sum of the quantities of heat absorbed, cach divided by the absolute temperature et which it is absorbed, must vanish. Thus we have
-
-
-so the Peltier effect 
-
-{\displaystyle \textstyle \prod _{B}^{A}(T)} must be directly proportional to the absolute temperature T. This result, however, as Thomson well knew, was contradicted by the observations of Cumming, who had shown that when the temperature of the hot junction is gradually increased, the electromotive force rises to a maximum value and then decreases. The contradiction led Thomson to predict the existence of a hitherto unrecognized thermo-electric phenomenon-namely, a reversible absorption of heat at places in the circuit other than the junctions. Suppose that a current flows along a wire which is of the same metal throughout, but varies in temperature from point to point. Thomson showed that heat must be liberated at some points and absorbed at others, so as either to accentuate or to diminish the differences of temperature at the different points of the wire. Suppose that the heat absorbed from external sources when unit electric charge passes from the absolute temperature T to the temperature (T + δT) in a metal A is denoted by SA(T).δT. The thermodynamical equation now takes the corrected form
-
-
-Since the metals A and B are quite independent, this gives
-
-This equation connects Thomson's "specific heat of electricity" SA(T) with the Peltier effect.
-
-In 1870 P. G. Tait[92] found experimentally that the specific heat of electricity in pure metals is proportional to the absolute temperature. We may therefore write 
-
-{\displaystyle \rho _{A}}, denotes a constant characteristic of the metal 
-�
-A. The thermodynamical equation then becomes
-
-
-where πA denotes another constant characteristic of the metal. The chief part of the Peltier effect arises from the term πAT.
-
-By the investigations which have been described in the present chapter, the theory of electric currents was considerably advanced in several directions. In all these researches, however, attention was fixed on the conductor carrying the current as the seat of the phenomenon. In the following period, interest was centred not so much on the conductors which carry charges and currents, as on the processes which take place in the dielectric media around them.

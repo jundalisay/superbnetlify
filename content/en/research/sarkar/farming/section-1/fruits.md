@@ -465,7 +465,7 @@ They can be eaten or sold as a cash crop. Some of the nuts which should be grown
 The cashew nuts grown in India are usually sent to Madras for processing. Some nuts like walnut and chestnut should be the subject of further research.
 
 
-## TEA, COFFEE AND COCOA
+## Tea, Coffee And Cocoa
 
 In olden times, Buddhist Tantrics used to take a drink which was made from the green leaves of a bush boiled in water. 
 

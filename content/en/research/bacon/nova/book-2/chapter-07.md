@@ -1,7 +1,7 @@
 ---
 title: "Prerogative Instances"
 heading: Chapter 7
-weight: 1
+weight: 20
 description: ""
 image: "/covers/nova.jpg"
 icon: /icons/bacon.png

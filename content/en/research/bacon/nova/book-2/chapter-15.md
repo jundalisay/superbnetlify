@@ -1,7 +1,7 @@
 ---
 title: "The Principal Kinds Of Motions"
 heading: Chapter 15
-weight: 1
+weight: 56
 description: ""
 image: "/covers/nova.jpg"
 icon: /icons/bacon.png

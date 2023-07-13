@@ -8,14 +8,10 @@ description: ""
 ---
 
 
-THE palm itself, its shape and consistency, aside from the markings
-upon it, tells much about the person whose hand you are studying.
-Development of the hand, which is the instrument of the brain, is
-dependent on all the biological and chemical factors which also de-
-termine the personality. Studies of the ductless glands have given us
-some understanding of the complicated chemistry governing human
-energy, sex, and nervous reactions, from the simplest reflex to in-
-volved inhibitions and neuroses.
+THE palm itself, its shape and consistency, aside from the markings upon it, tells much about the person whose hand you are studying.
+Development of the hand, which is the instrument of the brain, is dependent on all the biological and chemical factors which also de-
+termine the personality. Studies of the ductless glands have given us some understanding of the complicated chemistry governing human
+energy, sex, and nervous reactions, from the simplest reflex to involved inhibitions and neuroses.
 
 This same machinery of nerve communication and glandular secretions, which decides the weight, height and nervous and muscular responses of the individual, also determines the development of the
 

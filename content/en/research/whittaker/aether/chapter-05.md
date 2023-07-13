@@ -1,7 +1,7 @@
 ---
 title:  "The Aether As An Elastic Solid"
 heading:  "Chapter 5"
-weight: 30
+weight: 34
 author: Edmund Taylor Whittaker
 image:  "/covers/history.jpg"
 description: ""
@@ -120,27 +120,5 @@ and the plane of polarization is interpreted to be the plane at right angles to 
 
 Either of Cauchy's theories accounts tolerably well for the phenomena of crystal-optics; but the wave-surface (or rather the two sheets of it which correspond to nearly transverse waves) is not exactly Fresnel's. In both theories the existence of a third wave, formed of nearly longitudinal vibrations, is a formidable difficulty. 
 
-Cauchy himself anticipated that the existence of these vibrations would ultimately be demonstrated by experiment, and in one place[17] conjectured that they might be of a calorific nature. A further objection to Cauchy's theories is that the relations between the constants do not appear to admit of any simple physical interpretation, being evidently assumed for the sole purpose of forcing the formulae into some degree of conformity with the results of experiment. And further difficulties will appear when we proceed subsequently to compare the properties which are assigned to the aether in crystal-optics with those which must be postulated in order to account for reflexion and refraction.
+Cauchy himself anticipated that the existence of these vibrations would ultimately be demonstrated by experiment, and in one place[17] conjectured that they might be of a calorific nature. 
 
-To the latter problem Cauchy soon addressed himself, his investigations being in fact published[18] in the same year (1830) as the first of his theories of crystal-optics.
-
-At the outset of any work on refraction, it is necessary to assign a cause for the existence of refractive indices, i.e. for the variation in the velocity of light from one body to another. Huygens, as we have seen, suggested that transparent bodies consist of hard particles which interact with the aethereal matter, modifying its elasticity. Cauchy in his earlier papers[19] followed this lead more or less closely, assuming that the density ρ of the aether is the same in all media, but that its rigidity n varies from one medium to another.
-
-Let the axis of x be taken at right angles to the surface of separation of the media, and the axis of z parallel to the intersection of this interface with the incident wave-front; and suppose, first, that the incident vibration is executed at right angles to the plane of incidence, so that it may be represented by
-
-
-where i denotes the angle of incidence; the reflected wave may be represented by
-
-
-and the refracted wave by
-
-
-where r denotes the angle of refraction, and n′ the rigidity of the second medium.
-
-To obtain the conditions satisfied at the reflecting surface, Cauchy assumed (without assigning reasons) that the x- and y-components of the stress across the xy-plane are equal in the media on either side the interface. This implies in the present case that the quantities
-
-are to be continuous across the interface: so we have
-
-Eliminating f′1, we have
-
-Now this is Fresnel's sine-law for the ratio of the intensity of the reflected ray to that of the incident ray; and it is known that the light to which it applies is that which is polarized parallel to the plane of incidence. Thus Cauchy was driven to the conclusion that, in order to satisfy the known facts of reflexion and refraction, the vibrations of the aether must be supposed executed at right angles the plane of polarization of the light.

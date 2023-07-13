@@ -1,7 +1,7 @@
 ---
 title: "Jointed instances"
-heading: Chapter 5
-weight: 1
+heading: Chapter 14
+weight: 52
 description: ""
 image: "/covers/nova.jpg"
 icon: /icons/bacon.png

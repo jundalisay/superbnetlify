@@ -40,9 +40,17 @@ We have not, however, as many different senses as there are nerves. We can disti
 
 The nerves which extend to the stomach, the oesophagus, the fauces, and the other internal parts that are subservient to our natural wants, constitute one of our internal senses. This is called the natural appetite (APPETITUS NATURALIS). 
 
-The other internal sense, which embraces all the emotions (COMMOTIONES) of the mind or passions, and affections, as joy, sadness, love, hate, and the like, depends upon the nerves which extend to the heart and the parts about the heart, and are exceedingly small; for, by way of example, when the blood happens to be pure and well tempered, so that it dilates in the heart more readily and strongly than usual, this so enlarges and moves the small nerves scattered around the orifices, that there is thence a corresponding movement in the brain, which affects the mind with a certain natural feeling of joy; and as often as these same nerves are moved in the same way, although this is by other causes, they excite in our mind the same feeling (sensus, sentiment).
+The other internal sense, which embraces all the emotions (COMMOTIONES) of the mind or passions, and affections, as joy, sadness, love, hate, and the like, depends on the nerves which extend to the heart and the parts about the heart. These are exceedingly small. 
 
-Thus, the imagination of the enjoyment of a good does not contain in itself the feeling of joy, but it causes the animal spirits to pass from the brain to the muscles in which these nerves are inserted; and thus dilating the orifices of the heart, it also causes these small nerves to move in the way appointed by nature to afford the sensation of joy. 
+For example, when the blood happens to be pure and well tempered, it dilates in the heart more readily and strongly than usual.
+- This enlarges and moves the small nerves scattered around the orifices.
+- This produces a corresponding movement in the brain, which affects the mind with a natural feeling of joy.
+
+As often as these same nerves are moved in the same way, although this is by other causes, they excite in our mind the same feeling (sensus, sentiment).
+
+Thus, the imagination of the enjoyment of a good does not contain in itself the feeling of joy. But it causes the animal spirits to pass from the brain to the muscles in which these nerves are inserted.
+
+Thus, dilating the orifices of the heart, it also causes these small nerves to move in the way appointed by nature to afford the sensation of joy. 
 
 Thus, when we receive news, the mind first of all judges of it, and if the news be good, it rejoices with that intellectual joy (GAUDIUM INTELLECTUALE) which is independent of any emotion (COMMOTIO) of the body, and which the Stoics did not deny to their wise man [although they supposed him exempt from all passion]. 
 

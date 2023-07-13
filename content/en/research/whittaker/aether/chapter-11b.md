@@ -23,13 +23,15 @@ But there is a certain amount of chemical evidence in favour of Arrhenius' conce
 
 The general acceptance of Arrhenius' views was hastened by the advocacy of Ostwald, who brought to light further evidence in their favour. For instance, all permanganates in dilute solution show the same purple colour; 
 
-Ostwald considered their absorption-spectra to be identical;[26]this identity is easily accounted for on Arrhenius' theory, by supposing that the spectrum in question is that of the anion which corresponds to the acid radicle. The blue colour which is observed in dilute solutions of copper salts, even when the strong solution is not bine, may in the same way be ascribed to a blue copper cation. A striking instance of the same kind is afforded by ferric sulphocyanide; here the strong solution shows a deep red colour, due to the salt itself; but on dilution the colour disappears, the ions being colourless.
+Ostwald considered their absorption-spectra to be identical[26]. This identity is easily accounted for on Arrhenius' theory, by supposing that the spectrum in question is that of the anion which corresponds to the acid radicle.
+
+The blue colour which is observed in dilute solutions of copper salts, even when the strong solution is not bine, may in the same way be ascribed to a blue copper cation. A striking instance of the same kind is afforded by ferric sulphocyanide; here the strong solution shows a deep red colour, due to the salt itself; but on dilution the colour disappears, the ions being colourless.
 
 If it be granted that ions can have any kind of permanent existence in a salt solution, it may be shown from thermodynamical considerations that the degree of dissociation must increase as te dilution increases, and that at infinite dilution there must be complete dissociation. For the available energy of a dilute solution of volume V, containing n1, gramme-molecules of one substance, n2 gramme-molecules of another, and so on, is (as may be shown by an obvious extension of the reasoning already employed in connexion with concentration-cells)[27]
 
 
  the available energy
-{\displaystyle \sum _{r}n_{r}\phi _{r}(T)+RT\sum _{r}n_{r}\log(n_{r}/V)+{\text{ the available energy}}}
+{ the available energy}
 
 possessed by the solvent before the introduction of the solutes, where φr(T) depends on T and on the nature of the rth solute, but not on V, and R denotes the constant which occurs in the equation of state of perfect gases. When the system is in equilibrium, the proportions of the reacting substances will be so adjusted that the available energy has a stationary value for small virtual alterations ∂n1, ∂n2, …… of the proportions; and therefore
 
@@ -48,11 +50,11 @@ or
 
 Since in a neutral solution the number of anions is equal to the number of cations, this equation may be written
 
-×
- a function of 
-�
- only
-{\displaystyle n_{2}^{2}=Vn_{1}\times {\text{ a function of }}T{\text{ only}}};
+a function of 
+
+only
+
+times {\text{ a function of }}T{\text{ only}}};
 
 it shows that when V is very large (so that the solution is very dilute), n2 is very large compared with n1; that is to say, the salt tends towards a state of complete dissociation.
 

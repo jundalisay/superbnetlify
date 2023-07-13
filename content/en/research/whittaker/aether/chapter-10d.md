@@ -1,8 +1,35 @@
+---
+title: "Thomson's Theory"
+heading: "Chapter 10d"
+weight: 110
+author: Edmund Taylor Whittaker
+image:  "/covers/history.jpg"
+description: "The theory of moving tubes of force has been extensively developed by Sir Joseph Thomson."
+---
+
+
 The theory of moving tubes of force has been extensively developed by Sir Joseph Thomson.[38] 
 
-Of the two kinds of tubes—magnetic and electric—which had been introduced by Faraday and used by Poynting, Thomson resolved to discard the former and employ only the latter. This was a distinct departure from Faraday's conceptions, in which, as we have seen, great significance was attached to the physical reality of the magnetic lines; but Thomson justified his choice by inferences drawn from the phenomena of electric conduction in liquids and gases. As will appear subsequently, these phenomena indicate that molecular structure is closely connected with tubes of electrostatic force—perhaps much more closely than with tubes of magnetic force; and Thomson therefore decided to regard magnetism as the secondary effect, and to ascribe magnetic fields, not to the presence of magnetic tubes, but to the motion of electric tubes. In order to account for the fact that magnetic fields may occur without any manifestation of electric force, he assumed that tubes exist in great numbers everywhere in space, either in the form of closed circuits or else terminating on atoms, and that electric force is only perceived when the tubes have a greater tendency to lie in one direction than in another. In a steady magnetic field the positive and negative tubes might be conceived to be moving in opposite directions with equal velocities.
+Faraday introduced 2 kinds of tubes:
 
-A beam of light might, from this point of view, be regarded simply as a group of tubes of force which are moving with the velocity of light at right angles to their own length. Such a conception almost amounts to a return to the corpuscular theory; but since the tubes have definite directions perpendicular to the direction of propagation, there would now be no difficulty in explaining polarization.
+1. Magnetic
+2. Electric
+
+These were also used by Poynting.
+
+Thomson resolved to discard the magentic and employ only the electric. This was a distinct departure from Faraday's conceptions which put great significance to the physical reality of the magnetic lines.
+
+Thomson justified his choice by inferences drawn from the phenomena of electric conduction in liquids and gases.
+
+These phenomena indicate that molecular structure is closely connected with tubes of electrostatic force—perhaps much more closely than with tubes of magnetic force; and Thomson therefore decided to regard magnetism as the secondary effect, and to ascribe magnetic fields, not to the presence of magnetic tubes, but to the motion of electric tubes. 
+
+In order to account for magnetic fields occuring without any electric force, he assumed that tubes exist in great numbers everywhere in space, either in the form of closed circuits or else terminating on atoms, and that electric force is only perceived when the tubes have a greater tendency to lie in one direction than in another. 
+
+In a steady magnetic field the positive and negative tubes might be conceived to be moving in opposite directions with equal velocities.
+
+A beam of light might, from this point of view, be regarded simply as a group of tubes of force which are moving with the velocity of light at right angles to their own length. 
+
+Such a conception almost amounts to a return to the corpuscular theory; but since the tubes have definite directions perpendicular to the direction of propagation, there would now be no difficulty in explaining polarization.
 
 The energy accompanying all electric and magnetic phenomena was supposed by Thomson to be ultimately kinetic energy of the aether; the electric part of it being represented by rotation of the aether inside and about the tubes, and the magnetic part being the energy of the additional disturbance set up in the aether by the movement of the tubes. The inertia of this latter motion he regarded as the cause of induced electromotive force.
 
@@ -13,12 +40,10 @@ For this conjecture reasons of a more definite kind may be given.[39] We have al
 So long as the field is steady (i.e. electrostatic or magnetostatic) the resultant of the stresses acting on any element of volume of the aether is zero, so that the element is in equilibrium. But when the field is variable, this is no longer the case. The resultant stress on the aether contained within a surface S is
 
 integrated over the surface: transforming this into a volume- integral, the term (D.N)E gives a term div D.E + (D.∇)E, where ∇ denotes the vector operator (∂/∂x, ∂/∂y, ∂/∂z); and the first of these terms vanishes, since D is a circuital vector; the term - 
-1
-2
+
 (D.E)N gives in the volume-integral a term 
-1
-2
- grad (D.E); and the magnetic terms give similar results. So the resultant force on unit-volume of the aether is
+
+grad (D.E); and the magnetic terms give similar results. So the resultant force on unit-volume of the aether is
 
 which may be written
 
@@ -30,7 +55,9 @@ Maxwell's theory was now being developed in ways which could scarcely have been 
 
 The train of Hertz' ideas resembles that by which Ampère, on hearing of Oersted's discovery of the magnetic field produced by electric currents, inferred that electric currents should exert ponderomotive forces on each other. Ampère argued that a current, being competent to originate a magnetic field, must be equivalent to a magnet in other respects; and therefore that currents, like magnets, should exhibit forces of mutual attraction and repulsion.
 
-Ampère's reasoning rests on the assumption that the magnetic field produced by a current is in all respects of the same nature as that produced by a magnet; in other words, that only one kind of magnetic force exists. This principle of the "unity of magnetic force" Hertz now proposed to supplement by asserting that the electric force generated by a changing magnetic field is identical in nature with the electric force due to electrostatic charges; this second principle he called the "unity of electric force." Suppose, then, that a system of electric currents ι exists in otherwise empty space. According to the older theory, these currents give rise to a vector-potential a1, equal to Pot ι;[45] and the magnetic force H1, is the curl of a1: while the electric force E1, at any point in the field, produced by the variation of the currents, is 
+Ampère's reasoning rests on the assumption that the magnetic field produced by a current is in all respects of the same nature as that produced by a magnet; in other words, that only one kind of magnetic force exists. This principle of the "unity of magnetic force" Hertz now proposed to supplement by asserting that the electric force generated by a changing magnetic field is identical in nature with the electric force due to electrostatic charges; this second principle he called the "unity of electric force." 
+
+Suppose, then, that a system of electric currents ι exists in otherwise empty space. According to the older theory, these currents give rise to a vector-potential a1, equal to Pot ι;[45] and the magnetic force H1, is the curl of a1: while the electric force E1, at any point in the field, produced by the variation of the currents, is 
 
 
 It is now assumed that the electric force so produced is indistinguishable from the electric force which would be set up by electrostatic charges, and therefore that the system of varying currents exerts ponderomotive forces on electrostatic charges; the principle of action and reaction then requires that electrostatic charges should exert ponderomotive forces on a system of varying currents, and consequently (again appealing to the principle of the unity of electric force) that two systems of varying currents should exert on each other ponderomotive forces due to the variations.

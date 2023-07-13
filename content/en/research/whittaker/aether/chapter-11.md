@@ -32,15 +32,27 @@ In 1857 this idea was made by R. Clausius,[3] of Zurich, the basis of a theory o
 
 According to it, the electromotive force emanating from the electrodes does not effect the dissociation of the electrolyte into ions, since a degree of dissociation sufficient for the purpose already exists in consequence of the perpetual mutability of the molecules of the electrolyte. 
 
-Clausius assumed that these ions are in opposite electric conditions; the applied electric force therefore causes a general drift of all the ions of one kind towards the anode, and of all the ions of the other kind towards the cathode. These opposite motions of the two kinds of ions constitute the galvanic current in the liquid.
+Clausius assumed that these ions are in opposite electric conditions. The applied electric force therefore causes a general drift of all the ions of one kind towards the anode, and of all the ions of the other kind towards the cathode. 
+
+These opposite motions of the two kinds of ions constitute the galvanic current in the liquid.
 
 The merits of the Williamson-Clausius hypothesis were not fully recognized for many years; but it became the foundation of that theory of electrolysis which was generally accepted at the end of the century.
 
-Meanwhile another aspect of electrolysis was receiving attention. It had long been known that the passage of a current through an electrolytic solution is attended not only by the appearance of the products of decomposition at the electrodes, but also by changes of relative strength in different parts of the solution itself. 
+Meanwhile, another aspect of electrolysis was receiving attention. 
 
-Thus in the electrolysis of a solution of copper sulphate, with copper electrodes, in which copper is dissolved off the anode and deposited on the cathode, it is found that the concentration of the solution diminishes near the cathode, and increases near the anode. Some experiments on the subject were made by Faraday[4] in 1835; and in 1844 it was further investigated by Frederic Daniell and W. A. Miller,[5] who explained it by asserting that the cation and anion have not (as had previously been supposed) the same facility of moving to their respective electrodes; but that in many cases, the cation appears to move but little, while the transport is effected chiefly by the anion.
+It had long been known that the passage of a current through an electrolytic solution is attended not only by the appearance of the products of decomposition at the electrodes, but also by changes of relative strength in different parts of the solution itself. 
 
-This idea was adopted by W. Hittorf, of Münster, who, in the years 1853 to 1859, published[6] a series of memoirs on the migration of the ions. Let the velocity of the anions in the solution be to the velocity of the cations in the ratio v:u. Then it is easily seen that if (u + v) molecules of the electrolyte are decomposed by the current, and yielded up as ions at the electrodes, v of these molecules will have been taken from the fluid on the side of the cathode, and u of them from the fluid on the side of the anode. By measuring the concentration of the liquid round the electrodes after the passage of a current, Hittorf determined the ratio v/u in a large number of cases of electrolysis.[7]
+Thus, in the electrolysis of a solution of copper sulphate, with copper electrodes, in which copper is dissolved off the anode and deposited on the cathode, the concentration of the solution diminishes near the cathode, and increases near the anode. 
+
+
+
+Faraday[4] made some experiments on this in 1835. In 1844, this was further investigated by Frederic Daniell and W. A. Miller[5]. They asserted that the cation and anion have not (as had previously been supposed) the same facility of moving to their respective electrodes. Instead, the cation appears to move but little, while the transport is effected chiefly by the anion.
+
+This idea was adopted by W. Hittorf of Münster. In 1853 to 1859, he published[6] a series of memoirs on the migration of the ions. 
+
+Let the velocity of the anions in the solution be to the velocity of the cations in the ratio v:u. Then it is easily seen that if (u + v) molecules of the electrolyte are decomposed by the current, and yielded up as ions at the electrodes, v of these molecules will have been taken from the fluid on the side of the cathode, and u of them from the fluid on the side of the anode. 
+
+By measuring the concentration of the liquid round the electrodes after the passage of a current, Hittorf determined the ratio v/u in a large number of cases of electrolysis.[7]
 
 The theory of ionic movements was advanced a further stage by F. W. Kohlrausch[8] (b. 1840, d. 1910), of Würzburg. Kohlrausch showed that although the ohmic specific conductivity k of a solution diminishes indefinitely as the strength of the solution is reduced, yet the ratio k/m, where m denotes the number of gramme-equivalents[9] of salt per unit volume, tends to a definite limit when the solution is indefinitely dilute. 
 
@@ -121,8 +133,6 @@ where T denotes the absolute temperature, and R denotes the constant of the equa
 
 
 and therefore
-
-
 
 
 Thus in the available energy of one gramme-molecule of a dissolved salt, the term which depends on the concentration is proportional to the logarithm of the concentration; and hence, if in a concentration-cell one gramme-molecule of the salt passes from a high concentration c2, at one electrode to a low concentration c1 at the other electrode, its available energy is thereby diminished by an amount proportional to log c2/c1. The energy which thus disappears is given up by the system in the form of electrical work; and therefore the electromotive force of the concentration-cell must be proportional to log c2/c1. The theory of solutions and their vapour-pressure was not at the time sufficiently developed to enable Helmholtz to determine precisely the coefficient of log c2/c1 in the expression.[22]

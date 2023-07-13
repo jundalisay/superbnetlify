@@ -1,7 +1,7 @@
 ---
 title: "The tables of review"
 heading: Chapter 6
-weight: 12
+weight: 16
 description: ""
 image: "/covers/nova.jpg"
 icon: /icons/bacon.png

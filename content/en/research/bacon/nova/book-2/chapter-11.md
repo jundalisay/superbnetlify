@@ -1,11 +1,12 @@
 ---
-title: "Similar, Proportionate instances or physical parallels or resemblances"
-heading: Chapter 5c
-weight: 1
+title: "Instances of power"
+heading: Chapter 11
+weight: 40
 description: ""
 image: "/covers/nova.jpg"
 icon: /icons/bacon.png
 ---
+
 
 ## 10. Instances of power, or the fasces (to borrow a term from the insignia of empire) or the wit or hands of man
 

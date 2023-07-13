@@ -1,5 +1,5 @@
 ---
-title: "Lorentz' Theory"
+title: "Zeeman's Effect"
 heading: "Chapter 12f"
 weight: 112
 author: Edmund Taylor Whittaker
@@ -8,127 +8,93 @@ description: ""
 ---
 
 
-Lorentz combined the ideas of Thomson, Riecke, and Drude[113] into the most complete form.
-
-It is supposed that the atoms of the metal are fixed, and that in the interstices between them a large number of resinous electrons are in rapid motion. 
-
-The mutual collisions of the electrons are disregarded, so that their collisions with the fixed atoms alone come under consideration; these are regarded as analogous to collisions between moving and fixed elastic spheres.
-
-The flow of heat and electricity in the metal is supposed to take place in a direction parallel to the axis of x, so that the metal is in the same condition at all points of any plane perpendicular to this direction; and the flow is supposed to be steady, so that the state of the system is independent of the time.
-
-Consider a slab of thickness dx and of unit area; and suppose that the number of electrons in this slab whose x-components of velocity lie between u and u + du, whose y-components of velocity lie between v and v + du, and whose z-components of velocity lie between w and w + du, is
-
-f(u, v, w, x) dx du dv dw.
-
-One of these electrons, supposing it to escape collision, will in the interval of time dt travel from (x, y, z) to (x + u dt, y + vdt, z + wdt): and its x-component of velocity will at the end of the interval be increased by an amount eEdt/m, if m and e denote its mass and charge, and E denotes the electric force. Suppose that the number of electrons lost to this group by collisions in the interval dt is a dx du dv dw dt, and that the ​number added to the group by collisions in the same interval is b dx du dv dw dt. Then we have
-
-f (u, v, w, x) + (b - a)dt = f(u + eEdt/m, v, w, x + udt),
-
-and therefore
-
-The law of distribution of velocities which Maxwell postulated for the molecules of a perfect gas at rest is expressed by the equation
 
 
-where N denotes the number of moving corpuscles in unit volume, r denotes the resultant velocity of a corpuscle (so that r2 = u2 + v2 + w2), and a denotes a constant which specifies the average intensity of agitation, and consequently the temperature. It is assumed that the law of distribution of velocities among the electrons in a metal is nearly of this form; but a term must be added in order to represent the general drifting of the electrons parallel to the axis of x. The simplest assumption that can be made regarding this term is that it is of the form
+The more refrangible components are the ones whose period is shorter than that of the original radiation.
 
-u × a function of r only;
-we shall, therefore, write
+Cornu[93] and by C. G. W. König[94] found that their circular vibration was the same as the current in the electromagnet. 
 
-The value of χ(r) may now be determined from the equation
+Thgis means that the vibration is due to a resinously-charged electron.
 
+Let the magnetizing current and the electron be supposed to circulate round the axis of z in the direction in which a right-handed screw must turn in order to progress along the positive direction of the axis of z; then the magnetic force is directed positively along the axis of z, and, in order that the force on the electron may be directed inward to the axis of z (so as to shorten the period), the charge on the electron must be negative.
 
-for on the left-hand side, the Maxwellian term
+The value of e/m for this negative electron may be determined by measurement of the separation between the components of the triplet in a magnetic field of known strength; for, as we have seen, the difference of the frequencies of the outer components is eK/m. The values of e/m thus determined agree well with the estimations[95] of e/m for the corpuscles of cathode rays.
 
-would give a zero result, since b is equal to a in Maxwell's system; thus b-a must depend solely on the term uχ(r); and ​an examination of the circumstances of a collision, in the manner of the kinetic theory of gases, shows that (b − a) must have the form -urχ(r)/l, where l denotes a constant which is closely related to the mean free path of the electrons. In the terms on the right-hand side of the equation, on the other hand, Maxwell's term gives a result different from zero; and in comparison with this we may neglect the terms which arisefrom -uχ(r). Thus we have
+The phenomenon discovered by Zeeman is closely related to the magnetic rotation of the plane of polarization of light.[96] 
 
-and thus the law of distribution of velocities is determined.
+Both effects may be explained by supposing that the molecules of material bodies contain electric systems which possess natural periods of vibration, the simplest example of such a system being an electron which is attracted to a fixed centre with a force proportional to the distance.
 
-The electric current i is determined by the equation
-
-where the integration is extended over all possible values of the components of velocity of the electrons. The Maxwellian term in f(u, v, w) furnishes no contribution to this integral, so we have
-
-When the integration is performed, this formula becomes
-
-or
-
-The coefficient of i in this equation must evidently represent the ohmic specific resistance of the metal; so if γ denote the specific conductivity, we have
-
-Let the equation be next applied to the case of two metals. A and B in contact at the same temperature T, forming an ​open circuit in which there is no conduction of heat or electricity (so that i and da/dx are zero). Integrating the equation
-
-across the junction of the metals, we have
-
-Discontinuity of potential at junction 
-or since 
-
-ma2, which represents the average kinetic energy of an electron, is by Drude's assumption equal to qT, where q denotes a universal constant, we have
-
-Discontinuity of potential at junction 
-
-This may be interpreted as the difference of potential connected with the Peltier[114] effect at the junction of two metals; the product of the difference of potential and the current measures the evolution of heat at the junction. The Peltier discontinuity of potential is of the order of a thousandth of a volt, and must be distinguished from Volta's contact-difference of potential, which is generally much larger, and which, as it presumably depends on the relation of the metals to the medium in which they are immersed, is beyond the scope of the present investigation.
-
-Returning to the general equations, we observe that the flux of energy W is parallel to the axis of x, and is given by the equation
+Zeeman's effect represents the influence of al external magnetic field on the free oscillations of these electric systems, while Faraday's effect represents the influence of the external magnetic field on the forced oscillations which the systems perform under the stimulus of incident light. The latter phenomenon may be analysed without difficulty on these principles, the equation of motion of one of the electrons being taken in the form
 
 
-where the integration is again extended over all possible values of the components of velocity; performing the integration, we have
+where m denotes the mass and e the charge of the electron, r its distance from the centre of force, κ2r the restitutive force, E and H the electric and magnetic forces. When the electron performs forced oscillations under the influence of light of frequency n, this equation becomes
 
 
-or, substituting for E from the equation already found,
+The influence of the magnetic force on the motion of the electron is small compared with the influence of the electric force, i.e. the second term on the right is small compared with the first term; so in the second term we may replace r by its ​value as found from the first term, namely, eE/(κ2 – mn2). The equation thus becomes
 
-Consider now the case in which there is conduction of heat without conduction of electricity. The flux of energy will in this case be given by the equation
+If P denote[97] the electric moment per unit volume, we have
 
-where κ a denotes the thermal conductivity of the metal expressed in suitable units; or
+P = er × the number of such systems in unit volume of the medium;
 
-If it be assumed that the conduction of heat in metals is effected by motion of the electrons, this expression may be compared with the preceding; thus we have
+so P must be of the form
 
-and comparing this with the formula already found for the electric conductivity, we have
+where ε evidently represents the dielectric constant of the medium, and σ is the coefficient which measures the magnetic rotatory power. In the magneto-optic term we may replace H by K, the external magnetic force, since this is large compared with the magnetic force of the luminous vibrations. Thus if D denote the electric induction, we have
 
-an equation which shows that the ratio of the thermal to the electric conductivity is of the form T × a constant which is the same for all metals. This result, accords with the law of Wiedemann and Franz,
+Combining this with the usual electromagnetic equations,
 
-Moreover, the value of q is known from the kinetic theory of gases; and the value of e has been determined by J.J. Thomson[115] and his followers; substituting these values in the formula for κ/γ, a fair agreement is obtained with the values of κ/γ determined experimentally.
+we have
 
-It was remarked by J. J. Thomson that if, as is postulated in the above theory, a metal contains a great number of free electrons in temperature equilibrium with the atoms, the specific heat of the metal must depend largely on the energy required in order to raise the temperature of the electrons. Thomson considered that the observed specific heats of metals are smaller than is compatible with the theory, and was thus led to investigate[116] the consequences of his original hypothesis[117] regarding the motion of the electrons, which differs from the one just described in much the same way as Grothuss' theory of electrolysis differs from Arrhenius'. 
+When a plane wave of light is propagated through the medium in the direction of the lines of magnetic force, and the axis of x is taken parallel to this direction, the equation gives
 
-Each electron was now supposed to be free only for a very short time, from the moment when it is liberated by the dissociation of an atom to the moment when it collides with, and is absorbed by, a different atom. The atoms were conceived to be paired in doublets, one pole of each doublet being negatively, and the other positively, electrified. Under the influence of an external electric field the doublets orient themselves parallel to the electric force, and the electrons which are ejected from their negative poles give rise to a current predominantly in this direction. The electric conductivity of the metal may thus be calculated. In order to comprise the conduction of heat in his theory, Thomson assumed that the kinetic energy with which an electron leaves an atom is proportional to the absolute temperature; so that if one part of the metal is hotter than another, the temperature will be equalized by the interchange of corpuscles. This theory, like the other, leads to a rational explanation of the law of Wiedemann and Franz.
+and these equations, as we have seen,[98] are competent to explain the rotation of the plane of polarization.
 
-The theory of electrons in metals has received support from the study of another phenomenon. It was known to the philosophers of the eighteenth century that the air near an incandescent metal acquires the power of conducting electricity. "Let the end of a poker," wrote Canton,[118] "when red-hot, be brought but for a moment within three or four inches of a small electrified body, and its electrical power will be almost, if not entirely, destroyed."
+From the occurrence of the factor (κ2 – mn2) in the denomi. nator of the expression for the magneto-optic constant σ, it may be inferred that the magnetic rotation will be very large for light whose period is nearly the same as a free period of vibration of the electrons. A large rotation is in fact observed[99] when plane-polarized light, whose frequency differs but little from the frequencies of the D-lines, is passed through sodium vapour in a direction parallel to the lines of magnetic force.
 
-The subject continued to attract attention at intervals[119]; ​and as the process of conduction in gases came to be better understood, the conductivity produced in the neighbourhood of incandescent metals was attributed to the emission of electrically charged particles by the metals. But it was not until the develop- mout of J.J. Thomson's theory of ionization in gages that notable advances were made. In 1899, Thomson[120] determined the ratio of the charge to the mass of the resinously charged ions emitted by a hot filament of carbon in rarefied hydrogen, by observing their deflexion in a magnetic field. The value obtained for the ratio was nearly the same as that which he had found for the corpuscles of cathode rays; whence he concluded that the negative ions emitted by the hot carbon were negative electrons.
+The optical properties of metals may be explained, according to the theory of electrons, by a slight extension of the analysis which applies to the propagation of light in transparent substances, It is, in fact, only necessary to suppose that some of the electrons in metals are free instead of being bound to the molecules: a supposition which may be embodied in the equations by assuming that an electric force E gives rise to a polarization P, where
 
-The corresponding investigation[121] for the positive leak from hot bodies yielded the information that the mass of the positive ions is of the same order of magnitude as the mass of material atoms. There are reasons for believing that these ions are produced from gas which has been absorbed by the superficial layer of the metal.[122]
+the term in α represents the effect of the inertia of the electrons; the term in β represents their ohmic drift; and the term in γ represents the effect of the restitutive forces where these exist. This equation is to be combined with the customary electromagnetic equations
 
-If, when a hot metal is emitting ions in a rarefied gas, an electromotive force be established between the metal and a neighbouring electrode, either the positive or the negative ions are urged towards the electrode by the electric field, and a current is thus transmitted through the intervening space. 
+In discussing the propagation of light through the metal, we may for convenience suppose that the beam is plane-polarized ​and propagated parallel to the axis of z, the electric vector being parallel to the axis of x. Thus the equations of motion reduce to
 
-When the metal is at a higher potential than the electrode, the current is carried by the vitreously charged ions: when the electrode is at the higher potential, by those with resinous charges. In either case, it is found that when the electromotive force is increased indefinitely, the current does not increase indefinitely likewise, but acquires a certain "saturation" value. The obvious explanation of this is that the supply of ions available for carrying the current is limited.
-
-When the temperature of the metal is high, the ions emitted are mainly negative; and it is found[123] that in these circumstances, when the surrounding gas is rarefied, the saturation-current is almost independent of the nature of the gas or of its pressure. The leak of resinous electricity from a metallic surface in a rarefied gas must therefore depend only on the temperature and on the nature of the metal; and it was shown by 0. W. Richardson[124] that the dependence on the temperature may be expressed by an equation of the form
-
-where i denotes the saturation-current per unit area of surface (which is proportional to the number of ions emitted in unit time), T denotes the absolute temperature, and A and b are constants.[125]
-
-In order to account for these phenomena, Richardson[126]adopted the hypothesis which had previously been proposed[127] for the explanation of metallic conductivity; namely, that a metal is to be regarded as a sponge-like structure of comparatively large fixed positive ions and molecules, in the interstices of which negative electrons are in rapid motion. 
-
-Since the electrons do not all escape freely at the surface, he postulated a superficial discontinuity of potential, sufficient to restrain most of them. Thus, let N denote the number of free electrons in unit volume of the metal; then in a parallelepiped whose height measured at right angles to the surface is dx, and whose base is of unit area, the number of electrons whose ​x-components of velocity are comprised between u and u + du is
-
-m denoting the mass of an electron, T the absolute temperature, and q, the universal constant previously introduced.
-
-Now, an electron whose x-component of velocity is u will arrive at the interface within an interval dt of time, provided that at the beginning of this interval it is within a distance udt of the interface. So the number of electrons whose x-components of velocity are comprised between u and u + du which arrive at unit area of the interface in the interval dt is
+For Ex, and Px we may substitute exponential functions of
 
 
-If the work which an electron must perform in order to escape through the surface layer be denoted by φ, the number of electrons emitted by unit area of metal in unit time is therefore
+where n denotes the frequency of the light, and μ the quasi-index of refraction of the metal: the equations then give at once
 
-The current issuing from unit area of the hot metal is thus
+Writing 
 
-where ε denotes the charge on an electron. This expression, being of the form
+for `μ`, so that ν is inversely proportional to the velocity of light in the medium, and κ denotes the coefficient of absorption, and equating separately the real and imaginary parts of the equation, we obtain
 
-agrees with the experimental measures; and the comparison furnishes the value of the superficial discontinuity of potential which is implied in the existence of φ.[128]
+When the wave-length of the light is very large, the inertia represented by the constant α has but little influence, and the equations reduce to those of Maxwell's original theory[100] of the propagation of light in metals. The formulae were experimentally confirmed for this case by the researches of E. Hagen and H, Rubens[101] with infra-red light; a relation being thus established between the ohmic conductivity of a metal and its optical properties with respect to light of great wavelength.
 
-A few years after the date of this investigation, a plan was ​devised and successfully carried out[129] for determining experimentally the kinetic energy possessed by the ions after emission. The mean kinetic energy of both negative and positive ions was found to be the same for various metals (platinum, gold, silver, etc.), and to be directly proportional to the absolute temperature, and the distribution of velocities among the ions proved to be that expressed by Maxwell's law. The ions may therefore be regarded as kinetically equivalent to the molecules of & gas whose temperature is the same as that of the metal.
+When, however, the luminous vibrations are performed more rapidly, the effect of the inertia becomes predominant; and ​if the constants of the metal are such that, for a certain range of values of n, ν2κ is small, while ν2(1 - κ2) is negative, it is evident that, for this range of values of n, ν will be small and κ large, i.e., the properties of the metal will approach those of ideal silver.[102] Finally, for indefinitely great values of n, ν2κ is small and ν2(1 - κ2) is nearly unity, so that ν tends to unity and κ to zero: an approximation to these conditions is realized in the X-rays.[103]
 
-By the investigations which have been recorded, the hypothesis of atomic electric charges has been, to all appearances, decisively established. But all the parts of the theory of electrons do not enjoy an equal degree of security; and in particular, it is possible that the future may bring important changes in the conception of the aether. The hope was formerly entertained of discovering an aether by reference to which motion might be estimated absolutely; but such a hope has been destroyed by the researches which have sprung from FitzGerald's hypothesis of contraction, and in some recent writings it is possible to recognize a tendency to replace the classical aether by other conceptions, which, however, have been as yet but indistinctly outlined.
+In the last years of the 19th century, attempts were made to form more definite conceptions regarding the behaviour of electrons within metals. 
 
-In any event, the close of the nineteenth century brought to an end a well-marked era in the history of natural philosophy
+The original theory of electrons had been proposed by Weber[104] for the purpose of explaining the phenomena of electric currents in metallic wires. Weber, however, made but little progress towards an electric theory of metals; for being concerned chiefly with magneto-electric induction and electromagnetic ponderomotive force, be scarcely brought the metal into the discussion at all, except in the assumption that electrons of opposite signs travel with equal and opposite velocities relative to its substance. 
 
-This is true not only with respect to the discoveries themselves, but also in regard to the conditions of scientific organization and endeavour, which in the last decades of that period became profoundly changed. 
+The more comprehensive scheme of his successors half a century afterwards aimed at connecting in a unified theory all the known electrical properties of metals, such as the conduction of currents according to Ohm's law, the thermo-electric effects of Seebeck, Peltier, and W. Thomson, the galvano-magnetic effect of Hall, and other phenomena which will be mentioned subsequently.
 
-The investigators who advanced the theories of aether and electricity, from the time of Descartes to that of Lord Kelvin, were, with very few exceptions, congregated within a narrow territory: from Dublin to the western provinces of Russia, and from Stockholm to the north of Italy, may be circumscribed by a circle of no more than 600 miles radius. 
+The later investigators ranged beyond the group of purely electrical properties, and sought by aid of the theory of electrons to explain the conduction of heat.
 
-But throughout the whole of Kelvin's long life, the domain of culture was rapidly extending: the learning of the Germanic and Latin peoples was carried to the furthest regions of the earth: new universities were founded, and inquiries into the secrets of nature were instituted in every quarter of the globe. Let this record close with the anticipation that fellowship in the pursuit of knowledge will increase in the nations the spirit of generous emulation and mutual respect.
+The principal ground on which this extension was justified was an experimental result obtained in 1853 by G. Wiedemann and R. Franz,[105] who found that at any temperature the ratio of the thermal conductivity of a body to its ohmic conductivity is approximately the same for all metals, and that the value of this ratio is proportional to the absolute temperature. 
+
+In fact, the conductivity of a pure metal for heat is almost independent of the temperature; while the electric conductivity varies in inverse proportion to the absolute temperature, so that a pure metal as it approaches the absolute zero of temperature tends to assume the character of a perfect conductor.
+
+The 2 conductivities are closely related was shown to be highly probable by the experiments of Tait, in which pieces of the same metal were found to exhibit variations in ohmic conductivity exactly parallel to variations in their thermal conductivity.
+
+The attempt to explain the electrical and thermal properties of metals by aid of the theory of electrons rests on the assumption that conduction in metals is more or less similar to conduction in electrolytes; at any rate, that positive and negative charges drift in opposite directions through the substance of the conductor under the influence of an electric field. 
+
+It was remarked in 1888 by J. J. Thomson,[106] who must be regarded as the founder of the modern theory, that the differences which are perceived between metallic and electrolytic conduction may be referred to special features in the two cases, which do not affect their general resemblance. electrolytes the carriers are provided only by the salt, which is dispersed throughout a large inert mass of solvent; whereas in metals it may be supposed that every molecule is capable of furnishing carriers. 
+
+Thomson, therefore, proposed to regard the current in metals as a series of intermittent discharges, caused by the rearrangement of the constituents of molecular systems—a conception similar to that by which Grothuss[107] had pictured conduction in electrolytes. This view would, as he showed, lead to a general explanation of the connexion between thermal and electrical conductivities,
+
+Most of the later writers on metallic conduction have preferred to take the hypothesis of Arrhenius[108] rather than that of Grothuss as a pattern; and have therefore supposed the interstices between the molecules of the metal to be at all times swarming with electric charges in rapid motion. 11: 1898 E. Riecke[109] effected an important advance by examining the consequences of the assumption that the average velocity of this random motion of the charges is nearly proportional to the square root of the absolute temperature T. P. Drude[110] in 1900 replaced this by the more definite assumption that the kinetic energy of each moving charge is equal to the average kinetic energy of a molecule of a perfect gas at the same temperature, and may therefore be expressed in the form qT, where q denotes a universal constant.
+
+In the same year J. J. Thomson[111] remarked that it would accord with the conclusions drawn from the study of ionization in gases to suppose that the vitreous and resinous charges play different parts in the process of conduction. 
+
+The resinous charges may be conceived of as carried by simple negative corpuscles or electrons, such as constitute the cathode rays: they may be supposed to move about freely in the interstices between the atoms of the metal. The vitreous charges, on the other hand, may be regarded as more or less fixed in attachment to the metallic atoms. 
+
+According to this view the transport of electricity is due almost entirely to the motion of the negative charges.
+
+An experiment which was performed at this time by Riecke[112] lent some support to Thomson's hypothesis. A cylinder of aluminium was inserted between two cylinders of copper in a circuit, and a current was passed for such a time that the amount of copper deposited in an electrolytic arrangement would have amounted to over a kilogramme. The weight of each of the three cylinders, however, showed no measurable change; from which it appeared unlikely that metallic conduction is accompanied by the transport of metallic ions.

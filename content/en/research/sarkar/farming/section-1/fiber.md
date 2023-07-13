@@ -187,13 +187,13 @@ Sodium carbonate may be obtained from the banana tree by:
 - burning the trunk into ash
 - boiling the ash until the water evaporates. 
 
-There are numerous products which can be made from the banana tree. 
+Numerous products can be made from the banana tree. 
 
-The fibre is obtained from the trunk of the tree. The greater the size of a tree, the greater the quantity of fibre, but the same rule does not necessarily apply for the quantity of fruit produced by the banana tree. 
+The fibre is obtained from the trunk of the tree. The greater the size of a tree, the greater the quantity of fibre, but the same rule does not necessarily apply for the quantity of fruit produced by the banana tree.
 
 Not more than 2 offshoot saplings should be allowed to grow from one banana tree. The extra shoots should be cut. 
 
-There are many varieties of banana.
+<!-- There are many varieties of banana. -->
 
 
 ### Banana Crop Mix

@@ -83,6 +83,7 @@ conditions
 physical
 reflect the change.
 This type of hand
+
 THE CONIC HAND
 most common types is the conic, or sensitive
 name from its cone-like or trian-

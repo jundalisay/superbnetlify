@@ -8,7 +8,8 @@ icon: /icons/spmat.png
 ---
 
 
-In 1887, an experiment was done to detect the mysterious aether which was thought to slow down light. 
+
+In 1887, an experiment was done by Albert Michelson and Edward Morley to detect the mysterious aether which was thought to slow down light. 
 
 Two light beams were arranged perpendicularly, with one going along the Earth's motion. This made it go with the aether, making its speed different from the other. But the result showed that the speed of both light beams were the same. Therefore, the aether did not exist. 
 

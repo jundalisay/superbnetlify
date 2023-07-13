@@ -1,14 +1,14 @@
 ---
 title: "Proximate Instances wanting the Nature of Heat"
-heading: Chapter 5
-weight: 1
+heading: Chapter 12
+weight: 44
 description: ""
 image: "/covers/nova.jpg"
 icon: /icons/bacon.png
 ---
 
 
-## 12. instances of extremity or limits
+## 12. Instances of extremity or limits
 
 {{< s v="34" >}} <!-- subjunctive instances -->
 

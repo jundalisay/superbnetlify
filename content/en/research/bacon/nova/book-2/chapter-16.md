@@ -1,7 +1,7 @@
 ---
 title: "The Practical instances"
-heading: Chapter 5
-weight: 1
+heading: Chapter 16
+weight: 60
 description: ""
 image: "/covers/nova.jpg"
 icon: /icons/bacon.png
@@ -16,7 +16,9 @@ But our whole labor terminates in practice, and as the former is the beginning, 
 These have 2 classes, and 7 in number.  -->
 
 
-Now there are two defects in practice, and as many divisions of important instances. Practice is either deceptive or too laborious. It is generally deceptive (especially after a diligent[231] examination of natures), on account of the power and actions of bodies being ill defined and determined. 
+There are 2 defects in practice, and as many divisions of important instances. 
+
+Practice is either deceptive or too laborious. It is generally deceptive (especially after a diligent[231] examination of natures), on account of the power and actions of bodies being ill defined and determined. 
 
 Now the powers and actions of bodies are defined and determined either by space or by time, or by the quantity at a given period, or by the predominance of energy; and if these four circumstances be not well and diligently considered, the sciences may indeed be beautiful in theory, but are of no effect in practice. We call the four instances referred to this class, mathematical instances and instances of measure.
 

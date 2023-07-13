@@ -1,7 +1,7 @@
 ---
 title: "Twilight or clandestine instances"
 heading: Chapter 8
-weight: 1
+weight: 24
 description: ""
 image: "/covers/nova.jpg"
 icon: /icons/bacon.png

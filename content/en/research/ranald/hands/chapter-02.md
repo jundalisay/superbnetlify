@@ -28,129 +28,124 @@ a finger. Fingers set close together indicate a formal, restrained, sus-
 picious nature. Wide spaces show unconventionality and a free and
 at their bases.
 easy trend.
-In chirology, there are only four fingers (see plate 9), the thumb
-being so important that it is classed by itself. The index finger is
-called the
-first,
-or finger of Jupiter.
-The middle
-finger, the second.
-10
-11
-is
-the finger of Saturn. The ring finger, third, is the finger of Apollo.
-little finger, fourth and last, is the finger of Mercury.
+
+In chirology, there are only 4 fingers (see plate 9). The thumb is so important that it is classed by itself. 
+
+The index finger is called the first, or finger of Jupiter.
+
+The middle finger, the second is the finger of Saturn. 
+
+The ring finger, third, is the finger of Apollo.
+
+The little finger, fourth and last, is the finger of Mercury.
+
 These names were adopted in early times. Because palmistry was
 The
 associated with astrology, the four fingers received the
 names
-ofANALYSIS AND INTERPRETATION
-20
-more remotely, of Roman gods. For convenience, I am re-
-taining the traditional finger names, though of course I do not con-
+of
 planets,
-nect
-them
-any way with the schematic
-in
-superstitions of astrology.
-LONG AND SHORT FINGERS
-In studying the fingers, two important things must first be deter-
-mined: whether the fingers as a whole are long (see plate 10) or
-short (see plate 11) and which one or two fingers are dominant ones.
-Length cannot be judged entirely from the relative size of the fingers
-and the palm, for a hand may have an unusually long palm with
-normal fingers, which would make the fingers appear short rather
+more remotely, of Roman gods. 
+
+For convenience, I am retaining the traditional finger names, though of course I do not connect them any way with the schematic in superstitions of astrology.
+
+## LONG AND SHORT FINGERS
+
+The important things to note are:
+
+1. Whether the fingers as a whole are long (see plate 10) or short (see plate 11) 
+2. Which one or two fingers are dominant ones.
+
+
+Length cannot be judged entirely from the relative size of the fingers and the palm, for a hand may have an unusually long palm with normal fingers, which would make the fingers appear short rather 
+
 When
 palm is approximately the same in width as
 fingers would be about as long, reaching almost
-to the wrist if doubled over. Long ones would reach the wrist or
-even beyond it, and short ones would end above. This test cannot,
-however, actually be made by bending the hand, for the stiffness
-of the hand and its thickness, almost as much as the fingers' length,
-would determine how far the fingers reach. The best method is to
+to the wrist if doubled over. Long ones would reach the wrist or even beyond it, and short ones would end above. This test cannot,
+however, actually be made by bending the hand, for the stiffness of the hand and its thickness, almost as much as the fingers' length,
+would determine how far the fingers reach. 
+
+
 than normal.
 in length,
 the
 normal
-judge the distance by eye or actual measurement.
-For ideal balance, the thumb should be as long as the fourth
-and the first as long as the third. Of course, greatness rarely
-with
-ideal balance. It is the unusual strength of certain traits
-goes
-which gives us geniuses and leaders as well as crackpots and crim-
+
+The best method is to judge the distance by eye or actual measurement.
+
+For ideal balance, the thumb should be as long as the fourth and the first as long as the third. Of course, greatness rarely
+with ideal balance. 
+
+It is the unusual strength of certain traits goes
+which gives us geniuses and leaders as well as crackpots and criminals.
 finger
+
 Long
 system and
-inals.
+
 fingers,
 on the whole, indicate patience, love
 of detail,
-order. Short ones go with impulsiveness, action, speed.
-WIDTH AND CONTOUR OF FINGERS
-Thick
-fingers are the practical, materialistic ones.
-When
-they are
-very thick, they show love of luxury and a tendency towards self-
-indulgence. Thin fingers may show indulgence of a different kind
-petulance and worry for thin fingers are exacting and nervous.
-As to the contours, smoothness when the joints do not protrude
-indicates an open, frank, company-loving nature, light-hearted,
+order. 
+
+Short ones go with impulsiveness, action, speed.
+
+## WIDTH AND CONTOUR OF FINGERS
+
+Thick fingers are the practical, materialistic ones.
+
+When they are very thick, they show love of luxury and a tendency towards self-indulgence. 
+
+Thin fingers may show indulgence of a different kind petulance and worry for thin fingers are exacting and nervous.
+
+As to the contours, smoothness when the joints do not protrude indicates an open, frank, company-loving nature, light-hearted,
 talkative and somewhat shallow. Knotty joints go with seriousness,
-thought and mental self-sufficiency.FINGERS
-21
-FLEXIBILITY
+thought and mental self-sufficiency.
+
+##  FLEXIBILITY
+
 Whether the fingers are flexible or stiff is extremely significant.
+
 Firm fingers show an intense, passionate, violent nature, one which
 might accomplish great things individually or as a leader, but which
 cannot cooperate with others or work as a subordinate. The draw-
 backs of such fingers are intolerance, stubbornness and lack of tact.
-12
-13
-The
-as
-last is especially
-pronounced when the fingers are short as well
+
+The last is especially pronounced when the fingers are short as well
 stiff.
+
 With flexibility goes an intensification of the qualities of the
 mount and finger. Supple fingers indicate adaptability, tact, wit and
 success in social contacts, though not necessarily a love of company.
+
 CROOKED FINGERS
-Crooked fingers (see plate 12) show distortion or misuse of the
-which go with the misshapen finger, but the knotty, bony
-structure of the profound hand should not be confused with bent or
-qualities
+
+Crooked fingers (see plate 12) show distortion or misuse of the which go with the misshapen finger, but the knotty, bony
+structure of the profound hand should not be confused with bent or qualities
 crooked shape.
-Nor
-is
-crookedness the same as a slight bending toANALYSIS AND INTERPRETATION
-22
-one
-side. Fingers bent laterally (see plate 13) always emphasize
-shrewdness, and this indication should be studied in conjunction
-with the particular qualities ascribed to the finger having such a
-A
-bend.
-finger twisted on its axis exaggerates the moral or physical
+
+Nor is crookedness the same as a slight bending to one side. 
+
+Fingers bent laterally (see plate 13) always emphasize shrewdness, and this indication should be studied in conjunction
+with the particular qualities ascribed to the finger having such a bend.
+
+A finger twisted on its axis exaggerates the moral or physical
 defects associated with that finger.
+
 DOMINANT FINGERS
-In most persons, the fingers
-length, smoothness, thickness,
-differ greatly
-and so
-from each other
-in
-forth. It is therefore important
-not only to determine which qualities predominate for the hand as a
+
+In most persons, the fingers differ greatly in length, smoothness, thickness,etc. from each other.
+
+It is therefore important not only to determine which qualities predominate for the hand as a
 whole, but to relate them to the traits which go with each particular
-There will, of course, be contradictions. In some cases, these
-for most of us are
-indicate actual conflicts within the personality
-characteristics. In
-desires
-and
+There will, of course, be contradictions. 
+
+In some cases, these
+for most of us are indicate actual conflicts within the personality
+characteristics. 
+
+In desires and
 of
 made
 many
@@ -168,9 +163,11 @@ it
 completely negate the signposts
 extremely important to decide,
 quite early in the process of an analysis, just which are the domi-
-nant characteristics. Size, both length and thickness, and the gen-
-eral contours of a
-hand
+nant characteristics.
+
+Size, both length and thickness, and the general contours of a
+hand 
+
 A
 will indicate
 which
@@ -184,7 +181,9 @@ the dominant
 in proportion to the others,
 to lean, usually
 shows the
+
 THE PHALANXES
+
 But before considering the fingers individually, I want to discuss
 the divisions of the fingers, that is, the three joints or phalanxes.
 The nail phalanx is always referred to as the first (see plate 14, the
@@ -193,16 +192,14 @@ the joints marked B) the one nearest the palm, the third (see plate
 divide the
 14, the joints marked C). I have found that you can
 joints
-;
-;
+
 phalanxes roughly, classing the first (A) in each finger as indi-
 cator of mental qualities, the second (B), of practical and business
 (C) as guide to physical qualities.
 experience that persons with long first phalanxes are
 qualities, the third
 It is
-myFINGERS
-23
+my
 most active in the mental field. When the second phalanx is longest
 and largest, the practical and business side will be uppermost. When
 the third phalanx leads, I have found the subject greatly absorbed
@@ -448,20 +445,14 @@ studying, are most important in applying hand
 to
 vocational
 analysis
-guidance or training. The indications of the
-fingers must, however, be read in conjunction with the information
-fingers, indicating as
-of the person
-revealed
-by the hand as a whole and by the lines and markings in
-when a very long base on the finger of Mer-
-the palm. For example,THUMB
-27
-cury, the little finger, indicates eloquence and cunning, and you find
+guidance or training. 
+
+The indications of the fingers must, however, be read in conjunction with the information
+fingers, indicating as of the person
+revealed by the hand as a whole and by the lines and markings in when a very long base on the finger of Mercury, the little finger, indicates eloquence and cunning, and you find
 that other signs show a timid, retiring nature, you may be sure you
-have a potential demagogue, but one who is likely to remain anony-
-mous, appealing through the written word, or possibly making no use
-at all of his gift of eloquence. Thus, the various contradictory evi-
-dences must be balanced against one another. You should accept as
-keynotes to the personality you are studying only the strong traits
-or those which are consistently indicated throughout the entire hand.
+have a potential demagogue, but one who is likely to remain anonymous, appealing through the written word, or possibly making no use at all of his gift of eloquence. Thus, the various contradictory evidences must be balanced against one another. 
+
+You should accept as keynotes to the personality you are studying only the strong traits or those which are consistently indicated throughout the entire hand.
+
+the palm. For example,THUMB

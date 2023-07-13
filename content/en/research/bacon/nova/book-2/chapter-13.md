@@ -1,15 +1,18 @@
 ---
 title: "Instances of the Lamp"
-heading: Chapter 5
-weight: 1
+heading: Chapter 13
+weight: 48
 description: ""
 image: "/covers/nova.jpg"
 icon: /icons/bacon.png
 ---
 
-{{< s v="38" >}} Next, follow 5 classes of instances of the lamp, or of immediate information. 
 
-These assist the senses; for since every interpretation of nature sets out from the senses, and leads, by a regular fixed and well-established road, from the perceptions of the senses to those of the understanding (which are true notions and axioms), it necessarily follows, that in proportion as the representatives or ministerings of the senses are more abundant and accurate, everything else must be more easy and successful.
+{{< s v="38" >}} There are 5 classes of instances of the lamp, or of immediate information. 
+
+These assist the senses. 
+
+Every interpretation of nature sets out from the senses, and leads, by a regular fixed and well-established road, from the perceptions of the senses to those of the understanding (which are true notions and axioms), it necessarily follows, that in proportion as the representatives or ministerings of the senses are more abundant and accurate, everything else must be more easy and successful.
 
 The five sets of instances of the lamp are:
 
