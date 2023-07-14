@@ -4,7 +4,7 @@ heading:  "Chapter 8e"
 weight: 66
 author: Edmund Taylor Whittaker
 image:  "/covers/history.jpg"
-description: "Leroux's phenomenon was called "anomalous dispersion""
+description: "Meanwhile, Maxwell had in 1865 resigned his chair at King's College, and had retired to his estate in Dumfricsshire, where he occupied himself in writing a connected account of electrical theory"
 ---
 
 

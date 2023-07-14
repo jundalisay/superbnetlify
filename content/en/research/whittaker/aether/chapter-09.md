@@ -4,7 +4,7 @@ heading:  "Chapter 9"
 weight: 70
 author: Edmund Taylor Whittaker
 image:  "/covers/history.jpg"
-description: ""
+description: "The early attempts of Thomson and Maxwell to represent the electric medium by mechanical models opened up a new field of research"
 ---
 
 
