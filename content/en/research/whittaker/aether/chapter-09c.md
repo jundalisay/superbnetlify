@@ -4,7 +4,7 @@ heading:  "Chapter 9c"
 weight: 67
 author: Edmund Taylor Whittaker
 image:  "/covers/history.jpg"
-description: "Leroux's phenomenon was called "anomalous dispersion""
+description: "Riemann in his 1861 lectures remarked that the scalar-potential `φ` and vector-potential `a`, corresponding to his own law of force between electrons"
 ---
 
 

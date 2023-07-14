@@ -4,7 +4,7 @@ heading:  "Chapter 8e"
 weight: 66
 author: Edmund Taylor Whittaker
 image:  "/covers/history.jpg"
-description: "Leroux's phenomenon was called "anomalous dispersion""
+description: "We have now discussed models in which the magnetic force is represented as the velocity in a liquid, and others in which it is represented as the displacement in an elastic solid"
 ---
 
 
