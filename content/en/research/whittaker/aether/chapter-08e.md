@@ -4,7 +4,7 @@ heading:  "Chapter 8e"
 weight: 64
 author: Edmund Taylor Whittaker
 image:  "/covers/history.jpg"
-description: "Leroux's phenomenon was called "anomalous dispersion""
+description: "Leroux's phenomenon was called anomalous dispersion"
 ---
 
 
