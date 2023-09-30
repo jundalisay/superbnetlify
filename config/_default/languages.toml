@@ -1,0 +1,142 @@
+[en]
+    weight          = 1
+    languageCode    = "en"
+    languageName    = "English"
+    contentDir      = "content/en"
+    # To display a copyright symbol, type `&copy;`. For current year, type `{year}`.
+    copyright       = "&copy; 2023 Pantrypoints Technologies"
+    title           = "Superphysics"
+    [en.params]
+        author = "Pantrypoints Technologies"
+        # keywords = "Superphysics, Physics, Economics, Metaphysics"
+        description = "Superphysics is a New Science Based on Metaphysics and Socratic Dialectics. It enhances the Material, Medical, Social and Economic Sciences"
+
+[ar]
+    weight          = 2
+    languageCode    = "ar"
+    languageName    = "Arabic"
+    contentDir      = "content/ar"
+    copyright       = "&copy; 2023 Pantrypoints Technologies"
+    title           = "الفيزياء الفائقة"
+    [ar.params]
+        author = "Pantrypoints Technologies"
+        description = "نموذج علمي يعتمد على الموجات"
+
+
+[zh]
+    weight          = 3
+    languageCode    = "zh"
+    languageName    = "Chinese"
+    contentDir      = "content/zh"
+    copyright       = "&copy; 2023 Pantrypoints Technologies"
+    title           = "Superphysics"
+    [zh.params]
+        author = "Pantrypoints Technologies"
+        description = "超物理学：基于波动的科学范式"
+
+
+[fr]
+    weight          = 10
+    languageCode    = "fr"
+    languageName    = "French"
+    contentDir      = "content/fr"
+    copyright       = "&copy; 2023 Pantrypoints Technologies"
+    title           = "Superphysique"
+    [fr.params]
+        author = "Pantrypoints Technologies"
+        description = "Une Nouvelle Science Basée sur la Métaphysique et la Dialectique Socratique"
+
+
+
+[de]
+    weight          = 20
+    languageCode    = "de"
+    languageName    = "German"
+    contentDir      = "content/de"
+    copyright       = "&copy; 2023 Pantrypoints Technologies"
+    title           = "SUPERPHYSIK"
+    [de.params]
+        author = "Pantrypoints Technologies"
+        description = "Basierend auf der Dynamik der empfindungsfähigen Energie"
+
+
+[id]
+    weight          = 30
+    languageCode    = "id"
+    languageName    = "Indonesian"
+    contentDir      = "content/id"
+    copyright       = "&copy; 2023 Pantrypoints Technologies"
+    title           = "Superfisika"
+    [id.params]
+        author = "Pantrypoints Technologies"
+        description = "Ilmu Baru Berdasarkan Metafisika dan Dialektika Sokratik"
+
+
+
+[jp]
+    weight          = 40
+    languageCode    = "jp"
+    languageName    = "Japanese"
+    contentDir      = "content/jp"
+    copyright       = "&copy; 2023 Pantrypoints Technologies"
+    title           = "超物理学"
+    [jp.params]
+        author = "Pantrypoints Technologies"
+        description = "超物理学 -- 波動に基づく科学的パラダイム"
+
+[kr]
+    weight          = 45
+    languageCode    = "kr"
+    languageName    = "Korean"
+    contentDir      = "content/kr"
+    copyright       = "&copy; 2023 Pantrypoints Technologies"
+    title           = "슈퍼물리학"
+    [kr.params]
+        author = "Pantrypoints Technologies"
+        description = "슈퍼물리학 - 파동기반 과학 패러다임"
+
+
+[pt]
+    weight          = 47
+    languageCode    = "pt"
+    languageName    = "Portuguese"
+    contentDir      = "content/pt"
+    copyright       = "&copy; 2023 Pantrypoints Technologies"
+    title           = "Superfísica"
+    [pt.params]
+        author = "Pantrypoints Technologies"
+        description = "Paradigma Científico Baseado em Ondas"
+
+
+[es]
+    weight          = 50
+    languageCode    = "es"
+    languageName    = "Spanish"
+    contentDir      = "content/es"
+    copyright       = "&copy; 2023 Pantrypoints Technologies"
+    title           = "Superfísica"
+    [es.params]
+        author = "Pantrypoints Technologies"
+        description = "Paradigma científico basado en ondas"
+
+[tl]
+    weight          = 80
+    languageCode    = "tl"
+    languageName    = "Tagalog"
+    contentDir      = "content/tl"
+    copyright       = "&copy; 2023 Pantrypoints Technologies"
+    title           = "Superphysics"
+    [tl.params]
+        author = "Pantrypoints Technologies"
+        description = "Ang Superphysics ay bagong siyensya na base sa Metaphysics at Socratic Dialectics."
+
+[vi]
+    weight          = 90
+    languageCode    = "vi"
+    languageName    = "Vietnamese"
+    contentDir      = "content/vi"
+    copyright       = "&copy; 2023 Pantrypoints Technologies"
+    title           = "Superphysics"
+    [vi.params]
+        author = "Pantrypoints Technologies"
+        description = "Mô hình khoa học dựa trên sóng"

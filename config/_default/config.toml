@@ -1,0 +1,57 @@
+# baseURL = "http://192.168.43.67"
+baseURL = "https://www.superphysics.org/"
+
+
+theme = "hugo-bulma"
+# googleAnalytics = ""
+# Disable Hugo generator meta tag in the HTML head.
+disableHugoGeneratorInject =  true
+# Default language to use.
+defaultContentLanguage = "en"
+# Render the default content language in subdir, e.g. /en/. 
+defaultContentLanguageInSubdir = false
+# Set `true` for Chinese/Japanese/Korean languages.
+hasCJKLanguage = false
+# Workaround for https://github.com/gohugoio/hugo/issues/5687.
+removePathAccents = true
+enableEmoji = true
+# The number of elements per page in pagination.
+paginate = 12
+# Listing summary length in words.
+summaryLength = 70
+
+
+[sitemap]
+  changefreq = 'monthly'
+  filename = 'sitemap.xml'
+  priority = 0.5
+
+  
+[related]
+    threshold = 80
+    includeNewer = true
+    toLower = true
+    [[related.indices]]
+        name = "tags"
+        weight = 100
+    [[related.indices]]
+        name = "categories"
+        weight = 80
+     [[related.indices]]
+        name = "date"
+        weight = 10
+
+
+contact_form =  "https://hub.pantrypoints.com/api/email"
+
+# [outputs]
+#     home = [ "HTML", "RSS", "JSON", "MANIFEST" ]
+#     section = [ "HTML", "RSS" ]
+
+# [mediaTypes."application/manifest+json"]
+#   suffixes = ["webmanifest"]
+
+# [outputFormats.MANIFEST]
+#     mediaType = "application/manifest+json"
+#     rel = "manifest"
+#     notAlternative = true

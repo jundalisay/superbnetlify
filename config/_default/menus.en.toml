@@ -1,0 +1,593 @@
+[[navbar]]
+    identifier = "sci"
+    weight = 1
+    name = "Sciences"
+    url = "/"
+    pre = "<svg fill='silver' class='p-1 icon mr-2' viewBox='0 0 448 512'><path d='M223.99908,224a32,32,0,1,0,32.00782,32A32.06431,32.06431,0,0,0,223.99908,224Zm214.172-96c-10.877-19.5-40.50979-50.75-116.27544-41.875C300.39168,34.875,267.63386,0,223.99908,0s-76.39066,34.875-97.89653,86.125C50.3369,77.375,20.706,108.5,9.82907,128-6.54984,157.375-5.17484,201.125,34.958,256-5.17484,310.875-6.54984,354.625,9.82907,384c29.13087,52.375,101.64652,43.625,116.27348,41.875C147.60842,477.125,180.36429,512,223.99908,512s76.3926-34.875,97.89652-86.125c14.62891,1.75,87.14456,10.5,116.27544-41.875C454.55,354.625,453.175,310.875,413.04017,256,453.175,201.125,454.55,157.375,438.171,128ZM63.33886,352c-4-7.25-.125-24.75,15.00391-48.25,6.87695,6.5,14.12891,12.875,21.88087,19.125,1.625,13.75,4,27.125,6.75,40.125C82.34472,363.875,67.09081,358.625,63.33886,352Zm36.88478-162.875c-7.752,6.25-15.00392,12.625-21.88087,19.125-15.12891-23.5-19.00392-41-15.00391-48.25,3.377-6.125,16.37891-11.5,37.88478-11.5,1.75,0,3.875.375,5.75.375C104.09864,162.25,101.84864,175.625,100.22364,189.125ZM223.99908,64c9.50195,0,22.25586,13.5,33.88282,37.25-11.252,3.75-22.50391,8-33.88282,12.875-11.377-4.875-22.62892-9.125-33.88283-12.875C201.74516,77.5,214.49712,64,223.99908,64Zm0,384c-9.502,0-22.25392-13.5-33.88283-37.25,11.25391-3.75,22.50587-8,33.88283-12.875C235.378,402.75,246.62994,407,257.8819,410.75,246.25494,434.5,233.501,448,223.99908,448Zm0-112a80,80,0,1,1,80-80A80.00023,80.00023,0,0,1,223.99908,336ZM384.6593,352c-3.625,6.625-19.00392,11.875-43.63479,11,2.752-13,5.127-26.375,6.752-40.125,7.75195-6.25,15.00391-12.625,21.87891-19.125C384.7843,327.25,388.6593,344.75,384.6593,352ZM369.65538,208.25c-6.875-6.5-14.127-12.875-21.87891-19.125-1.625-13.5-3.875-26.875-6.752-40.25,1.875,0,4.002-.375,5.752-.375,21.50391,0,34.50782,5.375,37.88283,11.5C388.6593,167.25,384.7843,184.75,369.65538,208.25Z'/></svg>"
+
+
+[[navbar]]
+    parent = "sci"
+    weight = 9
+    name = "Superphysics"
+    url = "/superphysics"
+    pre = "<svg fill='silver' style='height: 20px !important' viewBox='0 0 496 512'><path d='M248 8C111.03 8 0 119.03 0 256s111.03 248 248 248 248-111.03 248-248S384.97 8 248 8zm0 376c-17.67 0-32-14.33-32-32s14.33-32 32-32 32 14.33 32 32-14.33 32-32 32zm0-128c-53.02 0-96 42.98-96 96s42.98 96 96 96c-106.04 0-192-85.96-192-192S141.96 64 248 64c53.02 0 96 42.98 96 96s-42.98 96-96 96zm0-128c-17.67 0-32 14.33-32 32s14.33 32 32 32 32-14.33 32-32-14.33-32-32-32z'/></svg>"
+
+
+[[navbar]]
+    parent = "sci"
+    weight = 10
+    name = "Material Superphysics"
+    url = "/material"
+    pre = "<svg fill='silver' style='height: 20px !important' viewBox='0 0 448 512'><path d='M223.99908,224a32,32,0,1,0,32.00782,32A32.06431,32.06431,0,0,0,223.99908,224Zm214.172-96c-10.877-19.5-40.50979-50.75-116.27544-41.875C300.39168,34.875,267.63386,0,223.99908,0s-76.39066,34.875-97.89653,86.125C50.3369,77.375,20.706,108.5,9.82907,128-6.54984,157.375-5.17484,201.125,34.958,256-5.17484,310.875-6.54984,354.625,9.82907,384c29.13087,52.375,101.64652,43.625,116.27348,41.875C147.60842,477.125,180.36429,512,223.99908,512s76.3926-34.875,97.89652-86.125c14.62891,1.75,87.14456,10.5,116.27544-41.875C454.55,354.625,453.175,310.875,413.04017,256,453.175,201.125,454.55,157.375,438.171,128ZM63.33886,352c-4-7.25-.125-24.75,15.00391-48.25,6.87695,6.5,14.12891,12.875,21.88087,19.125,1.625,13.75,4,27.125,6.75,40.125C82.34472,363.875,67.09081,358.625,63.33886,352Zm36.88478-162.875c-7.752,6.25-15.00392,12.625-21.88087,19.125-15.12891-23.5-19.00392-41-15.00391-48.25,3.377-6.125,16.37891-11.5,37.88478-11.5,1.75,0,3.875.375,5.75.375C104.09864,162.25,101.84864,175.625,100.22364,189.125ZM223.99908,64c9.50195,0,22.25586,13.5,33.88282,37.25-11.252,3.75-22.50391,8-33.88282,12.875-11.377-4.875-22.62892-9.125-33.88283-12.875C201.74516,77.5,214.49712,64,223.99908,64Zm0,384c-9.502,0-22.25392-13.5-33.88283-37.25,11.25391-3.75,22.50587-8,33.88283-12.875C235.378,402.75,246.62994,407,257.8819,410.75,246.25494,434.5,233.501,448,223.99908,448Zm0-112a80,80,0,1,1,80-80A80.00023,80.00023,0,0,1,223.99908,336ZM384.6593,352c-3.625,6.625-19.00392,11.875-43.63479,11,2.752-13,5.127-26.375,6.752-40.125,7.75195-6.25,15.00391-12.625,21.87891-19.125C384.7843,327.25,388.6593,344.75,384.6593,352ZM369.65538,208.25c-6.875-6.5-14.127-12.875-21.87891-19.125-1.625-13.5-3.875-26.875-6.752-40.25,1.875,0,4.002-.375,5.752-.375,21.50391,0,34.50782,5.375,37.88283,11.5C388.6593,167.25,384.7843,184.75,369.65538,208.25Z'/></svg>"
+
+[[navbar]]
+    parent = "sci"
+    weight = 11
+    name = "Bio Superphysics"
+    url = "/medical"
+    pre = "<svg fill='silver' style='height: 20px !important' viewBox='0 0 512 512'><path d='M96 480h320V128h-32V80c0-26.51-21.49-48-48-48H176c-26.51 0-48 21.49-48 48v48H96v352zm96-384h128v32H192V96zm320 80v256c0 26.51-21.49 48-48 48h-16V128h16c26.51 0 48 21.49 48 48zM64 480H48c-26.51 0-48-21.49-48-48V176c0-26.51 21.49-48 48-48h16v352zm288-208v32c0 8.837-7.163 16-16 16h-48v48c0 8.837-7.163 16-16 16h-32c-8.837 0-16-7.163-16-16v-48h-48c-8.837 0-16-7.163-16-16v-32c0-8.837 7.163-16 16-16h48v-48c0-8.837 7.163-16 16-16h32c8.837 0 16 7.163 16 16v48h48c8.837 0 16 7.163 16 16z'/></svg>"
+
+
+[[navbar]]
+    parent = "sci"
+    weight = 12
+    name = "Supersociology"
+    # name = "Social Superphysics"
+    url = "/social/supersociology"
+    pre = "<svg  fill='silver' style='height: 20px !important' viewBox='0 0 640 512'><path d='M96 224c35.3 0 64-28.7 64-64s-28.7-64-64-64-64 28.7-64 64 28.7 64 64 64zm448 0c35.3 0 64-28.7 64-64s-28.7-64-64-64-64 28.7-64 64 28.7 64 64 64zm32 32h-64c-17.6 0-33.5 7.1-45.1 18.6 40.3 22.1 68.9 62 75.1 109.4h66c17.7 0 32-14.3 32-32v-32c0-35.3-28.7-64-64-64zm-256 0c61.9 0 112-50.1 112-112S381.9 32 320 32 208 82.1 208 144s50.1 112 112 112zm76.8 32h-8.3c-20.8 10-43.9 16-68.5 16s-47.6-6-68.5-16h-8.3C179.6 288 128 339.6 128 403.2V432c0 26.5 21.5 48 48 48h288c26.5 0 48-21.5 48-48v-28.8c0-63.6-51.6-115.2-115.2-115.2zm-223.7-13.4C161.5 263.1 145.6 256 128 256H64c-35.3 0-64 28.7-64 64v32c0 17.7 14.3 32 32 32h65.9c6.3-47.4 34.9-87.3 75.2-109.4z'/></svg>"
+
+[[navbar]]
+    parent = "sci"
+    weight = 13
+    name = "Supereconomics"
+    url = "/social/economics"
+    pre = "<svg fill='silver' style='height: 20px !important' viewBox='0 0 512 512'><path d='M326.3 218.8c0 20.5-16.7 37.2-37.2 37.2h-70.3v-74.4h70.3c20.5 0 37.2 16.7 37.2 37.2zM504 256c0 137-111 248-248 248S8 393 8 256 119 8 256 8s248 111 248 248zm-128.1-37.2c0-47.9-38.9-86.8-86.8-86.8H169.2v248h49.6v-74.4h70.3c47.9 0 86.8-38.9 86.8-86.8z'/></svg>"
+
+
+[[navbar]]
+    parent = "sci"
+    weight = 14
+    name = "Social Cycles"
+    url = "/social/cycles"
+    pre = "<svg fill='silver' viewBox='0 0 512 512' style='height: 20px !important'><path d='M288 39.056v16.659c0 10.804 7.281 20.159 17.686 23.066C383.204 100.434 440 171.518 440 256c0 101.689-82.295 184-184 184-101.689 0-184-82.295-184-184 0-84.47 56.786-155.564 134.312-177.219C216.719 75.874 224 66.517 224 55.712V39.064c0-15.709-14.834-27.153-30.046-23.234C86.603 43.482 7.394 141.206 8.003 257.332c.72 137.052 111.477 246.956 248.531 246.667C393.255 503.711 504 392.788 504 256c0-115.633-79.14-212.779-186.211-240.236C302.678 11.889 288 23.456 288 39.056z'/></svg>"
+
+[[navbar]]
+    parent = "sci"
+    weight = 15
+    name = "Library"
+    url = "/research"
+    pre = "<svg fill='silver' style='height: 20px !important' viewBox='0 0 448 512'><path d='M448 360V24c0-13.3-10.7-24-24-24H96C43 0 0 43 0 96v320c0 53 43 96 96 96h328c13.3 0 24-10.7 24-24v-16c0-7.5-3.5-14.3-8.9-18.7-4.2-15.4-4.2-59.3 0-74.7 5.4-4.3 8.9-11.1 8.9-18.6zM128 134c0-3.3 2.7-6 6-6h212c3.3 0 6 2.7 6 6v20c0 3.3-2.7 6-6 6H134c-3.3 0-6-2.7-6-6v-20zm0 64c0-3.3 2.7-6 6-6h212c3.3 0 6 2.7 6 6v20c0 3.3-2.7 6-6 6H134c-3.3 0-6-2.7-6-6v-20zm253.4 250H96c-17.7 0-32-14.3-32-32 0-17.6 14.4-32 32-32h285.4c-1.9 17.1-1.9 46.9 0 64z'/></svg>"
+
+
+[[navbar]]
+    parent = "sci"
+    weight = 16
+    name = "FAQ"
+    url = "/faq"
+    pre = "<svg fill='silver' style='height: 20px !important' fill='silver' viewBox='0 0 512 512'><path d='M504 256c0 136.997-111.043 248-248 248S8 392.997 8 256C8 119.083 119.043 8 256 8s248 111.083 248 248zM262.655 90c-54.497 0-89.255 22.957-116.549 63.758-3.536 5.286-2.353 12.415 2.715 16.258l34.699 26.31c5.205 3.947 12.621 3.008 16.665-2.122 17.864-22.658 30.113-35.797 57.303-35.797 20.429 0 45.698 13.148 45.698 32.958 0 14.976-12.363 22.667-32.534 33.976C247.128 238.528 216 254.941 216 296v4c0 6.627 5.373 12 12 12h56c6.627 0 12-5.373 12-12v-1.333c0-28.462 83.186-29.647 83.186-106.667 0-58.002-60.165-102-116.531-102zM256 338c-25.365 0-46 20.635-46 46 0 25.364 20.635 46 46 46s46-20.636 46-46c0-25.365-20.635-46-46-46z'/></svg>"
+
+[[navbar]]
+    parent = "sci"
+    weight = 18
+    name = "About"
+    url = "/about"
+    pre = "<svg fill='silver' style='height: 20px !important' viewBox='0 0 512 512'><path d='M256 8C119.043 8 8 119.083 8 256c0 136.997 111.043 248 248 248s248-111.003 248-248C504 119.083 392.957 8 256 8zm0 110c23.196 0 42 18.804 42 42s-18.804 42-42 42-42-18.804-42-42 18.804-42 42-42zm56 254c0 6.627-5.373 12-12 12h-88c-6.627 0-12-5.373-12-12v-24c0-6.627 5.373-12 12-12h12v-64h-12c-6.627 0-12-5.373-12-12v-24c0-6.627 5.373-12 12-12h64c6.627 0 12 5.373 12 12v100h12c6.627 0 12 5.373 12 12v24z'/></svg>"
+
+[[navbar]]
+    parent = "sci"
+    weight = 19
+    name = "Changelog"
+    url = "/changelog"
+    pre = "<svg fill='silver' style='height: 20px !important' viewBox='0 0 512 512'><path d='M336 64h-80c0-35.3-28.7-64-64-64s-64 28.7-64 64H48C21.5 64 0 85.5 0 112v352c0 26.5 21.5 48 48 48h288c26.5 0 48-21.5 48-48V112c0-26.5-21.5-48-48-48zM96 424c-13.3 0-24-10.7-24-24s10.7-24 24-24 24 10.7 24 24-10.7 24-24 24zm0-96c-13.3 0-24-10.7-24-24s10.7-24 24-24 24 10.7 24 24-10.7 24-24 24zm0-96c-13.3 0-24-10.7-24-24s10.7-24 24-24 24 10.7 24 24-10.7 24-24 24zm96-192c13.3 0 24 10.7 24 24s-10.7 24-24 24-24-10.7-24-24 10.7-24 24-24zm128 368c0 4.4-3.6 8-8 8H168c-4.4 0-8-3.6-8-8v-16c0-4.4 3.6-8 8-8h144c4.4 0 8 3.6 8 8v16zm0-96c0 4.4-3.6 8-8 8H168c-4.4 0-8-3.6-8-8v-16c0-4.4 3.6-8 8-8h144c4.4 0 8 3.6 8 8v16zm0-96c0 4.4-3.6 8-8 8H168c-4.4 0-8-3.6-8-8v-16c0-4.4 3.6-8 8-8h144c4.4 0 8 3.6 8 8v16z'/></svg>"
+
+
+# [[navbar]]
+#     identifier = "imp"
+#     weight = 900
+#     name = "Implementations"
+#     url = ""
+#     pre = "<svg fill='silver' viewBox='0 0 640 512' fill='coral' class='p-1 icon'><path d='M624 416H381.54c-.74 19.81-14.71 32-32.74 32H288c-18.69 0-33.02-17.47-32.77-32H16c-8.8 0-16 7.2-16 16v16c0 35.2 28.8 64 64 64h512c35.2 0 64-28.8 64-64v-16c0-8.8-7.2-16-16-16zM576 48c0-26.4-21.6-48-48-48H112C85.6 0 64 21.6 64 48v336h512V48zm-64 272H128V64h384v256z'/></svg>"
+
+[[navbar]]
+    parent = "sci"
+    weight = 901
+    name = "Pantry Points"
+    url = "https://pantrypoints.com"
+    pre = "<img src='/icons/pantry.png' style='width: 30px !important'>"
+
+[[navbar]]
+    parent = "sci"
+    weight = 902
+    name = "Aether Technology"
+    url = "/material/solutions"
+    pre = "<img src='/icons/spmat.png' style='width: 30px !important'>"
+
+[[navbar]]
+    parent = "sci"
+    weight = 903
+    name = "Unified Medicine"
+    url = "/medical/solutions"
+    pre = "<img src='/icons/spmed.png' style='width: 30px !important'>"
+
+[[navbar]]
+    parent = "sci"
+    weight = 904
+    name = "Maharlikanism"
+    url = "https://maharlika.superphysics.org"
+    pre = "<img src='/icons/sun.png' style='width: 30px !important'>"
+
+
+
+[[navbar]]
+    identifier = "enl"
+    weight = 5
+    name = "Enlightened"
+    pre = "<svg  fill='silver' class='p-1 icon' viewBox='0 0 352 512'><path d='M96.06 454.35c.01 6.29 1.87 12.45 5.36 17.69l17.09 25.69a31.99 31.99 0 0 0 26.64 14.28h61.71a31.99 31.99 0 0 0 26.64-14.28l17.09-25.69a31.989 31.989 0 0 0 5.36-17.69l.04-38.35H96.01l.05 38.35zM0 176c0 44.37 16.45 84.85 43.56 115.78 16.52 18.85 42.36 58.23 52.21 91.45.04.26.07.52.11.78h160.24c.04-.26.07-.51.11-.78 9.85-33.22 35.69-72.6 52.21-91.45C335.55 260.85 352 220.37 352 176 352 78.61 272.91-.3 175.45 0 73.44.31 0 82.97 0 176zm176-80c-44.11 0-80 35.89-80 80 0 8.84-7.16 16-16 16s-16-7.16-16-16c0-61.76 50.24-112 112-112 8.84 0 16 7.16 16 16s-7.16 16-16 16z'/></svg>"
+
+
+[[navbar]]
+    parent = "enl"
+    weight = 119
+    name = "Bacon"
+    url = "/research/bacon/"
+    pre = "<img src='/icons/bacon.png' style='width: 30px !important; border-radius: 9999px; padding-right: 10px'>"
+
+[[navbar]]
+    parent = "enl"
+    weight = 120
+    name = "Descartes"
+    url = "/research/descartes"
+    pre = "<img src='/icons/descartes.png' style='width: 30px !important; border-radius: 9999px; padding-right: 10px'>"
+
+[[navbar]]
+    parent = "enl"
+    weight = 121
+    name = "Euclid"
+    url = "/research/euclid"
+    pre = "<img src='/icons/euclid.jpg' style='width: 30px !important; border-radius: 9999px; padding-right: 10px'>"
+
+
+[[navbar]]
+    parent = "enl"
+    weight = 122
+    name = "Hegel"
+    url = "/research/hegel"
+    pre = "<img src='/avatars/hegel.png' style='width: 30px !important; border-radius: 9999px; padding-right: 10px'>"
+
+
+[[navbar]]
+    parent = "enl"
+    weight = 123
+    name = "Hume"
+    url = "/research/hume"
+    pre = "<img src='/avatars/hume.png' style='width: 30px !important; border-radius: 9999px; padding-right: 10px'>"
+
+[[navbar]]
+    parent = "enl"
+    weight = 124
+    name = "Huygens"
+    url = "/research/huygens"
+    pre = "<img src='/avatars/huygens.png' style='width: 30px !important; border-radius: 9999px; padding-right: 10px'>"
+
+[[navbar]]
+    parent = "enl"
+    weight = 125
+    name = "Ibn Khaldun"
+    url = "/research/ibn-khaldun"
+    pre = "<img src='/icons/ibn.jpg' style='width: 30px !important; border-radius: 9999px; padding-right: 10px'>"
+
+[[navbar]]
+    parent = "enl"
+    weight = 130
+    name = "Indian"
+    pre = "<img src='/icons/yoga.jpg' style='width: 30px !important; border-radius: 9999px; padding-right: 10px'>"
+    url = "/research/indian"
+
+[[navbar]]
+    parent = "enl"
+    weight = 132
+    name = "Jesus"
+    pre = "<img src='/avatars/jesus.png' style='width: 30px !important; border-radius: 9999px; padding-right: 10px'>"
+    url = "/research/jesus"
+
+[[navbar]]
+    parent = "enl"
+    weight = 135
+    name = "Kepler"
+    url = "/research/kepler"
+    pre = "<img src='/avatars/kepler.png' style='width: 30px !important; border-radius: 9999px; padding-right: 10px'>"
+
+
+[[navbar]]
+    parent = "enl"
+    weight = 140
+    name = "Lao Tzu"
+    pre = "<img src='/avatars/lao.png' style='width: 30px !important; border-radius: 9999px; padding-right: 10px'>"
+    url = "/research/laotzu"
+
+[[navbar]]
+    parent = "enl"
+    weight = 142
+    name = "Leibniz"
+    url = "/research/leibniz"
+    pre = "<img src='/icons/lei.png' style='width: 30px !important; border-radius: 9999px; padding-right: 10px'>"
+
+[[navbar]]
+    parent = "enl"
+    weight = 146
+    name = "Montesquieu"
+    url = "/research/montesquieu"
+    pre = "<img src='/icons/mont.png' style='width: 30px !important; border-radius: 9999px; padding-right: 10px'>"
+
+
+
+[[navbar]]
+    parent = "enl"
+    weight = 150
+    name = "Musashi"
+    url = "/research/musashi"
+    pre = "<img src='/icons/musashi.jpg' style='width: 30px !important; border-radius: 9999px; padding-right: 10px'>"
+
+
+[[navbar]]
+    parent = "enl"
+    weight = 156
+    name = "Prophet Mohammad"
+    url = "/research/mohammad/quran"
+    pre = "<svg fill='silver' class='p-2 icon' viewBox='0 0 448 512'><path d='M448 358.4V25.6c0-16-9.6-25.6-25.6-25.6H96C41.6 0 0 41.6 0 96v320c0 54.4 41.6 96 96 96h326.4c12.8 0 25.6-9.6 25.6-25.6v-16c0-6.4-3.2-12.8-9.6-19.2-3.2-16-3.2-60.8 0-73.6 6.4-3.2 9.6-9.6 9.6-19.2zM301.08 145.82c.6-1.21 1.76-1.82 2.92-1.82s2.32.61 2.92 1.82l11.18 22.65 25 3.63c2.67.39 3.74 3.67 1.81 5.56l-18.09 17.63 4.27 24.89c.36 2.11-1.31 3.82-3.21 3.82-.5 0-1.02-.12-1.52-.38L304 211.87l-22.36 11.75c-.5.26-1.02.38-1.52.38-1.9 0-3.57-1.71-3.21-3.82l4.27-24.89-18.09-17.63c-1.94-1.89-.87-5.17 1.81-5.56l24.99-3.63 11.19-22.65zm-57.89-69.01c13.67 0 27.26 2.49 40.38 7.41a6.775 6.775 0 1 1-2.38 13.12c-.67 0-3.09-.21-4.13-.21-52.31 0-94.86 42.55-94.86 94.86 0 52.3 42.55 94.86 94.86 94.86 1.03 0 3.48-.21 4.13-.21 3.93 0 6.8 3.14 6.8 6.78 0 2.98-1.94 5.51-4.62 6.42-13.07 4.87-26.59 7.34-40.19 7.34C179.67 307.19 128 255.51 128 192c0-63.52 51.67-115.19 115.19-115.19zM380.8 448H96c-19.2 0-32-12.8-32-32s16-32 32-32h284.8v64z'/></svg>"
+
+
+[[navbar]]
+    parent = "enl"
+    weight = 160
+    name = "Pythagoras"
+    url = "/research/pythagoras"
+    pre = "<img src='/icons/py.png' style='width: 30px !important'; border-radius: 9999px; padding-right: 10px >"
+
+[[navbar]]
+    parent = "enl"
+    weight = 163
+    name = "Quesnay"
+    url = "/research/quesnay"
+    pre = "<img src='/icons/quesnay.png' style='width: 30px !important; border-radius: 9999px; padding-right: 10px'>"
+
+# [[navbar]]
+#     parent = "enl"
+#     weight = 164
+#     name = "Ramakrishna"
+#     url = "/research/ramakrishna"
+#     pre = "<img src='/avatars/rama.jpg' style='width: 30px !important; border-radius: 9999px; padding-right: 10px'>"
+
+
+[[navbar]]
+    parent = "enl"
+    weight = 165
+    name = "Sarkar"
+    url = "/research/sarkar"
+    pre = "<img src='/icons/sarkar.png' style='width: 30px !important; border-radius: 9999px; padding-right: 10px'>"
+
+[[navbar]]
+    parent = "enl"
+    weight = 170
+    name = "Schumacher"
+    url = "/research/schumacher"
+    pre = "<img src='/icons/schu.png' style='width: 30px !important; border-radius: 9999px; padding-right: 10px'>"
+
+[[navbar]]
+    parent = "enl"
+    weight = 170
+    name = "Sismondi"
+    url = "/research/sismondi"
+    pre = "<img src='/avatars/blank.png' style='width: 30px !important; border-radius: 9999px; padding-right: 10px'>"
+
+[[navbar]]
+    parent = "enl"
+    weight = 175
+    name = "Smith"
+    url = "/research/smith"
+    pre = "<img src='/avatars/smith.png' style='width: 30px !important; border-radius: 9999px; padding-right: 10px'>"
+
+[[navbar]]
+    parent = "enl"
+    weight = 175
+    name = "Social-Superphysics"
+    url = "/research/social"
+    pre = "<img src='/icons/spsoc.png' style='width: 30px !important; border-radius: 9999px; padding-right: 10px'>"
+
+[[navbar]]
+    parent = "enl"
+    weight = 176
+    name = "Spinoza"
+    url = "/research/spinoza"
+    pre = "<img src='/icons/spinoza.png' style='width: 30px !important; border-radius: 9999px; padding-right: 10px'>"
+
+[[navbar]]
+    parent = "enl"
+    weight = 180
+    name = "Socrates"
+    url = "/research/socrates"
+    pre = "<img src='/avatars/socrates.png' style='width: 30px !important; border-radius: 9999px; padding-right: 10px'>"
+
+[[navbar]]
+    parent = "enl"
+    weight = 184
+    name = "Tesla"
+    url = "/research/tesla"
+    pre = "<img src='/avatars/tesla.png' style='width: 30px !important; border-radius: 9999px; padding-right: 10px'>"
+
+[[navbar]]
+    parent = "enl"
+    weight = 189
+    name = "Xenophon"
+    url = "/research/xenophon"
+    pre = "<img src='/icons/xeno.png' style='width: 30px !important; border-radius: 9999px; padding-right: 10px'>"
+
+
+
+
+
+[[navbar]]
+    identifier = "non1"
+    weight = 5
+    name = "Non-enlightened"
+    url = ""
+    pre = "<svg  fill='silver' class='p-1 icon' viewBox='0 0 512 512'><path d='M183.9 370.1c-7.6-4.4-17.4-1.8-21.8 6l-64 112c-4.4 7.7-1.7 17.5 6 21.8 2.5 1.4 5.2 2.1 7.9 2.1 5.5 0 10.9-2.9 13.9-8.1l64-112c4.4-7.6 1.7-17.4-6-21.8zm96 0c-7.6-4.4-17.4-1.8-21.8 6l-64 112c-4.4 7.7-1.7 17.5 6 21.8 2.5 1.4 5.2 2.1 7.9 2.1 5.5 0 10.9-2.9 13.9-8.1l64-112c4.4-7.6 1.7-17.4-6-21.8zm-192 0c-7.6-4.4-17.4-1.8-21.8 6l-64 112c-4.4 7.7-1.7 17.5 6 21.8 2.5 1.4 5.2 2.1 7.9 2.1 5.5 0 10.9-2.9 13.9-8.1l64-112c4.4-7.6 1.7-17.4-6-21.8zm384 0c-7.6-4.4-17.4-1.8-21.8 6l-64 112c-4.4 7.7-1.7 17.5 6 21.8 2.5 1.4 5.2 2.1 7.9 2.1 5.5 0 10.9-2.9 13.9-8.1l64-112c4.4-7.6 1.7-17.4-6-21.8zm-96 0c-7.6-4.4-17.4-1.8-21.8 6l-64 112c-4.4 7.7-1.7 17.5 6 21.8 2.5 1.4 5.2 2.1 7.9 2.1 5.5 0 10.9-2.9 13.9-8.1l64-112c4.4-7.6 1.7-17.4-6-21.8zM416 128c-.6 0-1.1.2-1.6.2 1.1-5.2 1.6-10.6 1.6-16.2 0-44.2-35.8-80-80-80-24.6 0-46.3 11.3-61 28.8C256.4 24.8 219.3 0 176 0 114.2 0 64 50.1 64 112c0 7.3.8 14.3 2.1 21.2C27.8 145.8 0 181.5 0 224c0 53 43 96 96 96h320c53 0 96-43 96-96s-43-96-96-96z'/></svg>"
+    # pre = "<svg  fill='silver' class='p-1 icon' viewBox='0 0 576 512'><path d='M542.22 32.05c-54.8 3.11-163.72 14.43-230.96 55.59-4.64 2.84-7.27 7.89-7.27 13.17v363.87c0 11.55 12.63 18.85 23.28 13.49 69.18-34.82 169.23-44.32 218.7-46.92 16.89-.89 30.02-14.43 30.02-30.66V62.75c.01-17.71-15.35-31.74-33.77-30.7zM264.73 87.64C197.5 46.48 88.58 35.17 33.78 32.05 15.36 31.01 0 45.04 0 62.75V400.6c0 16.24 13.13 29.78 30.02 30.66 49.49 2.6 149.59 12.11 218.77 46.95 10.62 5.35 23.21-1.94 23.21-13.46V100.63c0-5.29-2.62-10.14-7.27-12.99z'/></svg>"
+
+[[navbar]]
+    parent = "non1"
+    weight = 500
+    name = "Aristotle"
+    url = "/research/aristotle"
+    pre = "<img src='/icons/aris.png' style='width: 30px !important; border-radius: 9999px; padding-right: 10px >"
+
+[[navbar]]
+    parent = "non1"
+    weight = 506
+    name = "Averroes"
+    url = "/research/averroes"
+    pre = "<img src='/avatars/averroes.jpg' style='width: 30px !important; border-radius: 9999px; padding-right: 10px'>"
+
+    
+[[navbar]]
+    parent = "non1"
+    weight = 510
+    name = "Confucius"
+    url = "/research/confucius"
+    pre = "<img src='/icons/conf.png' style='width: 30px !important; border-radius: 9999px; padding-right: 10px'>"    
+    # pre = "<img src='/icons/conf.png' style='width: 30px !important; border-radius: 9999px; padding-right: 10px;'>"
+
+[[navbar]]
+    parent = "non1"
+    weight = 514
+    name = "Einstein"
+    url = "/research/einstein"
+    pre = "<img src='/icons/einbla.png' style='width: 30px !important; border-radius: 9999px; padding-right: 10px;'>"
+
+[[navbar]]
+    parent = "non1"
+    weight = 523
+    name = "Engels"
+    url = "/research/engels"
+    pre = "<img src='/avatars/engels.jpg' style='width: 30px !important; border-radius: 9999px; padding-right: 10px;'>"
+
+[[navbar]]
+    parent = "non1"
+    weight = 525
+    name = "Epicurus"
+    url = "/research/epicurus"
+    pre = "<img src='/icons/epi.png' style='width: 30px !important; border-radius: 9999px; padding-right: 10px >"
+
+
+[[navbar]]
+    parent = "non1"
+    weight = 530
+    name = "George"
+    url = "/research/george"
+    pre = "<img src='/avatar/george.png' style='width: 30px !important; border-radius: 9999px; padding-right: 10px'>"
+
+[[navbar]]
+    parent = "non1"
+    weight = 540
+    name = "Hermes"
+    url = "/research/hermes"
+    pre = "<img src='/avatars/blank.png' style='width: 30px !important; border-radius: 9999px; padding-right: 10px'>"
+
+[[navbar]]
+    parent = "non1"
+    weight = 600
+    name = "Keynes"
+    url = "/research/keynes"
+    pre = "<img src='/avatars/keynes.png' style='width: 30px !important; border-radius: 9999px; padding-right: 10px'>"
+
+[[navbar]]
+    parent = "non1"
+    weight = 601
+    name = "Machiavelli"
+    url = "/research/machiavelli"
+    pre = "<img src='/icons/mach.jpg' style='width: 30px !important; border-radius: 9999px; padding-right: 10px'>"
+
+[[navbar]]
+    parent = "non1"
+    weight = 602
+    name = "Mao Zedong"
+    url = "/research/mao"
+    pre = "<img src='/icons/mao.png' style='width: 30px !important; border-radius: 9999px; padding-right: 10px >"
+
+[[navbar]]
+    parent = "non1"
+    weight = 603
+    name = "Marx, Karl"
+    url = "/research/marx"
+    pre = "<img src='/icons/marx.png' style='width: 30px !important; border-radius: 9999px; padding-right: 10px >"
+
+[[navbar]]
+    parent = "non1"
+    weight = 604
+    name = "Mill, JS"
+    url = "/research/mill"
+    pre = "<img src='/icons/mill.png' style='width: 30px !important; border-radius: 9999px; padding-right: 10px'>"
+
+[[navbar]]
+    parent = "non1"
+    weight = 611
+    name = "Mun"
+    url = "/research/mun"
+    pre = "<img src='/avatars/mun.png' style='width: 30px !important; border-radius: 9999px; padding-right: 10px'>"
+
+
+[[navbar]]
+    parent = "non1"
+    weight = 618
+    name = "Newton"
+    url = "/research/newton"
+    pre = "<img src='/icons/newton.png' style='width: 30px !important; border-radius: 9999px; padding-right: 10px >"
+
+[[navbar]]
+    parent = "non1"
+    weight = 619
+    name = "Piketty"
+    url = "/research/piketty/capital/conclusion/"
+    pre = "<img src='/avatars/blank.png' style='width: 30px !important; border-radius: 9999px; padding-right: 10px'>"
+
+[[navbar]]
+    parent = "non1"
+    weight = 620
+    name = "Russel"
+    url = "/research/russel"
+    pre = "<img src='/avatars/russel.jpg' style='width: 30px !important; border-radius: 9999px; padding-right: 10px;'>"
+
+
+[[navbar]]
+    parent = "non1"
+    weight = 626
+    name = "Say"
+    url = "/research/say"
+    pre = "<img src='/icons/say.jpg' style='width: 30px !important; border-radius: 9999px; padding-right: 10px;'>"
+
+
+
+
+[[navbar]]
+    identifier = "other"
+    weight = 6
+    name = "Others"
+    pre = "<svg fill='silver' class='p-1 icon' viewBox='0 0 192 512'><path d='M96 184c39.8 0 72 32.2 72 72s-32.2 72-72 72-72-32.2-72-72 32.2-72 72-72zM24 80c0 39.8 32.2 72 72 72s72-32.2 72-72S135.8 8 96 8 24 40.2 24 80zm0 352c0 39.8 32.2 72 72 72s72-32.2 72-72-32.2-72-72-72-72 32.2-72 72z'/></svg>"
+
+[[navbar]]
+    parent = "other"
+    weight = 640
+    name = "Al-Kwarizmi"
+    url = "/research/musa/algebra/"
+    pre = "<img src='/avatars/musa.png' style='width: 30px !important; border-radius: 9999px; padding-right: 10px'>"
+
+[[navbar]]
+    parent = "other"
+    weight = 641
+    name = "Avicenna"
+    url = "/research/avicenna/soul/"
+    pre = "<img src='/avatars/avicenna.png' style='width: 30px !important; border-radius: 9999px; padding-right: 10px'>"
+
+[[navbar]]
+    parent = "other"
+    weight = 642
+    name = "Bohr"
+    url = "/research/bohr/"
+    pre = "<img src='/avatars/bohr.jpg' style='width: 30px !important; border-radius: 9999px; padding-right: 10px'>"
+
+[[navbar]]
+    parent = "other"
+    weight = 643
+    name = "Chau-Ju-Kua"
+    url = "/research/chau-ju-kua"
+    pre = "<img src='/avatars/blank.png' style='width: 30px !important; border-radius: 9999px; padding-right: 10px'>"
+
+[[navbar]]
+    parent = "other"
+    weight = 645
+    name = "Constitutions"
+    url = "/research/constitutions"
+    pre = "<svg  fill='silver' class='p-1 icon' viewBox='0 0 496 512'><path d='M336.5 160C322 70.7 287.8 8 248 8s-74 62.7-88.5 152h177zM152 256c0 22.2 1.2 43.5 3.3 64h185.3c2.1-20.5 3.3-41.8 3.3-64s-1.2-43.5-3.3-64H155.3c-2.1 20.5-3.3 41.8-3.3 64zm324.7-96c-28.6-67.9-86.5-120.4-158-141.6 24.4 33.8 41.2 84.7 50 141.6h108zM177.2 18.4C105.8 39.6 47.8 92.1 19.3 160h108c8.7-56.9 25.5-107.8 49.9-141.6zM487.4 192H372.7c2.1 21 3.3 42.5 3.3 64s-1.2 43-3.3 64h114.6c5.5-20.5 8.6-41.8 8.6-64s-3.1-43.5-8.5-64zM120 256c0-21.5 1.2-43 3.3-64H8.6C3.2 212.5 0 233.8 0 256s3.2 43.5 8.6 64h114.6c-2-21-3.2-42.5-3.2-64zm39.5 96c14.5 89.3 48.7 152 88.5 152s74-62.7 88.5-152h-177zm159.3 141.6c71.4-21.2 129.4-73.7 158-141.6h-108c-8.8 56.9-25.6 107.8-50 141.6zM19.3 352c28.6 67.9 86.5 120.4 158 141.6-24.4-33.8-41.2-84.7-50-141.6h-108z'/></svg>"
+
+[[navbar]]
+    parent = "other"
+    weight = 646
+    name = "England"
+    url = "/research/england"
+    pre = "<img src='/flags/gb.png' style='width: 30px !important; border-radius: 9999px; padding-right: 10px'>"
+
+[[navbar]]
+    parent = "other"
+    weight = 647
+    name = "Grotius"
+    url = "/research/grotius/"
+    pre = "<img src='/icons/grotius.png' style='width: 30px !important; border-radius: 9999px; padding-right: 10px'>"
+
+
+# [[navbar]]
+#     parent = "other"
+#     weight = 648
+#     name = "Jagor"
+#     url = "/research/jagor"
+#     pre = "<img src='/avatars/blank.png' style='width: 30px !important; border-radius: 9999px; padding-right: 10px'>"
+
+[[navbar]]
+    parent = "other"
+    weight = 648
+    name = "Lorentz"
+    url = "/research/lorentz"
+    pre = "<img src='/avatars/lor.png' style='width: 30px !important; border-radius: 9999px; padding-right: 10px'>"
+
+[[navbar]]
+    parent = "other"
+    weight = 650
+    name = "Modern"
+    url = "/research/modern"
+    pre = "<svg fill='silver' class='p-1 icon' viewBox='0 0 496 512'><path d='M336.5 160C322 70.7 287.8 8 248 8s-74 62.7-88.5 152h177zM152 256c0 22.2 1.2 43.5 3.3 64h185.3c2.1-20.5 3.3-41.8 3.3-64s-1.2-43.5-3.3-64H155.3c-2.1 20.5-3.3 41.8-3.3 64zm324.7-96c-28.6-67.9-86.5-120.4-158-141.6 24.4 33.8 41.2 84.7 50 141.6h108zM177.2 18.4C105.8 39.6 47.8 92.1 19.3 160h108c8.7-56.9 25.5-107.8 49.9-141.6zM487.4 192H372.7c2.1 21 3.3 42.5 3.3 64s-1.2 43-3.3 64h114.6c5.5-20.5 8.6-41.8 8.6-64s-3.1-43.5-8.5-64zM120 256c0-21.5 1.2-43 3.3-64H8.6C3.2 212.5 0 233.8 0 256s3.2 43.5 8.6 64h114.6c-2-21-3.2-42.5-3.2-64zm39.5 96c14.5 89.3 48.7 152 88.5 152s74-62.7 88.5-152h-177zm159.3 141.6c71.4-21.2 129.4-73.7 158-141.6h-108c-8.8 56.9-25.6 107.8-50 141.6zM19.3 352c28.6 67.9 86.5 120.4 158 141.6-24.4-33.8-41.2-84.7-50-141.6h-108z'/></svg>"
+
+[[navbar]]
+    parent = "other"
+    weight = 652
+    name = "Poincare"
+    url = "/research/poincare"
+    pre = "<img src='/avatars/poincare.png' style='width: 30px !important; border-radius: 9999px; padding-right: 10px'>"
+
+
+[[navbar]]
+    parent = "other"
+    weight = 656
+    name = "Sun-Tzu"
+    url = "/research/sun-tzu"
+    pre = "<img src='/icons/suntzu.png' style='width: 30px !important; border-radius: 9999px; padding-right: 10px'>"
+
+[[navbar]]
+    parent = "other"
+    weight = 660
+    name = "Whittaker"
+    url = "/research/whittaker"
+    pre = "<img src='/icons/whit.png' style='width: 30px !important; border-radius: 9999px; padding-right: 10px'>"
+
+
+
+# [[quicklinks]]
+#     identifier = "follow"
+#     weight = 99
+#     name = "FOLLOW"
+
+# [[quicklinks]]
+#     identifier = "twitter"
+#     parent = "follow"
+#     weight = 1
+#     name = "Twitter"
+#     url = "#"
+#     pre = "<span class=\"icon\"><i class=\"fab fa-twitter\"></i></span>"
+
+# [[quicklinks]]
+#     identifier = "facebook"
+#     parent = "follow"
+#     weight = 2
+#     name = "Facebook"
+#     url = "#"
+#     pre = "<span class=\"icon\"><i class=\"fab fa-facebook\"></i></span>"
+

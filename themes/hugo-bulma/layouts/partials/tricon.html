@@ -1,0 +1,83 @@
+<style type="text/css">
+  /* Custom CSS */
+.card-image {
+  position: relative;
+  overflow: hidden;
+}
+
+.image-overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.7); /* Black background with 70% opacity */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  color: #fff; /* White text color */
+}
+
+.card-image img {
+  object-fit: cover; /* Ensure the image covers the entire container */
+}
+
+
+</style>
+
+
+<section class="my-5 section container has-text-centered ">
+  <div class="h has-text-white pt-5">{{ .Heading }}</div> 
+  <h2 class="title has-text-white is-2">{{ .Title }}</h2>
+  <h3 class="subtitle is-3" style="color: silver">{{ .Subtitle }}</h3>
+  <figure class="is-inline-block">
+    <a href="{{ .Link }}">
+      <img src="{{ .Icon }}" style="width: 100px;" class="" alt="">
+    </a>
+  </figure>    
+<!--     <figure class="is-inline-block">      
+    <img src="/icons/sp.png" style="width: 100px;" class="" alt="">
+  </figure> -->
+
+
+  {{ with .Youtube }}
+  <div class="columns is-mobile my-5">
+    <div class="column is-hidden-mobile is-2-desktop">
+    </div>
+    <div class="column is-12-touch is-8-desktop">
+      <div class="has-text-centered label">
+        <figure class="image is-16by9">
+          <iframe class="has-ratio" width="640" height="360" src="https://www.youtube.com/embed/{{ . }}" title="Superphysics Video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+        </figure>
+      </div>
+    </div>          
+    <div class="column is-hidden-mobile is-2-desktop">
+    </div>
+  </div>
+  {{ end }}
+    
+
+  <section class="section container">    
+    <div class="columns is-multiline is-mobile">
+      {{ range .items }}  
+        <div class="column is-6-touch is-3-desktop">     
+          <a href="{{ .url }}"> 
+            <div class="card card-equal-height zoom-xs" style="background-color: black;">
+              <div class="card-image">
+                <figure class="image is-16by9">
+                  <img src="{{ .img }}" alt="{{ .title }}">              
+                </figure>
+              </div>
+              <div class="card-content">
+                <h2 class="title is-5 has-text-white">{{ .title }}</h2>
+                <small class="small has-text-white">{{ .subtitle }}</small>                
+              </div>
+            </div>
+          </a>
+        </div>
+      {{ end }}
+    </div>
+  </section>
+
+</section>

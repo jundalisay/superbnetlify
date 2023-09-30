@@ -1,0 +1,93 @@
+{{ define "main" }}
+{{ $page := . }}
+<main class="main" role="main">
+
+
+  <style type="text/css">
+    .shake {
+      background: #000 url("/banner.jpg") center center;
+      background-repeat: no-repeat;
+      width: 100%;
+      height: 100%;
+      background-size: cover;
+    }
+
+    .hero .herobutton {
+      transform: translate(-50%, -50%);
+      -ms-transform: translate(-50%, -50%);
+      background-color: #555;
+      color: white;
+      font-size: 16px;
+      padding: 12px 24px;
+      border: none;
+      cursor: pointer;
+      border-radius: 5px;
+    }  
+  </style>
+
+  <section class="hero shake is-halfheight has-text-centered">
+    <div class="hero-body">
+      <div class="container">
+        <h1 class="title is-1 has-text-white mt-5 pt-5">{{ .Params.title }}</h1>
+        <h2 class="subtitle is-3 has-text-light">{{ .Params.heading }}</h2>
+
+        <div class="columns is-mobile my-5">
+          <div class="column is-hidden-mobile is-2-desktop">
+          </div>
+          <div class="column is-12-touch is-8-desktop">
+            <div class="has-text-centered label">
+              <figure class="image is-16by9">
+                <iframe class="has-ratio" width="640" height="360" src="https://www.youtube.com/embed/{{ if .Params.youtube }}{{ .Params.youtube }}{{ else }}5fL2_ZcRgNQ{{ end }}" frameborder="0" allowfullscreen></iframe>
+              </figure>
+            </div>
+          </div>          
+          <div class="column is-hidden-mobile is-2-desktop">
+          </div>
+        </div>
+
+        <h3 class="title is-3 has-text-light has-text-centered">
+          {{ .Params.sub }}
+        </h3>
+
+        {{ with .Params.cards }}
+          {{ partial "cards.html" . }}          
+        {{ end }}
+
+      </div>
+    </div>
+  </section>    
+
+  {{ with .Params.tricon1 }}
+    {{ partial "tricon.html" . }}          
+  {{ end }}
+
+  {{ with .Params.articles1 }}
+    {{ partial "articles.html" . }}          
+  {{ end }}
+
+  {{ with .Params.tricon2 }}
+    {{ partial "tricon.html" . }}          
+  {{ end }}
+
+  {{ with .Params.articles2 }}
+    {{ partial "articles.html" . }}    
+  {{ end }}
+
+  {{ with .Params.tricon3 }}
+    {{ partial "tricon.html" . }}          
+  {{ end }}
+
+  {{ with .Params.articles3 }}
+    {{ partial "articles.html" . }}          
+  {{ end }}
+
+  {{ with .Params.tricon4 }}
+    {{ partial "tricon.html" . }}          
+  {{ end }}
+
+  {{ with .Params.articles4 }}
+    {{ partial "articles.html" . }}          
+  {{ end }}
+
+</main>
+{{ end }}
