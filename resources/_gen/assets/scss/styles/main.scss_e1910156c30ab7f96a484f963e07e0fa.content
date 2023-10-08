@@ -6816,7 +6816,7 @@ body {
 
 .lor, .lorentz {
   background-color: darkslateblue;
-  background-image: url(/avatars/lor.png); }
+  background-image: url(/icons/lor.png); }
 
 .mac {
   background-color: black !important;

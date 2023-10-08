@@ -54,7 +54,7 @@ The Spatial (gravitational layer) is different because it is based on points, an
 Historically, these geometries manifest as pyramids and pyramid blocks which must be precise as to fit perfectly like lego bricks. 
 
 
-{{< img src="https://sorasystem.sirv.com/photos/egypt.jpg" alt="Egyptian pyramids" cap="The ancient Egyptians knew about the principles of the spatial layer and were consequently focused on geometry" >}}
+{{< img src="https://sorasystem.sirv.com/photos/objects/egypt.jpg" alt="Egyptian pyramids" cap="The ancient Egyptians knew about the principles of the spatial layer and were consequently focused on geometry" >}}
 
 
 ## Shape is Very Important in the Spatial Layer 

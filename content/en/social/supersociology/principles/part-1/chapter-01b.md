@@ -3,7 +3,7 @@ title: "What is a Society, Nation, and State?"
 heading: "Chapter 1b"
 date: 2015-08-15
 weight: 6
-image: "/photos/egypt.jpg"
+image: "/photos/objects/egypt.jpg"
 description: "A society is abtract, Nation refers to physical birth or race, State refers to a formalized society"
 youtube: "J6F2_PF2wbo"
 author: Juan

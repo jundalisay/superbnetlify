@@ -537,7 +537,7 @@
     weight = 648
     name = "Lorentz"
     url = "/research/lorentz"
-    pre = "<img src='/avatars/lor.png' style='width: 30px !important; border-radius: 9999px; padding-right: 10px'>"
+    pre = "<img src='/icons/lor.png' style='width: 30px !important; border-radius: 9999px; padding-right: 10px'>"
 
 [[navbar]]
     parent = "other"

@@ -39,7 +39,7 @@ Therefore, their share in the qualities resulting from heat, that is, joy and le
 
 The heat is abundant in it and in the air there, since it lies south of the coastal plains and hills. Another example is furnished by the Egyptians. Egypt lies at about the same latitude as the Jarid. The Egyptians are dominated by joyfulness, levity, and disregard for the future. 
 
-![Ancient Egyptian pyramids](/photos/egypt.jpg)
+![Ancient Egyptian pyramids](/photos/objects/egypt.jpg)
 
 They store no provisions of food, neither for a month nor a year ahead, but purchase most of it (daily) in the market. Fez in the Maghrib, on the other hand, lies inland (and is) surrounded by cold hills. Its inhabitants can be
 observed to look sad and gloomy and to be too much concerned for the future.
