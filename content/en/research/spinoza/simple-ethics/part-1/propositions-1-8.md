@@ -11,7 +11,7 @@ description: "Substance is by nature prior to its modifications"
 1. Substance is by nature prior to its modifications.
 
 
-2. Two substances, whose attributes are different, have nothing in common.
+2. Two substances have nothing in common if their attributes are different.
 - For each must exist in itself, and be conceived through itself.
 - In other words, the conception of one does not imply the conception of the other.
 
@@ -24,7 +24,7 @@ Proof: If they have nothing in common, it follows that one cannot be apprehended
 
 4. Two or more distinct things are distinguished one from the other, either: 
 - by the difference of the attributes of the substances, or 
-- the difference of their modifications. 
+- the difference of their modifications.
     
 Proof: Everything which exists, exists either in itself or in something else (Axiom 1).
 - Nothing is granted (by Def.3 and 5.) in addition to the understanding, except substance and its modifications.

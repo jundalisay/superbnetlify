@@ -11,29 +11,48 @@ weight: 4
 
 ## Definitions:
 
-1. Self—caused means something of which the essence involves existence.
+n | Name | Definition
+--- | --- | ---
+1. | Self—caused | something of which the essence involves existence
+2. | Finite thing | a thing that can be limited by another thing of the same nature
 
-2. A thing is finite when it can be limited by another thing of the same nature.
+For instance:
+- a body is finite because we always conceive another greater body
+- a thought is limited by another thought
 
-For instance, a body is finite because we always conceive another greater body. A thought is limited by another thought. But a body is not limited by thought, nor a thought limited by a body.
+But:
+- a body is not limited by thought
+- a thought is not limited by a body*
 
-3. Substance is something in itself and conceived through itself. In other words, something of which a conception can be formed independently of any other conception.
+> *Superphysics Note: In Superphysics, this is because either one lives in a different domain
 
-4. Attribute is something which the intellect perceives as constituting the essence of substance.
 
-5. Mode are the modifications of substance, or that which exists in, and is conceived through, something other than itself.
 
-6. God means a being absolutely infinite. It is a substance consisting in infinite attributes, of which each expresses eternal and infinite essentiality. I say absolutely infinite, not infinite after its kind, for infinite attributes may be denied for a thing infinite only after its kind. But something absolutely infinite contains in its essence whatever expresses reality and involves no negation.
+n | Name | Definition
+--- | --- | ---
+3. | Substance | something in itself and conceived through itself. It can be conceived independently of any other conception.
+4. | Attribute | the essence of substance
+5. | Mode | a modification of substance
+<!-- , or that which exists in, and is conceived through, something other than itself. -->
+6. God | a being absolutely infinite
 
-7. A free thing is something:
-- that exists solely by the necessity of its own nature
-- that does actions which are determined by itself alone.
+God is a substance having infinite attributes. Each attribute expresses eternal and infinite essentiality. 
 
-8. On the other hand, a thing is necessary, or rather constrained, if it is determined by something external to itself, to a fixed and definite method of existence or action.
+This means that God is absolutely infinite, and not infinite after its kind. This is because infinite attributes may be denied for a thing infinite only after its kind. 
 
-9. Eternity means existence itself, in so far as it is conceived necessarily to follow solely from the definition of that which is eternal.
-- Existence of this kind is conceived as an eternal truth, like the essence of a thing.
+But something absolutely infinite contains in its essence whatever expresses reality and involves no negation.
+
+n | Name | Definition
+--- | --- | ---
+7. | Free thing | something that exists solely by itself and acts by itself alone
+8. | Necessary or constrained thing | something that is determined by something external 
+<!-- to itself, to a fixed and definite method of existence or action. -->
+9. | Eternity | existence itself [without the time factor]
+<!-- , in so far as it is conceived necessarily to follow solely from the definition of that which is eternal. -->
+
+<!-- - Existence of this kind is conceived as an eternal truth, like the essence of a thing. -->
 - Therefore, it cannot be explained through continuance or time, though continuance may be conceived without a beginning or end.
+
 
 
 ## Axioms
