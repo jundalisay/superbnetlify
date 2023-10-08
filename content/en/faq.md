@@ -243,7 +243,7 @@ But we still need to prove that Bio Superphysics and Material Superphysics also 
 
 Medicine is highly regulated. Material experiments are expensive. We aim to surmount both impediments through our economic system.
 
-This is why, until 2030, most of our work is on Social Superphysics as economics and policies. The work on Bio and Material Superphysics will mostly be theoretical for now, though we've done [rudimentary experiments on levitation](/material/levitation).
+This is why, until 2030, most of our work is on Social Superphysics as economics and policies. The work on Bio and Material Superphysics will mostly be theoretical for now, though we've done [rudimentary experiments on levitation](/material/levitation) and preventing cancers from getting worse via alternative medicine.
 
 <!-- In the past, Material Superphysics was proven by miracles such as Jesus walking on water or Buddhist monks levitating. But this was not replicable. So we use Tesla's spacetime priniples which are opposite those of Einstein's General Relativity.  -->
 {{< /l >}}

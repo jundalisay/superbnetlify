@@ -9,14 +9,24 @@ author: Propery
 ---
 
 
-9. Returning to Ionia, he opened a school, now called Pythagoras's Semicircles. Samians meet there to deliberate about matters of common interest. Outside the city he made a cave adapted to the study of his philosophy, in which he abode day and night, discoursing with a few of his associates. He was now forty years old, says Aristoxenus. 
+9. Returning to Ionia, he opened a school, now called Pythagoras's Semicircles.
 
-Seeing that Polycrates's government was becoming so violent that soon a free man would become a victim of his tyranny, he journeyed towards Italy.
+Samians meet there to deliberate about matters of common interest. Outside the city, he made a cave adapted to the study of his philosophy. He lived there discoursing with a few of his associates.
+
+He was now 40 years old, says Aristoxenus. 
+
+He saw that Polycrates's government was becoming so violent that soon a free man would become a victim of his tyranny. So he journeyed towards Italy.
 
 
-10. Diogenes, in his treatise about the Incredible Things Beyond Thule, has treated Pythagoras's affairs so carefully, that I think his account should not be omitted. He says that the Tyrrhenian Mnesarchus was of the race of the inhabitants of Lemnos, Imbros and Scyros and that he departed thence to visit many cities and various lands. During his journeys he found an infant lying under a large, tall poplar tree. 
+10. Diogenes, in his treatise about the Incredible Things Beyond Thule, has treated Pythagoras's affairs so carefully, that I think his account should not be omitted. 
 
-On approaching, he observed it lay on its back, looking steadily without winking at the sun. In its mouth was a little slender reed, like a pipe; through which the child was being nourished by the dew-drops that distilled from the tree. This great wonder prevailed upon him to take the child, believing it to be of a divine origin. The child was fostered by a native of that country, named Androcles, who later on adopted him, and entrusted to him the management of affairs. On becoming wealthy, Mnesarchus educated the boy, naming him Astrasus, and rearing him with his own three sons, Eunestus, Tyrrhenus, and Pythagoras; which boy, as I have said, Androcles adopted.
+He says that the Tyrrhenian Mnesarchus was of the race of the inhabitants of Lemnos, Imbros and Scyros and that he departed thence to visit many cities and various lands.
+
+During his journeys he found an infant lying under a large, tall poplar tree. 
+
+On approaching, he observed it lay on its back, looking steadily without winking at the sun. In its mouth was a little slender reed, like a pipe; through which the child was being nourished by the dew-drops that distilled from the tree. This great wonder prevailed upon him to take the child, believing it to be of a divine origin. 
+
+The child was fostered by a native of that country, named Androcles, who later on adopted him, and entrusted to him the management of affairs. On becoming wealthy, Mnesarchus educated the boy, naming him Astrasus, and rearing him with his own three sons, Eunestus, Tyrrhenus, and Pythagoras; which boy, as I have said, Androcles adopted.
 
 
 11. He sent the boy to a lute-player, a wrestler and a painter. Later he sent him to Anaximander at Miletus, to learn geometry and astronomy. Then Pythagoras visited the Egyptians, the Arabians, the Chaldeans and the Hebrews, from whom he acquired expertery in the interpretation of dreams, and he was the first to use frankincense in the worship of divinities.

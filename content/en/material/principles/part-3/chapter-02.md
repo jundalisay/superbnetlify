@@ -54,6 +54,85 @@ We call quarks as qom or quantum of matter, just as we called gravitons as qost 
 | Higgs Boson | qoa | 0 | none |  |  |
 
 
+<!-- Particle | Superphysics Name |  Description
+--- | --- | ---
+Ion | ? | Charged atoms
+
+
+No nneed for fermions 
+
+Lepton Class | Pre-Radiants |   
+Electron | Qoe | Male Charge
+Muon | Heavy Electron |  
+Tau | 
+
+
+Boundaries | Boson Class
+Photons | Qol | 
+W Boson | 
+Z Boson | 
+ -->
+
+
+
+<!-- Fermion Class | Radiant Class |  -->
+
+<!--  
+- Transformative Class 
+	- Higher Transformative Subclass
+		- ? Neutrino
+	- Lower Transformative Subclass	
+  	- Qot (Neutron)  
+- Material Class
+	- Higher Material Subclass (Mesons)
+	  - HM1 (Pions)
+	  - HM2 (Kaons)  
+	- Lower Material Subclass (Baryon)
+	  - Qom (Quarks)
+	  -  -->
+
+In Superphysics, we name them differently. We get rid of Boson and Fermion Classes. Instead we use Boundary Particles:
+- MB for W Boson
+- TB for Z Boson
+- RB for Photons
+
+
+Superphyics Names | . | Physics Names
+--- | :---: | ---:
+**AETHERAL BOUNDARY** | AB |  
+**Aethereal Class** | **Upper Aethereal Subclass**
+. | qoi (Idea) | 
+. | **Lower Aethereal Subclass**
+. | qoth (Thought) | 
+**SPACETIME BOUNDARY** | Qop |  
+**Spacetime Class** | **Upper Spacetime Subclass**
+. | Qov | Supermassive Black Hole (Quasar)
+. | **Lower Spacetime Subclass**
+. | Qost | Dark Matter (Galaxy)
+**RADIANT BOUNDARY** | Qol | Photon 
+**Radiant Class** | **Upper Radiant Subclass**
+. | ? | Neutrino
+. | **Lower Radiant Subclass**
+. | Qot | Neutron
+**TRANSFORMATIVE BOUNDARY** | TB | Z Boson 
+**Transformative Class** | **Upper Transformative Subclass**
+. | ? | Neutrino
+. | **Lower Transformative Subclass**	
+. | Qot | Neutron
+**MATERIAL BOUNDARY** | MB | W Boson 
+**Material Class** | **Upper Material Subclass** | Mesons
+. | ? | 
+. | **Lower Material Subclass**
+. | Qom | Quark
+
+
+<!-- . | Higher Material Subclass |  | Meson Class 
+. | . | | Pions 
+. | . | | Kaons  
+. | Lower Materials | | Baryon Class 
+. | . |  |   -->
+
+
 ## So What's the Use of Male and Female Charges? 
 
 The charges are a consequence of identities in the Radiant layer charting a course towards the Material layer via the Transformative layer. Using genders allows a intuitive and more diversified classification that is more robust than mere positive or negative. For example, binary male and female has variations as:
