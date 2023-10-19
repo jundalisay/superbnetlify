@@ -18,7 +18,7 @@ icon: "/avatars/smith.png"
 {{< s v="8" >}} When a husbandman goes to war which starts after seed-time and ends before harvest, his revenue is not reduced with his work's interruption.
 - Nature does most of the husbandman's remaining work.
 
-But when an <!-- artificer --> manufacturer, smith, carpenter, or weaver quits his workhouse, his revenue completely dries up.
+But when a manufacturer, smith, carpenter, or weaver quits his workhouse, his revenue completely dries up.
 - Nature does nothing for him.
 - He does all for himself.
 

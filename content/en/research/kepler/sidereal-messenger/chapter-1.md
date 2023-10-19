@@ -1,13 +1,9 @@
-+++
-title=  "Letter"
-description=  ""
-image=  "/avatars/kepler2.jpg"
-date=  "2020-01-06"
-linkb=  "/research/kepler"
-linkbtext=  "Works"
-linkf=  "/research/kepler"
-linkftext=  "Works"
-+++ 
+---
+title:  "Letter"
+description:  ""
+image:  "/avatars/kepler2.jpg"
+date:  "2020-01-06"
+---
 
 
 Galileo Galilei A Gentleman Of Florence, Professor Of Mathematics In The University Of Padua, With The Aid Of A Telescope

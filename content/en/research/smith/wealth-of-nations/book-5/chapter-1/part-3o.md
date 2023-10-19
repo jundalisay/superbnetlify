@@ -76,9 +76,10 @@ These trades are:
 
 
 
-{{< s v="122" >}} The principles of banking might seem esoteric<!-- abstruse -->. But the practice can be reduced to strict rules.
+{{< s v="122" >}} The principles of banking might seem esoteric.
+- But the practice can be reduced to strict rules.
 
-Departing from those rules, in consequence of some speculation of extraordinary gain, is almost always extremely dangerous and frequently fatal to the bank that attempts it.
+Departing from those rules, because of some speculation of extraordinary gain, is extremely dangerous and frequently fatal to the bank that attempts it.
 
 The constitution of joint stock companies makes them more tenacious of rules than any private copartnery.
 - Such companies seem extremely well fitted for banking.

@@ -1,6 +1,7 @@
 ---
 heading: "Chapter 4"
 title: "Karma, Samskara, and the Loop of Cause and Effect"
+linkTitle: Karma
 date: 2020-04-12
 weight: 10
 image: /photos/meta/buddhism.jpg

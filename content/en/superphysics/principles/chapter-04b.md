@@ -1,6 +1,7 @@
 ---
 heading: "Chapter 4b"
 title: "Qualimath: The Math for Superphysics"
+linkTitle: Qualimath
 # Math for Qualities and Ratios" more than Quantities and Equalities"
 date: 2020-12-27
 weight: 12
@@ -9,9 +10,6 @@ description: "Qualimath is Math for operating on Qualities instead of Quantities
 author: Juan
 icon: /icons/sp.png
 math: true
-# aliases:
-#   /articles/superphysics/what-is-qualimath/
-#   /superphysics/solutions/qualimath/
 comments:
   - img: "/avatars/lam.jpg"
     content: "Can I use it to solve my math homework?"

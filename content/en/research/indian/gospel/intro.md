@@ -1,31 +1,31 @@
+---
+title: "INTRODUCTION"
+image: "/covers/rama.jpg"
+weight: 1
+description: ""
+---
 
-INTRODUCTION
 
 by Swāmi Nikhilānanda
 
-Sri Ramakrishna, the God-man of modern India, was born at Kāmārpukur. This village in
-the Hooghly District preserved during the last century the idyllic simplicity of the rural
-areas of Bengāl. Situated far from the railway, it was untouched by the glamour of the
-city. It contained rice-fields, tall palms, royal banyans, a few lakes, and two cremation
-grounds. South of the village a stream took its leisurely course. A mango orchard
-dedicated by a neighbouring zamindār to the public use was frequented by the boys for
-their noonday sports. A highway passed through the village to the great temple of
-Jagannāth at Puri, and the villagers, most of whom were farmers and craftsmen,
-entertained many passing holy men and pilgrims. The dull round of the rural life was
-broken by lively festivals, the observance of sacred days, religious singing, and other
+Sri Ramakrishna was born at Kāmārpukur, a village in the Hooghly District in rural Bengāl. 
+
+It was far from the railway, untouched by the city. It contained rice-fields, tall palms, royal banyans, a few lakes, and two cremation
+grounds. 
+
+South of the village a stream took its leisurely course. A mango orchard dedicated by a neighbouring zamindār to the public use was frequented by the boys for
+their noonday sports. A highway passed through the village to the great temple of Jagannāth at Puri, and the villagers, most of whom were farmers and craftsmen,
+entertained many passing holy men and pilgrims. The dull round of the rural life was broken by lively festivals, the observance of sacred days, religious singing, and other
 innocent pleasures.
-About his parents Sri Ramakrishna once said: "My mother was the personification of
-rectitude and gentleness. She did not know much about the ways of the world; innocent
-of the art of concealment, she would say what was in her mind. People loved her for
-open-heartedness. My father, an orthodox brāhmin, never accepted gifts from the
-Śudrās. He spent much of his time in worship and meditation, and in repeating God's
-name and chanting His glories. Whenever in his daily prayers he invoked the Goddess
-Gāyatri, his chest flushed and tears rolled down his cheeks. He spent his leisure hours
-making garlands for the Family Deity, Raghuvir."
-Khudirām Chattopādhyāya and Chandra Devi, the parents of Sri Ramakrishna, were
-married in 1799. At that time Khudirām was living in his ancestral village of Derepore,
-not far from Kāmārpukur. Their first son, Rāmkumār, was born in 1805, and their first
-daughter, Kātyāyani, in 1810. In 1814 Khudirām was ordered by his landlord to bear
+
+About his parents Sri Ramakrishna once said: "My mother was the personification of rectitude and gentleness. She did not know much about the ways of the world; innocent
+of the art of concealment, she would say what was in her mind. People loved her for open-heartedness. My father, an orthodox brāhmin, never accepted gifts from the
+Śudrās. He spent much of his time in worship and meditation, and in repeating God's name and chanting His glories. Whenever in his daily prayers he invoked the Goddess
+Gāyatri, his chest flushed and tears rolled down his cheeks. He spent his leisure hours making garlands for the Family Deity, Raghuvir."
+Khudirām Chattopādhyāya and Chandra Devi, the parents of Sri Ramakrishna, were married in 1799. At that time Khudirām was living in his ancestral village of Derepore,
+not far from Kāmārpukur. 
+
+Their first son, Rāmkumār, was born in 1805, and their first daughter, Kātyāyani, in 1810. In 1814 Khudirām was ordered by his landlord to bear
 false witness in court against a neighbour. When he refused to do so, the landlord
 brought a false case against him and deprived him of his ancestral property. Thus
 dispossessed, he arrived, at the invitation of another landlord, in the quiet village of
@@ -1226,175 +1226,164 @@ Ultimate Reality could never be expressed by human tongue. He understood that al
 religions lead their devotees by differing paths to one and the same goal. Now he
 became eager to explore some of the alien religions; for with him understanding meant
 actual experience.
-Islām
-Toward the end of 1866 he began to practise the disciplines of Islām. Under the direction
-of his Mussalman guru he abandoned himself to his new sādhana. He dressed as a
-Mussalman and repeated the name of Allah.
-His prayers took the form of the Islamic devotions. He forgot the Hindu gods and
-goddesses - even Kāli - and gave up visiting the temples. He took up his residence
-outside the temple precincts. After three days he saw the vision of a radiant figure,
-perhaps Mohammed. This figure gently approached him and finally lost himself in Sri
-Ramakrishna. Thus he realized the Mussalman God. Thence he passed into communion
-with Brahman. The mighty river of Islam also led him back to the Ocean of the Absolute.
-Christianity
-Eight years later, some time in November 1874, Sri Ramakrishna was seized with an
-irresistible desire to learn the truth of the Christian religion. He began to listen to
-readings from the Bible, by Śambhu Charan Mallick, a gentleman of Calcutta and a
-devotee of the Master. Sri Ramakrishna became fascinated by the life and teachings of
-Jesus. One day he was seated in the parlour of Jadu Mallick's garden house at
-Dakshineśwar, when his eyes became fixed on a painting of the Madonna and Child.
-Intently watching it, he became gradually overwhelmed with divine emotion. The figures
-in the picture took on life, and the rays of light emanating from them entered his soul.
-The effect of this experience was stronger than that of the vision of Mohammed. In
-dismay he cried out, "O Mother! What are You doing to me?" And, breaking through the
-barriers of creed and religion, he entered a new realm of ecstasy. Christ possessed his
-soul. For three days he did not set foot in the Kāli temple. On the fourth day, in the
-afternoon, as he was walking in the Panchavati, he saw coming toward him a person
-with beautiful large eyes, serene countenance, and fair skin. As the two faced each
-other, a voice rang out in the depths of Sri Ramakrishna's soul: "Behold the Christ who
-shed His heart's blood for the redemption of the world, who suffered a sea of anguish for
-love of men. It is He, the Master Yogi, who is in eternal union with God. It is Jesus, Love
-Incarnate." The Son of Man embraced the Son of the Divine Mother and merged in him.
-46Sri Ramakrishna realized his identity with Christ, as he had already realized his identity
-with Kāli, Rāmā, Hanuman, Rādhā, Krishna, Brahman, and Mohammed. The Master went
-into Samādhi and communed with the Brahman with attributes. Thus he experienced the
-truth that Christianity, too, was a path leading to God-Consciousness. Till the last
-moment of his life he believed that Christ was an Incarnation of God. But Christ, for him,
-was not the only Incarnation; there were others - Buddha, for instance, and Krishna.
-Attitude toward Different Religions
-Sri Ramakrishna accepted the divinity of Buddha and used to point out the similarity of
-his teachings to those of the Upanishads. He also showed great respect for the
-Tirthankarās, who founded Jainism, and for the ten Gurus of Sikhism. But he did not
-speak of them as Divine Incarnations. He was heard to say that the Gurus of Sikhism
-were the reincarnations of King Janaka of ancient India. He kept in his room at
-Dakshineśwar a small statue of Tirthankara Mahāvira and a picture of Christ, before
+
+## Islām
+
+Toward the end of 1866 he began to practise Islām. Under the direction of his Muslim guru, he abandoned himself to his new sādhana. He dressed as a Muslim and repeated the name of Allah.
+
+His prayers took the form of the Islamic devotions. He forgot the Hindu gods and goddesses - even Kāli - and gave up visiting the temples. 
+
+He took up his residence outside the temple precincts. After 3 days he saw the vision of a radiant figure, perhaps Mohammed. This figure gently approached him and finally lost himself in Sri Ramakrishna. 
+
+Thus he realized the Muslim God. Thence he passed into communion with Brahman. The mighty river of Islam also led him back to the Ocean of the Absolute.
+
+
+## Christianity
+
+Eight years later, some time in November 1874, Sri Ramakrishna was seized with an irresistible desire to learn the truth of the Christian religion. 
+
+He began to listen to readings from the Bible, by Śambhu Charan Mallick, a gentleman of Calcutta and a devotee of the Master. Sri Ramakrishna became fascinated by the life and teachings of Jesus. 
+
+One day he was seated in the parlour of Jadu Mallick's garden house at Dakshineśwar, when his eyes became fixed on a painting of the Madonna and Child.
+Intently watching it, he became gradually overwhelmed with divine emotion. 
+
+The figures in the picture took on life, and the rays of light emanating from them entered his soul.
+
+The effect of this experience was stronger than that of the vision of Mohammed. In dismay he cried out, "O Mother! What are You doing to me?" And, breaking through the
+barriers of creed and religion, he entered a new realm of ecstasy. Christ possessed his soul. 
+
+For 3 days he did not set foot in the Kāli temple. 
+
+On the fourth day, in the afternoon, as he was walking in the Panchavati, he saw coming toward him a person with beautiful large eyes, serene countenance, and fair skin. As the two faced each other, a voice rang out in the depths of Sri Ramakrishna's soul: "Behold the Christ who shed His heart's blood for the redemption of the world, who suffered a sea of anguish for love of men. It is He, the Master Yogi, who is in eternal union with God. It is Jesus, Love Incarnate." 
+
+The Son of Man embraced the Son of the Divine Mother and merged in him.
+
+Sri Ramakrishna realized his identity with Christ, as he had already realized his identity with Kāli, Rāmā, Hanuman, Rādhā, Krishna, Brahman, and Mohammed. The Master went
+into Samādhi and communed with the Brahman with attributes. Thus he experienced the truth that Christianity, too, was a path leading to God-Consciousness. Till the last
+moment of his life he believed that Christ was an Incarnation of God. 
+
+But Christ, for him, was not the only Incarnation; there were others - Buddha, for instance, and Krishna.
+
+
+## Attitude toward Different Religions
+
+Sri Ramakrishna accepted the divinity of Buddha and used to point out the similarity of his teachings to those of the Upanishads. He also showed great respect for the
+Tirthankarās, who founded Jainism, and for the ten Gurus of Sikhism. But he did not speak of them as Divine Incarnations. 
+
+He was heard to say that the Gurus of Sikhism were the reincarnations of King Janaka of ancient India. 
+
+He kept in his room at Dakshineśwar a small statue of Tirthankara Mahāvira and a picture of Christ, before
 which incense was burnt morning and evening.
-Without being formally initiated into their doctrines, Sri Ramakrishna thus realized the
-ideals of religions other than Hinduism. He did not need to follow any doctrine. All
-barriers were removed by his overwhelming love of God. So he became a Master who
-could speak with authority regarding the ideas and ideals of the various religions of the
-world. "I have practised", said he, "all religions - Hinduism, Islam, Christianity - and I
-have also followed the paths of the different Hindu sects. I have found that it is the same
-God toward whom all are directing their steps, though along different paths. You must
-try all beliefs and traverse all the different ways once. Wherever I look, I see men
-quarrelling in the name of religion - Hindus, Mohammedans, Brahmos, Vaishnavās, and
-the rest. But they never reflect that He who is called Krishna is also called Śiva, and
-bears the name of the Primal Energy, Jesus, and Allah as well - the same Rāmā with a
-thousand names. A lake has several G hāts . At one, the Hindus take water in pitchers and
-call it 'Jal' ; at another the Mussalmans take water in leather bags and call it 'pāni' . At a
+
+Without being formally initiated into their doctrines, Sri Ramakrishna thus realized the ideals of religions other than Hinduism. He did not need to follow any doctrine. All
+barriers were removed by his overwhelming love of God. So he became a Master who could speak with authority regarding the ideas and ideals of the various religions of the
+world. "I have practised", said he, "all religions - Hinduism, Islam, Christianity - and I have also followed the paths of the different Hindu sects. I have found that it is the same God toward whom all are directing their steps, though along different paths. 
+
+You must try all beliefs and traverse all the different ways once. Wherever I look, I see men quarrelling in the name of religion - Hindus, Mohammedans, Brahmos, Vaishnavās, and the rest. 
+
+But they never reflect that He who is called Krishna is also called Śiva, and bears the name of the Primal Energy, Jesus, and Allah as well - the same Rāmā with a
+thousand names. A lake has several G hāts . 
+
+At one, the Hindus take water in pitchers and call it 'Jal' ; at another the Mussalmans take water in leather bags and call it 'pāni' . At a
 third the Christians call it 'water' . Can we imagine that it is not 'jal', but only 'pāni' or
 'water'? How ridiculous! The substance is One under different names, and everyone is
 seeking the same substance; only climate, temperament, and name create differences.
 Let each man follow his own path. If he sincerely and ardently wishes to know God,
 peace be unto him! He will surely realize Him."
-In 1867, Sri Ramakrishna returned to Kāmārpukur to recuperate from the effect of his
-austerities. The peaceful countryside, the simple and artless companions of his boyhood,
-and the pure air did him much good. The villagers were happy to get back their playful,
-frank, witty, kind-hearted, and truthful Gadādhar, though they did not fail to notice the
-great change that had come over him during his years in Calcutta. His wife, Sāradā Devi,
-now fourteen years old, soon arrived at Kāmārpukur. Her spiritual development was
-much beyond her age and she was able to understand immediately her husband's state
-of mind. She became eager to learn from him about God and to live with him as his
-attendant. The Master accepted her cheerfully both as his disciple and as his spiritual
-companion. Referring to the experiences of these few days, she once said: "I used to
-47feel always as if a pitcher full of bliss were placed in my heart. The joy was
-indescribable."
-Pilgrimage
-On January 27, 1868, Mathur Bābu with a party of some one hundred and twenty-five
-persons set out on a pilgrimage to the sacred places of northern India. At Vaidyanāth in
+
+In 1867, Sri Ramakrishna returned to Kāmārpukur to recuperate from the effect of his austerities. The peaceful countryside, the simple and artless companions of his boyhood,
+and the pure air did him much good. The villagers were happy to get back their playful, frank, witty, kind-hearted, and truthful Gadādhar, though they did not fail to notice the great change that had come over him during his years in Calcutta. His wife, Sāradā Devi, now 14 years old, soon arrived at Kāmārpukur. Her spiritual development was
+much beyond her age and she was able to understand immediately her husband's state of mind. She became eager to learn from him about God and to live with him as his
+attendant. The Master accepted her cheerfully both as his disciple and as his spiritual companion. Referring to the experiences of these few days, she once said: "I used to
+47feel always as if a pitcher full of bliss were placed in my heart. The joy was indescribable."
+
+## Pilgrimage
+
+On January 27, 1868, Mathur Bābu with a party of some 125 persons set out on a pilgrimage to the sacred places of northern India. At Vaidyanāth in
 Behar, when the Master saw the inhabitants of a village reduced by poverty and
 starvation to mere skeletons, he requested his rich patron to feed the people and give
-each a piece of cloth. Mathur demurred at the added expense. The Master declared
-bitterly that he would not go on to Banāras, but would live with the poor and share their
-miseries. He actually left Mathur and sat down with the villagers.
-Whereupon Mathur had to yield. On another occasion, two years later, Sri Ramakrishna
-showed a similar sentiment for the poor and needy. He accompanied Mathur on a tour to
-one of the latter's estates at the time of the collection of rents. For two years the
-harvests had failed and the tenants were in a state of extreme poverty. The Master
-asked Mathur to remit their rents, distribute help to them, and in addition give the
-hungry people a sumptuous feast. When Mathur grumbled, the Master said: "You are
-only the steward of the Divine Mother. They are the Mother's tenants. You must spend
-the Mother's money. When they are suffering, how can you refuse to help them? You
-must help them." Again Mathur had to give in. Sri Ramakrishna's sympathy for the poor
-sprang from his perception of God in all created beings. His sentiment was not that of
-the humanist or philanthropist. To him the service of man was the same as the worship
-of God.
-The party entered holy Banāras by boat along the Ganges. When Sri Ramakrishna's eyes
-fell on this city of Śiva, where had accumulated for ages the devotion and piety of
-countless worshippers, he saw it to be made of gold, as the scriptures declare. He was
-visibly moved. During his stay in the city he treated every particle of its earth with
-utmost respect. At the Manikarnikā Ghāt, the great cremation ground of the city, he
-actually saw Śiva, with ash-covered body and tawny matted hair, serenely approaching
-each funeral pyre and breathing into the ears of the corpses the mantra of liberation;
-and then the Divine Mother removing from the dead their bonds. Thus he realized the
-significance of the scriptural statement that anyone dying in Banāras attains salvation
-through the grace of Śiva. He paid a visit to Trailanga Swāmi, the celebrated monk,
+each a piece of cloth. Mathur demurred at the added expense. 
+
+The Master declared bitterly that he would not go on to Banāras, but would live with the poor and share their
+miseries. 
+
+He actually left Mathur and sat down with the villagers.
+
+Whereupon Mathur had to yield. On another occasion, two years later, Sri Ramakrishna showed a similar sentiment for the poor and needy. He accompanied Mathur on a tour to
+one of the latter's estates at the time of the collection of rents. For two years the harvests had failed and the tenants were in a state of extreme poverty. The Master
+asked Mathur to remit their rents, distribute help to them, and in addition give the hungry people a sumptuous feast. When Mathur grumbled, the Master said: "You are
+only the steward of the Divine Mother. They are the Mother's tenants. 
+
+You must spend the Mother's money. When they are suffering, how can you refuse to help them? You must help them." 
+
+Again Mathur had to give in. Sri Ramakrishna's sympathy for the poor sprang from his perception of God in all created beings. His sentiment was not that of
+the humanist or philanthropist. To him the service of man was the same as the worship of God.
+
+The party entered holy Banāras by boat along the Ganges. When Sri Ramakrishna's eyes fell on this city of Śiva, where had accumulated for ages the devotion and piety of
+countless worshippers, he saw it to be made of gold, as the scriptures declare. He was visibly moved. During his stay in the city he treated every particle of its earth with
+utmost respect. At the Manikarnikā Ghāt, the great cremation ground of the city, he actually saw Śiva, with ash-covered body and tawny matted hair, serenely approaching
+each funeral pyre and breathing into the ears of the corpses the mantra of liberation; and then the Divine Mother removing from the dead their bonds. Thus he realized the
+significance of the scriptural statement that anyone dying in Banāras attains salvation through the grace of Śiva. He paid a visit to Trailanga Swāmi, the celebrated monk,
 whom he later declared to be a real paramahamsa, a veritable image of Śiva.
-Sri Ramakrishna visited Allahābad, at the confluence of the Ganges and the Jamuna, and
-then proceeded to Vrindāvan and Mathura, hallowed by the legends, songs, and dramas
-about Krishna and the gopis. Here he had numerous visions and his heart overflowed
-with divine emotion. He wept and said: "O Krishna! Everything here is as it was in the
-olden days. You alone are absent." He visited the great woman saint Gangāmāyi,
-regarded by Vaishnava devotees as the reincarnation of an intimate attendant of Rādhā.
+
+Sri Ramakrishna visited Allahābad, at the confluence of the Ganges and the Jamuna, and then proceeded to Vrindāvan and Mathura, hallowed by the legends, songs, and dramas
+about Krishna and the gopis. Here he had numerous visions and his heart overflowed with divine emotion. He wept and said: "O Krishna! Everything here is as it was in the
+olden days. You alone are absent." He visited the great woman saint Gangāmāyi, regarded by Vaishnava devotees as the reincarnation of an intimate attendant of Rādhā.
 She was sixty years old and had frequent trances. She spoke of Sri Ramakrishna as an
 incarnation of Rādhā. With great difficulty he was persuaded to leave her.
-48On the return journey Mathur wanted to visit Gayā, but Sri Ramakrishna declined to go.
-He recalled his father's vision at Gayā before his own birth and felt that in the temple of
-Vishnu he would become permanently absorbed in God. Mathur, honouring the Master's
-wish, returned with his party to Calcutta.
-From Vrindāvan the Master had brought a handful of dust. Part of this he scattered in
-the Panchavati; the rest he buried in the little hut where he had practised meditation.
+
+On the return journey Mathur wanted to visit Gayā, but Sri Ramakrishna declined to go.
+
+He recalled his father's vision at Gayā before his own birth and felt that in the temple of Vishnu he would become permanently absorbed in God. Mathur, honouring the Master's
+wish, returned with his party to Calcutta. 
+
+From Vrindāvan the Master had brought a handful of dust. Part of this he scattered in the Panchavati; the rest he buried in the little hut where he had practised meditation.
 "Now this place", he said, "is as sacred as Vrindāvan."
+
 In 1870 the Master went on a pilgrimage to Nadia, the birth-place of Sri Chaitanya. As
 the boat by which he travelled approached the sand-bank close to Nadia, Sri
 Ramakrishna had a vision of the "two brothers", Sri Chaitanya and his companion
 Nityānanda, "bright as molten gold" and with haloes, rushing to greet him with uplifted
 hands. "There they come! There they come!" he cried. They entered his body and he
 went into a deep trance.
-Relation with His Wife
-In 1872, Sāradā Devi paid her first visit to her husband at Dakshineśwar. Four years
-earlier she had seen him at Kāmārpukur and had tasted the bliss of his divine company.
-Since then she had become even more gentle, tender, introspective, serious, and
-unselfish. She had heard many rumours about her husband's insanity. People had shown
-her pity in her misfortune. The more she thought, the more she felt that her duty was to
-be with him, giving him, in whatever measure she could, a wife's devoted service. She
-was now eighteen years old. Accompanied by her father, she arrived at Dakshineśwar,
-having come on foot the distance of eighty miles. She had had an attack of fever on the
-way. When she arrived at the temple garden the Master said sorrowfully: "Ah! You have
-come too late. My Mathur is no longer here to look after you." Mathur had passed away
-the previous year.
-The Master took up the duty of instructing his young wife, and this included everything
-from housekeeping to the Knowledge of Brahman. He taught her how to trim a lamp,
-how to behave toward people according to their differing temperaments, and how to
-conduct herself before visitors. He instructed her in the mysteries of spiritual life -
-prayer, meditation, japa, deep contemplation, and Samādhi. The first lesson that Sāradā
-Devi received was: "God is everybody's Beloved, just as the moon is dear to every child.
+
+
+## Relation with His Wife
+
+In 1872, Sāradā Devi paid her first visit to her husband at Dakshineśwar. Four years earlier she had seen him at Kāmārpukur and had tasted the bliss of his divine company.
+Since then she had become even more gentle, tender, introspective, serious, and unselfish. 
+
+She had heard many rumours about her husband's insanity. People had shown her pity in her misfortune. The more she thought, the more she felt that her duty was to
+be with him, giving him, in whatever measure she could, a wife's devoted service. She was now eighteen years old. Accompanied by her father, she arrived at Dakshineśwar,
+having come on foot the distance of eighty miles. She had had an attack of fever on the way. When she arrived at the temple garden the Master said sorrowfully: "Ah! You have
+come too late. My Mathur is no longer here to look after you." Mathur had passed away the previous year.
+
+The Master took up the duty of instructing his young wife, and this included everything from housekeeping to the Knowledge of Brahman. He taught her how to trim a lamp,
+how to behave toward people according to their differing temperaments, and how to conduct herself before visitors. He instructed her in the mysteries of spiritual life -
+prayer, meditation, japa, deep contemplation, and Samādhi. 
+
+The first lesson that Sāradā Devi received was: "God is everybody's Beloved, just as the moon is dear to every child.
 Everyone has the same right to pray to Him. Out of His grace He reveals Himself to all
-who call upon Him. You too will see Him if you but pray to Him."
-Totāpuri, coming to know of the Master's marriage, had once remarked: "What does it
-matter? He alone is firmly established in the Knowledge of Brahman who can adhere to
-his spirit of discrimination and renunciation even while living with his wife. He alone has
-attained the supreme illumination who can look on man and woman alike as Brahman. A
-man with the idea of sex may be a good aspirant, but he is still far from the goal." Sri
-Ramakrishna and his wife lived together at Dakshineśwar, but their minds always soared
-above the worldly plane. A few months after Sāradā Devi's arrival Sri Ramakrishna
-arranged, on an auspicious day, a special worship of Kāli, the Divine Mother. Instead of
-49an image of the Deity, he placed on the seat the living image, Sāradā Devi herself. The
-worshipper and the worshipped went into deep Samādhi and in the transcendental plane
-their souls were united. After several hours Sri Ramakrishna came down again to the
-relative plane, sang a hymn to the Great Goddess, and surrendered, at the feet of the
-living image, himself, his rosary, and the fruit of his life-long sādhana. This is known in
-Tantra as the Shodasi Puja, the "Adoration of Woman". Sri Ramakrishna realized the
-significance of the great statement of the Upanishad: "O Lord, Thou art the woman,
-Thou art the man; Thou art the boy, Thou art the girl; Thou art the old, tottering on their
-crutches. Thou pervadest the universe in its multiple forms."
-By his marriage Sri Ramakrishna admitted the great value of marriage in man's spiritual
-evolution, and by adhering to his monastic vows he demonstrated the imperative
-necessity of self-control, purity, and continence, in the realization of God. By his unique
-spiritual relationship with his wife he proved that husband and wife can live together as
-spiritual companions. Thus his life is a synthesis of the ways of life of the householder
-and the monk.
-The "Ego" of the Master
+who call upon Him. 
+
+You too will see Him if you but pray to Him."
+
+Totāpuri, coming to know of the Master's marriage, had once remarked: "What does it matter? He alone is firmly established in the Knowledge of Brahman who can adhere to
+his spirit of discrimination and renunciation even while living with his wife. He alone has attained the supreme illumination who can look on man and woman alike as Brahman. A man with the idea of sex may be a good aspirant, but he is still far from the goal." 
+
+Sri Ramakrishna and his wife lived together at Dakshineśwar, but their minds always soared above the worldly plane. A few months after Sāradā Devi's arrival Sri Ramakrishna
+arranged, on an auspicious day, a special worship of Kāli, the Divine Mother. Instead of 49an image of the Deity, he placed on the seat the living image, Sāradā Devi herself. 
+
+The worshipper and the worshipped went into deep Samādhi and in the transcendental plane their souls were united. After several hours Sri Ramakrishna came down again to the
+relative plane, sang a hymn to the Great Goddess, and surrendered, at the feet of the living image, himself, his rosary, and the fruit of his life-long sādhana. This is known in Tantra as the Shodasi Puja, the "Adoration of Woman". Sri Ramakrishna realized the significance of the great statement of the Upanishad: "O Lord, Thou art the woman,
+Thou art the man; Thou art the boy, Thou art the girl; Thou art the old, tottering on their crutches. Thou pervadest the universe in its multiple forms."
+By his marriage Sri Ramakrishna admitted the great value of marriage in man's spiritual evolution, and by adhering to his monastic vows he demonstrated the imperative
+necessity of self-control, purity, and continence, in the realization of God. 
+
+By his unique spiritual relationship with his wife he proved that husband and wife can live together as spiritual companions. Thus his life is a synthesis of the ways of life of the householder and the monk.
+
+## The "Ego" of the Master
+
 In the nirvikalpa Samādhi Sri Ramakrishna had realized that Brahman alone is real and
 the world illusory. By keeping his mind six months on the plane of the non-dual
 Brahman, he had attained to the state of the Vijnani, the Knower of Truth in a special
@@ -1488,35 +1477,32 @@ In March 1875, about a year before the death of his mother, the Master met Kesha
 Chandra Sen. The meeting was a momentous event for both Sri Ramakrishna and
 Keshab. Here the Master for the first time came into actual contact with a worthy
 representative of modern India.
-Brāhmo Samāj
-Keshab was the leader of the Brāhmo Samāj, one of the two great movements that,
-during the latter part of the nineteenth century, played an important part in shaping the
-course of the renascence of India. The founder of the Brāhmo movement had been the
-great Rājā Rāmmohan Roy (1774-1833). Though born in an orthodox brāhmin family,
-Rāmmohan Roy had shown great sympathy for Islam and Christianity. He had gone to
-Tibet in search of the Buddhist mysteries. He had extracted from Christianity its ethical
-system, but had rejected the divinity of Christ as he had denied the Hindu Incarnations.
-The religion of Islam influenced him, to a great extent, in the formulation of his
-monotheistic doctrines. But he always went back to the Vedas for his spiritual
-inspiration. The Brāhmo Samāj, which he founded in 1828, was dedicated to the
-"worship and adoration of the Eternal, the Unsearchable, the Immutable Being, who is
+
+## Brāhmo Samāj
+
+Keshab was the leader of the Brāhmo Samāj, one of the two great movements that, during the latter part of the nineteenth century, played an important part in shaping the
+course of the renascence of India. The founder of the Brāhmo movement had been the great Rājā Rāmmohan Roy (1774-1833). Though born in an orthodox brāhmin family,
+Rāmmohan Roy had shown great sympathy for Islam and Christianity. 
+
+He had gone to Tibet in search of the Buddhist mysteries. He had extracted from Christianity its ethical system, but had rejected the divinity of Christ as he had denied the Hindu Incarnations. 
+
+The religion of Islam influenced him, to a great extent, in the formulation of his monotheistic doctrines. But he always went back to the Vedas for his spiritual
+inspiration. The Brāhmo Samāj, which he founded in 1828, was dedicated to the "worship and adoration of the Eternal, the Unsearchable, the Immutable Being, who is
 the Author and Preserver of the Universe". The Samāj was open to all without distinction
 of colour, creed, caste, nation, or religion.
-52The real organizer of the Samāj was Devendranāth Tāgore (1817-1905), the father of
-the poet Rabindranāth. His physical and spiritual beauty, aristocratic aloofness,
-penetrating intellect, and poetic sensibility made him the foremost leader of the
-educated Bengālis. These addressed him by the respectful epithet of Maharshi, the
-"Great Seer". The Maharshi was a Sanskrit scholar and, unlike Rājā Rāmmohan Roy,
-drew his inspiration entirely from the Upanishads. He was an implacable enemy of image
-worship and also fought to stop the infiltration of Christian ideas into the Samāj. He gave
-the movement its faith and ritual. Under his influence the Brāhmo Samāj professed One
-Self-existent Supreme Being who had created the universe out of nothing, the God of
-Truth, Infinite Wisdom, Goodness, and Power, the Eternal and Omnipotent, the One
-without a Second. Man should love Him and do His will, believe in Him and worship Him,
-and thus merit salvation in the world to come.
-By far the ablest leader of the Brāhmo movement was Keshab Chandra Sen (1838-
-1884). Unlike Rājā Rāmmohan Roy and Devendranāth Tāgore, Keshab was born of a
-middle-class Bengāli family and had been brought up in an English school. He did not
+
+The real organizer of the Samāj was Devendranāth Tāgore (1817-1905), the father of the poet Rabindranāth. His physical and spiritual beauty, aristocratic aloofness,
+penetrating intellect, and poetic sensibility made him the foremost leader of the educated Bengālis. These addressed him by the respectful epithet of Maharshi, the
+"Great Seer". The Maharshi was a Sanskrit scholar and, unlike Rājā Rāmmohan Roy, drew his inspiration entirely from the Upanishads. He was an implacable enemy of image
+worship and also fought to stop the infiltration of Christian ideas into the Samāj. 
+
+He gave the movement its faith and ritual. Under his influence the Brāhmo Samāj professed One Self-existent Supreme Being who had created the universe out of nothing, the God of Truth, Infinite Wisdom, Goodness, and Power, the Eternal and Omnipotent, the One without a Second. Man should love Him and do His will, believe in Him and worship Him,
+and thus merit salvation in the world to come. 
+
+By far the ablest leader of the Brāhmo movement was Keshab Chandra Sen (1838-1884). Unlike Rājā Rāmmohan Roy and Devendranāth Tāgore, Keshab was born of a
+middle-class Bengāli family and had been brought up in an English school. 
+
+He did not
 know Sanskrit and very soon broke away from the popular Hindu religion. Even at an
 early age he came under the spell of Christ and professed to have experienced the
 special favour of John the Baptist, Christ, and St. Paul. When he strove to introduce
@@ -1535,29 +1521,23 @@ Ramakrishna, the harmony of religions. He became sympathetic toward the Hindu go
 and goddesses, explaining them in a liberal fashion. Further, he believed that he was
 called by God to dictate to the world God's newly revealed law, the New Dispensation,
 the Nava-vidhān.
-In 1878 a schism divided Keshab's Samāj. Some of his influential followers accused him
-of infringing the Brāhmo principles by marrying his daughter to a wealthy man before
-she had attained the marriageable age approved by the Samāj. This group seceded and
-established the Sādhāran Brāhmo Samāj, Keshab remaining the leader of the
-Navavidhān. Keshab now began to be drawn more and more toward the Christ ideal,
-though under the influence of Sri Ramakrishna his devotion to the Divine Mother also
-deepened. His mental oscillation between Christ and the Divine Mother of Hinduism
-found no position of rest. In Bengāl and some other parts of India the Brāhmo
-movement took the form of Unitarian Christianity, scoffed at Hindu rituals, and preached
-a crusade against image worship. Influenced by Western culture, it declared the
-53supremacy of reason, advocated the ideals of the French Revolution, abolished the
-caste-system among, its own members, stood for the emancipation of women, agitate
-for the abolition of early marriage, sanctioned the remarriage of widows, and
-encouraged various educational and social-reform movements. The immediate effect of
-the Brāhmo movement in Bengāl was the checking of the proselytising activities of the
-Christian missionaries. It also raised Indian culture in the estimation of its English
-masters. But it was an intellectual and eclectic religious ferment born of the necessity of
-the time. Unlike Hinduism, it was not founded on the deep inner experiences of sages
-and prophets. Its influence was confined to a comparatively few educated men and
-women of the country, and the vast masses of the Hindus remained outside it. It
+
+In 1878 a schism divided Keshab's Samāj. Some of his influential followers accused him of infringing the Brāhmo principles by marrying his daughter to a wealthy man before
+she had attained the marriageable age approved by the Samāj. This group seceded and established the Sādhāran Brāhmo Samāj, Keshab remaining the leader of the
+Navavidhān. Keshab now began to be drawn more and more toward the Christ ideal, though under the influence of Sri Ramakrishna his devotion to the Divine Mother also
+deepened. His mental oscillation between Christ and the Divine Mother of Hinduism found no position of rest. In Bengāl and some other parts of India the Brāhmo
+movement took the form of Unitarian Christianity, scoffed at Hindu rituals, and preached a crusade against image worship. Influenced by Western culture, it declared the
+53supremacy of reason, advocated the ideals of the French Revolution, abolished the caste-system among, its own members, stood for the emancipation of women, agitate
+for the abolition of early marriage, sanctioned the remarriage of widows, and encouraged various educational and social-reform movements. The immediate effect of
+the Brāhmo movement in Bengāl was the checking of the proselytising activities of the Christian missionaries. It also raised Indian culture in the estimation of its English
+masters. But it was an intellectual and eclectic religious ferment born of the necessity of the time. Unlike Hinduism, it was not founded on the deep inner experiences of sages and prophets. 
+
+Its influence was confined to a comparatively few educated men and women of the country, and the vast masses of the Hindus remained outside it. It
 sounded monotonously only one of the notes in the rich gamut of the Eternal Religion of
 the Hindus.
-Ārya Samāj
+
+## Ārya Samāj
+
 The other movement playing an important part in the nineteenth-century religious
 revival of India was the Ārya Samāj. The Brāhmo Samāj, essentially a movement of
 compromise with European culture, tacitly admitted the superiority of the West. But the
@@ -1580,20 +1560,18 @@ the Ārya Samāj was not confined to the intellectuals. It was a force that spre
 masses. It was a dogmatic movement intolerant of those disagreed with its views, and it
 emphasized only one way, the Ārya Samāj way, to the realization of Truth. Sri
 Ramakrishna met Swāmi Dayānanda when the latter visited Bengāl.
-Keshab Chandra Sen
-Keshab Chandra Sen and Sri Ramakrishna met for the first time in the garden house of
-Jaygopāl Sen at Belgharia, a few miles from Dakshineśwar, where the great Brāhmo
-leader was staying with some of his disciples. In many respects the two were poles
-apart, though an irresistible inner attraction was to make them intimate friends. The
+
+## Keshab Chandra Sen
+
+Keshab Chandra Sen and Sri Ramakrishna met for the first time in the garden house of Jaygopāl Sen at Belgharia, a few miles from Dakshineśwar, where the great Brāhmo
+leader was staying with some of his disciples. In many respects the two were poles apart, though an irresistible inner attraction was to make them intimate friends. The
 Master had realized God as Pure Spirit and Consciousness, but he believed in the various
-forms of God as well. Keshab, on the other hand, regarded image worship as idolatry
-and gave allegorical explanations of the Hindu deities. Keshab was an orator and a writer
-of books and magazine articles; Sri Ramakrishna had a horror of lecturing and hardly
-54knew how to write his own name. Keshab's fame spread far and wide, even reaching the
-distant shores of England; the Master still led a secluded life in the village of
-Dakshineśwar. Keshab emphasized social reforms for India's regeneration; to Sri
-Ramakrishna God-realization was the only goal of life. Keshab considered himself a
-disciple of Christ and accepted in a diluted form the Christian sacraments and Trinity; Sri
+forms of God as well. Keshab, on the other hand, regarded image worship as idolatry and gave allegorical explanations of the Hindu deities. Keshab was an orator and a writer
+of books and magazine articles; Sri Ramakrishna had a horror of lecturing and hardly 54knew how to write his own name. Keshab's fame spread far and wide, even reaching the
+distant shores of England; the Master still led a secluded life in the village of Dakshineśwar. Keshab emphasized social reforms for India's regeneration; to Sri
+Ramakrishna God-realization was the only goal of life. 
+
+Keshab considered himself a disciple of Christ and accepted in a diluted form the Christian sacraments and Trinity; Sri
 Ramakrishna was the simple child of Kāli, the Divine Mother, though he too, in a
 different way, acknowledged Christ's divinity. Keshab was a house-holder and took a real
 interest in the welfare of his children, whereas Sri Ramakrishna was a paramahamsa and
@@ -1602,22 +1580,14 @@ friendship, Sri Ramakrishna and Keshab held each other in great love and respect
 later, at the news of Keshab's death, the Master felt as if half his body had become
 paralysed. Keshab's concepts of the harmony of religions and the Motherhood of God
 were deepened and enriched by his contact with Sri Ramakrishna.
-Sri Ramakrishna, dressed in a red-bordered dhoti, one end of which was carelessly
-thrown over his left shoulder, came to Jaygopal's garden house accompanied by Hriday.
-No one took notice of the unostentatious visitor. Finally the Master said to Keshab,
-"People tell me you have seen God; so I have come to hear from you about God." A
-magnificent conversation followed. The Master sang a thrilling song about Kāli and
-forthwith went into Samādhi. When Hriday uttered the sacred "Om" in his ears, he
-gradually came back to consciousness of the world, his face still radiating a divine
-brilliance. Keshab and his followers were amazed. The contrast between Sri Ramakrishna
-and the Brāhmo devotees was very interesting. There sat this small man, thin and
-extremely delicate. His eyes were illumined with an inner light. Good humour gleamed in
-his eyes and lurked in the corners of his mouth. His speech was Bengāli of a homely kind
-with a slight, delightful stammer, and his words held men enthralled by their wealth of
-spiritual experience, their inexhaustible store of simile and metaphor, their power of
-observation, their bright and subtle humour, their wonderful catholicity, their ceaseless
-flow of wisdom. And around him now were the sophisticated men of Bengāl, the best
-products of Western education, with Keshab, the idol of young Bengāl, as their leader.
+
+Sri Ramakrishna, dressed in a red-bordered dhoti, one end of which was carelessly thrown over his left shoulder, came to Jaygopal's garden house accompanied by Hriday.
+No one took notice of the unostentatious visitor. Finally the Master said to Keshab, "People tell me you have seen God; so I have come to hear from you about God." A
+magnificent conversation followed. The Master sang a thrilling song about Kāli and forthwith went into Samādhi. When Hriday uttered the sacred "Om" in his ears, he
+gradually came back to consciousness of the world, his face still radiating a divine brilliance. Keshab and his followers were amazed. The contrast between Sri Ramakrishna
+and the Brāhmo devotees was very interesting. There sat this small man, thin and extremely delicate. His eyes were illumined with an inner light. Good humour gleamed in
+his eyes and lurked in the corners of his mouth. His speech was Bengāli of a homely kind with a slight, delightful stammer, and his words held men enthralled by their wealth of spiritual experience, their inexhaustible store of simile and metaphor, their power of observation, their bright and subtle humour, their wonderful catholicity, their ceaseless flow of wisdom. And around him now were the sophisticated men of Bengāl, the best products of Western education, with Keshab, the idol of young Bengāl, as their leader.
+
 Keshab's sincerity was enough for Sri Ramakrishna. Henceforth the two saw each other
 frequently, either at Dakshineśwar or at the temple of the Brāhmo Samāj. Whenever the
 Master was in the temple at the time of divine service, Keshab would request him to

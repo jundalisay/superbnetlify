@@ -1,13 +1,11 @@
-+++
-title=  "THE COSMIAN STARS"
-description=  ""
-image=  "/avatars/kepler2.jpg"
-date=  "2020-01-06"
-linkb=  "/research/kepler"
-linkbtext=  "Works"
-linkf=  "/research/kepler"
-linkftext=  "Works"
-+++ 
+---
+title:  "The Cosmian Stars"
+description:  ""
+image:  "/avatars/kepler2.jpg"
+date:  "2020-01-06"
+---
+
+
 
 THE ASTRONOMICAL MESSENGER
 

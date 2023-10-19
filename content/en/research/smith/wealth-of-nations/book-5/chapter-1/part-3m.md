@@ -117,7 +117,7 @@ Mr. Dupleix was the French governor of Pondicherry. His ambition involved the Fr
 <!-- After many extraordinary successes and losses, the East India Company lost Madras. Madras was their principal settlement in India back then.
 - It was restored to the French by the treaty of Aix-la-Chapelle. -->
 
-At this time, the spirit of war and conquest possessed the East India <!--  servants --> staff in India and never left them. 
+At this time, the spirit of war and conquest possessed the East India staff in India and never left them. 
 - Another French war began in 1755 as the Seven Years' War.
 - The company defended Madras, took Pondicherry, and recovered Calcutta.
 - They acquired the revenues of more than £3 million a year from this rich and extensive territory.
@@ -145,7 +145,7 @@ At the same time, the company had another revenue of £439,000:
 - partly from lands, and
 - chiefly from the customs at their settlements.
 
-At this time, their trade profits was: 
+At this time, their trade profits was at least:
 - at least £400,000 a year, according to their chairman before the House of Commons,
 - at least £500,000 a year, according to their accountant,
 - at least equal to the highest dividend that was to be paid to their proprietors, according to the lowest account.
@@ -162,23 +162,21 @@ In 1773, their debts increased by:
 
 These accumulated claims obliged them to: 
 - immediately reduce their dividend to 6%, and
-- <!-- supplicate --> beg the government for:
+- beg the government for:
   - a release from further payment of the stipulated £400,000 a year, and
   - a loan of £1,400,000 to save them from immediate bankruptcy.
 
-The great increase of their fortune only gave their staff <!-- servants -->:
+The great increase of their fortune only gave their staff:
 - a pretext for greater profusion, and
-- a cover for greater malversation <!-- than the increase of that fortune. -->
+- a cover for greater malversation
 
-Their conduct <!-- of their servants in India and their affairs in India and Europe --> was subjected to a parliamentary inquiry.
-- Several very important changes were made in the constitution of their government at home and abroad.
+A parliamentary inquiry was made on their conduct.
+- Important changes were made in the constitution of their government at home and abroad.
 - In India, their principal settlements of Madras, Bombay, and Calcutta were previously independent of one another. These were subjected to a governor-general who was assisted by a council of 4 assessors.
-- Parliament <!-- assumed to itself the first --> nominated this governor and council who were to reside at Calcutta.
+- Parliament nominated this governor and council who were to reside at Calcutta.
 
 Calcutta became the most important English settlement in India, replacing Madras.
 - The court of Calcutta was originally instituted for mercantile cases in the city.
 - It gradually extended its jurisdiction with the extension of the empire.
-<!-- It was now reduced and confined to its original purpose.
-Instead of it,  -->
-- It was replaced with a new supreme court<!-- was established -->.
+- It was replaced with a new supreme court.
   - It had a chief justice and 3 judges to be appointed by the crown.

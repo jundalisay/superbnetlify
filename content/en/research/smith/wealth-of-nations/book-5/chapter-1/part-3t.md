@@ -20,11 +20,11 @@ Gymnastic exercises were intended to:
 - prepare him for war.
 
 The Greek militia was one of the best in the world.
-Their public education completely answered its purpose.
-Music was intended to= 
-- humanize the mind,
-- soften the temper, and
-- make the mind perform the social and moral duties of life.
+- Their public education completely answered its purpose.
+- Music was intended to:
+	- humanize the mind,
+	- soften the temper, and
+	- make the mind perform the social and moral duties of life.
 
 
 {{< s v="168" >}} In ancient Rome, the exercises of the Campus Martius had the same purpose as the Gymnasium in ancient Greece.

@@ -56,7 +56,7 @@ For example, a resolution of the House of Commons declared:
   - 1 part is reserved as a fund for:
     - further reducing their bond-debts, or
     - company emergencies
-    <!-- the discharge of other contingent exigencies of the . -->
+
 
 But if the company were bad <!-- stewards --> staff and bad sovereigns when their net revenue and profits belonged to themselves, they were surely would not be better when:
 - 3/4 of the net revenue belonged to other people, and
