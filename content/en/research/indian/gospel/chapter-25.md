@@ -547,11 +547,11 @@ shall cut your body in two right now.' "
 With a smile Sri Ramakrishna said to the pundit: "Mani Mallick has been following the
 tenets of the Brahmo Samaj a long time. You can't convert him to your views. Is it an
 easy thing to destroy old tendencies? Once there lived a very pious Hindu who always
-worshipped the Divine Mother and chanted Her name. When the Mussalmans conquered
+worshipped the Divine Mother and chanted Her name. When the Muslims conquered
 the country, they forced him embrace Islam. They said to him: 'You are now a
 Mussalman. Say "Allah". From now on you must repeat only the name of Allah.' With
 great difficulty he repeated the word 'Allah', but every now and then blurted out
-'Jagadamba'. At that the Mussalmans were about to beat him. Thereupon he said to
+'Jagadamba'. At that the Muslims were about to beat him. Thereupon he said to
 them: 'I beseech you! Please do not kill me. I have been trying my utmost to repeat the
 name of Allah, but our Jagadamba has filled me up to the throat. She pushes out your
 Allah.' (All laugh.)

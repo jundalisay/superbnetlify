@@ -156,51 +156,61 @@ who would obey Him? (All laugh.)
 strong and weak - some endowed with more power some with less." 
 
 VIDYASAGAR: "Has He endowed some with more power and others with less?"
-MASTER: "As the All-pervading Spirit He exists in all beings, even in the ant. But the
-manifestations of His Power are different in different beings; otherwise, how can one
-person put ten to flight, while another can't face even one? And why do all people
-respect you? Have you grown a pair horns? (Laughter.) You have more compassion and
-learning. Therefore people honour you and come to pay you their respects. Don't you
+
+{{< l a="Ramakrishna" >}}
+As the All-pervading Spirit He exists in all beings, even in the ant. But the manifestations of His Power are different in different beings; otherwise, how can one
+person put ten to flight, while another can't face even one? And why do all people respect you? 
+
+Have you grown a pair horns? (Laughter.) You have more compassion and learning. Therefore people honour you and come to pay you their respects. Don't you
 agree with me?"
-Vidyasagar smiled.
-The Master continued: "There is nothing in mere scholarship. The object of study is to
-find means of knowing God and realizing Him. A holy man had a book. When asked
-what it contained, he opened it and showed that on all the pages were written the words
-'Om Rama', and nothing else.
-"What is the significance of the Gita? It is what you find by repeating the word ten
-times. It is then reversed into 'tagi', which means a person who has renounced
-everything for God. And the lesson of. the Gita is: 'O man, renounce everything and
-seek God alone.' Whether a man is a monk or a householder, he has to shake off all
-attachment from his mind.
-"Chaitanyadeva set out on a pilgrimage to southern India. One day he saw a man
-reading the Gita. Another man, seated at a distance, was listening and weeping. His
+
+There is nothing in mere scholarship. The object of study is to find means of knowing God and realizing Him. A holy man had a book. When asked
+what it contained, he opened it and showed that on all the pages were written the words 'Om Rama', and nothing else.
+
+"What is the significance of the Gita? It is what you find by repeating the word 10 times. It is then reversed into 'tagi', which means a person who has renounced
+everything for God. And the lesson of. the Gita is: 'O man, renounce everything and seek God alone.' Whether a man is a monk or a householder, he has to shake off all
+attachment from his mind. 
+{{< /l >}}
+
+
+{{< l a="Ramakrishna" >}}
+"Chaitanyadeva set out on a pilgrimage to southern India. One day he saw a man reading the Gita. Another man, seated at a distance, was listening and weeping. His
 eyes were swimming in tears. Chaitanyadeva asked him, 'Do you understand all this?'
-The man said, 'No, revered sir, I don't understand a word of the text.' 'Then why are you
-crying?' asked Chaitanya. The devotee said: 'I see Arjuna's chariot before me. I see
-Lord Krishna and Arjuna seated in front of it, talking. I see this and I weep.'
-"Why does a vijnāni keep an attitude of love toward God? The answer is that 'I-
-consciousness' persists. It disappears in the state of samādhi, no doubt, but it comes
+
+The man said, 'No, revered sir, I don't understand a word of the text.' 'Then why are you crying?' asked Chaitanya. The devotee said: 'I see Arjuna's chariot before me. I see
+Lord Krishna and Arjuna seated in front of it, talking. I see this and I weep.' 
+
+"Why does a vijnāni keep an attitude of love toward God? The answer is that 'I- consciousness' persists. It disappears in the state of samādhi, no doubt, but it comes
 back. In the case of ordinary people the 'I' never disappears. You may cut down the
 Aśwattha tree, but the next day sprouts shoot up. (All laugh.)
-Ego causes our sufferings
-"Even after the attainment of Knowledge this 'I-consciousness' comes up, nobody knows
-from where. You dream of a tiger. Then you awake; but your heart keeps on
+{{< /l >}}
+
+
+
+{{< l a="Ramakrishna" >}}
+"Even after the attainment of Knowledge this 'I-consciousness' comes up, nobody knows from where. You dream of a tiger. Then you awake; but your heart keeps on
 palpitating! All our suffering is due to this 'I'. The cow cries, 'Hamba!', which means 'I'.
 That is why it suffers so much. It is yoked to the plough and made to work in rain and
-sun. Then it may be killed by the butcher. From its hide shoes are made, and also
-drums, which are mercilessly, beaten. (Laughter.) Still it does not escape suffering. At
-last strings are made out of its entrails for the bows used in carding cotton. Then it no
-longer says, 'Hamba! Hamba!', 'I! I!' but 'Tuhu! Tuhu!', 'Thou! Thou!'. Only then are its
+sun. Then it may be killed by the butcher. From its hide shoes are made, and also drums, which are mercilessly, beaten. (Laughter.) Still it does not escape suffering. At
+last strings are made out of its entrails for the bows used in carding cotton. 
+
+Then it no longer says, 'Hamba! Hamba!', 'I! I!' but 'Tuhu! Tuhu!', 'Thou! Thou!'. Only then are its
 troubles over.
+
 O Lord, I am the servant; Thou art the Master. I am the child; Thou art
 the Mother.
-116"Once Rama asked Hanuman, 'How do you look on Me?' And Hanuman replied: 'O Rama,
+{{< /l >}}
+
+
+Once Rama asked Hanuman, 'How do you look on Me?' And Hanuman replied: 'O Rama,
 as long as I have the feeling of "I", I see that Thou art the whole and I am a part; Thou
 art the Master and I am Thy servant. But when, O Rama, I have the knowledge of
 Truth, then I realize that Thou art I and I am Thou.'
 "The relationship of master and servant is the proper one. Since this 'I' must remain, let
 the rascal be God's servant.
+
 Evil of "I" and "mine"
+
 "'I' and 'mine' - these constitute ignorance. 'My house', 'my wealth', 'my learning', 'my
 possessions' - the attitude that prompts one to say such things comes of ignorance. On
 the contrary, the attitude born of Knowledge is: 'O God, Thou art the Master, and all
@@ -403,11 +413,13 @@ MASTER: "Visit me? Oh, never think of such a thing!"
 
 VIDYASAGAR: "Why, sir? Why do you say that? May I ask you to explain?"
 
-MASTER (smiling): "You see, we are like small fishing-boats. (All smile.) We can ply in
-small canals and shallow waters and also in big rivers. But you are a ship. You may run
-aground on the way!" (All laugh.)
-Vidyasagar remained silent. Sri Ramakrishna said with a laugh, "But even a ship can go
-there at this season."
+
+
+{{< l a="Ramakrishna" >}}
+We are like small fishing-boats. We can ply in small canals and shallow waters and also in big rivers. But you are a ship. You may run
+aground on the way!" (All laugh.) But even a ship can go there at this season."
+{{< /l >}}
+
 
 VIDYASAGR (smiling): "Yes, this is the monsoon season." (All laugh.)
 

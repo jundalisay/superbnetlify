@@ -17,41 +17,32 @@ garden.
 
 ## Beginning of Master's illness
 
-Sri Ramakrishna was not well. It was the beginning of the illness subsequently diagnosed as the fatal cancer. But this did not disturb the serenity of his mind. Day and night he had only one thought, and that was the spiritual welfare of his disciples. He was guiding
-them toward the attainment of God. He encouraged them constantly to cultivate
-knowledge and devotion and warned them of the snares of "woman and gold". He was
-completely indifferent to his own illness and devoted himself whole-heartedly to the
+Sri Ramakrishna was not well. It was the beginning of the illness subsequently diagnosed as the fatal cancer. But this did not disturb the serenity of his mind. Day and night he had only one thought, and that was the spiritual welfare of his disciples. He was guiding them toward the attainment of God. He encouraged them constantly to cultivate
+knowledge and devotion and warned them of the snares of "woman and gold". He was completely indifferent to his own illness and devoted himself whole-heartedly to the
 fulfilment of his earthly mission.
 
-Dwija was about sixteen years old. After the death of his mother, his father had married
-a second time. Dwija often accompanied M. to Dakshineswar; but his father did not
+Dwija was 16 years old. After the death of his mother, his father married a second time. Dwija often accompanied M. to Dakshineswar; but his father did not
 approve of it.
 
-Dwija's father had for a long time been speaking of visiting Sri Ramakrishna. Today he
-had come to Dakshineswar. He was the manager of a business firm in Calcutta and had
+Dwija's father had for a long time been speaking of visiting Sri Ramakrishna. Today he had come to Dakshineswar. He was the manager of a business firm in Calcutta and had
 passed his examination in law.
 
 MASTER (to Dwija's father): "Please don't mind your children's coming here.
-Advice to the worldly-minded
 
-"I ask people to live in the world after the awakening of their spiritual consciousness.
-After extracting gold through hard labour, a man may keep it under earth or in a box or
-under water. The gold is not affected.
-"I ask people to live in the world in a spirit of detachment. If you break the jack-fruit
-after rubbing oil on your hands, its sticky juice will not smear them.
-"If the 'unripe' mind dwells in the world, the mind gets soiled. One should first attain
-knowledge and then live in the world.
-"If you put milk in water the milk is spoiled. But this will not happen if butter, churned
-from the milk, is put in water."
+I ask people to live in the world after the awakening of their spiritual consciousness.
+
+After extracting gold through hard labour, a man may keep it under earth or in a box or under water. The gold is not affected.
+"I ask people to live in the world in a spirit of detachment. If you break the jack-fruit after rubbing oil on your hands, its sticky juice will not smear them.
+"If the 'unripe' mind dwells in the world, the mind gets soiled. One should first attain knowledge and then live in the world.
+"If you put milk in water the milk is spoiled. But this will not happen if butter, churned from the milk, is put in water."
+
 DWIJA'S FATHER: "That is true, sir."Instructing Dwija's father
-MASTER (smiling): "I know why you scold your children. You only threaten them. The
-brahmachari said to the snake; 'you are a fool indeed! I forbade you to bite but not to
-hiss. Your enemies would not have beaten you, if only you had hissed at them.' Your
-scolding of the children is really a hissing. (Dwija's father smiles.)
-"A good son is a indication of his father's spiritual nature. If good water comes out when
-a reservoir is dug, it only indicates the virtue of the owner.
-"A son is called Atmaja, 'the self reborn'. There is no difference between you and your
-son. In one way you yourself are reborn as your son. In one sense you are a worldly
+
+MASTER (smiling): "I know why you scold your children. You only threaten them. The brahmachari said to the snake; 'you are a fool indeed! I forbade you to bite but not to
+hiss. Your enemies would not have beaten you, if only you had hissed at them.' Your scolding of the children is really a hissing. (Dwija's father smiles.)
+"A good son is a indication of his father's spiritual nature. If good water comes out when a reservoir is dug, it only indicates the virtue of the owner.
+
+"A son is called Atmaja, 'the self reborn'. There is no difference between you and your son. In one way you yourself are reborn as your son. In one sense you are a worldly
 person, working in a business office and enjoying worldly life; in another sense you are a
 devotee of God, in the form of your son. I heard that you were a very worldly person;
 but now I find it isn't so. (Smiling) You know all this. I understand that you are very

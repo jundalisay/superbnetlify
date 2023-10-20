@@ -35,19 +35,14 @@ The Master was highly pleased with the ostad's music. He said to the musician, "
 
 MUSICIAN: "Sir, what is the way to realize God?"
 
-MASTER: "Bhakti is the one essential thing. To be sure, God exists in all beings. Who,
-then, is a devotee? He whose mind dwells on God. But this is not possible as long as
-one has egotism and vanity. The water of God's grace cannot collect on the high mound
-of egotism. It runs down. I am a mere machine.
-
-## Master's respect for other faiths
+{{< l a="Ramakrishna" >}}
+Bhakti is the one essential thing. To be sure, God exists in all beings. Who, then, is a devotee? He whose mind dwells on God. But this is not possible as long as
+one has egotism and vanity. The water of God's grace cannot collect on the high mound of egotism. It runs down. I am a mere machine.
 
 (To Kedār and the other devotees) "God can be realized through all paths. All religions are true. 
 
 The important thing is to reach the roof. You can reach it by stone stairs or by wooden stairs or by bamboo steps or by a rope. You can also climb up by a bamboo
 pole.
-
-## Many names of one God
 
 "You may say that there are many errors and superstitions in another religion. I should reply: Suppose there are. Every religion has errors. Everyone thinks that his watch alone gives the correct time. 
 
@@ -60,6 +55,8 @@ way? The father knows that they too are calling him, only they cannot pronounce 
 name well. All children are the same to the father. Likewise, the devotees call on God
 alone, though by different names. They call on one Person only. God is one, but His
 names are many."
+{{< /l >}}
+
 
 Thursday, August 24, 1882.
 

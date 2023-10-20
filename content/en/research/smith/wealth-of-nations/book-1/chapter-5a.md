@@ -19,7 +19,7 @@ icon: "/avatars/smith.png"
 The value of any commodity to the person who has it and wishes to exchange it, is equal to the amount of work it enables him to purchasing or command. Effort, therefore, is the real measure of the exchangeable value of all commodities.
 
 
-{{< s v="2" >}} The real price of everything is= 
+{{< s v="2" >}} The real price of everything is:
 - the toil and trouble of acquiring it, for the man who wants to get it
 - the toil and trouble saved in disposing it and imposing on others, for the man who has it and wants to dispose of it.
 

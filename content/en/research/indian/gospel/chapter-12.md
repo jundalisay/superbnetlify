@@ -530,7 +530,7 @@ false. God is one only, and not two. Different people call on Him by different n
 some as Allah, some as God, and others as Krishna, Śiva, and Brahman. It is like the
 water in a lake. Some drink it at one place and call it 'jal', others at another place and
 call it 'pani', and still others at a third place and call it 'water'. The Hindus call it 'jal', the
-Christians 'water', and the Mussalmans 'pani'. But it is one and the same thing.
+Christians 'water', and the Muslims 'pani'. But it is one and the same thing.
 Opinions are but paths. Each religion is only a path leading to God, as rivers come from
 different directions and ultimately become one in the one ocean.
 292Oneness of God

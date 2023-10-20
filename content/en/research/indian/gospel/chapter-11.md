@@ -20,6 +20,7 @@ For the past few days the Master had been regarding Rākhāl as the Baby Krishna
 get up. Trailokya bowed to the Master. 
 
 MASTER (to Trailokya): "Was there no yatra performance last night?"
+
 TRAILOKYA: "No, sir. We couldn't conveniently arrange it."
 MASTER: "What is done is done. But please see that this doesn't happen again. The
 traditions of the temple should be properly observed."

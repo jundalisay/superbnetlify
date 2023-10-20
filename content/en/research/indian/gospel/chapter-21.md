@@ -342,14 +342,14 @@ this than his face became red with anger and he blurted out, 'You rascal!' (All 
 was a Shakta. Wasn't it natural for him to say that? I gave Vaishnavcharan a nudge.
 Harmony of religions
 "I see people who talk about religion constantly quarrelling with one another. Hindus,
-Mussalmans, Brahmos, Shaktas, Vaishnavas, Saivas, all quarrel with one another. They
+Muslims, Brahmos, Shaktas, Vaishnavas, Saivas, all quarrel with one another. They
 haven't the intelligence to understand that He who is called Krishna is also Shiva and the
 Primal Śakti, and that it is He, again, who is called Jesus and Allah. There is only one
 Rāma and He has a thousand names.'
 "Truth is one; only It is called by different names. All people are seeking the same
 Truth; the variance is due to climate, temperament, and name. A lake has many ghats.
 From one Ghat the Hindus take water in jars and call it 'jal'. From another Ghat the
-Mussalmans take water in leather bags and call it 'pani'. From a third the Christians take
+Muslims take water in leather bags and call it 'pani'. From a third the Christians take
 the same thing and call it 'water'. (All laugh.) Suppose someone says that the thing is
 not 'jal' but 'pani', or that it is not 'pani' but 'water', or that it is not 'water' but 'jal'. It
 would indeed be ridiculous. But this very thing is at the root of the friction among sects,

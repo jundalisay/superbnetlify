@@ -19,9 +19,6 @@ An indication of this is the delight we take in our senses which are useful and 
 
 The most important is the sense of sight. We prefer seeing over the other senses. 
 
-<!-- For not only with a view to action, but even when we are not going to do anything, we prefer seeing (one might say) to everything else.  -->
-
-
 The reason is that this, most of all the senses, makes us know and brings to light many differences between things.
 
 Animals are born with the faculty of sensation. This sensation produces memory in some animals, though not in others.
@@ -41,9 +38,9 @@ Experience is pretty much like science and art. But really, science and art come
 
 Polus says:
 
-{{< quote >}}
+{{< q >}}
 Experience made art, but inexperience made luck.
-{{< /quote >}}
+{{< /q >}}
 
 
 Art arises when one universal judgement about a class of objects is produced from many notions gained by experience. 

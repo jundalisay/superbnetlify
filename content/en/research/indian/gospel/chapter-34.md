@@ -43,20 +43,20 @@ has come here to see you. His name is Bankim Babu."
 MASTER (smiling): "Bankim! Well, what has made you bent?"
 BANKIM (smiling): "Why, sir, boots are responsible for it. The kicks of our white masters
 have bent my body."
-Meaning of Radha and Krishna
-MASTER: "No, my dear sir! Sri Krishna was bent on account of His ecstatic love. His body
-was bent in three places owing to His love for Radha. That is how some people explain
-727Sri Krishna's form. Do you know why He has a deep-blue complexion? And why He is of
-such small stature-only three and a half cubits measured by His own hand? God looks so
-as long as He is seen from a distance. So the water of the ocean looks blue from afar.
-But if you go near the ocean and take the water in your hand, you will no longer find it
-blue; it will be very clear, transparent. So the sun appears small because it is very far
-away; if you go near it, you will no longer find it small. When one knows the true nature
+
+
+MASTER: "No, my dear sir! Sri Krishna was bent on account of His ecstatic love. His body was bent in three places owing to His love for Radha. That is how some people explain
+727Sri Krishna's form. Do you know why He has a deep-blue complexion? And why He is of such small stature-only three and a half cubits measured by His own hand? God looks so
+as long as He is seen from a distance. So the water of the ocean looks blue from afar. 
+
+But if you go near the ocean and take the water in your hand, you will no longer find it blue; it will be very clear, transparent. So the sun appears small because it is very far away; if you go near it, you will no longer find it small. When one knows the true nature
 of God, He appears neither blue nor small. But that is a far-off vision;one does not see it
 except in samādhi. As long as 'I' and 'you' exist, name and form will also exist.
 Everything is God's lila. His sportive pleasure. As long as a man is conscious of 'I' and
 'you', he will experience the manifestations of God through diverse forms.
-Purusha and Prakriti imply and, Their inner harmony
+
+<!-- Purusha and Prakriti imply and, Their inner harmony -->
+
 "Sri Krishna is the Purusha; Srimati is His Śakti, the Primal Power. The two are Purusha
 and Prakriti. What is the meaning of the Yugala Murti, the conjoined images of Radha
 and Krishna? It is that Purusha and Prakriti are not different; there is no difference

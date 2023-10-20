@@ -10,27 +10,38 @@ icon: /avatars/smith.png
 
 ## Compassion
 
-{{< s v="1" >}} However selfish man may be, his nature has pity or compassion which= 
+{{< s v="1" >}} However selfish man may be, his nature has pity or compassion which:
 - interest him in the fortune of others, and
-- render the happiness of others necessary to him, even if he only gets the pleasure of seeing that happiness
+- render the happiness of others necessary to him
+<!-- , even if he only gets the pleasure of seeing that happiness -->
 
-Pity or compassion is our feeling for the misery of others. We often derive sorrow from the sorrow of others. The virtuous and humane feel it most sensibly. The greatest criminal has it too.
+Pity or compassion is our feeling for the misery of others. 
 
-{{< s v="2" >}} We have no immediate experience of what other men feel. We can only have an idea of how they are affected, by conceiving what we ourselves should feel in the same situation.
+We often derive sorrow from the sorrow of others. 
+- The virtuous and humane feel it most sensibly. 
+- The greatest criminal has it too.
 
-If our brother is on the rack, our senses will never tell us of what he suffers. Our senses can never carry us beyond our own person. Only by our imagination can we form any conception of his sensations.
 
-Imagination can represent what our own sensations would be if we were in his situation. Our imaginations copy only the impressions of our own senses. By imagination= 
+{{< s v="2" >}} We do not immediately know what other men feel. 
+
+We only have *an idea* of how they are affected. We get this idea by thinking how we ourselves would feel in the same situation.
+
+If our brother is on the rack, we will never feel his pains exactly, as our senses are limited to ourselves. Only by our imagination can we imagine his sensations.
+
+Our imagination copies only the impressions that we get from our own senses. By imagination: 
 - we place ourselves in his situation,
-- we conceive ourselves enduring the same torments,
-- we enter into his body,
+- we conceive ourselves enduring the same torments.
+
+<!-- - we enter into his body,
 - we become the same person with him,
 - we form some idea of his sensations,
-- we even feel something similar, though weaker.
+- we even feel something similar, though weaker. -->
 
-His agonies finally begin to affect us when they are brought to ourselves and made our own. We then shudder at the thought of what he feels.
+His agonies affect us when we bring them to ourselves and made our own. 
+- We then shudder at the thought of what he feels.
 
-Pain or distress excites the most excessive sorrow. To imagine pain or distress excites sorrow proportional to the intensity of the pain or distress imagined.
+Pain or distress excites the most excessive sorrow. 
+- To imagine pain or distress excites sorrow proportional to the intensity of the pain or distress imagined.
 
 
 ## The Source of our Compassion is our conception of the pain of others
@@ -117,17 +128,18 @@ From of all these, she forms the most complete image of misery and distress. The
 
 {{< s v="13" >}} We even sympathize with the dead. The real importance in the dead's situation is that awful futurity which awaits them. But we overlook this.
 
-We instead are affected by those circumstances which strike our senses, even if these circumstances have no influence on the dead's happiness. We think that it is miserable to be= 
-- deprived of sunlight
-- shut out from life and conversation
+We instead are affected by those circumstances which strike our senses, even if these circumstances have no influence on the dead's happiness. 
+
+We think that it is miserable to be:
 - laid in the cold grave
 - not be thought of in this world
-- removed from the memory of their dearest friends and relations
+- removed from the memory of their friends and relations
 
-Surely, we imagine that we can never feel too much for the dead. Our fellow-feeling gives double tribute to the dead when they are in danger of being forgotten by everybody.
+
+Our fellow-feeling gives double tribute to the dead when they are in danger of being forgotten by everybody.
 - We pay vain honours to their memory.
 - We try to artificially keep alive our sad remembrance of their misfortune, for our own misery.
-- We think that= 
+- We think that:
   - our sympathy cannot console them and that this adds to their calamity
   - all we can do is unavailing
   - even the alleviation of their friends' distress can give them no comfort.

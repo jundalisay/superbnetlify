@@ -11,11 +11,12 @@ author: Adam Smith
 
 
 {{< s v="88" >}} Ireland and America should pay to help reduce Great Britain's public debt.
-- That debt was incurred to support the government established by the Revolution.
-- The Protestants of Ireland owe to that government their whole authority in their own country and every security in their liberty, property, and religion.
+- That debt was to support the government established by the Revolution.
+- The Protestants of Ireland owe their liberty, property, and religion to that government.
 - Several American colonies owe to that government their present charters and consequently their present constitution.
-- All American colonies owe their liberty, security, and property to that constitution.
-- That public debt was incurred to defend Great Britain and all the empire's provinces.
+  - All American colonies owe their liberty, security, and property to that constitution.
+
+That public debt was incurred to defend Great Britain and all the empire's provinces.
 
 America's defence created:
 - the immense debt from the recent American Revolutionary War

@@ -128,7 +128,7 @@ But when It engages in these activities, then we call It Kāli or Śakti. The Re
 and the same; the difference is in name and form.
 "It is like water, called in different languages by different names, such as 'jal', 'pani', and
 so forth. There are three or four ghats on a lake. The Hindus, who drink water at one
-place, call it 'jal'. The Mussalmans at another place call it 'pani'. And the English at a
+place, call it 'jal'. The Muslims at another place call it 'pani'. And the English at a
 third place call it 'water'. All three denote one and the same thing, the difference being
 in the name only. In the same way, some address the Reality as 'Allah', some as 'God',
 some as 'Brahman', some as 'Kāli', and others by such names as 'Rama', 'Jesus', 'Durga',

@@ -1845,7 +1845,7 @@ true or false. I say this because one cannot know the true nature of God unless 
 realizes Him. Kabir used to say: 'God with form is my Mother, the Formless is my Father.
 Which shall I blame? Which shall I praise? The two pans of the scales are equally heavy.'
 Different paths for different temperaments
-"Hindus, Mussalmans, Christians, Saktas, Saivas, Vaishnavas, the Brahmajnanis of the
+"Hindus, Muslims, Christians, Saktas, Saivas, Vaishnavas, the Brahmajnanis of the
 time of the rishis, and you, the Brahmajnanis of modern times, all seek the same object.
 A mother prepares dishes to suit the stomachs of her children. Suppose a mother has
 608five children and a fish is bought for the family. She doesn't cook pilau or kalia for all of
@@ -3037,7 +3037,7 @@ pigeon eating dried peas. You think he has digested them, but he keeps them in h
 crop. You can feel them there.
 "At dusk put aside all duties and pray to God. One is reminded of Him by darkness. At
 the approach of darkness one thinks: 'I could see everything a moment ago. Who has
-brought about this change?' The Mussalmans put aside all activities and say their prayers
+brought about this change?' The Muslims put aside all activities and say their prayers
 at the appointed times."
 641Practice of japa
 MUKHERJI: "Revered sir, is it good to practise japa?"
@@ -3376,7 +3376,7 @@ force. Nothing that comes out of this place will be monotonous."
 MASTER (smiling): "I keep men's own ideals intact. I ask a Vaishnava to hold to his
 Vaishnava attitude and a Sakta to his. But this also I say to them 'Never feel that your
 path alone is right and that the paths of others a wrong and full of errors. Hindus,
-Mussalmans, and Christians are going to the same destination by different paths. A man
+Muslims, and Christians are going to the same destination by different paths. A man
 can realize God by following his own path if his prayer is sincere.
 "Vijay's mother-in-law said to me, 'Why don't you tell Balarām that it unnecessary to
 worship God with form; that it will be enough if he prays to the formless Satchidananda?'

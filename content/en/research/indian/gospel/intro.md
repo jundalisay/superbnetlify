@@ -1284,7 +1284,7 @@ You must try all beliefs and traverse all the different ways once. Wherever I lo
 But they never reflect that He who is called Krishna is also called Śiva, and bears the name of the Primal Energy, Jesus, and Allah as well - the same Rāmā with a
 thousand names. A lake has several G hāts . 
 
-At one, the Hindus take water in pitchers and call it 'Jal' ; at another the Mussalmans take water in leather bags and call it 'pāni' . At a
+At one, the Hindus take water in pitchers and call it 'Jal' ; at another the Muslims take water in leather bags and call it 'pāni' . At a
 third the Christians call it 'water' . Can we imagine that it is not 'jal', but only 'pāni' or
 'water'? How ridiculous! The substance is One under different names, and everyone is
 seeking the same substance; only climate, temperament, and name create differences.

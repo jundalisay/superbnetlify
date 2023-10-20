@@ -1,8 +1,8 @@
 ---
-title: "MASTER AND DISCIPLE"
+title: "Master And Disciple"
 image: "/covers/rama.jpg"
 heading: "Chapter 1"
-weight: 4
+weight: 3
 description: "IT WAS ON A SUNDAY in spring, a few days after Sri Ramakrishna's birthday, that M. met him the first time"
 ---
 
@@ -36,42 +36,48 @@ When, hearing the name of Hari or Rāma once, you shed tears and your hair stand
 The sandhya merges in the Gayatri, and the Gayatri merges in Om.
 {{< /l >}}
 
-M. looked around him with wonder and said to himself: "What a beautiful place! What a charming man! How beautiful his words are! I have no wish to move from this spot."
 
-After a few minutes he thought, "Let me see the place first; then I'll come back here and sit down."
+{{< r a="M" >}}
+What a beautiful place! What a charming man! How beautiful his words are! I have no wish to move from this spot.
 
-As he left the room with Sidhu, he heard the sweet music of the evening service arising in the temple from gong, bell, drum, and cymbal. He could hear music from the nahabat, too, at the south end of the garden. The sounds travelled over the Ganges, floating away and losing themselves in the distance. 
-
-A soft spring wind was blowing, laden with the fragrance of flowers; the moon had just appeared. It was as if nature and man together were preparing for the evening worship. 
-
-M. and Sidhu visited the twelve Siva temples, the Radhakanta temple, and the temple of Bhavatarini.
+Let me see the place first; then I'll come back here and sit down.
+{{< /r >}}
 
 
-On the way back to Sri Ramakrishna's room the two friends talked. Sidhu told M. that the temple garden had been founded by Rani Rasmani. He said that God was
-worshipped there daily as Kali, Krishna, and Siva, and that within the gates sadhus and beggars were fed. When they reached Sri Ramakrishna's door again, they found it shut,
-and Brinde, the Maid, standing outside. M., who had been trained in English manners and would not enter a room without permission, asked her, "Is the holy man in?" Brinde
-replied, "Yes he's in the room."
+As he left the room with Sidhu, he heard the sweet music of the evening service arising in the temple from gong, bell, drum, and cymbal. He could hear music from the nahabat, too, at the south end of the garden. The sounds travelled over the Ganges. 
 
-M: "How long has he lived here?"
+A soft spring wind was blowing, laden with the fragrance of flowers. The moon had just appeared. It was as if nature and man together were preparing for the evening worship. 
 
-BRINDE: "Oh, he has been here a long time."
+M. and Sidhu visited:
+- the 12 Siva temples
+- the Radhakanta temple
+- the temple of Bhavatarini.
 
-M: "Does he read many books?"
 
-BRINDE: "Books? Oh, dear no! They're all on his tongue."
+Sidhu told M. that the temple garden had been founded by Rani Rasmani. He said that God was worshipped there daily as Kali, Krishna, and Siva, and that within the gates sadhus and beggars were fed. 
 
-M. had just finished his studies in college. It amazed him to hear that Sri Ramakrishna read no books.
+When they reached Sri Ramakrishna's door, they found Brinde, the Maid, standing outside. M. had been trained in English manners and would not enter a room without permission. 
 
-M: "Perhaps it is time for his evening worship. May we go into the room? Will you tell him we are anxious to see him?"
+{{< r a="M" >}}
+Is the holy man in? How long has he lived here? Does he read many books? 
+{{< /r >}}
 
-BRINDE: "Go right in, children. Go in and sit down."
+{{< r a="Brinde" >}}
+Oh, he has been here a long time. He does not read books. They're all on his tongue. Go right in, children. Go in and sit down.
+{{< /r >}}
 
-Entering the room, they found Sri Ramakrishna alone, seated on the wooden couch.
 
-Incense had just been burnt and all the doors were shut. As he entered, M. with folded hands saluted the Master. Then, at the Master's bidding, he and Sidhu sat on the floor.
-Sri Ramakrishna asked them: "Where do you live? What is your occupation? 
+<!-- M: "Perhaps it is time for his evening worship. May we go into the room? Will you tell him we are anxious to see him?" -->
 
-Why have you come to Baranagore?" M. answered the questions, but he noticed that now and then the Master seemed to become absent-minded. Later he learnt that this mood is called bhava, ecstasy. 
+They found Sri Ramakrishna alone, seated on the wooden couch. Incense had just been burnt and all the doors were shut. As he entered, M. with folded hands saluted the Master. 
+
+Then, at the Master's bidding, he and Sidhu sat on the floor.
+
+{{< l a="Ramakrishna" >}}
+Where do you live? What is your occupation? Why have you come to Baranagore?
+{{< /l >}}
+
+M. answered. He noticed that the Master seemed to become absent-minded. Later he learnt that this mood is called bhava, ecstasy. 
 
 It is like the state of the angler who has been sitting with his rod: the fish comes and swallows the bait, and the float begins to tremble; the angler is on the alert; he grips the rod and watches the float steadily and eagerly; he will not speak to anyone. 
 

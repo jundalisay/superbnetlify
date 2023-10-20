@@ -23,8 +23,10 @@ MASTER: "What about him?"
 
 M: "Who, sir?"
 
-MASTER: "Kishori. Isn't Girish Ghosh coming? What about Narendra?" A few minutes
+{{< l a="Ramakrishna" >}}
+Kishori. Isn't Girish Ghosh coming? What about Narendra?" A few minutes
 later Narendra arrived and saluted Sri Ramakrishna.
+{{< /l >}}
 
 MASTER (to the devotees): "It would be fine if Kedār were here. He agrees with Girish.
 (To Mahima, smiling) He says the same thing."

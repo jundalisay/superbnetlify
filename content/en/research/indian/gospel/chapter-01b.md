@@ -1,7 +1,7 @@
 ---
 title: "Second visit"
 image: "/covers/rama.jpg"
-heading: "Chapter 1"
+heading: "Chapter 1b"
 weight: 4
 description: "IT WAS ON A SUNDAY in spring, a few days after Sri Ramakrishna's birthday, that M. met him the first time"
 ---
@@ -14,13 +14,16 @@ The Master was about to be shaved, the barber having just arrived. As the cold s
 red. Seeing M., the Master said: "So you have come. That's good. Sit down here." He
 was smiling. He stammered a little when he spoke.
 
-SRI RAMAKRISHNA (to M.): "Where do you live?"
 
-M: "In Calcutta, sir."
+{{< l a="Ramakrishna" >}}
+(to M.) Where do you live?
+{{< /l >}}
 
-SRI RAMAKRISHNA: "Where are you staying here?"
 
-M: "I am at Baranagore at my older sister's-Ishan Kaviraj's house."
+{{< r a="M" >}}
+In Calcutta, sir, at Baranagore at my older sister's-Ishan Kaviraj's house
+{{< /r >}}
+
 
 SRI RAMAKRISHNA: "Oh, at Ishan's? Well, how is Keshab now? He was very ill."
 
@@ -127,79 +130,5 @@ should you get a headache over it? You had better try for knowledge and devotion
 
 This time M. felt that his ego was completely crushed. He now said to himself: "Yes, he has spoken the truth. What need is there for me to teach others? Have I known God?
 Do I really love Him? 'I haven't room enough for myself in my bed, and I am inviting my friend to share it with me!' I know nothing about God, yet I am trying to teach others. What a shame! How foolish I am! This is not mathematics or history or literature, that one can teach it to others. No, this is the deep mystery of God. What he says appeals to me."
-
-
-This was M.'s first argument with the Master, and happily his last.
-
-{{< l a="Ramakrishna" >}}
-You were talking of worshipping the clay image. But there is need for that sort of worship. God Himself has provided different forms of worship. He who is the Lord of the Universe has arranged all these forms to suit different men in different stages of knowledge.
-
-The mother cooks different dishes to suit the stomachs of her different children.
-
-Suppose she has 5 children. If there is a fish to cook, she prepares various dishes from it - pilau, pickled fish, fried fish, and so on - to suit their different tastes and
-powers of digestion.
-{{< /l >}}
-
-M. (humbly): "Yes, sir. How, sir, may we fix our minds on God?"
-
-MASTER: "Repeat God's name and sing His glories, and keep holy company; and now and then visit God's devotees and holy men. The mind cannot dwell on God if it is
-immersed day and night in worldliness, in worldly duties and responsibilities; it is most
-necessary to go into solitude now and then and think of God. 
-
-To fix the mind on God is very difficult, in the beginning, unless one practises meditation in solitude. When a tree
-is young it should be fenced all around; otherwise it may be destroyed by cattle.
-"To meditate, you should withdraw within yourself or retire to a secluded corner or to the
-forest. 
-
-And you should always discriminate between the Real and the unreal. God alone is real, the Eternal Substance; all else is unreal, that is, impermanent. By discriminating
-thus, one should shake off impermanent objects from the mind."
-
-
-M. (humbly):"How ought we to live in the world?"
-
-MASTER: "Do all your duties, but keep your mind on God. Live with all - with wife and children, father and mother - and serve them. Treat them as if they were very dear to
-you, but know in your heart of hearts that they do not belong to you.
-
-"A maidservant in the house of a rich man performs all the household duties, but her thoughts are fixed on her own home in her native village. She brings up her Master's
-children as if they were her own. She even speaks of them as 'my Rāma' or 'my Hari'.
-
-But in her own mind she knows very well that they do not belong to her at all.
-
-"The tortoise moves about in the water. But can you guess where her thoughts are?
-
-There on the bank, where her eggs are lying. Do all your duties in the world, but keep your mind on God.
-
-
-"If you enter the world without first cultivating love for God, you will be entangled more
-and more. You will be overwhelmed with its danger, its grief, its sorrows. And the more
-you think of worldly things, the more you will be attached to them.
-"First rub your hands with oil and then break open the jack-fruit; otherwise they will be
-smeared with its sticky milk. First secure the oil of divine love, and then set your hands
-to the duties of the world.
-"But one must go into solitude to attain this divine love. To get butter from milk you
-must let it set into curd in a secluded spot; if it is too much disturbed, milk won't turn
-into curd. Next, you must put aside all other duties, sit in a quiet spot, and churn the
-curd. Only then do you get butter.
-"Further, by meditating on God in solitude the mind acquires knowledge, dispassion, and
-devotion. But the very same mind goes downward if it dwells in the world. In the world
-there is only one thought: 'woman and gold'.2
-"The world is water and the mind milk. If you pour milk into water they become one;
-you cannot find the pure milk any more. But turn the milk into curd and churn it into
-butter. Then, when that butter is placed in water, it will float. So, practise spiritual
-discipline in solitude and obtain the butter of knowledge and love. Even if you keep that
-butter in the water of the world the two will not mix. The butter will float.
-Practice of discrimination
-"Together with this, you must practise discrimination. 'Woman and gold' is
-impermanent. God is the only Eternal Substance. What does a man get with money?
-Food, clothes, and a dwelling-place - nothing more. You cannot realize God with its
-help. Therefore money can never be the goal of life. That is the process of
-discrimination. Do you understand?"
-M: "Yes, sir. I recently read a Sanskrit play called Prabodha Chandrodaya. It deals with
-discrimination."
-MASTER: "Yes, discrimination about objects. Consider - what is there in money or in a
-beautiful body? Discriminate and you will find that even the body of a beautiful woman
-consists of bones, flesh, fat, and other disagreeable things. Why should a man give up
-God and direct his attention to such things? Why should a man forget God for their
-sake?"
 
 

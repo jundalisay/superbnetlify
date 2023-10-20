@@ -351,7 +351,7 @@ For a time Master and disciple remained silent. Then Sri Ramakrishna began to de
 his experiences of Brahman.
 MASTER: "One day I had the vision of Consciousness, non-dual and indivisible. At first it
 had been revealed to me that there were innumerable men, animals, and other
-creatures. Among them there were aristocrats, the English, the Mussalmans, myself,
+creatures. Among them there were aristocrats, the English, the Muslims, myself,
 scavengers, dogs, and also a bearded Mussalman with an earthenware tray of rice in his
 hand. He put a few grains of rice into everybody's mouth. I too tasted a little.
 "Another day I saw rice, vegetables, and other food-stuff, and filth and dirt as well, lying

@@ -10,6 +10,7 @@ description: ""
 
 ## Different classes of devotees and The great visions
 
+{{< l a="Ramakrishna" >}}
 (To M.) "When God assumes a human body for the sake of His devotees, many of His devotees accompany Him to this earth. Some of them belong to the inner circle, some to
 the outer circle, and some become the suppliers of His physical needs.
 
@@ -20,6 +21,7 @@ Haladhāri about it. He said, 'Kshara means jiva, living being; Akshara means Pa
 
 "At the hour of the evening worship in the Kāli temple I would climb to the roof of the kuthi and cry out: 'O devotees, where are you all? Come to me soon! I shall die of the
 company of worldly people!' I told all this to the 'Englishmen'. They said it was all an illusion of my mind. 'Perhaps it is', I said to myself, and became calm. But now it is all coming true; the devotees are coming.
+{{< /l >}}
 
 
 ## Five suppliers of the Master's needs

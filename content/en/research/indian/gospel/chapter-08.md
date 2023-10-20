@@ -426,7 +426,7 @@ and creature comforts may become less and less every day.
 Dogmatism condemned
 (To the goswami) "With sincerity and earnestness one can realize God through all
 religions. The Vaishnavas will realize God, and so will the Saktas, the Vedantists, and
-the Brahmos. The Mussalmans and Christians will realize Him too. All will certainly
+the Brahmos. The Muslims and Christians will realize Him too. All will certainly
 realize God if they are earnest and sincere.
 "Some people indulge in quarrels, saying, 'One cannot attain anything unless one
 worships our Krishna', or, 'Nothing can be gained without the worship of Kāli, our Divine
