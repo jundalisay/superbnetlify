@@ -12,7 +12,7 @@ icon: /avatars/smith.png
 
 {{< s v="29" >}} A divided sympathy makes anger and resentment so disagreeable. The social and benevolent feelings are opposite to these. They cause a redoubled sympathy which almost always render them agreeable.
 
-The indifferent observer is almost always pleased with= 
+The indifferent observer is almost always pleased with:
 - Generosity
 - Humanity
 - Kindness

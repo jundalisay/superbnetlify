@@ -13,7 +13,7 @@ description: "If an accident hinders the successful outcome of an endeavor, the 
 - fails to achieve its expected outcome, our sense of its merit is also reduced
 - exceeds its expected outcome, our sense of its merit is increased
 
-When an action, coming from bad intentions= 
+When an action, coming from bad intentions:
 - fails to achieve its expected outcome, our sense of its demerit is also reduced. 
 - exceeds its expected outcome, our sense of its demerit is increased.
 

@@ -12,7 +12,7 @@ description: "Every man is more deeply interested in whatever immediately concer
 
 ## Justice requires a lowered ego
 
-11 Only the just indignation for evil done to us is the only proper motive for us to= 
+{{< s v="11" >}} Only the just indignation for evil done to us is the only proper motive for us to= 
 - hurt our neighbour and
 - incite us to do evil to another 
 
@@ -21,7 +21,7 @@ description: "Every man is more deeply interested in whatever immediately concer
 - take useful things from others merely because it may be more useful to us, and
 - indulge at the expence of other people. -->
 
-By nature, everyone= 
+By nature, everyone: 
 - is first and principally recommended to his own care
 - is fitter to take care of himself than of any other person. 
 - prefers his own happiness
@@ -58,9 +58,9 @@ But if he should throw down any of them, the sympathy of others will end as his 
 <!-- To them, the other man is as good as he. They do not enter into his self-love. -->
 
 
-12 The sufferer's resentment becomes stronger the greater and more irreparable the evil done. <!-- Likewise, the spectators' sympathetic indignation and the agent's sense of guilt runs higher. --> 
+{{< s v="12" >}} The sufferer's resentment becomes stronger the greater and more irreparable the evil done. <!-- Likewise, the spectators' sympathetic indignation and the agent's sense of guilt runs higher. --> 
 
-The most sacred laws are= 
+The most sacred laws are: 
 1. Those which protect life - all humans are guaranteed to be living
 2. Those which protect property and possessions - these are the things that we already have 
 3. Those which protect rights and contracts - these are things that are expected to come
@@ -76,7 +76,7 @@ To be deprived of that which we have, is a greater evil than to be disappointed 
 
 ## Remorse
 
-13 After the passion of the violator of justice is gratified, he begins to reflect on his past conduct. It now appears as detestable to him as to other people.
+{{< s v="13" >}} After the passion of the violator of justice is gratified, he begins to reflect on his past conduct. It now appears as detestable to him as to other people.
 
 <!--  can never reflect on the people's feelings without feeling shame, horror, and consternation. 
  is  He then can no longer enter into the motives which influenced it.  -->
@@ -110,7 +110,7 @@ Such a feeling is called 'remorse'. It is the most dreadful of the feelings and 
 
 ## Deserved Reward
 
-{{< quote >}}14{{< /quote >}} <!-- The opposite behaviour naturally inspires the opposite feeling.  -->The man who has done a generous action from proper motives feels himself as the natural object of= 
+{{< s v="14" >}}  <!-- The opposite behaviour naturally inspires the opposite feeling.  -->The man who has done a generous action from proper motives feels himself as the natural object of: 
 - his beneficiaries' love and gratitude, and
 - mankind's esteem by their sympathy with his beneficiaries.
 

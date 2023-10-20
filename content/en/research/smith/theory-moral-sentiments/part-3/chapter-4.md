@@ -9,11 +9,13 @@ icons: /avatars/smith.png
 ---
 
 
-88 The impartial spectator does not always need to be far to pervert our judgments on our own conduct.
+
+{{< s v="88" >}} The impartial spectator does not always need to be far to pervert our judgments on our own conduct.
 
 When he is near, the violence and injustice of our own selfish feelings are sometimes enough to induce the man within the breast to make a report very different from what our real circumstances can authorise.
 
-89 There are two occasions when we examine our own conduct and try to view it as how the impartial spectator sees it: 
+
+{{< s v="89" >}} There are two occasions when we examine our own conduct and try to view it as how the impartial spectator sees it: 
 - when we are about to act
 - after we have acted.
 
@@ -21,7 +23,8 @@ Our views tend to be very partial in both cases.
 
 But they tend to be most partial when they must be impartial.
 
-90 Before we perform an act, our feeling's eagerness will seldom allow us to think about what we are doing.
+
+{{< s v="90" >}}  Before we perform an act, our feeling's eagerness will seldom allow us to think about what we are doing.
 
 Our violent emotions discolour our views even when we are trying to: 
 place ourselves in another person's situation, and
@@ -43,7 +46,8 @@ As father Malebranche says, the passions all:
 
 We protect our ego through self-deceit, a weakness of humans which creates half of the disorders of human life
 
-91 We can enter more coolly into the indifferent spectator's feeling whens: 
+
+{{< s v="91" >}} We can enter more coolly into the indifferent spectator's feeling whens: 
 - the action is over and
 - the feelings which prompted it have subsided.
 
@@ -77,14 +81,17 @@ We even exert ourselves for this miserable purpose.
 We thus persevere in injustice, merely because: 
 we were once unjust, and
 we are ashamed to see that we were so.
-92 Mankind's views on the propriety of their own conduct are so partial, both during the time of action and afterwards.
+
+
+{{< s v="92" >}} Mankind's views on the propriety of their own conduct are so partial, both during the time of action and afterwards.
 
 It is so difficult for them to view it as how any indifferent spectator would consider it.
 Man's moral sense is a power of perception which distinguishes the beauty or deformity of passions and affections.
 If men judged their own conduct more immediately by this moral sense, then it would more accurately judge on them, than on those of other men.
 The moral sense of other men have a more distant prospect.
  
-93 The fatal weakness of people are their own self-deceit.
+
+{{< s v="93" >}} The fatal weakness of people are their own self-deceit.
 -  Half the disorders of human life is caused by this.
 
 If we saw ourselves as how others see us, or in which they would see us if they knew all, a reform would generally be unavoidable.
@@ -92,7 +99,8 @@ We could not otherwise endure the sight.
 
 Nature's remedy for self-deceit are general rules
 
-94 However, Nature has not left this important weakness without a remedy.
+
+{{< s v="94" >}} However, Nature has not left this important weakness without a remedy.
 
 She has not abandoned us entirely to the delusions of self-love.
 Our continual observations on the conduct of others, insensibly lead us to form to ourselves general rules on what is fit and proper to be done or avoided.
@@ -105,9 +113,11 @@ This further confirms and even exasperates our natural sense of their deformity.
 It satisfies us that we view them in the proper light, when we see other people view them in the same light.
 We resolve never to be guilty of the like, nor ever to render ourselves the objects of universal disapprobation in this way.
 We thus naturally lay down a general rule to ourselves that we should avoid all actions which render us the objects of all those dreaded feelings.
+
 These make us odious, contemptible, or punishable.
 On the contrary, other actions call forth our approbation.
 We hear everybody express the same favourable opinion on them.
+
 Everybody is eager to honour them.
 They excite all of mankind's love, gratitude, and admiration.
 By nature, we have the strongest desire for those feelings.
@@ -149,37 +159,57 @@ This circumstance have misled several very eminent authors, to draw up their sys
 It considers: 
 The general rule
 Then, whether the action under consideration fell properly within its comprehension.
-99 When those general rules of conduct have been fixed in our mind by habitual reflection, they are very useful in correcting the misrepresentations of self-love on what is moral.
+
+{{< s v="99" >}} When those general rules of conduct have been fixed in our mind by habitual reflection, they are very useful in correcting the misrepresentations of self-love on what is moral.
 
 If a very resentful man listened to the dictates of self-love, he might regard his enemy's death as a small compensation for the wrong he has received, even if it were just a very slight provocation.
+
 But his observations on the conduct of others, have taught him how horrible all such sanguinary revenges appear.
+
 Unless his education has been very singular, he lays as an inviolable rule, to always abstain from revenge.
+
 This rule renders him incapable of such a violence
 The original fury of his own temper might have made him determine the revenge to be: 
 quite just and proper, and
+
 what every impartial spectator would approve of.
+
 But his reverence for the rule which past experience has impressed on him: 
-checks the impetuosity of his feelings, and
-corrects the partial views suggested by his self-love.
+- checks the impetuosity of his feelings, and
+- corrects the partial views suggested by his self-love.
+
 If he lets himself be controlled by resentment as to violate this rule, he will not be able to throw away his respect for this rule.
+
 At the peak of his passion, this respect makes him hesitate and tremble at the thought of what he is about to do.
+
 He is secretly conscious to himself that he is breaking those rules: 
-which he had resolved never to infringe during his cool hours,
-which he had never seen infringed by others without the highest disapprobation, and
-of which the infringement must soon render him similarly disagreeable.
+- which he had resolved never to infringe during his cool hours,
+- which he had never seen infringed by others without the highest disapprobation, and
+- of which the infringement must soon render him similarly disagreeable.
+
 Before he can take the last fatal decision, he is tormented with doubt.
+
 He is terrified of violating so sacred a rule.
+
 At the same time, he is urged on by the fury of his desires to violate it.
+
 He changes his purpose every moment.
+
 Sometimes he resolves: 
-to adhere to his principle, and
-not to indulge a passion which may bring him shame and repentance.
+- to adhere to his principle, and
+- not to indulge a passion which may bring him shame and repentance.
+
 He is calmed momentarily from the prospect of that peace which he will enjoy if stops himself.
+
 But immediately, the passion rouses anew.
+
 With fresh fury, it drives him on to commit what he had resolved to abstain from.
+
 Wearied and distracted with those continual irresolutions, from a sort of despair, he makes the final fatal and irrecoverable step.
+
 He throws himself over a precipice, with that terror and amazement as one who is fleeing from an enemy.
 He meets a more certain destruction than from anything that pursues him from behind.
+
 Such are his feelings even at the time of acting.
 Though he is then less sensible of the impropriety of his own conduct than afterwards, when his feelings are gratified and palled.
 He begins to view what he has done as how others would see it.

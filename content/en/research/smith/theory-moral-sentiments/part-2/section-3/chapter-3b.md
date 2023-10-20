@@ -1,6 +1,6 @@
 ---
-heading: Chapter 3b
-title: "Notes"
+heading: Chapter 3b Notes
+title: "Nature Uses Our Feelings to Create Morality to Sustain Life"
 weight: 14
 author: "Adam Smith"
 icon: /avatars/smith.png
@@ -11,13 +11,20 @@ description: "Most people prefer that our sense of the merit of good actions is 
 
 ### Notes for this chapter
 
-To most people, ascribing our natural sense of the demerit of actions to a sympathy with the sufferer's resentment is a degradation of that sense. People will think it impossible that the sense of the demerit of vice is based on resentment. 
+To most people, ascribing the sense of the demerit to a sympathy with the sufferer's resentment is a degradation of that sense.
+- This is because people will think it impossible that the sense of the demerit of vice is based on resentment. 
 
-They prefer that our sense of the merit of good actions is based on a sympathy with the gratitude of the beneficiaries. This is because gratitude, like the other benevolent feelings, is an amiable principle. Gratitude cannot reduce the value of whatever is founded on gratitude.
+They prefer that our sense of the merit of good actions is based on a sympathy with the beneficiaries' gratitude. 
+- This is because gratitude, like the other benevolent feelings, is an amiable principle.
+- Gratitude cannot reduce the value of whatever is founded on gratitude.
 
-However, gratitude and resentment are opposites. If our sense of merit arises from a sympathy with the gratitude, then our sense of demerit must proceed from a fellow-feeling with the resentment. Resentment is probably the most odious of all the feelings. 
+However, **gratitude and resentment are opposites**. 
 
-But it is not disapproved of when:
+If our sense of merit arises from a sympathy with the gratitude, then our sense of demerit must proceed from a fellow-feeling with the resentment. 
+
+<!-- Resentment is probably the most odious of all the feelings.  -->
+
+But it is not disapproved of when it is:
 - properly humbled, and
 - entirely brought down to the level of the spectator's sympathetic indignation.
 
@@ -46,9 +53,13 @@ Revenge is generally too strong, but sometimes, it can also be too weak. We some
 
 #### Nature Uses Our Feelings to Create Morality to Sustain Life
 
-This inquiry is not on a matter of right, but on a matter of fact. We are not examining how God would approve of the punishment of evil. We are examining how or on what principles man, a weak and imperfect creature, actually and factually approves of punishments.
+This inquiry is not on a matter of right, but on a matter of fact. 
 
-These principles have a very great effect on men's feelings. Society's existence requires that unmerited and unprovoked malice should be restrained by proper punishments. Consequently, inflicting those punishments should be regarded as proper and laudable. Man is naturally endowed with a desire of society's welfare and preservation. Yet the Author of nature has entrusted it to man's feelings, and not to his reason, to find out the punishments that are proper to attain this end.
+We are not examining how God would approve of the punishment of evil. We are examining what principles men use to actually approve of punishments.
+
+These principles have a very great effect on men's feelings. Society's existence requires that unmerited and unprovoked malice should be restrained by proper punishments.
+
+Consequently, inflicting those punishments should be regarded as proper and laudable. Man is naturally endowed with a desire of society's welfare and preservation. Yet the Author of nature has entrusted it to man's feelings, and not to his reason, to find out the punishments that are proper to attain this end.
 
 <!-- It seems wisely ordered that it should be so. -->
 <!-- Instead, the Author has endowed man with an  approbation of that very application which is most proper to attain it. 
@@ -72,7 +83,7 @@ But finding the proper means to realize those ends has not been entrusted to our
 - without any consideration of their tendency to those beneficent ends intended by the great Director of nature.
 
 
-There is a difference between= 
+There is a difference between:
 - the approbation of propriety and
 - the approbation of merit or beneficence.
 

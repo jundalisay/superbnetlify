@@ -12,7 +12,7 @@ icons: /avatars/smith.png
 
 ## Misfortunes make our feelings extreme
 
-54 There are two kinds of private misfortunes which make our feelings go beyond the bounds of propriety: 
+{{< s v="54" >}} There are two kinds of private misfortunes which make our feelings go beyond the bounds of propriety: 
 
 > 1. Those that affect us only indirectly.
 
@@ -23,16 +23,19 @@ They firstly affect other persons particularly dear to us such as our parents, c
 They affect our body, fortune, or reputation. Examples are pain, sickness, approaching death, poverty, disgrace, etc.
  
 
-55 In the first kind of misfortunes, our feelings might go very much beyond what exact propriety will admit of.
+{{< s v="55" >}} In the first kind of misfortunes, our feelings might go very much beyond what exact propriety will admit of.
 
 But they may likewise fall short of it. They frequently do so.
 The man who feels no more for the death of his own father than for the death of any other man's father, would not appear as a good son.
 Such unnatural indifference would be highly disapproved.
+
 However, of those domestic feelings: 
-some offend by their excess
-some offend by their defect.
+- some offend by their excess
+- some offend by their defect.
+
 For the wisest purposes, Nature has rendered in everyone a parental tenderness.
 It is a much stronger affection than filial piety.
+
 The continuance and propagation of the species depend on parental tenderness and not on filial piety.
 Ordinarily, the child's existence and preservation depend on the parents' care.
 The parents' existence and preservation seldom depend on the child's care.
@@ -45,9 +48,11 @@ Moralists generally teach us how to restrain our:
 - our unjust preference to our own children above those of other people.
 
 They seldom try to teach us how to indulge these.
+
 On the contrary, they exhort us to: 
-an affectionate attention to our parents, and
-make a proper return to them in their old age for their kindness during our infancy and youth.
+- an affectionate attention to our parents, and
+- make a proper return to them in their old age for their kindness during our infancy and youth.
+
 In the Decalogue, we are commanded to honour our fathers and mothers.
 No mention is made of the love of our children.
 Nature had sufficiently prepared us to perform this latter duty.

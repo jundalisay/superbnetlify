@@ -1,5 +1,5 @@
 ---
-title: "Ways to pay public debts-Personal treasure or credit of ruler"
+title: "Ways To Pay Public Debts: The Ruler's Personal Treasure or Credit"
 heading: "Chapter 3a"
 weight: 6
 image: "/covers/wn.jpg"
@@ -10,34 +10,34 @@ author: Adam Smith
 
 
 
-{{< s v="1" >}} In Book 3, I showed that the person who has a large revenue in the rude state of society can enjoy that revenue only by maintaining as many people as possible. A large revenue then might consist in basic necessities such as:
+{{< s v="1" >}} Book 3 showed that the person who has a large revenue in the rude state of society can enjoy that revenue only by maintaining as many people as possible. A large revenue then might consist in basic necessities such as:
 - plain food
 - coarse clothing
-- corn and cattle
+<!-- - corn and cattle -->
 - wool and raw hides
     
-When no commerce or manufactures is available to allow him to exchange his surplus, he can only use it to feed and clothe as many people as possible. In this situation, the main expence of the rich is a hospitality with no luxury. But these expences do not ruin the people.
+When no commerce or manufactures is there to exchange his surplus, he can only spend it on as many people as possible. His expence becomes a hospitality with no luxury. **But these expences do not ruin the people**.
 
-All selfish pleasures, even the most frivolous ones, have ruined even sensible men. 
-- A passion for cock-fighting has ruined many.
+On the contrary, all selfish pleasures, even the most frivolous ones, have ruined many, even sensible men. Examples are:
+- A passion for cock-fighting
 <!-- I believe few people have been ruined by a non-luxurious hospitality or liberality. -->
-- Luxurious hospitality and ostentatious liberality have also ruined many.
+- Luxurious hospitality and ostentatious liberality
 
-Among our feudal ancestors, the people's general disposition to live within their income is demonstrated by the long possession of estates within the same family. The great land-holders' rustic hospitality may seem inconsistent with good economy.
+Among our feudal ancestors, the long possession of estates within the same family shows the people's disposition to live within their income. 
 
-However, we must give them credit for not spending all their income. They had an opportunity to sell their wool and raw hides for money.
+The great land-holders' rustic hospitality may seem inconsistent with good economy.
+- However, we must give them credit for not spending all their income.
+- They could only hoard the money they saved because there was no commerce.
 
-Some of this money they perhaps= 
+<!-- They had an opportunity to sell their wool and raw hides for money. Some of this money they perhaps= 
 - spent on the few objects of vanity and luxury
-- hoarded
-
-They could do nothing else but hoard the money they saved.
+- hoarded -->
 
 Trading was disgraceful to a gentleman.
+- Lending money at interest was considered as usury and prohibited by law.
 
-Lending money at interest was considered as usury and prohibited by law.
-
-In those violent times, it was convenient to have a hoard of money in case they were driven from their home. The same violence which made it convenient to hoard made it convenient to conceal the hoard.
+In those violent times, it was convenient to have a hoard of money in case they were driven from their home.
+- The same violence which made it convenient to hoard made it convenient to conceal the hoard.
 
 Treasure-trove was treasure which did not have a known owner.
 - Its frequency demonstrates the frequency of hoarding and concealing the board.
@@ -51,13 +51,12 @@ In Book 4, I showed that the sovereign of nations with little commerce and manuf
 - His expence cannot be directed by the vanity in a court's gaudy finery. 
 - The ignorance of the times affords only a few trinkets of that finery.
 - Standing armies are then unnecessary.
-- His expence can be employed only in the= 
+- His expence can be employed only in the:
   - bounty to his tenants
   - hospitality to his retainers
 
 But bounty and hospitality very seldom lead to extravagance, though vanity almost always does. All the ancient European sovereigns accordingly had treasures.
 
-<br>
 
 {{< s v="3" >}} The sovereign of a commercial country rich with luxury naturally spends much of his revenue buying those luxuries. His own country and its neighbours supply him with costly trinkets for his court's insignificant pageantry.
 

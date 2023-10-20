@@ -64,7 +64,7 @@ In some respects, wealth and greatness may be considered as the natural objects 
 The extravagance of a man of fashion is less hated than the extravagance of a man of meaner condition. A single intemperance and impropriety by a man of meaner condition is more resented than the constant intemperance from a man of fashion.
  
 
-32 In the middle and lower ranks, the road to virtue and the road to reasonable fortune are often happily nearly the same. In all the middle and lower professions, success is usually attained by real and solid professional abilities joined to prudent, just, firm, and temperate conduct.
+{{< s v="32" >}} In the middle and lower ranks, the road to virtue and the road to reasonable fortune are often happily nearly the same. In all the middle and lower professions, success is usually attained by real and solid professional abilities joined to prudent, just, firm, and temperate conduct.
 
 Abilities will even sometimes prevail where the conduct is incorrect. Habitual imprudence, injustice, weakness, or wastefulness, will always cloud and sometimes depress the most splendid professional abilities.
 
@@ -89,7 +89,7 @@ All the virtues fit for the council, senate, or the field are held in the utmost
   - The duke, an old warrior and statesman said 'Whenever your majesty's father,consulted me, he ordered the buffoons of the court to retire into the antechamber.'
  
 
-34 The rich and the great can set or lead fashion because of our disposition to admire and consequently to imitate them.
+{{< s v="34" >}} The rich and the great can set or lead fashion because of our disposition to admire and consequently to imitate them.
 - Their dress is the fashionable dress.
 - Their language of conversation is the fashionable style.
 - Their air and deportment is the fashionable behaviour.
@@ -117,7 +117,7 @@ Many poor men place their glory in being thought of as rich. They do not conside
 **In the lower ranks, the road to fortune is through virtue, but in the upper ranks, the road is through vice.**
 
 
-35 The candidates for fortune too frequently abandon virtue to attain this envied situation because the road to fortune is sometimes opposite from the road to virtue.
+{{< s v="35" >}} The candidates for fortune too frequently abandon virtue to attain this envied situation because the road to fortune is sometimes opposite from the road to virtue.
 
 The ambitious man thinks that the lustre of his future conduct will entirely cover the foulness of the steps he used to get there. He flatters himself that while he advances= 
 - he will have so many ways to command mankind's respect, and

@@ -28,11 +28,11 @@ If this tax system raises a revenue of more than £10 million on less than 8 mil
 Supposing that this system could produce this amount, the revenue raised in Ireland and the plantations for defraying the cost of their respective civil governments must be deducted from this revenue.
 
 The cost of the civil and military establishment of Ireland, together with the interest of the public debt, amounts to less than £750,000 a year.
-    This is the average of the two years which ended March 1775.
+- This is the average of the two years which ended March 1775.
 
 Before the start of the present disturbances, the revenue of the principal colonies of America and the West Indies amounted to £141,800.
-    In this account, the revenue of Maryland, North Carolina, and all our recent acquisitions is omitted.
-    We may estimate it to be between £30-40,000.
+- In this account, the revenue of Maryland, North Carolina, and all our recent acquisitions is omitted.
+- We may estimate it to be between £30-40,000.
 
 For the sake of even numbers, let us suppose that the revenue necessary for supporting the civil government of Ireland and the plantations was £1 million.
 

@@ -66,7 +66,7 @@ Strong men feel soreness in their own eyes in looking on the sore eyes of others
 
 {{< s v="6" >}} Sometimes, sympathy may arise merely from seeing another person's emotions. Sometimes, the feelings seem to be transfused from one man to another, instantaneously and without knowing what excited them. For example, when grief and joy are strongly expressed in anyone, the other people are instantly affected with a similar emotion.
 
-7 However, this is not universal with every feeling. There are some feelings which excite no sympathy. We are disgusted at them even before we know what caused them.
+{{< s v="7" >}} However, this is not universal with every feeling. There are some feelings which excite no sympathy. We are disgusted at them even before we know what caused them.
 
 The angry man's fury is more likely to make us angry at him than at his enemies. We do not know his provocation so we cannot= 
 - bring his case home to ourselves, and
@@ -77,32 +77,32 @@ But we see the violence awaiting the people whom he is angry with. We readily=
 - go against the angry man
 
 
-8 Seeing grief and joy in others gives us grief and joy because they suggest that person's good or bad fortune. The effects of grief and joy terminate in the person who feels them. Unlike resentment, they do not give us emotions that target another person. The general idea of good or bad fortune, therefore, creates some concern for the person with that good or bad fortune.
+{{< s v="8" >}} Seeing grief and joy in others gives us grief and joy because they suggest that person's good or bad fortune. The effects of grief and joy terminate in the person who feels them. Unlike resentment, they do not give us emotions that target another person. The general idea of good or bad fortune, therefore, creates some concern for the person with that good or bad fortune.
 
 But the general idea of provocation creates no sympathy with the receiver of that anger. Nature teaches us= 
 - to be more averse to anger and resentment until we know its cause
 - to fight anger.
 
 
-9 Even our sympathy with another person's grief or joy is always extremely imperfect before we know its cause. General lamentations, which express only the sufferer's anguish, make us curious about his situation. It makes us sympathize with him slightly.
+{{< s v="9" >}} Even our sympathy with another person's grief or joy is always extremely imperfect before we know its cause. General lamentations, which express only the sufferer's anguish, make us curious about his situation. It makes us sympathize with him slightly.
 
-Our first is=  What happened?
+Our first is: What happened?
 
 Until this is answered, our fellow-feeling is not very considerable, although we are uneasy from his misfortune.
 
 
-10 **Therefore, sympathy arises more from the situation which excites it.**
+{{< s v="10" >}} **Therefore, sympathy arises more from the situation which excites it.**
 
 We sometimes feel something for another person which he himself does not feel, because such feeling arises in our breast from our imagination [our samskara] when we put ourselves in his case.
 
 We blush for the rudeness of another because we feel ashamed if we had behaved in the same way, even if he did not even know the impropriety of his own behaviour.
 
 
-11 The loss of reason is the most dreadful of all conditions. People have deeper sorrow for a person's loss of reason than any other. But the poor wretch who has no sense of reason, laughs and sings, insensible of his own misery. Our anguish for him, therefore, cannot be the same anguish that he feels.
+{{< s v="11" >}} The loss of reason is the most dreadful of all conditions. People have deeper sorrow for a person's loss of reason than any other. But the poor wretch who has no sense of reason, laughs and sings, insensible of his own misery. Our anguish for him, therefore, cannot be the same anguish that he feels.
 
 The observer's compassion must all arise from his consideration of what he himself would feel if he had the same situation.
 
-12 A mother feels pangs when she hears her baby crying. In her own mind, she joins= 
+{{< s v="12" >}} A mother feels pangs when she hears her baby crying. In her own mind, she joins= 
 - the idea of her baby's helplessness to the baby's actual helplessness
 - that helplessness with her own experience of helplessness
 
@@ -115,7 +115,7 @@ From of all these, she forms the most complete image of misery and distress. The
 
 ### The Dread of Death Arises from Our Sympathy with the Dead
 
-13 We even sympathize with the dead. The real importance in the dead's situation is that awful futurity which awaits them. But we overlook this.
+{{< s v="13" >}} We even sympathize with the dead. The real importance in the dead's situation is that awful futurity which awaits them. But we overlook this.
 
 We instead are affected by those circumstances which strike our senses, even if these circumstances have no influence on the dead's happiness. We think that it is miserable to be= 
 - deprived of sunlight
@@ -134,7 +134,13 @@ Surely, we imagine that we can never feel too much for the dead. Our fellow-feel
 
 ![](/graphics/tms/dead.png)
 
-All these increase our sense of their misery. However, the happiness of the dead, most assuredly, is not affected by these. The thought of these things can never disturb their repose. Our imagination naturally ascribes the idea of endless sadness to the dead. This idea arises from us putting ourselves in the dead person's situation, by us lodging our own living souls into their dead bodies. This gives us the idea that our death is so terrible to us, which then makes us dread death. 
+All these increase our sense of their misery. However, the happiness of the dead, most assuredly, is not affected by these. 
+- The thought of these things can never disturb their repose. 
+
+Our imagination naturally ascribes the idea of endless sadness to the dead. 
+- This idea arises from us putting ourselves in the dead person's situation
+<!-- by us lodging our own living souls into their dead bodies.  -->
+- This gives us the idea that our death is so terrible to us, which then makes us dread death. 
 <!-- This gives us an idea of what our emotions would be if we were to die. -->
 
 The dread of death is one of the most important principles in human nature.

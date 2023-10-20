@@ -10,8 +10,7 @@ icons: /avatars/smith.png
 
 
 
-
-113 Religion affords strong motives to the practice of virtue. It guards us from the temptations of vice through powerful restraints. Many have supposed that religious principles were the sole laudable motives of action. They said that we should not: 
+{{< s v="113" >}} Religion affords strong motives to the practice of virtue. It guards us from the temptations of vice through powerful restraints. Many have supposed that religious principles were the sole laudable motives of action. They said that we should not: 
 - reward from gratitude,
 - punish from resentment,
 - protect our children's helplessness, and
@@ -40,15 +39,17 @@ Christianity has no rule saying that our sense of duty should be our sole princi
 
 When should our actions be guided by a sense of duty to the general rules and when should it be based on our feelings?
 
-114-115 This cannot be accurately answered as it will depend on two circumstances: 
+
+{{< s v="114-115" >}} This cannot be accurately answered as it will depend on two circumstances: 
 1. On the natural beauty or ugliness of the feeling which causes our action, independent of the general rules
 2. On the precision or looseness of the general rules themselves.
 
 <!-- When should our morals be based on rules and when it should be based on our feeling -->
 
+
 ## According to the morality of the action's underlying feeling
 
-116 Our benevolent feelings prompt us to admirable actions. Those actions should proceed as much from those benevolent feelings, as from general rules. A benefactor thinks himself undercompensated, if his beneficiary repays him merely: 
+{{< s v="116" >}} Our benevolent feelings prompt us to admirable actions. Those actions should proceed as much from those benevolent feelings, as from general rules. A benefactor thinks himself undercompensated, if his beneficiary repays him merely: 
 - from a cold sense of duty, and
 - without any affection.
 
@@ -62,15 +63,15 @@ With benevolent and social feelings, it is agreeable to see the sense of duty re
 hindering us from doing too much, instead of prompting us to do what we should -->
 
  
-117 The contrary maxim is applied to the unsocial feelings. 
+{{< s v="117" >}} The contrary maxim is applied to the unsocial feelings. 
 - We should reward from the gratitude and generosity of our own hearts, without reluctance or without thinking how great the propriety of rewarding is.
 - We should always punish reluctantly, and more from a sense of the propriety of punishing, than from any desire for revenge.
 
 It is graceful to see a man resenting the greatest injuries from a sense that the injuries deserve resentment, than from his own resentment. Like a judge, he considers only the general rule which determines the proper vengeance. In executing that rule, he feels less for what he has suffered, than for what the offender is about to suffer. He remembers mercy even if he is angry and interprets the rule in the gentlest way.
 <!-- He alleviates the strength of his vengeance through most candid humanity, consistent with good sense. -->
 
- 
-118 The selfish feelings are in the middle between the social and unsocial affections too. The ordinary pursuit of private interest should come from a regard to the general rules.
+
+{{< s v="118" >}} The selfish feelings are in the middle between the social and unsocial affections too. The ordinary pursuit of private interest should come from a regard to the general rules.
 <!-- , than from any feeling for the objects themselves. -->
 
 <!-- During more important occasions, we would be awkward if the objects did not animate us with much passion. -->
@@ -92,7 +93,7 @@ This is the difference between a miser and an accountant.
 He should show no attention to such small matters, for the sake of the things themselves. -->
 
  
-119 It is otherwise with regard to the more important objects of self-interest. A person appears mean-spirited if he does not pursue these earnestly for their own sake. We should despise a prince who was not anxious about conquering or defending a province. We should have little respect for a private gentleman who did not exert himself to gain an estate or a considerable office, when he could acquire them without meanness or injustice.
+{{< s v="119" >}} It is otherwise with regard to the more important objects of self-interest. A person appears mean-spirited if he does not pursue these earnestly for their own sake. We should despise a prince who was not anxious about conquering or defending a province. We should have little respect for a private gentleman who did not exert himself to gain an estate or a considerable office, when he could acquire them without meanness or injustice.
 
 A parliament member who shows no keenness about his own election is abandoned by his friends. Even a tradesman appears poor-spirited if he does not exert himself to get an extraordinary job or some uncommon advantage. 
 
@@ -106,11 +107,12 @@ Examples are those of the Cardinals of Richlieu and Retz. The objects of avarice
 A miser is as furious about a halfpenny as a man of ambition about the conquest of a kingdom.
  
 
-120
+{{< s v="120" >}} 
 
 2. How far our conduct should proceed from the general rules will depend partly on the accuracy of the general rules themselves.
 
-121 The general rules of almost all the virtues are loose and inaccurate. They have many exceptions and require so many modifications. It is impossible for them to regulate our conduct entirely.
+
+{{< s v="121" >}} The general rules of almost all the virtues are loose and inaccurate. They have many exceptions and require so many modifications. It is impossible for them to regulate our conduct entirely.
 
 The common proverbial maxims of prudence are founded in universal experience. They are perhaps the best general rules which can be given about it. However, it would be absurd to force a very strict adherence to them. The general rules determine what are the offices of prudence, charity, generosity, gratitude, and friendship.
 

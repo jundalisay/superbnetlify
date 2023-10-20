@@ -14,7 +14,7 @@ icons: /avatars/smith.png
 {{< s v="1" >}} In Parts 1 and 2, I explained the origin and foundation of our judgments on the feelings and conduct of others. I will now explain the origin of our judgments on our own feelings and conduct.
  
 
-2 We use sympathy to judge both the conduct of ourselves and that of other people. 
+{{< s v="2" >}} We use sympathy to judge both the conduct of ourselves and that of other people. 
 - We judge another man's conduct according to how we sympathize with his feelings.
 - We judge our own conduct according to how we sympathize with our own feelings from another man's viewpoint.
   - We judge our own feelings by transfering ourselves away from us and then viewing our own feelings and motives from afar
@@ -29,7 +29,7 @@ Our judgment always bears some secret reference to what we imagine would be the 
 
 ### While Public Morals are based on our sympathy with others, Private Morals are based on the sympathy of the Deity on us, through a natural construct called the conscience or an artificial construct called the impartial spectator which is our projection of our ideal self
 
-3 A human who grew up in some solitary place, without any communication with other humans, could not think of: 
+{{< s v="3" >}} A human who grew up in some solitary place, without any communication with other humans, could not think of: 
 - his own character,
 - the morality of his own feelings and actions, and
 - the beauty or ugliness of his own mind, than that of his own face.
@@ -48,8 +48,8 @@ He will observe that mankind approves of some of them and are disgusted by other
 - interest him deeply and
 - often call on his most attentive consideration.
 
- 
-4 Our first ideas of personal beauty are drawn from the appearance of others, not from our own. However, we soon become sensible that others exercise the same criticism on us. We are: 
+
+{{< s v="4" >}} Our first ideas of personal beauty are drawn from the appearance of others, not from our own. However, we soon become sensible that others exercise the same criticism on us. We are: 
 - pleased when they approve of our figure, and
 - disobliged when they are disgusted.
 
@@ -58,7 +58,7 @@ We become anxious to know how far our appearance deserves their blame or approba
 But all such jokes are commonly unsupportable to one who is really deformed. We are anxious about our own beauty and deformity, only because of its effect on others. If we had no connection with society, we would be indifferent about either. The Moral Mirror and the Two I's
 
 
-5 In the same way, our first moral criticisms are exercised on the characters and conduct of others. We are all very forward to observe how each of these affects us. But we soon learn, that other people are equally frank with regard to our own. We become anxious to know:
+{{< s v="5" >}} In the same way, our first moral criticisms are exercised on the characters and conduct of others. We are all very forward to observe how each of these affects us. But we soon learn, that other people are equally frank with regard to our own. We become anxious to know:
 - how far we deserve their censure or applause, and
 - whether we appear as agreeable or disagreeable creatures to them.
 
@@ -73,7 +73,7 @@ We became the spectators of our own behaviour. We try to imagine what effect it 
 Because we are secure that we are the natural and proper objects of approbation, however misunderstood or misrepresented we are. On the contrary, if we are doubtful about our view in the mirror, we are often more anxious to gain their approbation. As long as we are not yet infamous, we are distracted at the thoughts of their censure. This strikes us with double severity.
 
 
-6 I divide myself into two persons when I:
+{{< s v="6" >}} I divide myself into two persons when I:
 - examine my own conduct, and
 - pass sentence on it to approve or condemn it.
 
@@ -84,11 +84,13 @@ I enter into his sentiments regarding my own conduct by:
 
 The second I is myself, the agent and the person judged. I tried to form some opinion of my conduct, under the spectator's character. But it is impossible that the judge should be the same with the person judged of, just as it is impossible that the cause should be the same with the effect.
 
- 
-7 The great characters of virtue are: 
+
+{{< s v="7" >}} The great characters of virtue are: 
 - to be amiable or to deserve love, and
 - to be meritorious or to deserve reward.
 
 The great characters of vice are to be odious and punishable. But all these characters have an immediate reference to the sentiments of others. Virtue is not amiable or meritorious not because it is the object of its own love or own gratitude. 
 
-It is because it excites love and gratitude in other men. The awareness that virtue is the object of such favourable regards, is the source of that inward tranquillity and self-satisfaction which naturally attends it. On the contrary, the suspicion of unfavourable regards creates the torments of vice. What so great happiness as to be beloved, and to know that we deserve to be beloved? What so great misery as to be hated, and to know that we deserve to be hated?
+It is because it excites love and gratitude in other men. The awareness that virtue is the object of such favourable regards, is the source of that inward tranquillity and self-satisfaction which naturally attends it. 
+
+On the contrary, the suspicion of unfavourable regards creates the torments of vice. What so great happiness as to be beloved, and to know that we deserve to be beloved? What so great misery as to be hated, and to know that we deserve to be hated?

@@ -9,7 +9,7 @@ icons: /avatars/smith.png
 ---
 
 
-79 Humanity is a gentle virtue, self-command is an austere virtue.
+{{< s v="79" >}} Humanity is a gentle virtue, self-command is an austere virtue.
 
 Humanity is best cultivated in situations different from those for forming self-command.
 The man who is at ease can best attend to the distress of others.
@@ -52,11 +52,14 @@ too much elated by our own good fortune, and
 too much dejected by our own bad fortune.
 Our friend's conversation brings us to a better temper.
 A stranger's conversation brings us to a still better temper.
+
 The man within the breast is the abstract and ideal spectator of our sentiments and conduct.
 It often requires to be awakened and put in mind of his duty by the presence of the real spectator.
 We are likely to learn the most complete lesson of self-command always from the real spectator.
 We can expect the least sympathy and indulgence from it.
-81 Are you in adversity?
+
+
+{{< s v="81" >}} Are you in adversity?
 
 Do not mourn in the darkness of solitude.
 Do not regulate your sorrow according to the indulgent sympathy of your intimate friends.
@@ -95,6 +98,7 @@ Factions tend to corrupt our moral feelings because it separates us from others
 
 But they are placed so far that they are almost quite out of sight.
 When two nations are in conflict, the citizen of each pays little regard to the feelings of foreign nations on his own conduct.
+
 His whole ambition is to obtain his fellow-citizens' approbation.
 They are all animated by the same hostile passions which animate himself.
 He can please them by enraging and offending their enemies.
@@ -108,15 +112,23 @@ Treaties are violated.
 The advantageous violation does not give any dishonour on the violator.
 The ambassador who dupes a foreign minister is admired and applauded.
 In all private transactions, the just man who disdains to take or give any advantage would be most beloved and esteemed.
+
 In those public transactions he is regarded as: 
-a fool and an idiot, and
-someone who does not understand his business.
+- a fool and an idiot, and
+- someone who does not understand his business.
+
 He always incurs his fellow-citizens' contempt and sometimes their detestation.
+
 In war, the laws of nations are frequently violated without the violator getting any considerable dishonour from his own fellow-citizens.
+
 The violator only regards their judgments.
+
 But most of those laws are laid down with very little regard to the most obvious rules of justice.
+
 One of the most obvious rules of justice is that the innocent should not suffer or be punished for the guilty.
+
 The innocent might be unable to help being somewhat connected or dependent on the guilty.
+
 In the most unjust war, only the rulers are commonly guilty.
 The subjects are almost always perfectly innocent.
 However, whenever it suits a public enemy's convenience, the peaceful citizens' goods are seized at land and sea.
@@ -125,34 +137,43 @@ Their houses are burnt.
 They are murdered or captured if they resist.
 All this conforms perfectly to 'the laws of nations'.
  
-85The animosity of hostile civil or ecclesiastical factions, is often more furious than the animosity of hostile nations.
+
+{{< s v="85" >}} The animosity of hostile civil or ecclesiastical factions, is often more furious than the animosity of hostile nations.
 
 Their conduct towards one another is often more atrocious.
 The laws of faction have often been laid down by grave authors with less regard to the rules of justice than the laws of nations.
+
 The most ferocious patriot never stated it as a serious question, whether faith should be kept with: 
-public enemies?
-rebels?
-heretics?
+- public enemies?
+- rebels?
+- heretics?
+
 These are questions which have been often furiously agitated by celebrated civil and ecclesiastical doctors.
 Rebels and heretics are those unlucky persons who have the misfortune of being the weaker party.
 In a nation distracted by faction, there are very few who preserve their judgment untainted by the contagion.
 They seldom amount to more than a solitary individual here and there.
 He does not have any influence.
+
 He is excluded by his own candour from the confidence of either party.
+
 He is one of the most insignificant men in the society because he might be one of the wisest.
+
 All such people are held in contempt and derision, frequently in detestation, by the furious zealots of both parties.
 A true party-man hates and despises candour.
+
 In reality, the virtue of candour effectively disqualifies him the best for the role of a party-man.
 The real, revered, and impartial spectator, therefore, is at its farthest during the violence and rage of contending parties.
 To them, no such spectator exists anywhere in the universe.
+
 They impute all their own prejudices even to the great Judge of the universe.
 They often view that Divine Being as animated by all their own vindictive and implacable passions.
 Of all the corrupters of moral sentiments, therefore, faction and fanaticism have always been by far the greatest.
- 
-86 Our admiration for the man who continues to be firm under the heaviest and most unexpected misfortunes, always supposes that his sensibility to those misfortunes: 
 
-is very great
-requires a very great effort to command
+
+{{< s v="86" >}} Our admiration for the man who continues to be firm under the heaviest and most unexpected misfortunes, always supposes that his sensibility to those misfortunes: 
+- is very great
+- requires a very great effort to command
+
 The man who was insensible to bodily pain, could deserve no applause from enduring the torture with perfect patience.
 
 The man born without the natural fear of death, could claim no merit from preserving his coolness during the most dreadful dangers.
@@ -161,7 +182,8 @@ The security of the god came from nature, which had exempted Him from suffering.
 But that the security of Seneca was his own benefit.
 It was derived altogether from himself and from his own exertions.
  
-87However, the sensibility of some men to some of the objects which immediately affect themselves, is sometimes so strong as to render all self-command impossible.
+
+{{< s v="87" >}} However, the sensibility of some men to some of the objects which immediately affect themselves, is sometimes so strong as to render all self-command impossible.
 
 No sense of honour can control the fears of the man upon the approach of danger.
 Such weakness of nerves might not be cured by gradual exercise and proper discipline.

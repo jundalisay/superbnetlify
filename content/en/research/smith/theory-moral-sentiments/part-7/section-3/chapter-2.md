@@ -29,11 +29,11 @@ If they would think and speak consistently, self-preservation should teach them 
 - applaud obedience to the civil magistrate, and
 - blame all disobedience and rebellion.,
 
-The very ideas of laudable and blamable should be the same with those of obedience and disobedience. Therefore, the laws of the civil magistrate should be regarded as the sole ultimate standards of what was= 
+The very ideas of laudable and blamable should be the same with those of obedience and disobedience. Therefore, the laws of the civil magistrate should be regarded as the sole ultimate standards of what was:
 - just and unjust
 - right and wrong.
 
-9 Hobbes' goal was to subject the consciences of men immediately to the civil, and not to the ecclesiastical powers. The ecclesiastical powers' turbulence and ambition taught him to regard them as the principal source of society's disorders, by the example of his own times. His doctrine offended Theologians and also all sound moralists. It supposed= 
+{{< s v="9" >}} Hobbes' goal was to subject the consciences of men immediately to the civil, and not to the ecclesiastical powers. The ecclesiastical powers' turbulence and ambition taught him to regard them as the principal source of society's disorders, by the example of his own times. His doctrine offended Theologians and also all sound moralists. It supposed= 
 - that there was no natural distinction between right and wrong, and
 - that these distinctions= 
   - were mutable and changeable, and
@@ -41,9 +41,9 @@ The very ideas of laudable and blamable should be the same with those of obedien
 
 Therefore, his account of things was attacked from all quarters.
 
-10 To confute so odious a doctrine, it was necessary to prove that the mind was naturally endowed with a faculty which it used to distinguish right and wrong, antecedent to human laws.
+{{< s v="10" >}} To confute so odious a doctrine, it was necessary to prove that the mind was naturally endowed with a faculty which it used to distinguish right and wrong, antecedent to human laws.
 
-11 Dr. Cudworth justly observed that laws could not be the original source of those distinctions. Since on the supposition of such a law, it must be= 
+{{< s v="11" >}} Dr. Cudworth justly observed that laws could not be the original source of those distinctions. Since on the supposition of such a law, it must be= 
 - right to obey it and wrong to disobey it, or
 - indifferent whether we obeyed or disobeyed it.
 
@@ -56,7 +56,7 @@ The law cannot be the source of the distinction of right and wrong since it mean
 - that obedience to the law was conformable to the idea of right, and
 - that disobedience to the law, to that of wrong. -->
 
-12 The mind had a notion of those distinctions from reason, before law was created. Reason pointed out the difference between right and wrong in the same way it did for truth and falsehood. 
+{{< s v="12" >}} The mind had a notion of those distinctions from reason, before law was created. Reason pointed out the difference between right and wrong in the same way it did for truth and falsehood. 
 
 When Mr. Hobbes started this controversy, reason was thought the only source for the ideas of right and wrong. It became the popular doctrine that the essence of virtue and vice consisted in their conformity or disagreement with reason. This idea was more easily received at a time when= 
 
@@ -66,8 +66,7 @@ When Mr. Hobbes started this controversy, reason was thought the only source for
 
 <!-- Reason was thus considered as the original source and principle of approbation and disapprobation. -->
 
-
-13 It is true in some respects that virtue consists in conformity to reason. Reason may very justly be the source and principle of morality. It is by reason that we discover= 
+{{< s v="13" >}} It is true in some respects that virtue consists in conformity to reason. Reason may very justly be the source and principle of morality. It is by reason that we discover:
 <!-- = 
 - approbation and disapprobation,
 - of all solid judgments on right and wrong. -->
@@ -81,7 +80,7 @@ Our judgments would be extremely uncertain if they all depended on immediate fee
 <!-- They are capable of being altered by the different states of health and humour.  -->
 <!-- Reason may be considered as the source and principle of approbation and disapprobation. -->
 
-14 Reason is the source of= 
+{{< s v="14" >}}  Reason is the source of: 
 - the general rules of morality and
 - all the moral judgments which we form by means of them
 
@@ -98,16 +97,16 @@ But reason cannot render any object agreeable or disagreeable to the mind for it
 <!-- If virtue pleases and vice displeases for their own sakes, it is  -->
 
 
-15 Pleasure and pain are the great objects of desire and aversion. But these are distinguished by feeling and not by reason. Therefore, if virtue is desirable and vice detestable for their own sakes, then it is our immediate sense and feeling, not our reason, which originally distinguishes those qualities.
+{{< s v="15" >}}  Pleasure and pain are the great objects of desire and aversion. But these are distinguished by feeling and not by reason. Therefore, if virtue is desirable and vice detestable for their own sakes, then it is our immediate sense and feeling, not our reason, which originally distinguishes those qualities.
 
 
-16 In a certain sense, reason may justly be the principle of approbation and disapprobation. Through inattention, however, these sentiments were long regarded as originally flowing from reason. Dr. Hutcheson was the first to precisely distinguish how all moral distinctions= 
+{{< s v="16" >}} In a certain sense, reason may justly be the principle of approbation and disapprobation. Through inattention, however, these sentiments were long regarded as originally flowing from reason. Dr. Hutcheson was the first to precisely distinguish how all moral distinctions= 
 - may arise from reason, and
 - are founded on immediate sense and feeling.
 
 He has explained this so fully and unanswerably in his illustrations on the moral sense.
 
-Any controversy in this can only be imputed to= 
+Any controversy in this can only be imputed to:
 - inattention to what he has written, or
 - a superstitious attachment to certain forms of expression.
 

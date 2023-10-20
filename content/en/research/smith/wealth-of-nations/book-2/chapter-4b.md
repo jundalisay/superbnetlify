@@ -11,7 +11,7 @@ icon: /avatars/smith.png
 
 
 
-{{< s v="7" >}} The monied interest naturally increases with the increase in the circulating capital in a country. <!-- the produce destined for replacing the capital in any country. -->
+{{< s v="7" >}} The monied interest naturally increases with the increase in the circulating capital in a country.
 - The increase of those capitals for lending naturally accompanies the increase of the capitals.
 
 In other words, as stock increases, the amount of stock to be lent at interest gradually grows.
@@ -65,6 +65,7 @@ By altering the rate, on the contrary, the proportion between those two values i
 If 100 pounds now are equal to 50 pounds then, 5 pounds now must be equal to 2 pounds 10 shillings then.
 By reducing the interest rate from 10% to 5%, the interest rate in using capital which is reduced to half of its value, is reduced to 1/4 of its former value of 2.5 pounds.
 
+
 {{< s v="11" >}} Any increase in the quantity of silver, while the commodities circulated by it remained the same, only diminishes the value of silver.
 
 The nominal value of all goods would be greater.
@@ -75,12 +76,15 @@ But the quantity of labour they commanded and the number of people they could ma
 The capital of the country would be the same
 More physical money might be needed to convey commodities from one hand to another.
 The deeds of assignment, like the conveyances of a verbose attorney, would be more cumbersome.
+
 But the thing assigned would be precisely the same.
 The funds for maintaining productive labour would be the same.
 The demand for productive labour would would be the same.
+
 Its wages would be nominally greater but would have the same real value.
 Wages are commonly computed by the quantity of silver paid to the labourer.
 They would be paid in more pieces of silver.
+
 Wages would appear to increase.
 
 But those pieces would buy the same quantity of goods as before.

@@ -12,7 +12,7 @@ description: "According to Hobbes, man takes refuge in society not by any natura
 
 ## Introduction
 
-1 After the inquiry on the nature of virtue, the next important question in Moral Philosophy is about the principle of approbation. 
+{{< s v="1" >}} After the inquiry on the nature of virtue, the next important question in Moral Philosophy is about the principle of approbation. 
 
 The principle of approbation is the power of the mind which renders certain characters agreeable or disagreeable to us. It makes us= 
 - prefer one tenour of conduct to another,
@@ -20,7 +20,8 @@ The principle of approbation is the power of the mind which renders certain char
 - consider the one kind of conduct as the object of approbation, honour, and reward, and
 - consider the other kind of conduct as the object of blame, censure, and punishment.
 
-2 Three accounts have been given of this principle of approbation. 
+
+{{< s v="2" >}} Three accounts have been given of this principle of approbation. 
 
 1. According to some, we approve and disapprove of actions of ourselves and of others, from self-love only. It is from some view of the tendency of self-love to our own happiness or disadvantage. 
 2. According to others, reason enables us to distinguish between what is fit and unfit in actions and affections. Reason is the faculty by which we distinguish between truth and falsehood. 
@@ -31,13 +32,13 @@ Therefore, the three sources for the principle of approbation are=
 2. Reason
 3. Sentiment
  
- 
-3 The determination of approbation is most important in speculation, but is not important in practice. The question on the nature of virtue has some influence on our notions of right and wrong in many cases. The question on the principle of approbation does not. From what mechanism those notions or sentiments arise is a mere matter of philosophical curiosity.
+
+{{< s v="3" >}} The determination of approbation is most important in speculation, but is not important in practice. The question on the nature of virtue has some influence on our notions of right and wrong in many cases. The question on the principle of approbation does not. From what mechanism those notions or sentiments arise is a mere matter of philosophical curiosity.
 
 
 ### Systems which Deduce the Principle of Approbation from Self-love
 
-4 Those who say that morality comes from self-love, do not all account for it in the same way. 
+{{< s v="4" >}} Those who say that morality comes from self-love, do not all account for it in the same way. 
 - There is much confusion and inaccuracy in their systems. 
 
 According to Mr. Hobbes, man takes refuge in society not by any natural love for humans, but because he cannnot live easily without the aid of others.
@@ -46,8 +47,7 @@ Society becomes necessary to him. He considers whatever tends to its support and
 
 Therefore, virtue is agreeable and vice is offensive to every man. From virtue, he foresees the prosperity of society. From vice, he foresees its ruin and disorder.
 
- 
-5 When we consider it philosophically= 
+{{< s v="5" >}} When we consider it philosophically:
 - the tendency of virtue to promote society's order reflects a very great beauty on virtue
 - the tendency of vice to disturb it reflects a very great deformity on vice
 - human society appears like a great, immense machine.
@@ -65,8 +65,7 @@ This system derives its probability from utility. The reader is charmed with the
 
 The reader sees plainly a new beauty in virtue and a new deformity in vice which he never noticed before. He is commonly so delighted with the discovery. He seldom reflects that this newly discovered political view cannot possibly be the ground of morality which he always uses to consider vice and virtue.
 
- 
-6 Those authors deduced that self-love is the cause for= 
+{{< s v="6" >}} Those authors deduced that self-love is the cause for:
 - our interest for society's welfare and
 - our esteem for virtue
 
@@ -82,8 +81,7 @@ According to those philosophers, we esteemed Cato and blamed Catiline not becaus
 
 In short, those authors were groping about an idea which they were never able to unfold distinctly. This idea was the indirect sympathy we feel with the beneficiary's gratitude or the sufferer's resentment. They pointed at this indistinctly when they said that it was not the thought of what we gained or suffered which prompted our applause or indignation, but the conception of what we might gain or suffer if we acted with such associates.
 
- 
-7 However, sympathy cannot be regarded as a selfish principle in any sense. When I sympathize with your sorrow, I might pretend that my feeling is founded in self-love, because it arises from= 
+{{< s v="7" >}} However, sympathy cannot be regarded as a selfish principle in any sense. When I sympathize with your sorrow, I might pretend that my feeling is founded in self-love, because it arises from:
 - bringing your case home to myself,
 - putting myself in your situation, and
 - conceiving what I should feel in the like circumstances.

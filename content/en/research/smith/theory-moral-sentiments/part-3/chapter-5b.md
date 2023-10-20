@@ -10,7 +10,7 @@ icons: /avatars/smith.png
 
 
 
-108 The general rules which distribute prosperity and adversity are perfectly suited to mankind's situation. Yet they are not suited to some of our natural feelings.
+{{< s v="108" >}}  The general rules which distribute prosperity and adversity are perfectly suited to mankind's situation. Yet they are not suited to some of our natural feelings.
 
 We naturally love some virtues so much that we want to give them honours.
 On the contrary, we detest some vices so much that we want to give them every disgrace.
@@ -49,17 +49,20 @@ She pays little regard to merit and demerit bestowed by people's feelings.
 On the contrary, man pays regard to merit and demerit only.
 
 He would try to: 
-render the state of every virtue precisely proportional to that degree of love and esteem, and
-render the state of every vice proportional to that degree of contempt and abhorrence he conceives for it.
+- render the state of every virtue precisely proportional to that degree of love and esteem, and
+- render the state of every vice proportional to that degree of contempt and abhorrence he conceives for it.
+
 The rules which Nature follows are fit for her.
 Those which man follows are fit for him.
+
 But both are calculated to promote the same great end: 
-the order of the world, and
-the perfection and happiness of human nature.
+- the order of the world, and
+- the perfection and happiness of human nature.
  
 Humans should always make a moral effort to correc the mistakes of Nature which disregards merit and demerit
 
-109 Man is thus employed to change that distribution of things which natural events would make if left to themselves.
+
+{{< s v="109" >}} Man is thus employed to change that distribution of things which natural events would make if left to themselves.
 
 Like the gods of the poets, he is perpetually extraordinarily interposing: 
 - in favour of virtue, and
@@ -103,7 +106,8 @@ Thus we are led to the belief of a future state by human nature's:
   - the love of virtue, and
   - the abhorrence of vice and injustice.
  
-110 Jean-Baptiste Massillon was the philosophical bishop of Clermont
+
+{{< s v="110" >}} Jean-Baptiste Massillon was the philosophical bishop of Clermont
 
 He says passionately: 
 'Does it suit God's greatness to leave his created world in so universal a disorder?
@@ -133,7 +137,8 @@ You would then be no more than an indolent and fantastical tyrant, who:
 sacrifices mankind to his insolent vanity, and
 has brought them out of nothing, only to make them serve for the sport of his leisure and caprice.'
  
-111 The All-powerful Being: 
+
+{{< s v="111" >}} The All-powerful Being: 
 - watches over our conduct
 - will reward the observance of his laws in a life to come
 - punish their breach
@@ -151,7 +156,8 @@ However, we may escape men's observations or be placed beyond the reach of human
 
 This motive can restrain the most headstrong passions in people who have constantly reflected and become familiar to them.
  
-112 This is how religion enforces the natural sense of duty.
+
+{{< s v="112" >}} This is how religion enforces the natural sense of duty.
 
 Hence, mankind generally places great confidence in the probity of religious people.
 They imagine that the religious act under an additional tie, besides those which regulate the conduct of other men.
@@ -170,11 +176,11 @@ Thus, a greater trust is reposed in his conduct's regularity and exactness.
 The world undoubtedly judges right.
 
 It justly places a double confidence in the rectitude of the religious man's behaviour: 
-wherever the natural principles of religion are not corrupted by the factious and party zeal of some worthless cabal,
-wherever the first duty required by religion is to fulfill all the obligations of morality, and
-wherever men are not taught to: 
-regard frivolous observances as more immediate duties of religion, than acts of justice and beneficence
-imagine they can bargain with the Deity for fraud, and perfidy, and violence through: 
-- sacrifices
-- ceremonies
-- vain supplications
+- wherever the natural principles of religion are not corrupted by the factious and party zeal of some worthless cabal,
+- wherever the first duty required by religion is to fulfill all the obligations of morality, and
+- wherever men are not taught to: 
+  - regard frivolous observances as more immediate duties of religion, than acts of justice and beneficence
+  - imagine they can bargain with the Deity for fraud, and perfidy, and violence through: 
+    - sacrifices
+    - ceremonies
+    - vain supplications

@@ -13,7 +13,8 @@ icon: /avatars/smith.png
 
 ### Romantic love is natural but is not commonly expressed because it might be odious or ridiculous
 
-15 The habitual feelings from the imagination are perfectly natural. But they are little sympathized with because other people might not have the same habits to be able to sympathize with them. Thus, such passions are always somewhat ridiculous.
+{{< s v="15" >}} The habitual feelings from the imagination are perfectly natural. But they are little sympathized with because other people might not have the same habits to be able to sympathize with them. 
+- Thus, such passions are always somewhat ridiculous.
 
 An example is strong romantic attachment. We are unable to imagine what lovers experience, so we are not as eager as they are.
 
@@ -33,7 +34,7 @@ We only care about his love in this way, because this is the only way we can see
  -->
 
 
-16 Despite this, we might have felt romantic love before and so we readily enter into= 
+{{< s v="16" >}} Despite this, we might have felt romantic love before and so we readily enter into= 
 - his hopes for the gratification of his romance, and
 - his distress from its disappointment.
 
@@ -61,14 +62,14 @@ This desire mixes with romantic love
   - We thus enter into the lover's anxiety, concern, and distress.
 
 
-17 Hence, in some modern tragedies and romances, this love appears so interesting.
+{{< s v="17" >}} Hence, in some modern tragedies and romances, this love appears so interesting.
 
 The distress of the love between Castalio and Monimia interests us in the tragedy The Orphan. If those two lovers were perfectly secure in their love for each other, it would excite laughter, not sympathy.
 <!-- It is always improper to admit this scene into a tragedy.
 It is only acceptable from the concern for the dangers and difficulties which the audience foresees will come to it. -->
 
 
-18 The laws of society impose a reserve on women which renders love more distressful to them. This makes it more interesting.
+{{< s v="18" >}} The laws of society impose a reserve on women which renders love more distressful to them. This makes it more interesting.
 
 We are charmed with the love of Phaedra, despite all its extravagance and guilt. That very extravagance and guilt recommends it to us.
 - Her fear, shame, remorse, horror, despair, become more natural and interesting.
@@ -76,7 +77,7 @@ We are charmed with the love of Phaedra, despite all its extravagance and guilt.
   - This lets us sympathize with her secondary passions.
  
 
-19 Of all the passions which are so disproportioned to the value of their objects, romantic love is the only one that is agreeable.
+{{< s v="19" >}} Of all the passions which are so disproportioned to the value of their objects, romantic love is the only one that is agreeable.
 
 Romantic love in itself is not naturally odious, even if it may be ridiculous.
 - Its consequences are often fatal and dreadful, but its intentions are seldom mischievous.
@@ -93,6 +94,6 @@ Despite all this, romantic love is supposed to be accompanied by sensibility and
   - They are fond of appearing capable of feeling such sensibility and generosity.
 
 
-20 Because of this, a certain reserve is necessary when we talk of our own friends, our own studies, or our own professions. All these do not interest our friends in the same degree that they interest us.
+{{< s v="20" >}} Because of this, a certain reserve is necessary when we talk of our own friends, our own studies, or our own professions. All these do not interest our friends in the same degree that they interest us.
 
 It is because of the lack of this reserve, that half of mankind make bad company to the other. A philosopher is company only to a small club of philosophers.

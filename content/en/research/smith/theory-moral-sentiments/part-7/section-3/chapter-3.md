@@ -9,9 +9,10 @@ description: "Moral systems based on feelings can be divided into 2 classes"
 ---
 
 
-1-17 Moral systems based on feelings can be divided into 2 classes.
+{{< s v="1-17" >}} Moral systems based on feelings can be divided into 2 classes.
 
-18 
+
+{{< s v="18" >}}  
 
 > 1. Some think that the principle of approbation is founded on a particular faculty of perception.
 
@@ -21,7 +22,8 @@ This is exerted by the mind at the view of actions or affections.
 
 This feeling is called a **moral sense**. It is of a peculiar nature, distinct from every other and is the effect of a particular power of perception.
  
-19 
+
+{{< s v="19" >}}
 
 > 2. Others think that morality is not based on a moral sense, but on the fact that nature acts with the strictest economy all the time.
 
@@ -33,7 +35,7 @@ They think the mind is sufficient to account for all the effects ascribed to sym
 
 ## The Moral Sense
 
-20 I. Dr. Hutcheson took great pains to prove that morality came from a moral sense and not from self-love nor reason.
+{{< s v="20" >}} I. Dr. Hutcheson took great pains to prove that morality came from a moral sense and not from self-love nor reason.
 
 <!-- He also demonstrated that it could not arise from reason.
 He thought that nothing remained but to suppose it to be a peculiar kind of faculty. -->
@@ -41,15 +43,16 @@ He thought that nothing remained but to suppose it to be a peculiar kind of facu
 But he only arrived at such a moral sense because he took morality away from self-love and reason. This led him to say that Nature endowed the human mind with this faculty. <!--  to produce this one important effect. -->
 <!-- When  were excluded, he did not know any other known faculty of the mind to answer this purpose. -->
  
-21 <!-- He called this new power of perception a moral sense. --> He supposed this moral sense to be analogous to the external senses. 
+{{< s v="21" >}}  <!-- He called this new power of perception a moral sense. --> He supposed this moral sense to be analogous to the external senses. 
 
 - Our external senses give us an idea of an object's sound, taste, smell, and colour.
 - This moral sense, to Hutcheson, gives us an idea of an action's virtue or vice, propriety or impropriety. 
 <!-- in a certain way, the human mind's various affections appear to be=  -->
 <!-- - amiable and odious,
 right and wrong. -->
- 
-22 According to this system, the mind derives all its simple ideas from two kinds of senses= 
+
+
+{{< s v="22" >}}  According to this system, the mind derives all its simple ideas from two kinds of senses= 
 
 > 1. The direct or antecedent senses
 
@@ -67,19 +70,20 @@ According to Dr. Hutcheson, the faculty which Mr. Locke called reflection, and f
 That faculty by which we perceived the beauty or deformity, the virtue or vice of those passions and emotions, was a reflex, internal sense.
 
 
-23 Dr. Hutcheson tried to support this doctrine by showing= 
+{{< s v="23" >}} Dr. Hutcheson tried to support this doctrine by showing:
 - that it was agreeable to the analogy of nature, and
-- that the mind had other reflex senses exactly similar to the moral sense, such as= 
+- that the mind had other reflex senses exactly similar to the moral sense, such as: 
   - a sense of beauty in external objects,
   - a public sense, by which we sympathize with others,
   - a sense of shame and honour, and
   - a sense of ridicule.
  
-24 But despite all his efforts to prove that morality is based in a moral sense, he acknowledges some refutations to this doctrine.
+
+{{< s v="24" >}} But despite all his efforts to prove that morality is based in a moral sense, he acknowledges some refutations to this doctrine.
 
 He allows the qualities which belong to the objects of any sense, cannot be ascribed to the sense itself, without the greatest absurdity.
 
-There is no sense for= 
+There is no sense for:
 - black or white,
 - loud or not loud, or
 - sweet or bitter
@@ -97,8 +101,8 @@ It would be strange for a person to see=
 <!-- It would be as strange, surprising, and unnatural in itself.
 But it could not be denominated vicious or morally evil without the greatest absurdity. -->
 
- 
-25 If we saw any man loudly applauding a barbarous execution ordered by a tyrant, we would regard him as most morally evil, even if his applause only showed that his moral faculties were depraved as to see a horrid action as something noble and magnanimous. The tyrant would even be more excusable.
+
+{{< s v="25" >}} If we saw any man loudly applauding a barbarous execution ordered by a tyrant, we would regard him as most morally evil, even if his applause only showed that his moral faculties were depraved as to see a horrid action as something noble and magnanimous. The tyrant would even be more excusable.
 
 <!-- I imagine that our heart would forget its sympathy with the sufferer for a while.
 We would feel only horror and detestation, at the thought of so execrable a wretch.
@@ -108,23 +112,29 @@ We should abominate him even more than the tyrant who might be goaded on by the 
 It would therefore be perfectly detestable.
 Our hearts would reject this perversion of sentiment with the most hatred and indignation.
 We would consider his mind as the very last and most dreadful stage of moral depravity. -->
- 
-26 On the contrary, correct moral sentiments naturally appear laudable and morally good in some degree.
+
+
+{{< s v="26" >}} On the contrary, correct moral sentiments naturally appear laudable and morally good in some degree.
 
 A man whose censure and applause are always very accurately suited to the object even seems to deserve moral approbation. 
 We admire his moral sentiments' delicate precision.
 They lead our own judgments.
 They even excite our wonder and applause because of their uncommon and surprising justness.
+
 We cannot be always sure that such a person's conduct would correspond to the precision of his judgments on the conduct of others.
+
 Virtue requires habit and resolution of mind, as well as delicacy of sentiment.
+
 Unfortunately, the habit and resolution are sometimes lacking where delicacy is most perfect.
+
 This disposition of mind may sometimes have imperfections.
 However, it is not grossly criminal.
+
 It is the happiest foundation on which the superstructure of perfect virtue can be built.
 Many men mean very well and seriously do their duty, despite the coarseness of their moral sentiments.
 
 
-27 The principle of approbation is not founded on any power of perception analogous to the external senses.
+{{< s v="27" >}} The principle of approbation is not founded on any power of perception analogous to the external senses.
 
 However, it may still be founded on a peculiar sentiment which answers only this one particular purpose.
 It may be pretended that approbation and disapprobation are feelings which arise in the mind on the view of characters and actions.
@@ -133,42 +143,53 @@ Gratitude may be called a sense of benefits.
 These may very properly receive the name of a sense of right and wrong, or of a moral sense.
 
  
-28 This is not liable to the same objections as the objections against the previous moral sense.
+{{< s v="28" >}} This is not liable to the same objections as the objections against the previous moral sense.
 
 However, it is exposed to other objections equally unanswerable.
 
 
-29 The variations of any emotion still keeps the general features of the main emotion.
+{{< s v="29" >}}  The variations of any emotion still keeps the general features of the main emotion.
 
 These general features are always more striking than any of its variations.
 Thus, anger is a particular kind of emotion.
+
 Its general features are always more distinguishable than all its variations.
 Anger against a man is somewhat different from anger against a woman.
 Anger against a woman is again different from anger against a child.
+
 In each of those three cases, the general passion of anger is modified by its object.
 This is easily observable by the attentive.
+
 A very delicate attention is needed to discover their variations.
 Everybody notices the general features.
 Nobody observes their variations.
+
 Therefore, if approbation and disapprobation were distinct kinds of emotions like gratitude and resentment, they should retain their general features in all their variations.
 Those general features mark it as such a particular kind of emotion, clear, plain, and easily distinguishable.
 But in fact, it happens quite otherwise.
+
 If we attend to what we really feel when we approve or disapprove, we shall find that= 
 our emotion in one case is often totally different from that in another, and
 no common features can be discovered between them.
+
 Thus, our approbation on a tender, delicate, and humane sentiment, is quite different from our approbation of a great, daring, and magnanimous sentiment.
 Our approbation of both may be perfect on different occasions.
 We are softened by the one and elevated by the other.
 There is no resemblance between the emotions they excite in us.
 But according to the system that I have been trying to establish, this must be the case.
+
 In those two cases, the emotions of the person we approve of are opposite.
 Our approbation arises from sympathy with those opposite emotions.
 What we feel on one occasion cannot resemble what we feel on the other.
-This could not happen if approbation= 
-arose from a view of the sentiments it observes, like any other passion arises from the view of its object, and
-consisted in a peculiar emotion which had nothing in common with the sentiments we approved of.
+
+This could not happen if approbation:
+- arose from a view of the sentiments it observes, like any other passion arises from the view of its object, and
+- consisted in a peculiar emotion which had nothing in common with the sentiments we approved of.
+
 The same thing is true with regard to disapprobation.
+
 Our horror for cruelty does not resemble our contempt for mean-spiritedness.
+
 We feel a different kind of discord from those two vices, between our mind and the mind of the person having those sentiments.
  
 
@@ -219,7 +240,7 @@ Our conscience shows our awareness in acting to the directions of a moral sense,
 Those feelings have made themselves considerable enough to get names such as 'love', 'hatred', 'sorrow', etc. It is surprising that the sovereign of them has been so little heeded, that only a few philosophers have given it a name.
  
 
-32 According to my system, our moral opinion is based on our feelings which are then derived from four sources= 
+{{< s v="32" >}} According to my system, our moral opinion is based on our feelings which are then derived from four sources= 
 
 1. From our sympathy with the **actor's motives** [This is the first law of value in Supereconomics]
 

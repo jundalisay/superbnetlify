@@ -31,7 +31,7 @@ But the division is:
 - has been much less observed.
 
 
-3 An example of a very trifling manufacture is pin-making. The division of labour in it= 
+{{< s v="3" >}} An example of a very trifling manufacture is pin-making. The division of labour in it= 
 - has been noticed very often, and
 - has made pin-making a distinct trade.
 

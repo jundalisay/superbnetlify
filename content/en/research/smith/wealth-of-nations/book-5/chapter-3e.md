@@ -10,21 +10,25 @@ author: Adam Smith
 
 
 
-{{< s v="45" >}} During Mr. Pelham's prudent and truly patriotic administration [1743-1754], the interest of the public debt was reduced from 4% to 3%.
+{{< s v="45" >}} During Mr. Pelham's prudent and patriotic administration [1743-1754]:
+- the interest of the public debt was reduced from 4% to 3%.
+- the sinking fund was increased 
+- some of the public debt was paid off. 
 
-The sinking fund was increased and some part of the public debt was paid off. In 1755, before the recent war, the funded debt of Great Britain was £72,289,673.
 
-On January 5, 1763, at the conclusion of the peace, the funded debt was £122,603,336.
-- The unfunded debt was £13,927,589.
-- But the expence created by the war did not end with the conclusion of the peace.
+Date | Funded Debt | Unfunded Debt
+--- | --- | ---
+1755 before the recent war | £72,289,673 | 
+January 5, 1763 after peace | £122,603,336 | £13,927,589
 
-On January 5, 1764, the funded debt was increased partly by:
-- a new loan,
-- funding a part of the unfunded debt
+The expence created by the war did not end with the peace.
 
-The funded debt rose to £129,586,789.
+The author of the Considerations on the Trade and Finances of Great Britain made an account:
 
-According to the author of the Considerations on the Trade and Finances of Great Britain, there still remained an unfunded debt of £9,975,017.
+Date | Funded Debt | Unfunded Debt | Notes
+--- | --- | --- | ---
+January 5, 1764 | £129,586,789 | £9,975,017 | Increased by a new loan funding a part of the unfunded debt
+
 
 According to him, Great Britain's total public debt in 1764 was £139,516,807.
 The annuities for lives granted as premiums to the subscribers to the new loans in 1757, estimated at 14 years purchase, were valued at £472,500.

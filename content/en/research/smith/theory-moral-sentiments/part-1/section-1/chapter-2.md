@@ -25,7 +25,7 @@ Pain and pleasure are always felt instantly. **But neither of them are derived f
 
 <!-- #### Marginal Utility  -->
 
-15 His pleasure does not all arise from a sympathy with their amusement. His pain does not all arise from his disappointment when they do not laugh. 
+{{< s v="15" >}} His pleasure does not all arise from a sympathy with their amusement. His pain does not all arise from his disappointment when they do not laugh. 
 <!-- - Though both the added vivacity and the disappointment contribute to his pleasure and pain. -->
 
 After we have read a book so often, we can no longer enjoy reading it by ourselves. However, we can still enjoy reading it to a companion.
@@ -60,7 +60,7 @@ But his amusement or nonamusement at the book is not the sole cause of our pleas
 - We are more shocked by the lack of sympathy.
 
 
-17 We are relieved when we find someone we can communicate our sorrow to.
+{{< s v="17" >}} We are relieved when we find someone we can communicate our sorrow to.
 - We disburden some of our distress upon his sympathy.
 - He shares our distress and feels a same kind of sorrow which we feel.
   - The sorrow he feels alleviates the weight that we feel.
@@ -77,7 +77,7 @@ On the contrary, the cruelest insult makes fun of our calamities.
 - But it is a gross inhumanity for him not to be serious when they tell him of their afflictions.
 
 
-18 Love is an agreeable passion. Resentment is a disagreeable passion.
+{{< s v="18" >}}  Love is an agreeable passion. Resentment is a disagreeable passion.
 
 It is alright for our friends not to like what we like. But we expect them to resent what we resent.
 
@@ -89,7 +89,7 @@ They can avoid being friends to our other friends. But they can hardly avoid bei
 Love and joy can satisfy the heart alone, but grief and resentment require sympathy more strongly .
 
 
-19 People are pleased with our sympathy and hurt by lack of it. We are pleased when we are able to sympathize with him.
+{{< s v="19" >}} People are pleased with our sympathy and hurt by lack of it. We are pleased when we are able to sympathize with him.
 
 <!--         We are hurt when we are unable to do so.
         We congratulate the successful.

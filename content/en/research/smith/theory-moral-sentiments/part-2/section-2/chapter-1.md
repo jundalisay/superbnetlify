@@ -13,15 +13,15 @@ description: "Beneficence, Resentment, Justice, Revenge"
 
 ## Beneficence cannot be extorted by force, but justice can
 
-1 Only beneficent actions from proper motives seem to require reward because only such actions: 
+{{< s v="1" >}} Only beneficent actions from proper motives seem to require reward because only such actions: 
 - are the approved objects of gratitude, or
 - excite the observer's sympathetic gratitude.
 
-2 Only hurtful actions from improper motives seem to deserve punishment because only such actions: 
+{{< s v="2" >}} Only hurtful actions from improper motives seem to deserve punishment because only such actions: 
 - are the approved objects of resentment, or
 - excite the observer's sympathetic resentment.
 
-3 Beneficence is always free. It cannot be extorted by force. A lack of beneficence might be disliked or resented, but it is not punished because it does not create a new evil. 
+{{< s v="3" >}} Beneficence is always free. It cannot be extorted by force. A lack of beneficence might be disliked or resented, but it is not punished because it does not create a new evil. 
 
 <!-- Its mere lack exposes to no punishment because the mere lack of beneficence . --> 
 <!--  expected good. It might justly excite  and disapprobation.
@@ -48,7 +48,7 @@ Of all the duties of beneficence, the duties of gratitude are the closest to a '
 We talk of the debt of gratitude, but not of a debt of friendship, debt of charity, or debt of  generosity.
 
 
-4 Resentment seems to have been given us by nature only for defence. It is the safeguard of justice and the security of innocence. It prompts us to: 
+{{< s v="4" >}} Resentment seems to have been given us by nature only for defence. It is the safeguard of justice and the security of innocence. It prompts us to: 
 - beat off the mischief attempted on us
 - retaliate that which is already done so that: 
   - the offender will repent
@@ -60,7 +60,7 @@ Thus, resentment should only be used for these purposes.
 <!-- But the mere lack of the beneficent virtues does not do any mischief which we should defend ourselves from. But this lack may disappoint us of the good which we expect. -->
  
 
-5 However, there is another virtue called justice which is not left to our own wills. It may be extorted by force. Its violation exposes to resentment, and consequently to punishment.
+{{< s v="5" >}} However, there is another virtue called justice which is not left to our own wills. It may be extorted by force. Its violation exposes to resentment, and consequently to punishment.
 
 The violation of justice is injury -- it does new and real hurt from motives disapproved of. Injusty therefore is the proper object of resentment and punishment, which is the natural consequence of resentment.
 
@@ -82,7 +82,7 @@ we feel to be under a stricter obligation to act according to justice, than to f
 {{< /q >}}
 
 
-6 However, we must always carefully distinguish what is only blamable from what is punishable<!-- or preventable -->.
+{{< s v="6" >}} However, we must always carefully distinguish what is only blamable from what is punishable<!-- or preventable -->.
 
 - An action is blamable if it falls short of the ordinary beneficence which we expect from equals. A praise-worthy person is someone who surprises us by extraordinary and unexpected kindness.
 <!--  of everybody, by experience. --> 
@@ -93,7 +93,7 @@ The ordinary degree itself is neither blamable nor praise-worthy.
 <!-- A father, son, or brother, who behaves among each other in the same way as other people do, do not deserve praise nor blame. -->
 
 
-7 However, even ordinary kindness cannot be extorted by force.
+{{< s v="7" >}} However, even ordinary kindness cannot be extorted by force.
 
 Before the creation of governments, each individual has a natural right to: 
 - defend himself from injuries and 
@@ -117,9 +117,10 @@ But nobody thinks that the unloved son or the hungry people have any right to ex
 
 <!-- Upon all such occasions, it would be the most insolent and presumptuous for equals to use force against one another. -->
 
+
 ### Kindness Can be Imposed by the State
 
-8 A superior can <!-- may sometimes, with universal approbation, --> oblige those under him to behave properly with each another.
+{{< s v="8" >}} A superior can <!-- may sometimes, with universal approbation, --> oblige those under him to behave properly with each another.
 
 The laws of civilized nations oblige: 
 - parents to maintain their children, and
@@ -146,7 +147,7 @@ Of all the lawgiver's duties, this requires the greatest delicacy and reserve to
 - If too far, it destroys liberty, security, and justice.
 
 
-9 The lack of beneficence seems to merit no punishment, but the greater exertions of beneficence appear to deserve the highest reward. 
+{{< s v="9" >}} The lack of beneficence seems to merit no punishment, but the greater exertions of beneficence appear to deserve the highest reward. 
 
 <!-- By being productive of the greatest good, they are the natural and approved objects of the liveliest gratitude. On the contrary, the breach of justice exposes one to punishment. -->
 
@@ -160,7 +161,7 @@ Usually, justice is just a negative virtue which hinders us from hurting others.
 - his equals can force him to do with propriety, or
 - they can punish him for not doing -->
 
-10 Retaliation is the great law dictated to us by Nature. 
+{{< s v="10" >}} Retaliation is the great law dictated to us by Nature. 
 
 <!-- We think that those whose hearts never open to the feelings of humanity should be: 
 - shut out from the feelings of fellow-humans, and

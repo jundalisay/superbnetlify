@@ -10,33 +10,38 @@ icons: /avatars/smith.png
 
 
 
-
-100 The sense of duty is the regard to the general rules of conduct.
+{{< s v="100" >}} The sense of duty is the regard to the general rules of conduct.
 
 It is a principle of the greatest consequence in human life.
 It is the only principle by which most of mankind can direct their actions.
 Many men behave very decently.
+
 They perhaps never felt the sentiment on propriety.
 They might have acted merely from a regard to the established rules of behaviour.
 The man who has received great benefits from another person may feel just a small gratitude.
+
 However, if he has been virtuously educated, he will often have been made to observe: 
-how odious ungrateful actions are, and
-how amiable grateful actions are
+- how odious ungrateful actions are, and
+- how amiable grateful actions are
 
 Though his heart is not warmed with any grateful affection, he will strive to act as if it were.
 
 He will try to pay all those regards and attentions to his patron with the liveliest gratitude.
+
 He will visit him regularly.
+
 He will behave to him respectfully.
+
 He will only talk of him:
 - with the highest esteem, and
 - of the many obligations which he owes to him.
 
 He will carefully embrace every opportunity of making a proper return for past services.
+
 He may do all this too without any: 
-hypocrisy or blamable dissimulation,
-selfish intention of obtaining new favours, and
-design of imposing on his benefactor or the public.
+- hypocrisy or blamable dissimulation,
+- selfish intention of obtaining new favours, and
+- design of imposing on his benefactor or the public.
 
 His motives may be no other than: 
 - a reverence for the established rule of duty, and
@@ -68,7 +73,8 @@ However, anyone with discipline, education, and example, might be so impressed w
 - act on almost always with tolerable decency, and
 - avoid any considerable degree of blame through his whole life.
  
-101 Without this sacred regard to general rules, no one's conduct can be much depended on.
+
+{{< s v="101" >}} Without this sacred regard to general rules, no one's conduct can be much depended on.
 
 This constitutes the most essential difference between a man of principle and honour and a worthless fellow.
 The man of principle always adheres steadily and resolutely to his maxims
@@ -97,12 +103,14 @@ What would become of these duties if the general rules and the duties of politen
 But the very existence of human society depends on the tolerable observance of these duties.
 It would crumble into nothing if mankind were not impressed with a reverence for those important rules of conduct.
  
-102  This reverence is still further enhanced by an opinion which is first impressed by nature.
+
+{{< s v="102" >}} This reverence is still further enhanced by an opinion which is first impressed by nature.
 
 It is afterwards confirmed by reasoning and philosophy that those important rules of morality are the commands and laws of the Deity.
 The Deity will finally reward the obedient and punish the transgressors of their duty.
  
-103 This opinion or apprehension seems first to be impressed by nature.
+
+{{< s v="103" >}} This opinion or apprehension seems first to be impressed by nature.
 
 People are naturally led to ascribe all their sentiments and passions to those mysterious beings which happen to be the objects of religious fear.
 They cannot conceive any other to ascribe them to.
@@ -138,7 +146,8 @@ The natural sense of duty was too important to mankind's happiness for nature to
 
 It was thus enforced by the terrors of religion.
  
-104 However, these researches confirmed those original anticipations of nature.
+
+{{< s v="104" >}} However, these researches confirmed those original anticipations of nature.
 
 The foundation of our moral faculties were given to us to direct of our conduct in this life, whether those foundations are from: 
 - a modification of reason,
@@ -162,21 +171,27 @@ But they cannot, with any propriety, be said to approve or disapprove of one ano
 But it is the peculiar office of those faculties now under our consideration to judge, to bestow censure or applause on all the other principles of our nature.
 They may be considered as a sort of senses of which those principles are the objects.
 Every sense is supreme over its own objects.
+
 There is no appeal from: 
-the eye with regard to the beauty of colours,
-the ear with regard to the harmony of sounds, and
-the taste with regard to the agreeableness of flavours.
+- the eye with regard to the beauty of colours,
+- the ear with regard to the harmony of sounds, and
+- the taste with regard to the agreeableness of flavours.
+
 Each of those senses judges in the last resort of its own objects.
 Whatever gratifies the taste is sweet.
 Whatever pleases the eye is beautiful.
 Whatever soothes the ear is harmonious.
+
 The very essence of each of those qualities consists in its being fitted to please the sense to which it is addressed.
+
 In the same way, it belongs to our moral faculties to determine: 
-when the ear should be soothed,
-when the eye should be indulged,
-when the taste should be gratified, and
-when and how far every other principle of our nature should be indulged or restrained.
+- when the ear should be soothed,
+- when the eye should be indulged,
+- when the taste should be gratified, and
+- when and how far every other principle of our nature should be indulged or restrained.
+
 What is agreeable to our moral faculties, is fit, right, and proper.
+
 The contrary is wrong, unfit, and improper.
 The sentiments which they approve of are graceful and becoming.
 The contrary are ungraceful and unbecoming.
@@ -201,7 +216,8 @@ Those deputies of God within us, never fail to:
 - tranquility of mind, and
 - self-satisfaction.
 
-106 There are innumerable other considerations which serve to confirm the same conclusion.
+
+{{< s v="106" >}} There are innumerable other considerations which serve to confirm the same conclusion.
 
 The happiness of mankind and all other rational creatures seems to be the original purpose intended by the Author of nature when he brought them into existence.
 No other end seems worthy of that supreme wisdom and divine benignity which we necessarily ascribe to him.
@@ -222,7 +238,8 @@ Hence we are naturally encouraged to:
 hope for his extraordinary favour and reward in the one case, and
 dread his vengeance and punishment in the other case.
  
-107 There are many other reasons and natural principles which confirm and inculcate the same salutary doctrine.
+
+{{< s v="107" >}} There are many other reasons and natural principles which confirm and inculcate the same salutary doctrine.
 
 Despite the world's disorder, every virtue naturally meets with: 
 its proper reward, and
@@ -231,17 +248,26 @@ A very extraordinary concurrence of circumstances is required to entirely disapp
 
 What is the reward most proper for encouraging industry, prudence, and circumspection?
 Success in every sort of business.
+
 Can these virtues fail of attaining it in one's whole life?
+
 Wealth and external honours are their proper recompense.
+
 These virtues can seldom fail to acquire the recompense.
 What reward is most proper for promoting the practice of truth, justice, and humanity?
+
 The confidence, the esteem, and love of those we live with.
+
 Humanity does not desire to be great, but to be beloved.
+
 Truth and justice would rejoice in being trusted and believed and not in being rich.
 Truth and justice almost always recompenses with being trusted and believed.
 By some very extraordinary and unlucky circumstance, a good man may be suspected of a crime he was not capable of.
+
 He might be most unjustly exposed to mankind's horror and aversion for the rest of his life.
+
 By this accident, he may lose his all, despite his integrity and justice, in the same way as a cautious man may be ruined by an earthquake or a flood, despite his utmost circumspection.
+
 However, accidents of the first kind are perhaps more rare.
 It is more contrary to the common course of things than those of the second.
 The practice of truth, justice, and humanity chiefly aim at the confidence and love of those we live with.
@@ -252,7 +278,9 @@ But it impossible that he should be so with regard to the general tenor of his c
 An innocent man may be believed to have done wrong.
 
 However, this will rarely happen.
+
 On the contrary, the established opinion of the innocence of his manners will often lead us to absolve him when he has really been in the fault, despite very strong presumptions.
+
 In the same way, a knave may escape censure or even be applauded for a particular knavery, in which his conduct is not understood.
 But no innocent man was ever habitually blamed for a wrong action without being: 
 almost universally known to be a knave, and

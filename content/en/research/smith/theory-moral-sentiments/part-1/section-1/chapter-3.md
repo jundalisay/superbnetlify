@@ -13,7 +13,7 @@ icon: /avatars/smith.png
 <!-- We judge the propriety of the feelings of others by our sympathy or lack of sympathy with them -->
 ### Our own feelings is the measure or decider of our sympathy or non-sympathy with the feelings of others
 
-20 When the feelings of the observee perfectly concords with the observer's sympathies, they appear suitable to the observer. 
+{{< s v="20" >}} When the feelings of the observee perfectly concords with the observer's sympathies, they appear suitable to the observer. 
 - On the contrary, when the observer finds that the observee's feelings do not match his, they appear improper to him.
 
 Therefore, approving another's feelings is the same thing as entirely sympathizing with them.
@@ -37,7 +37,7 @@ The man who sympathizes with my grief, admits the reasonableness of my sorrow.
 On all occasions, his own feelings are the standards and measures by which he judges of mine.
 
 
-21 To approve of another man's opinions is to adopt those opinions.
+{{< s v="21" >}} To approve of another man's opinions is to adopt those opinions.
 - To adopt them is to approve of them.
 
 If the same arguments which convince you also convince me, I necessarily approve of your conviction.
@@ -47,7 +47,7 @@ If the same arguments which convince you also convince me, I necessarily approve
 Therefore, to approve or disapprove of the opinions of others means to agree or disagree with our own. This is the same with our approval or disapproval of the feelings of others.
 
 
-22 In some cases, we approve without any correspondence of feelings. The feeling of approval is different from the perception of this correspondence. However, our approval is ultimately founded on this kind of correspondence.
+{{< s v="22" >}} In some cases, we approve without any correspondence of feelings. The feeling of approval is different from the perception of this correspondence. However, our approval is ultimately founded on this kind of correspondence.
 <!--     I shall give a very simple example.
 
     Simple examples can be less perverted by man's judgments from wrong systems. -->
@@ -66,7 +66,7 @@ We feel that it is natural and suitable to its object. Even if we we cannot easi
 
 
 
-23 The same thing often happens with all the other passions.
+{{< s v="23" >}} The same thing often happens with all the other passions.
 
 A very sad stranger passes by on the street. We are told that he has just heard of his father's death. We do not know him nor his father so we might not have sympathy [no correspondence]. However, we know from experience, that death naturally excites sorrow so we approve of his sorrow.
 
@@ -88,7 +88,7 @@ Our previous experiences of what feelings are proper and improper lead to genera
 
 ### The morality of an action depends on that action's cause (proper/improper) and effect (merit/demerit)
 
-24 The morality of a feeling has two relations*= 
+{{< s v="24" >}} The morality of a feeling has two relations*= 
 - In relation to its cause or motive that creates the feeling
 - In relation to its end or effect which the feeling tends to produce
 
@@ -96,25 +96,25 @@ Our previous experiences of what feelings are proper and improper lead to genera
 
 
 
-25 An action's propriety or impropriety depends on the suitableness or unsuitableness of the feeling that caused it.
+{{< s v="25" >}} An action's propriety or impropriety depends on the suitableness or unsuitableness of the feeling that caused it.
 
-26 An action's merit or demerit depends on the feeling's beneficial or harmful aims.
+{{< s v="26" >}} An action's merit or demerit depends on the feeling's beneficial or harmful aims.
 - A beneficial aim deserves reward
 - A harmful aim deserves punishment
 
-27 Philosophers give little attention to the relation of the causes of the affections. In common life, however, we constantly judge any person's conduct and motives under both cause and effect. When we blame another man's excess of love, grief, or resentment, we consider= 
+{{< s v="27" >}} Philosophers give little attention to the relation of the causes of the affections. In common life, however, we constantly judge any person's conduct and motives under both cause and effect. When we blame another man's excess of love, grief, or resentment, we consider= 
 - its ruinous effects and
 - the little reason for it.
 
-We say that= 
+We say that: 
 - his misfortune is not so dreadful to justify such a violent passion, and
 - we would approve of his violent emotion if the cause were proportional to it.
 
-28 We use our own feelings to determine whether his feeling is proportional to its cause,  .
+{{< s v="28" >}} We use our own feelings to determine whether his feeling is proportional to its cause,  .
 - We approve of them if we find them to be suitable
 - If otherwise, we disapprove of them
 
-29 Each man measures the faculty of others according to his own faculty. I judge of= 
+{{< s v="29" >}} Each man measures the faculty of others according to his own faculty. I judge of= 
 - your sight by my sight,
 - your ear by my ear,
 - your reason by my reason,

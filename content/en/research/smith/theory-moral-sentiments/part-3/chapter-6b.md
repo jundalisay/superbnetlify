@@ -9,8 +9,11 @@ icons: /avatars/smith.png
 ---
 
 
+{{< s v="122" >}} The general rules of the virtue are called justice. This requires the greatest exactness. 
 
-122 The general rules of the virtue called justice require the greatest exactness. Their modifications must be as accurate as the rules themselves. If I owe a man £10, justice requires that I precisely pay him £10: 
+Their modifications must be as accurate as the rules themselves. 
+
+If I owe a man £10, justice requires that I precisely pay him £10: 
 - at the agreed time, or
 - when he demands it.
 
@@ -46,8 +49,9 @@ The adulterer imagines he does no evil when he corrupts his friend's wife, provi
 
 Once we begin to give way to such thoughts, we become capable of such an enormity that we did not know we could do.
 
- 
-123 The rules of justice may be compared to the precise rules of grammar. The rules of the other virtues can be compared to the vague rules which critics lay down. They give us a general idea of the perfection we should aim at, instead of certain directions for acquiring it.
+
+
+{{< s v="123" >}}  The rules of justice may be compared to the precise rules of grammar. The rules of the other virtues can be compared to the vague rules which critics lay down. They give us a general idea of the perfection we should aim at, instead of certain directions for acquiring it.
 
 A man may learn to write perfectly grammatically by rule, just as he might be taught to act justly. But there are no rules which will infallibly lead us to the elegance or sublimity in writing. Though there are some rules which might help us to correct the vague ideas of those perfections.
 
@@ -58,7 +62,7 @@ The rules of justice are , accurate, and indispensable.
 The rules of grammar are loose, vague, and indeterminate. -->
 
 
-124 Sometimes, we may mistake the proper rules of conduct when we most seriously want to act to deserve approbation. We are thus misled by that very principle which should direct us. In this case, it is in vain to expect that mankind should entirely approve of our behaviour. They cannot: 
+{{< s v="124" >}} Sometimes, we may mistake the proper rules of conduct when we most seriously want to act to deserve approbation. We are thus misled by that very principle which should direct us. In this case, it is in vain to expect that mankind should entirely approve of our behaviour. They cannot: 
 - enter into that absurd idea of duty which influenced us, and
 - go along with any of the actions which follow from it.
 
@@ -85,30 +89,37 @@ The tragedy of Mahomet was one of Voltaire's finest.
 
 It properly represented what should be our feelings for crimes from such motives.
 In that tragedy, a young man Seid and woman Palmira had a mutual fondness for one another.
+
 They were most innocent and virtuous.
 They are instigated to commit a horrid murder by the strongest motives of a false religion.
+
 It shocks all the principles of human nature.
 A venerable old man expressed the most tender affection for both of them.
 He was the avowed enemy of their religion.
 They both conceived the highest reverence and esteem for him.
 In reality, he was their father who they did not know about.
+
 He is pointed out to them as a sacrifice which God expressly required at their hands.
 They are commanded to kill him.
+
 While executing this crime, they are tortured with all the agonies arising from the struggle between: 
 the idea of religious duty on the one side, and
 compassion, gratitude, reverence for the aged, and love for the humanity and virtue of the person they are going to destroy, on the other
+
 It shows one of the most interesting and instructive theatre spectacle.
 However, the sense of duty prevails finally over all the amiable weaknesses of human nature.
 They execute the crime imposed on them.
 But immediately they discover: 
 their error and
 the fraud which deceived them
+
 They are distracted with horror, remorse, and resentment.
+
 Our feelings for Seid and Palmira should be our feelings for anyone misled by religion in this way, when we are sure that it is really religion which misleads him and not the pretence of it.
 Its pretence is made as a cover to some of the worst human passions.
 
 
-125 A person may act wrongly by following a wrong sense of duty. Nature may sometimes prevail and lead him to oppose it. In this case, we cannot be displeased to see the sense of duty prevail, which we think should prevail, though the person himself is so weak as to think otherwise.
+{{< s v="125" >}} A person may act wrongly by following a wrong sense of duty. Nature may sometimes prevail and lead him to oppose it. In this case, we cannot be displeased to see the sense of duty prevail, which we think should prevail, though the person himself is so weak as to think otherwise.
 
 However, his conduct is the effect of weakness and not of principle.
 

@@ -50,11 +50,10 @@ Men are naturally sympathetic. But they feel so little for those they have no pa
 
 A man would enter an assembly of men as he enters a den of lions.
 
-<br>
 
 ### The Means Are Naturally Adjusted For The Ends
 
-19 In every part of the universe, we observe that the means are adjusted nicely to the ends which they are intended to produce. A plant or animal body is contrived to advance nature's two great purposes: 
+{{< s v="19" >}} In every part of the universe, we observe that the means are adjusted nicely to the ends which they are intended to produce. A plant or animal body is contrived to advance nature's two great purposes: 
 
 1. The support of the individual
 2. The propagation of the species
@@ -70,7 +69,7 @@ The gears of the watch are all adjusted for its end purpose of pointing the hour
 Similarly, in accounting for the operations of bodies, we always distinguish the effect from the ultimate cause. But in accounting for the mind's operations, we usually confound cause with effect. An enlightened reason naturally leads us to advance the two ends of support and propagation. We conclude that the cause of that reason is our feelings.<!--  sentiments and actions to advance those ends. --> We imagine this cause to be the wisdom of man, which in reality is the wisdom of God. Superficially, this cause seems enough to produce those two effects. The system of human nature is more simple and agreeable when all its operations are deduced from a single principle.
 
 
-20 Society cannot subsist unless the laws of justice are tolerably observed. No social intercourse can happen between men who always injure each other. It has been thought that this necessity led to law enforcement. It has been said that man: 
+{{< s v="20" >}} Society cannot subsist unless the laws of justice are tolerably observed. No social intercourse can happen between men who always injure each other. It has been thought that this necessity led to law enforcement. It has been said that man: 
 - has a natural love for society, and
 - desires that the union of mankind should be preserved for its own sake, even if he derives no benefit from it.
 
@@ -85,7 +84,7 @@ Man approves of law enforcement, even the capital punishment of its violators. T
 {{< /q >}}
 
 
-21 We naturally confirm the propriety of punishment when we reflect how necessary it is to preserve society. This is true when:  
+{{< s v="21" >}} We naturally confirm the propriety of punishment when we reflect how necessary it is to preserve society. This is true when:  
 - the terror of punishment breaks the violator's injustice,
 - the violator ceases to be feared and instead begins to be pitied by the humane.
 
@@ -93,7 +92,8 @@ The thought of the violator's suffering extinguishes the resentment in the human
 <!-- , and- save him from that punishment, which in all their cool hours they considered as the proper retribution. -->
 <!-- 's general interest -->
 
-22 Sometimes too we defend the general rules of justice by their necessity to society. We frequently hear the young and licentious ridiculing the sacred rules of morality. This rouses our indignation which makes us eager to refute and expose their detestable principles. But we do this without knowing why. We just think that they should be hated just because they are the natural objects of hatred. We think that the society's disorder will result from the prevalence of licentious practices.
+
+{{< s v="22" >}} Sometimes too we defend the general rules of justice by their necessity to society. We frequently hear the young and licentious ridiculing the sacred rules of morality. This rouses our indignation which makes us eager to refute and expose their detestable principles. But we do this without knowing why. We just think that they should be hated just because they are the natural objects of hatred. We think that the society's disorder will result from the prevalence of licentious practices.
 <!-- are unwilling to: 
 - assign this as the only reason why we condemn them, nor
 - pretend that it is merely because we hate them. -->
@@ -106,10 +106,10 @@ The thought of the violator's suffering extinguishes the resentment in the human
 On this account, we generally cast about for other arguments. Its first consideration is the  Therefore, we seldom fail to insist on this topic. -->
 
 
-23 All licentious practices tends to destroy society. But this seldom animates us initially against them. Everyone, even the most stupid and unthinking, abhors fraud, perfidy, and injustice. <!-- Everyone delights to see them punished. --> But few men have reflected on the necessity of justice no matter how obvious that necessity may be.
+{{< s v="23" >}} All licentious practices tends to destroy society. But this seldom animates us initially against them. Everyone, even the most stupid and unthinking, abhors fraud, perfidy, and injustice. <!-- Everyone delights to see them punished. --> But few men have reflected on the necessity of justice no matter how obvious that necessity may be.
 
 
-24 We are originally interested in punishing crimes [to protect ourselves] and not to preserve society. We are concerned about a person's loss because we are concerned about him, and not because he is a member of society. We are concerned for the loss of a single guinea because we are concerned about it, and not because that guinea is a part of 1,000 guineas.
+{{< s v="24" >}} We are originally interested in punishing crimes [to protect ourselves] and not to preserve society. We are concerned about a person's loss because we are concerned about him, and not because he is a member of society. We are concerned for the loss of a single guinea because we are concerned about it, and not because that guinea is a part of 1,000 guineas.
 
 This concern does not necessarily include any love, esteem, and affection that we have for our friends. It arises from our general fellow-feeling. We even sympathize with an odious person when he is injured wrongly. In this case, our disapprobation of his ordinary character does not prevent our fellow-feeling with his natural resentment. Though it is damped with those who are not used to the rules of justice.
 <!-- for our fellow-creatures -->.
@@ -124,16 +124,32 @@ When a small sum is unjustly taken from us, we do not prosecute the injury so mu
 - have not been accustomed to regulate their natural sentiments by general rules. -->
 
 
-25 Sometimes, we approve of punishment merely for society's general interest. This is true for the breaches of civil police or military discipline. Such crimes do not immediately nor directly hurt anyone. But their remote consequences might produce a great disorder in society.
+{{< s v="25" >}} Sometimes, we approve of punishment merely for society's general interest.
+- This is true for the breaches of civil police or military discipline. 
 
-For example, a sentinel who falls asleep on his watch, suffers death by the laws of war because such carelessness might endanger the whole army. This severity may appear necessary and, thus, be just and proper. When an individual's preservation is inconsistent with the safety of a multitude, it is most just that the many should be preferred to the one. Yet this punishment, no matter how necessary, always appears to be excessively severe. The natural atrocity of this crime seems so little, but the punishment seems so great. This makes it very difficult for us to reconcile to it.
+Such crimes do not immediately nor directly hurt anyone. 
+- But their remote consequences might produce a great disorder in society.
+
+For example, a sentinel who falls asleep on his watch can be executed according to the laws of war. 
+- This is because such carelessness might endanger the whole army. 
+- This severity might appear just and proper.
+
+When an individual's preservation is inconsistent with the multitude's safety, then the many should be preferred to the one.
+
+Yet this punishment always appears to be excessively severe.
+- The natural atrocity of this crime seems so small, but the punishment seems so great.
+- This makes it very difficult for us to reconcile to it.
 
 The sentinel's carelessness appears very blamable. Yet it does not naturally excite enough resentment for us to take revenge. A man of humanity must exert his whole firmness and resolution before he can inflict it or let it be inflicted by others.
 
-However, he does not look on the just punishment of an ungrateful murderer in this way. <!-- His heart applauds the just retaliation due to such detestable crimes. --> He would be very enraged if his crime escaped unpunished. A wise man's very different feelings on those different punishments is a proof that his rejection of the one is based on different principles from his approbation of the other. He looks on the sentinel as an unfortunate victim who must be devoted to the safety of many. But he would still be glad to save him. He is only sorry that the interest of the many opposes it. But he would be very angry if the murderer escapes punishment. He would call on God to avenge that crime in another world<!-- , which mankind's injustice had neglected to chastise on earth. -->
+However, he does not look on the just punishment of an ungrateful murderer in this way. <!-- His heart applauds the just retaliation due to such detestable crimes. --> 
+
+He would be very enraged if his crime escaped unpunished. A wise man's very different feelings on those different punishments is a proof that his rejection of the one is based on different principles from his approbation of the other. He looks on the sentinel as an unfortunate victim who must be devoted to the safety of many. But he would still be glad to save him. 
+
+He is only sorry that the interest of the many opposes it. But he would be very angry if the murderer escapes punishment. He would call on God to avenge that crime in another world<!-- , which mankind's injustice had neglected to chastise on earth. -->
 
 
-26 We are unable to think how injustice can be punished in this life. This is why Nature teaches us to hope that it will be punished in a life to come. Religion authorises us to expect this.
+{{< s v="26" >}} We are unable to think how injustice can be punished in this life. This is why Nature teaches us to hope that it will be punished in a life to come. Religion authorises us to expect this.
 
 <!-- Society's order cannot be maintained with such injustice. -->
 Our sense of its demerit pursues it even beyond the grave. However, we still think that God's justice still requires that He should avenge the injuries of the widow and the fatherless who are so often insulted with impunity.

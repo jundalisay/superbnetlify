@@ -21,7 +21,7 @@ icon: "/avatars/smith.png"
 
 {{< s v="2" >}} But when he has enough stock to maintain him for months or years, he tries to derive a revenue from it. He reserves some for his consumption until this revenue comes in.
 
-His whole stock is made up of two parts= 
+His whole stock is made up of 2 parts:
 
 1. His capital
   - He expects this part to provide revenue

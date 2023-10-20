@@ -106,7 +106,7 @@ It compensates:
 This is of more consequence.
 
 
-17 Our imagination colors the condition of the great in delusive colours as a perfect and happy state. It is the very state which we want ourselves and so we feel a sympathy with the satisfaction of those who are in it.
+{{< s v="17" >}} Our imagination colors the condition of the great in delusive colours as a perfect and happy state. It is the very state which we want ourselves and so we feel a sympathy with the satisfaction of those who are in it.
 <!-- It is almost the abstract idea of a  -->
 - we favour all their inclinations and forward all their wishes.
 <!-- - We think:  what pity that anything should spoil such an agreeable situation! -->
@@ -135,7 +135,11 @@ This would lead a stranger to human nature that:
 
 ### Rich versus Poor
 
-18 The distinction of ranks and the order of society is founded on mankind's disposition to go along with all the feelings of the rich and the powerful. Our subordination to our superiors more frequently arises from our admiration for the advantages of their situation, than from any expectations of benefit from their goodwill.
+{{< s v="18" >}} Humans are disposed to go along with the feelings of the rich and the powerful. This leads to:
+- the distinction of ranks
+- the order of society 
+
+Our subordination to our superiors more frequently arises from our admiration for their advantages, than from any expectations of benefit from their goodwill.
 - Their benefits can extend only to a few.
 - But their fortunes interest almost everybody.
   - We are eager to assist them in completing a system of happiness.
@@ -175,39 +179,49 @@ They cannot stand their monarch's mortification. Compassion soon takes the place
 The death of Charles I restored the royal family. James II was seized by the populace from escaping by ship. The people's compassion for him then almost prevented the Revolution. It made the Revolution go on more heavily than before.
  
 
-19 Are the great insensible of the easy price at which they acquire the public admiration? Or do they imagine, just like others, that it must be bought with sweat or blood? By what important accomplishments is the young nobleman instructed to: 
+{{< s v="19" >}} Are the great insensible of how easy they get public admiration?
+
+Or do they imagine, just like others, that it must be bought with sweat or blood? 
+
+By what important accomplishments is the young nobleman instructed to: 
 - support the dignity of his rank, and
 - render himself worthy of that superiority over his fellow-citizens, given to him by his ancestors' virtue?
 
 Is it by any kind of knowledge, industry, patience, self-denial, or virtue?
+
 All his words and motions are attended to.
+
 He learns a habitual regard to every circumstance of ordinary behaviour.
 He studies to perform all those small duties with the most exact propriety.
+
 He is conscious: 
-how much he is observed, and
-how much people are disposed to favour all his inclinations.
+- how much he is observed, and
+- how much people are disposed to favour all his inclinations.
+
 He acts with that freedom and elevation which the thought of this naturally inspires.
 His air, manner, and deportment, all mark that elegant and graceful sense of his own superiority.
+
 Those who are born to inferior stations can hardly ever arrive at this.
+
 These are the arts by which he proposes to: 
-make people more easily submit to his authority, and
-govern their inclinations according to his own pleasure.
+- make people more easily submit to his authority, and
+- govern their inclinations according to his own pleasure.
+
 He is seldom disappointed in this.
+
 These arts, supported by rank and preeminence, are ordinarily sufficient to govern the world.
 
-Louis XIV was regarded all over Europe as the perfect model of a great prince because he was the most powerful prince in Europe. He consequently held the highest rank among kings.
+Louis 14th was regarded all over Europe as the perfect model of a great prince because he was the most powerful prince in Europe. He consequently held the highest rank among kings.
 
-But through what talents and virtues did he acquire this great reputation?
-Was it by: 
-the scrupulous and inflexible justice of all his undertakings,
-the immense dangers and difficulties with which they were attended, or
-his relentlessness in pursuing them?
-Was it by: 
-his extensive knowledge,
-exquisite judgment, or
-his heroic valour?
-It was by none of these qualities.
-First of all, he was .
+But through what talents and virtues did he acquire this great reputation? Was it by: 
+- his scrupulous and inflexible justice?
+- the immense dangers and difficulties that came with his undertakings?
+- his relentlessness in pursuing them?
+- his extensive knowledge?
+- his exquisite judgment?
+- his heroic valour?
+
+It was by none of these.
 
 His historian says: 
 
@@ -226,8 +240,7 @@ They drew much respect for his memory, even from posterity. -->
 
 ### The Vain Man 
 
-
-20 But the man of inferior rank cannot hope to distinguish himself by these kinds of accomplishments.
+{{< s v="20" >}} But the man of inferior rank cannot hope to distinguish himself by these kinds of accomplishments.
 
 <!-- Why should the man, whom nobody looks at, be ?
 He is surely occupied with a very superfluous attention.
@@ -241,12 +254,12 @@ Politeness is so much the virtue of the great, that it will do little honour to 
 
 ### The Private Man 
 <!-- He should distinguish himself by more important virtues. -->
-The chief characteristics of a private man's behaviour should be the most perfect modesty and plainness, with self-negligence consistent with the respect due to others.
-- He must acquire dependants to balance the dependants of the great.
-  - He can only pay them through: 
-    - the labour of his body, and
-    - the activity of his mind.
-  - He must therefore cultivate these.
+
+A private man should have perfect modesty and plainness, with self-negligence consistent with the respect due to others. He must acquire dependants to balance the dependants of the great.
+- He can only pay them through: 
+  - the labour of his body, and
+  - the activity of his mind.
+- He must therefore cultivate these.
 - He must acquire: 
   - superior knowledge in his profession, and
   - superior industry in its exercise.
@@ -278,6 +291,7 @@ On the contrary, the man of rank and distinction has his whole glory in the prop
 He is unwilling to embarrass himself with what can be attended with difficulty or distress. -->
 - To figure at a ball is his great triumph.
 - To succeed in an intrigue of gallantry is his highest exploit.
+
 He has an aversion to all public confusions: 
 not from: 
 the love of mankind, nor
@@ -308,72 +322,88 @@ These men have been carried by their own industry and abilities, though:
   - They are finally contented to truckle with the same meanness which they want to impose on the rest of mankind.
  
 
-21 The fall from greatness so insupportable because of the loss of this easy empire over mankind's affections
+{{< s v="21" >}}  The fall from greatness so insupportable because of the loss of this easy empire over mankind's affections
 
 The family of the king of Macedon was led in triumph by Paulus Aemilius.
+
 Their misfortunes made them divide, with their conqueror, the Roman people's attention.
 The young royal children were insensible of their situation.
 Their sight struck the spectators with the tenderest sorrow and compassion amidst the public rejoicings.
 The king appeared next in the procession.
+
 He seemed confounded, astonished, and bereft of all sentiment, by his great calamities.
 His friends and ministers followed after him.
+
 As they moved along, they often looked at their fallen king and always burst into tears.
 Their whole behaviour demonstrated that they did not think of their own misfortunes, but were entirely occupied by the superior greatness of his.
 On the contrary, the generous Romans beheld him with disdain and indignation.
+
 They regarded as unworthy of all compassion the man who could be so mean-spirited as to bear to live under such calamities.
 Yet what did those calamities amount to?
+
 According to most historians, he was to spend his remaining days: 
-under the protection of a powerful and humane people,
-in a state which seemed worthy of envy,
-in a state of plenty, ease, leisure, and security, from which it was impossible for him even by his own folly to fall.
+- under the protection of a powerful and humane people,
+- in a state which seemed worthy of envy,
+- in a state of plenty, ease, leisure, and security, from which it was impossible for him even by his own folly to fall.
+
 But he was no longer to be surrounded by that admiring mob of fools, flatterers, and dependants.
 He was no longer: 
-to be gazed upon by multitudes,
-the object of their respect, gratitude, love, and admiration.
+- to be gazed upon by multitudes,
+- the object of their respect, gratitude, love, and admiration.
+
 The passions of nations were no longer to mould themselves upon his inclinations.
 This insupportable calamity bereaved the king of all sentiment.
+
 It made his friends forget their own misfortunes.
 Roman magnanimity could not conceive how any man could be so mean-spirited as to bear to survive.
  
+{{< s v="22" >}} My Lord Rochefoucauld says, 'Love is commonly succeeded by ambition; but ambition is hardly ever succeeded by love.'
 
-222 My Lord Rochefoucauld says, 'Love is commonly succeeded by ambition; but ambition is hardly ever succeeded by love.'
 Once ambition fully possesses the breast, it will not admit a rival nor a successor.
 All other pleasures sicken and decay to those used to ambition or even the hope of public admiration.
+
 Many discarded statesmen have studied: 
-to get the better of ambition for their own ease and
-to despise those honours which they could not attain.
+- to get the better of ambition for their own ease and
+- to despise those honours which they could not attain.
+
 How few of them have been able to succeed?
+
 Most have spent their time in the most listless and insipid indolence.
 They chagrined at the thoughts of their own insignificancy.
+
 They were incapable of being interested in private life: 
-without enjoyment, except when they talked of their former greatness
-without satisfaction, except when they were employed in some vain project to recover it
+- without enjoyment, except when they talked of their former greatness
+- without satisfaction, except when they were employed in some vain project to recover it
+
 Are you resolved never to barter your liberty for the lordly servitude of a court, but to live free, fearless, and independent?
 
 There seems to be only one way to continue in that virtuous resolution: 
-Never enter the place from whence so few have been able to return.
-Never come within the circle of ambition nor ever compare yourself with those masters of the earth who have already engrossed the attention of half of mankind before you.
+- Never enter the place from whence so few have been able to return.
+- Never come within the circle of ambition nor ever compare yourself with those masters of the earth who have already engrossed the attention of half of mankind before you.
 
-23 It appears very important to be in the view of general sympathy and attention.
+
+{{< s v="23" >}} It appears very important to be in the view of general sympathy and attention.
 That great object: 
 - divides the wives of politicians, and
 - is the end of half of the labours of human life.
+
 It is the cause of all the tumult, bustle, rapine, and injustice, which avarice and ambition have introduced into this world.
 It is said that people of sense hate place.
 
 They hate sitting at the head of the table.
 They are indifferent on who is pointed out to the company by that frivolous circumstance, which the smallest advantage can overbalance.
-But no man despises rank, distinction preeminence unless: 
 
-he is raised very much above or sunk very much below the ordinary standard of human nature, and
-he is either: 
-so confirmed in wisdom and real philosophy
+But no man despises rank, distinction preeminence unless: 
+- he is raised very much above or sunk very much below the ordinary standard of human nature, and
+- he is either: 
+  - so confirmed in wisdom and real philosophy
+
 It does not matter to him if he is not attended to, nor approved of.
 so habituated to the idea of his own meanness.
 He is so sunk in slothful and sottish indifference, as to have entirely forgotten the desire for superiority.
  
 
-24 Prosperity has its dazzling splendour which comes from it being the natural object of mankind's sympathetic attentions. Likewise, adversity has its gloom from our misfortunes being the naural object of mankind's aversion. This is why the most dreadful calamities are sometimes easier to support.
+{{< s v="24" >}} Prosperity has its dazzling splendour which comes from it being the natural object of mankind's sympathetic attentions. Likewise, adversity has its gloom from our misfortunes being the naural object of mankind's aversion. This is why the most dreadful calamities are sometimes easier to support.
 
 It is often more mortifying to appear in public under small disasters, than under great misfortunes. 
 - Small disasters excite no sympathy.
@@ -394,7 +424,7 @@ Among a humane people, the slighter punishments inflicted on a gentleman are see
 - setting him in the pillory for any crime.
  
 
-25 A brave man is not rendered contemptible by being brought to the scaffold. His behaviour may gain him universal esteem and admiration. The spectators' sympathy supports him and saves him from the shame that he feels.
+{{< s v="25" >}} A brave man is not rendered contemptible by being brought to the scaffold. His behaviour may gain him universal esteem and admiration. The spectators' sympathy supports him and saves him from the shame that he feels.
 
 Shame is the most unsupportable of all the sentiments.
 

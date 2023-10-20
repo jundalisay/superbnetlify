@@ -9,10 +9,9 @@ icons: /avatars/smith.png
 ---
 
 
+{{< s v="43" >}} The approbation of man's own conscience can content his own weaknesses only during some extraordinary occasions.
 
-43 The approbation of man's own conscience can content his own weaknesses only during some extraordinary occasions.
-
-The testimony of the impartial spectator cannot always support him alone. Yet its influence and authority is always very great.
+The impartial spectator alone cannot always support him. But its authority is always very great.
 
 It is only by consulting this judge within that we can ever: 
 - see what relates to ourselves in its proper dimensions, or
@@ -21,19 +20,19 @@ It is only by consulting this judge within that we can ever:
 
 ## The Eye of the Impartial Spectator
 
-44 Objects appear big or small to the eye according to their distance from it, not so much according to their real dimensions.
+{{< s v="44" >}} The eye sees objects as big or small depending on how close or far they are. I see woods and distant mountains that seem small from a distance.
+ <!-- to the eye according to their distance from it. -->
+<!-- , not so much according to their real dimensions. -->
+- A man who knows the science of vision also knows that those small distant objects are really very big.
+- I can know this by transporting myself in fancy to those objects to see their real proportions
+- Habit and experience have taught me to do this so easily without me knowing it. 
 
-So do objects appear to the mind's natural eye. We remedy the defects of both these organs in the same way. Currently, an immense landscape of lawns, woods, and distant mountains, seems to: 
-- merely cover the window I write by, and
-- be out of proportion with my room.
+So do objects appear to the mind's natural eye. We remedy the defects of both these organs in the same way.
 
-I can only fairly compare those big objects and the small objects near me by transporting myself in fancy, to a place from where I can: 
-- survey both at equal distances, and
-- judge their real proportions.
-
-Habit and experience have taught me to do this so easily and so readily, that I do not know that I do it. A man must know the science of vision so that he can be convinced that those distant objects, small to the eye, are as big as his imagination can make them, from knowing their real sizes.
+ <!-- as his imagination can make them, from knowing their real sizes. -->
  
-45 In the same way, the loss or gain of our own very small interest appears to be vastly more important to the selfish and original passions of human nature. It excites a more passionate joy, sorrow, desire, or aversion, than the greatest concern of another person who we are unconnected with.
+
+{{< s v="45" >}} In the same way, the loss or gain of our own very small interest appears to be vastly more important to the selfishness of human nature. It excites a more passionate joy, sorrow, desire, or aversion, than the greatest concern of another person who we are unconnected with.
 
 As long as they are surveyed from this station, his interests can never: 
 - be put into the balance with our own, and
@@ -55,16 +54,22 @@ We need some reflection and philosophy to convince us:
 - how little interest we should take in our neighbour's greatest concerns, and
 - how little we should be affected by whatever relates to him, if the sense of propriety and justice did not correct the natural inequality of our feelings.
  
-46 Let us suppose that China was suddenly swallowed up by an earthquake.
+
+{{< s v="46" >}} Let us suppose that China was suddenly swallowed up by an earthquake.
 
 Let us consider how a European man of humanity, who was totally unconnected with China, would be affected upon knowing this calamity.
 He would express his sorrow very strongly for the misfortune of the Chinese.
+
 He would make many sad reflections on: 
-the precariousness of human life, and
-the vanity of all of man's labours which could thus be annihilated instantly.
+- the precariousness of human life, and
+- the vanity of all of man's labours which could thus be annihilated instantly.
+
 If he were speculative, he might also think about the effects of this disaster on European commerce, world trade, and business in general.
+
 When all this fine philosophy was over, when all these humane sentiments had been once fairly expressed, he would pursue his business or pleasure.
+
 He would sleep with the same ease as if no such accident had happened.
+
 The most frivolous disaster which could happen to him would create a more real disturbance.
 If he were to lose his little finger tomorrow, he would not sleep tonight.
 But provided he never saw those millions of Chinese, he will snore with the most profound security despite their ruin.
@@ -74,12 +79,16 @@ Would a man of humanity be willing to sacrifice the lives of millions of his bre
 Human nature is horrified at the thought.
 In its greatest depravity and corruption, the world never produced such a villain that could entertain it.
 But what makes this difference?
+
 When our passive feelings are almost always so sordid and selfish, why are our active principles often so generous and noble?
 We are always so much more deeply affected by whatever concerns ourselves, than by whatever concerns others.
 What always prompts the generous, and the mean on many occasions, to sacrifice their own interests for the greater interests of others?
+
 It is not the soft power of humanity.
 The power of humanity is the feeble spark of benevolence which Nature has lit in the human heart.
+
 It can counteract the strongest impulses of self-love.
+
 It is a stronger power.
 It is a more forceful motive which exerts itself on such occasions.
 It is reason, principle, conscience the inhabitant of the breast, the man within, the great judge and arbiter of our conduct.

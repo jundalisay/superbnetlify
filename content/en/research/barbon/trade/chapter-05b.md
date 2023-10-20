@@ -9,29 +9,51 @@ author: Nicholas Barbon
 ---
 
 
-The Difficulties of Raising a Dominion of very Large Extent; especially in Europe, are Many.
+The Many Difficulties of Raising a Large Dominion especially in Europe are the following.
 
 1. Europe is grown more Populous than before. 
 
-It has more Fortified Towns and Cities, than during the time of the Roman Empire which was the last extended Dominion. Therefore, Europe is not easily Subjected to the Power of any one Prince.
+It has more Fortified Towns and Cities than during the time of the Roman Empire. Therefore, Europe is not easily Subjected to the Power of any one Prince.
 
-Whether Europe be grown more Populous, Solely by the Natural Increase of Mankind; There being more Born than Dye, which first Peopled the World?
+Is Europe more Populous than before?
 
-Or, Whether, since the Inhabitants of Europe being Addicted to Trade, the ground is made more Fertile, and yields greater plenty of Food; which hath prevented famine, that formerly destroy'd great numbers of Mankind: So that no great Famines, has been taken Notice of by Historians, these Last Three Hundred Years?
+<!-- , Solely by the Natural Increase of Mankind; There being more Born than Dye, which first Peopled the World? -->
 
-Whether by Dreining Great Bogs, Lakes, and Fens, and Cutting down vast Woods, to make Room for the Increase of Mankind, the Air is Grown more Healthy; So that Plagues, and other Epidemical Diseases, are not so destructive as formerly? none so violent, as Procopius and Wallsingham Report, where destroyed such Vast Numbers in Italy, that there were not left Ten in a Thousand; and in other Parts of Europe, not enough alive to Bury the Dead. Whereas, the Plague in (1665) the Greatest since did not take away the Hundredth Person in England, Holland, and other Countries, where it Raged?
+Did the Europeans grow more food and prevented famine? 
 
-Whether, since the Invention of Guns and Gun-Powder, so many Men are not slain in the Wars as formerly? Xerxes lost 160000 in one Battle against the Grecians; Alexander destroyed 110000 of Darius's Army; Marius slew 120000 of the Cimbri; and in great Battles, seldome less than 100000 fell: but now 20000 Men are accounted very great Slaughter.
+<!-- Or, Whether, since the Inhabitants of Europe being Addicted to Trade, the ground is made more Fertile, and yields greater plenty of Food; which hath prevented famine, that formerly destroy'd great numbers of Mankind: So that no great Famines, has been taken Notice of by Historians, these Last Three Hundred Years? -->
 
-Whether, since the Northern People have fallen on Trade, such vast Numbers, are not destroyed by Invasions?
+Did they make the air healther by draining Great Bogs, Lakes, and Fens, and Cutting down vast Woods to lessen epidemics?
 
-Whether, by all these Ways, or by which of them most, Europe is grown Populous, is not Material to this Discourse: It is sufficient to shew, that the Matter of Fact is so, which does appear by comparing the Antient Histories of Countries with the Modern?
+<!-- , to make Room for the Increase of Mankind, the Air is Grown more Healthy; So that Plagues, and other Epidemical Diseases, are not so destructive as formerly?  -->
 
-In the Antient Descriptions, the Countries are full of Vast Woods, wild Beasts; the Inhabitants barbarous, and as wild, without Arts, and the Governments are like Colonies, or Herds of People: But in the Modern, the Woods are cut down, and the Lyons, Bears, and wild Beasts destroyed; no Flesh-Eaters are left to inhabit with man, but those Dogs and Cats that he tames for his Use: Corn grows where the Woods did, and with the Timber are built Cities, Towns and Villages; the People are cloathed, and have all Arts among them; and those little Colonies and Families, are increased into Great States and Kingdoms; and the most undeniable Proof of the Increase of Mankind in England, is the Doom-Day-Book, which was a Survey taken of all the Inhabitants of England, in the Reign of William the Conquerour; by which it appears, that the People of England are increased more than double since that time: But since the Mosaical Hypothesis of the Increase of the World, is generally believed amongst the Christians. And the late Lord Chief Justice Hales, in his Book of the Origination of Mankind, hath endeavoured to satisfie all the rest of the World. It would be misspending of time, to use any other Topick for the further Proof thereof, than what naturally follows in this Discourse, which is from the Different Success of Arms, in the Latter and Former Ages.
+<!-- none so violent, as Procopius and Wallsingham Report, where destroyed such Vast Numbers in Italy, that there were not left Ten in a Thousand; and in other Parts of Europe, not enough alive to Bury the Dead. Whereas, the Plague in (1665) the Greatest since did not take away the Hundredth Person in England, Holland, and other Countries, where it Raged? -->
+
+Did the Invention of Gun-Powder prevent so many Men from dying in wars as before? 
+- Xerxes lost 160,000 in one Battle against the Grecians.
+- Alexander destroyed 110,000 of Darius's Army.
+- Marius slew 120000 of the Cimbri.
+<!-- ; and in great Battles, seldome less than 100000 fell: but now 20000 Men are accounted very great Slaughter. -->
+
+<!-- Whether, since the Northern People have fallen on Trade, such vast Numbers, are not destroyed by Invasions?
+
+Whether, by all these Ways, or by which of them most, Europe is grown Populous, is not Material to this Discourse: It is sufficient to shew, that the Matter of Fact is so, which does appear by comparing the Antient Histories of Countries with the Modern? -->
+
+In the Antient Descriptions, the Countries are full of Vast Woods, wild Beasts; the Inhabitants barbarous, and as wild, without Arts, and the Governments are like Colonies, or Herds of People: 
+
+But in the Modern, the Woods are cut down, and the Lyons, Bears, and wild Beasts destroyed; no Flesh-Eaters are left to inhabit with man, but those Dogs and Cats that he tames for his Use: 
+
+Corn grows where the Woods did, and with the Timber are built Cities, Towns and Villages; the People are cloathed, and have all Arts among them; and those little Colonies and Families, are increased into Great States and Kingdoms; and the most undeniable Proof of the Increase of Mankind in England, is the Doom-Day-Book, which was a Survey taken of all the Inhabitants of England, in the Reign of William the Conquerour; by which it appears, that the People of England are increased more than double since that time: 
+
+But since the Mosaical Hypothesis of the Increase of the World, is generally believed amongst the Christians. And the late Lord Chief Justice Hales, in his Book of the Origination of Mankind, hath endeavoured to satisfie all the rest of the World. 
+
+It would be misspending of time, to use any other Topick for the further Proof thereof, than what naturally follows in this Discourse, which is from the Different Success of Arms, in the Latter and Former Ages.
 
 In the Infancy of the World, Governments began with little Families and Colonies of Men; so that, when ever any Government arrived to greater Heighth than the rest, either by the great Wisdom or Courage of the Government, they afterwards grew a pace: it was no Difficulty for Ninus, that was the oldest Government, and consequently, the most Populous, to begin the Assyrian Empire; nor for his Successors to continue and inlarge it: Such Vast Armies of Cyrus, Darius, Hystopis and Xerxes, the least of their Forces amounting to above 500000, could not be resisted, when the World was but thin Peopled.
 
-These great Armies might at first sight, seem to infer, That the World was more Populous than now; because the Armies of the greatest Princes, seldom now exceed the Number of Fifty or Sixty Thousand Men; But the Reason of those great Numbers, was, They were not so well skilled in Military Arts, and shew that the World was in the Infancy of its Knowledge, rather than Populous; for all that were able to bear Arms, went to the Wars: And if that were now the Custom, there might be an Army in England of above Three Million, allowing the Inhabitants to be Seven Millions; and by the same Proportion, the King of France's Country, (being four times bigger) might raise Twelve Millions; such a Number was never heard of in this World.
+These great Armies might at first sight, seem to infer, That the World was more Populous than now; because the Armies of the greatest Princes, seldom now exceed the Number of Fifty or Sixty Thousand Men; 
+
+But the Reason of those great Numbers, was, They were not so well skilled in Military Arts, and shew that the World was in the Infancy of its Knowledge, rather than Populous; for all that were able to bear Arms, went to the Wars: And if that were now the Custom, there might be an Army in England of above Three Million, allowing the Inhabitants to be Seven Millions; and by the same Proportion, the King of France's Country, (being four times bigger) might raise Twelve Millions; such a Number was never heard of in this World.
 
 The next Difficulty against the inlarging of Empire by Arms is, That since Printing, and the Use of the Needle hath been discovered, Navigation is better known, and thence is a Greater Commerce against Men, the Countries and Languages are more understood, Knowledge more dispersed, and the Arts of War in all Places known; so that, Men fight more upon equal Terms than formerly; and like two Skilful Fencers, fight a long Time, before either gets Advantage.
 
