@@ -7,8 +7,6 @@ description : "We fix the faulty Ambisyon 2040 through a 5-phase plan called Mah
 # author: Juan
 weight: 155
 icon: "/flags/ph.png"
-aliases:
-  /maharlika/economics/maharlika-2050
 ---
 
 
@@ -18,12 +16,9 @@ Current Cycle | Years per Cycle | Social Age
 Positive Warrior  | 12 | 5.5
 
 
-The [previous post](/maharlika/economics/dutertenomics) explained the problem with the Keynesian Dutertenomics, which is embodied in the neoliberal economic plan called "Ambisyon 2040" by Arsenio Balisacan.
+The [previous post](https://maharlika.superphysics.org/economics/dutertenomics) explained the problem with the neoliberal economic plan called "Ambisyon 2040" by Arsenio Balisacan, which was part of 'Dutertenomics'.
 
-
-## Society Subsidizing the Rich
-
-The main flaw of that plan was that it catered to the merchant class of society and neglected [the other 3 classes](/social/supersociology/principles/part-1/chapter-05/). That class is made up of business and monied interests.
+The main flaw of that plan was that it served the society's merchant class, made up of business and monied interests, at the expense of [the other 3 classes](/social/supersociology/principles/part-1/chapter-05/).
 
 
 Class | Socratic Name | Hindu Name | Example
@@ -34,37 +29,29 @@ Warriors | Tyrants | Ksattriya | Government, Military, Police
 Thinkers | Aristocrats "The Best" | Brahmin | Universities, Researchers, Inventors, Religions 
 
 
-A society needs all 4 classes to be in good shape just as a human body needs all its organs working properly. A weakness in one organ leads to disease or even death. 
+A society needs all 4 classes to be in good shape just as a human body needs all its organs working properly. A weakness in one organ can lead to disease or even death. 
 
 With the 3 classes weakened, the Philippine economy easily collapsed after pandemic struck. To get back on its feet, it had to incur a huge Php 12 trillion debt.
 
-The debt is in money which is the expertise of the monied interests. **Thus, the solution to the problem created by the merchant class is also facilitated by that same merchant class.** 
+That debt is in money-form, and is the expertise of the monied interests. **Thus, the solution to the problem created by the merchant class is also facilitated by that same merchant class.** 
 
-It would be like getting thieves to be in charge of security in your estate. They would allow expert burglaries which can only be solved by themselves to keep themselves employed and relevant while gaining commissions from those burglars. This leads to a double revenue stream to help keep them in power for a very long time until someone can connect the dots and expose their scam.   
+It would be like getting thieves to be in charge of security in your estate. They would allow expert burglaries which can only be solved by themselves in order to keep themselves employed and relevant while gaining commissions from those burglars. This leads to a double revenue stream to help keep them in power for a very long time until someone can connect the dots and expose their scam.   
 
 Such a genius scheme in macroeconomics really began in the 1970s after the Nixon shock. 
 
-The profit maximization doctrine of the merchant class stops growth. And so the merchant class lobbies for public debt, as Keynesian "deficit spending". This is really paid for by the entire society. 
+## How the Scheme Works
 
-Thus, the public subsidizes the lavish lifestyle of the overgrown merchant class.
+1. First, Keynes enshrines the love of money as 'liquidity preference' as the goal of macroeconomics. 
+2. Then this love of money stops economic growth when the merchant class arbitrarily stops spending because of the doctrine of profit maximization. 
+3. In order to get the economy going, they lobby the government to spend, as Keynesian "deficit spending". 
 
-{{< q a="smith" >}}
-The middle and upper classes, if they understand their own interest, should always oppose all taxes on necessities and direct taxes on the wages of labour. The final payment of such taxes all fall on themselves, with a big overcharge.
-<cite>The Wealth of Nations Simplified, Book 5, Chapter 2</cite>
-{{< /q >}}
+To facilitate such a spending, governments get into debt through the financial industry. Such a debt could have been totally avoided had there been no profit maximization and the merchant class spent their money as Step 2 instead of hoarding it. 
 
+<!-- Thus, the public subsidizes the lavish lifestyle of the overgrown merchant class. -->
 
-{{< q a="smith" >}}
-In her present condition, Great Britain resembles an unwholesome body with some overgrown vital parts. Her blood vessel was artificially swelled beyond natural by the industry and commerce forced to circulate in it. A small stop in that great blood-vessel will bring the most dangerous disorders on the whole political body.
-<cite>The Wealth of Nations Simplified, Book 4, Chapter 7</cite>
-{{< /q >}}
+Debt transfers the present burden to the future, though in smaller chunks. Instead of one huge oppression now, the oppression is imposed gradually and with increasing weight.
 
-
-
-Debt transfers the present huge burden and spreads it to the future in smaller chunks. Instead of one huge oppression now, the oppression is imposed gradually and with increasing weight.
-
-
-{{< q a="smith" >}}
+{{< q a="smith" c="The Wealth of Nations Simplified, Book 5, Chapter 3" >}}
 This practice puts off the liberation of the public revenue from a fixed period to an indefinite period, never likely to come.
 
 However, it raises more money than the old practice of anticipation.
@@ -72,9 +59,16 @@ However, it raises more money than the old practice of anticipation.
 When men became familiar with funding, it became universally preferred to anticipation during great state exigencies.
 
 Relieving the present exigency is always the object of government. The future liberation of the public revenue they leave to the care of posterity.
-<cite>The Wealth of Nations Simplified, Book 5, Chapter 3</cite>
 {{< /q >}}
 
+
+The merchant class is happy with the debt because the debt is facilitated by their own class. Bigger debts mean a bigger merchant class. The giant problem with this is that merchants are classified as **unproductive labor**. They move goods and services around, **but do not create any goods and services themselves** (other than financial services). This is why wealthy civilizations, like the Roman Empire and Song Dynasty collapsed after losing their innate productivity.  
+
+ <!-- The 3 other classes are oppressed by it since money is not their expertise.  -->
+
+{{< q a="smith" c="The Wealth of Nations Simplified, Book 4, Chapter 7" >}}
+In her present condition, Great Britain resembles an unwholesome body with some overgrown vital parts. Her blood vessel was artificially swelled beyond natural by the industry and commerce forced to circulate in it. A small stop in that great blood-vessel will bring the most dangerous disorders on the whole political body.
+{{< /q >}}
 
 
 
@@ -133,7 +127,7 @@ France has its own version of constitutional virtues as:
 
 With this new identity, the people stop being Filipinos or subjects or employees of King Philip, and become Maharlikan, an independent people with their own mind.  
 
-{{<img src="/photos/medieval/lapu.jpg" alt="Lapu Lapu" cap="Lapu Lapu is the first Western-recorded person to exhibit Maharlikan virtues. Datu Puti and the Negrito king who welcomes him are also pre-colonial examples." >}}
+{{<img src="/photos/medieval/lapu.jpg" alt="Lapu Lapu" cap="Lapu Lapu is the first Western-recorded person to exhibit Maharlikan virtues. Datu Puti and the Negrito king who welcomes him are other pre-colonial examples." >}}
 
 These virtues can lead to a new culture and rules that can replace the morals of Spanish Catholicism and American liberalism. They will be the template for policy-changes that can be implemented until the 2050's when our model predicts a big social change to happen. 
 
@@ -209,7 +203,7 @@ In 2006, Mrs Arroyo issued an executive order legalising the informal private "a
 
 This contributes to rent-seeking and low productivity since the people are under a leader that owes his rule to Manila instead of the locals.
 
-Maharlikanism suggests a [federation of 27 states](/maharlika/governance/federalism) that will spur and maximize the productivity of the people. 
+Maharlikanism suggests a [federation of 27 states](https://maharlika.superphysics.org/governance/federalism) that will spur and maximize the productivity of the people. 
 
 The federal government will then be in charge of semi-state owned corporations that will build dams, power generation, and transportation infrastructure for the states. This is because large inftrastructure often crosses state lines.  
 - For example, each province should have its own powerplant run by the federal government with 10-90 to 30-70 equity split, with the larger belonging to investors who will provide the equipment and expertise. This will replace the centralized baseload configuration of the energy sector into a more diversified and independent one that can use solar, wind, geothermal, or hydro.   
@@ -248,11 +242,16 @@ A point is pegged to 1 kilogram of NFA rice. This will implement Adam Smith's [g
 
 
 
-A grain-based system will make the economy secure from inflation and financial crises, which we predict to happen in a few years. This system give importance to agriculture and will be the basis of the Maharlikan cooperative system.
+A grain-based system will make the economy secure from inflation and financial crises, which we predict to happen in a few years*. This new system will give importance to agriculture and will be the basis of the Maharlikan cooperative system.
+
+> *Update 2023: This actually came true as the banking crisis and FTX collapse
+
 
 <!-- This makes it a kind of delayed barter system that is based on morals instead of money, specifically pakikipagkapwa. This would make entrepreneurship cheaper since morals (trust, integrity, honesty) are free yet very expensive. --> 
 
-According to [historian Chau Ju Kua](/research/chau-ju-kua/chun-fan-chi), barter was the natural commercial system in Maharlika. So far, barter is only legal in Sulu through the Mindanao Barter Council. 
+According to [historian Chau Ju Kua](/research/chau-ju-kua/chun-fan-chi), barter was the natural commercial system in Maharlika and was even a source of pride for the natives. 
+
+<!-- So far, barter is only legal in Sulu through the Mindanao Barter Council.  -->
 
 {{< q >}}
 The native traders will bring those goods to other islands for barter. It will take 8-9 months for them to return. They then repay the foreign merchants with what they had obtained for the goods.
@@ -352,23 +351,22 @@ This low productivity is in turn is caused by overpopulation:
 - Instead of one child getting money for tuition in a good school, having many children splits up the tuition as to afford only inferior schools, or even no education for the other children 
 - Instead of 100,000 workers using a train meant for 100,000 passengers to get to their workplace on time, a population of 400,000 will cause a congestion in transportation, causing a delay for all of them, reducing their productivity.  
 
-This overpopulation is caused by the Roman Catholic system*. The Philippine ban on population control leads to an oversupply of Filipinos which lowers productivity and makes them cheap. This causes them to move overseas as cheap labor, called Overseas Filipino Workers (OFWs). 
+This overpopulation is caused by the Roman Catholic system*. The Philippines' lack of population control leads to an oversupply of Filipinos. This lowers productivity and makes them cheap. This causes them to move overseas as cheap labor, called Overseas Filipino Workers (OFWs). 
 
 
-{{< q a="mont" >}}
+{{< q a="mont" c="The Spirit of the Laws, Book 23, Chapter 22" >}}
 The Romans therefore had laws against abortion but did not follow them.
-<cite>The Spirit of the Laws, Book 23, Chapter 22</cite>
 {{< /q >}}
  
 
-> *The Roman Empire relied on military dominance through its citizen-army. This is why it encouraged marriage and banned divorce among Romans and disproved of abortion. Maharlika is not an empire and so such Catholic policies are irrelevant. 
+> *The Roman Empire relied on military dominance through its citizen-army. This is why it encouraged marriage, banned divorce, and disproved of abortion among the Romans. Maharlika is not an empire and so such Catholic policies are irrelevant. 
 
 
 
-{{< q a="smith" >}}
+{{< q a="smith" c="The Wealth of Nations Simplified, Book 1, Chapter 8" >}}
 Laws can never regulate wages properly, though it has often pretended to do so.
-<cite>The Wealth of Nations Simplified, Book 1, Chapter 8</cite>
 {{< /q >}}
+
 
 
 ### 8.  Tree-Planting Employment (Environmentalism)

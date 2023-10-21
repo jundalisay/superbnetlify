@@ -1,3 +1,9 @@
+{{< q a="smith" c="The Wealth of Nations Simplified, Book 5, Chapter 2" >}}
+The middle and upper classes, if they understand their own interest, should always oppose all taxes on necessities and direct taxes on the wages of labour. The final payment of such taxes all fall on themselves, with a big overcharge.
+{{< /q >}}
+
+
+
 American culture teaches everyone to proft from everyone. Superphysics: That is the necessary effect of liberalism.
 
 Translate to Spanish: How can we stop Covid-19? What is the solution to terrorism? Can poverty and inequality be solved? How do we prevent global warming? What is gravity? What came before the 'big bang'? Where does life come from? Does God exist? All these questions remain unanswered by Science because it is limited to the five senses. We need a new framework of knowledge that goes beyond the obvious and into the root causes of phenomena so that we can answer questions conclusively. That's why we created Superphysics. Superphysics is a new paradigm that combines science and metaphysics in order to answer the unanswered, and solve the unsolved. It unifies the scientific knowledge of the West and the intuitional traditions of the East so that we can view the world from a fresh, new perspective. Don't be stuck at mysteries. Find answers through Superphysics.
