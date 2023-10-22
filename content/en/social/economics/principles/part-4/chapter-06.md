@@ -6,9 +6,6 @@ weight: 28
 image: /photos/city.jpg
 description: "The same maxims given by Adam Smith on economic development which he observed from the Roman times up to his time in 1776 will still apply to humans from 1777 onwards until the human homo-sapiens change into homo-futurus"
 author: Dalisay
-aliases:
-  /social/economics/principles/development/    
-  /posts/taonomics/economic-development-from-zero/    
 ---
 
 

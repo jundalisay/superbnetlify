@@ -9,9 +9,6 @@ image: /graphics/super/5layers4.jpg
 description: "Superphysics unifies Physics and Metaphysics to solve the problems unsolved by science"
 author: Juan
 icon: /icons/sp.png
-aliases:
-  /articles/superphysics/what-is-superphysics/
-  /superphysics/what-is-superphysics/  
 comments:
   - img: "/avatars/lam.jpg"
     name: "Lam"

@@ -74,7 +74,7 @@ tricon2:
 
 articles2:
   items:
-    - url : "/material/principles/five-layers/"
+    - url : "/material/principles/intro/chapter-01/"
       img : "/graphics/physics/general.jpg" 
       title : "Die fünf Schichten der Superphysik"
       subtitle : "Das Materielle, Radioaktive, Strahlende, Räumliche und Ätherische"
@@ -89,17 +89,17 @@ tricon3:
   title : "Bio Superphysik"
   subtitle : "Basierend auf der Dynamik der empfindungsfähigen Energie"
   icon : "/icons/spmed.png"  
-  link: "/medical/principles"
+  link: "/bio/principles"
   items:
-    - url : "/medical/physical/principles/5-paradigms"
+    - url : "/bio/principles/principles/part-04/chapter-03"
       icon : "<svg xmlns:'http://www.w3.org/2000/svg' fill='crimson' height='80' viewBox='0 0 576 512'><path d='M546.2 9.7c-5.6-12.5-21.6-13-28.3-1.2C486.9 62.4 431.4 96 368 96h-80C182 96 96 182 96 288c0 7 .8 13.7 1.5 20.5C161.3 262.8 253.4 224 384 224c8.8 0 16 7.2 16 16s-7.2 16-16 16C132.6 256 26 410.1 2.4 468c-6.6 16.3 1.2 34.9 17.5 41.6 16.4 6.8 35-1.1 41.8-17.3 1.5-3.6 20.9-47.9 71.9-90.6 32.4 43.9 94 85.8 174.9 77.2C465.5 467.5 576 326.7 576 154.3c0-50.2-10.8-102.2-29.8-144.6z'/></svg>" 
       title : "Krebs und Krankheiten wurden durch nicht-westliche Medizin geheilt"
       subtitle : "Sehen Sie die wellenbasierten Alternativen zur teilchenbasierten westlichen Medizin"
-    - url : "/medical/principles/chapter-01"
+    - url : "/bio/principles/chapter-01"
       icon : "<svg xmlns:'http://www.w3.org/2000/svg' fill='crimson' height='80' viewBox='0 0 640 512'><path d='M96 224c35.3 0 64-28.7 64-64s-28.7-64-64-64-64 28.7-64 64 28.7 64 64 64zm448 0c35.3 0 64-28.7 64-64s-28.7-64-64-64-64 28.7-64 64 28.7 64 64 64zm32 32h-64c-17.6 0-33.5 7.1-45.1 18.6 40.3 22.1 68.9 62 75.1 109.4h66c17.7 0 32-14.3 32-32v-32c0-35.3-28.7-64-64-64zm-256 0c61.9 0 112-50.1 112-112S381.9 32 320 32 208 82.1 208 144s50.1 112 112 112zm76.8 32h-8.3c-20.8 10-43.9 16-68.5 16s-47.6-6-68.5-16h-8.3C179.6 288 128 339.6 128 403.2V432c0 26.5 21.5 48 48 48h288c26.5 0 48-21.5 48-48v-28.8c0-63.6-51.6-115.2-115.2-115.2zm-223.7-13.4C161.5 263.1 145.6 256 128 256H64c-35.3 0-64 28.7-64 64v32c0 17.7 14.3 32 32 32h65.9c6.3-47.4 34.9-87.3 75.2-109.4z'/></svg>" 
       title : "Du hast 3 Milliarden Selbst"
       subtitle : "'Du' besteht aus einer sich ändernden Welle von 'Dir'"
-    - url : "/medical/physical/smith-veg"
+    - url : "/bio/smith-veg"
       icon : "<svg fill='crimson' height='80' viewBox='0 0 640 512'><path d='M298.2 156.6c-52.7-25.7-114.5-10.5-150.2 32.8l55.2 55.2c6.3 6.3 6.3 16.4 0 22.6-3.1 3.1-7.2 4.7-11.3 4.7s-8.2-1.6-11.3-4.7L130.4 217 2.3 479.7c-2.9 6-3.1 13.3 0 19.7 5.4 11.1 18.9 15.7 30 10.3l133.6-65.2-49.2-49.2c-6.3-6.2-6.3-16.4 0-22.6 6.3-6.2 16.4-6.2 22.6 0l57 57 102-49.8c24-11.7 44.5-31.3 57.1-57.1 30.1-61.7 4.5-136.1-57.2-166.2zm92.1-34.9C409.8 81 399.7 32.9 360 0c-50.3 41.7-52.5 107.5-7.9 151.9l8 8c44.4 44.6 110.3 42.4 151.9-7.9-32.9-39.7-81-49.8-121.7-30.3z'/></svg>" 
       title : "Adam Smith, der Vegetarier"
       subtitle : "Der Gründer der wirtschaftlichen Studie bevorzugte Gemüse, insbesondere Kartoffeln, gegenüber Fleisch"
@@ -107,7 +107,7 @@ tricon3:
 
 articles3:
   items:
-    - url : "/medical/solutions/covid/"
+    - url : "/bio/solutions/covid/"
       img : "/photos/med/covid.jpg" 
       title : "Wie man Covid stoppt"
       subtitle : "Es ist immer noch da! Die eingegrenzte Wissenschaft ist nicht in der Lage, es zu lösen"

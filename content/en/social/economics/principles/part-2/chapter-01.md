@@ -7,10 +7,8 @@ image: "/graphics/econ/law2.jpg"
 description: "The Second Law states that real value emerges from nominal value and is maximized by following one's true interests or true nature or dharma. Unlike Economics which imposes the interests of others, Superphysics encourages everyone to know true interest or purpose of their lives that has value to society"
 author: Juan Dalisay Jr
 weight: 10
-aliases:
-  /pantrynomics/second-law
-  /social/economics/principles/second-law
 ---
+
 
 <!-- ### The Second Law of Value: The Invisible Hand of Dharma as Real Prices -->
 

@@ -8,9 +8,6 @@ description: "AI is autonomous and not artificial because it is derived from nat
 author: Juan
 weight: 48
 icon: /icons/sp.png
-aliases:
-  /articles/superphysics/ai-is-autonomous/
-  /superphysics/ai-is-autonomous/  
 ---
 
 

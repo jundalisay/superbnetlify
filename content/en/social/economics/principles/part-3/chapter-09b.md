@@ -9,8 +9,6 @@ description : "Import Substitution is for austere, while Export Promotion is for
 youtube: "rVP73TV2X0s"
 author: Juan
 icon: /icons/pantry.png
-aliases:
-  /social/economics/import-substitution-vs-export-promotion
 ---
 
 

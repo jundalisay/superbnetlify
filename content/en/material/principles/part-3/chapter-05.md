@@ -1,5 +1,5 @@
 ---
-title: "Gravitational Lensing as Heliosphere Refraction"
+title: "Refraction and Deflection"
 heading: Chapter 5
 # heading: Electromagnetism in Physics, Spreading through space
 date: 2023-05-27
@@ -18,6 +18,8 @@ In Cartesian Physics, there are 3 kinds of refraction of starlight (gravitationa
 3. Material
 
 
+## Gravitational Lensing as Heliosphere Refraction
+
 The 1919 Eddington experiment is a stellar gravitational lensing.
 
 Galactic gravitational lensing are the more common ones such as galaxy cluster Abell 1689.
@@ -25,3 +27,6 @@ Galactic gravitational lensing are the more common ones such as galaxy cluster A
 Descartes explained that these are caused by the heliospheres of stars and galaxies, and not their mass. 
 
 This is why Cartesian Physics predicts that there is none or insignificant lensing in planets (as material lensing).
+
+
+

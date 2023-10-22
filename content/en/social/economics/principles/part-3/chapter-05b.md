@@ -9,8 +9,6 @@ description : "People think that an inverted yield curve is the sole indicator o
 youtube: "rVP73TV2X0s"
 author: Juan
 icon: /icons/pantry.png
-aliases:
-  /social/economics/inverted-yield-curve
 ---
 
 

@@ -1,6 +1,6 @@
 ---
 heading: "Chapter 2b"
-title: "Stores of Value"
+title: "Human Needs"
 weight: 12
 # date: 2022-08-25
 image: /covers/econsp.jpg
@@ -9,43 +9,30 @@ author: Dalisay
 ---
 
 
-The First Law of Value states that everything has value. 
+We can simplify human needs in terms of importance:
 
-Here we explain the store of that value which is the objectification done by the mind for the sake of processing that idea of value. We divide this store as commodity-based and non commodity-based 
+1. Security and Justice
+
+This leads to Governance Supereconomics together with the rest.
+
+2. Food and Water
+
+This leads to Agricultural Supereconomics 
+
+3. Clothing
 
 
-## Non-Commodities 
+4. Lodging
 
-
-### Contracts and Promises 
-
-### Land Titles
-
-### Securities 
-
-### Abstract Points
-
-## Commodities 
-
-## Goods and Things
-
-## Money 
-
-Money comes from the Latin *moneta* which means mint, which is the act of converting metal into coins. 
-
-Currency is money that is the current medium of exchange. For example, an online game might use credits as its in-game currency. 
-
-A money becomes legal tender if the government allows it to be used for payments, including the payment of taxes and the settlement of debts.
-
-#### Fiat Money
+5. Education and Communication
 
 
 
-#### Cryptocurrency
+6. Transportation
 
-El Salvador is an example of a country that has legalized Bitcoin, making it a legal tender.    
+7. Healthcare
 
+8. Entertainment 
 
-### Tangible Points
-
+9. Spiritual and Psychological Needs
 

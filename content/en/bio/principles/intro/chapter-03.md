@@ -1,7 +1,6 @@
 ---
-
 heading: Chapter 3
-title: "The 5 Layers Applied to the Soul"
+title: "The Chakras as the 5 Layers Applied to the Soul"
 linkTitle: "Five Layers"
 description: "The 5 Layers Applied to the Soul leads to the 7 Chakras"
 # date: "2020-10-15"

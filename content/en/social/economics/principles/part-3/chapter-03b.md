@@ -7,10 +7,8 @@ weight: 24
 image: "/photos/objects/money.jpg"
 description: Money conquered the world after the Spanish discovered silver mines in South America. This gave fuel for colonization and the oppression of the world.
 youtube: "OV1JHTiDdkQ"
-author: Dalisay
+author: Juan
 icon: /icons/pantry.png
-aliases:
-  /social/economics/problems-with-money
 ---
 
 

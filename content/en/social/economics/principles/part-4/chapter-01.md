@@ -7,8 +7,6 @@ weight: 14
 image: /graphics/econ/law4.jpg
 description: "The Fourth Law of Value states that economc balance must be maintained to allow natural prices and prevent the economy from being too unequal or unsustainable"
 author: Dalisay
-aliases:
-  /social/economics/principles/fourth-law
 ---
 
 

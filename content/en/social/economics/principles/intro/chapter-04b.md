@@ -5,7 +5,7 @@ weight: 14
 # date: 2022-03-24
 image: "/photos/buy.jpg"
 description: "Here is a table for the four classifications of Exchangeable value in supereconomics, using 'price' as its snapshot"
-author: Juan Dalisay Jr
+author: Juan
 ---
 
 

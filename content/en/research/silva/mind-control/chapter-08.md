@@ -31,28 +31,26 @@ Let's consider the implications of this.
 Words, "mere" words, affected your salivary glands.
 
 The words did not even reflect reality, but something you imagined. When you read those words about the lemon you were telling your brain you had a lemon,
-though you did not mean it. Your brain took it seriously
-and said to your salivary glands, "This guy is biting a
-lemon. Hurry, wash it away." The glands obeyed.
-Most of us think the words we use reflect meanings
-and that what they mean can be good or bad, true or
-false, powerful or weak. True, but that is only half of it
-Words do not just reflect reality, they create reality, like the flow of saliva.
+though you did not mean it. Your brain took it seriously and said to your salivary glands, "This guy is biting a lemon. Hurry, wash it away." The glands obeyed.
+Most of us think the words we use reflect meanings and that what they mean can be good or bad, true or false, powerful or weak. 
 
-The brain is no subtle interpreter of our intentions—>it receives information and stores it, and it is in charge
-of our bodies. Tell it something like Tm now eating a lemon," and it goes to work.
-Now it is time for what in Mind Control we call "mental housecleaning." There is no exercise for this,
-just a determination to be careful about what words we use to trigger our brains.
-The exercise we did was a neutral one—physically, no good or harm came of it But good as well as harm
-can come from the words we use. 
+True, but that is only half of it Words do not just reflect reality, they create reality, like the flow of saliva.
 
-Many children play a little game at dinner. They describe the food they are eating in the most nauseating
-possible terms: Butter is mashed bugs, to choose one of the less colorful ones I remember. The object of the
-game is to pretend not to be nauseated by these new perspectives on food and to push someone else beyond
+The brain is no subtle interpreter of our intentions—>it receives information and stores it, and it is in charge of our bodies. 
+
+Tell it something like Tm now eating a lemon," and it goes to work.
+
+Now it is time for what in Mind Control we call "mental housecleaning." There is no exercise for this, just a determination to be careful about what words we use to trigger our brains. 
+
+The exercise we did was a neutral one—physically, no good or harm came of it But good as well as harm can come from the words we use. 
+
+Many children play a little game at dinner. They describe the food they are eating in the most nauseating possible terms: Butter is mashed bugs, to choose one of the less colorful ones I remember. The object of the game is to pretend not to be nauseated by these new perspectives on food and to push someone else beyond
 his ability to pretend. It often works, with someone's appetite suddenly dulled.
 
-As adults we often play this same game. We dull our appetite for life with negative words, and the words,
-gathering power with repetition, in turn create negative lives, for which our appetites become dulled.
+As adults we often play this same game. 
+
+We dull our appetite for life with negative words, and the words, gathering power with repetition, in turn create negative lives, for which our appetites become dulled.
+
 "How are you?"
 
 "Ah—can't complain," or "No use complaining," or "Not too bad."
@@ -80,65 +78,44 @@ I never laughed at Ernile Coue, though in these sophisticated times many do. He 
 tence which nowadays evokes laughter as reliably as the punch line of a joke: "Day by day, in every way, I
 am getting better and better." 
 
-These words have cured thousands of persons of grimly serious illnesses! They are no joke; I respect them and I regard Dr. Cou6 with awe and gratitude, for I have learned priceless lessons from his book Self-Mastery Through Autosuggestion
-(New York: Samuel Weiser, 1974).
-Dr. Cou6 was a chemist for almost thirty years in
-Troyes, France, where he was born. After studying and
-experimenting with hypnosis, he developed a psycho-
-therapy of his own, based on autosuggestion. In 1910
-he opened a free clinic in Nancy, where he successfully
-treated thousands of patients, some with rheumatism,
-severe headaches, asthma, paralysis of a limb, others with
-stammering, tubercular sores, fibrous tumors, and ulcers
-—an amazing variety of afflictions. He never cured
-anyone, he said; he taught them to cure themselves.
-There is no doubt that the cures occurred—they are
-well documented—but the Cou6 method has almost
-entirely disappeared since his death in 1926. 
+These words have cured thousands of persons of grimly serious illnesses! They are no joke; I respect them and I regard Dr. Cou6 with awe and gratitude, for I have learned priceless lessons from his book Self-Mastery Through Autosuggestion (New York: Samuel Weiser, 1974).
 
-Had this
-method been so complex that only a few specialists could learn to practice it it might be alive and well today. It is a simple method. Everyone can learn it The heart of it is in Mind Control.
+Dr. Cou6 was a chemist for almost thirty years in Troyes, France, where he was born. After studying and experimenting with hypnosis, he developed a psychotherapy of his own, based on autosuggestion. 
+
+In 1910 he opened a free clinic in Nancy, where he successfully treated thousands of patients, some with rheumatism, severe headaches, asthma, paralysis of a limb, others with stammering, tubercular sores, fibrous tumors, and ulcers —an amazing variety of afflictions. He never cured anyone, he said; he taught them to cure themselves.
+
+There is no doubt that the cures occurred—they are well documented—but the Cou6 method has almost entirely disappeared since his death in 1926. 
+
+Had this method been so complex that only a few specialists could learn to practice it it might be alive and well today. It is a simple method. Everyone can learn it The heart of it is in Mind Control.
 
 There are two basic principles:
 1. We can think of only one thing at a time, and
 2. When we concentrate on a thought the thought
 becomes true because our bodies transform it into action.
 
-Therefore, if you want to trigger your body's healing
-processes, which may be blocked by negative thoughts
-(conscious or unconscious), just repeat twenty times in
-succession, "Day by day, in every way, I am getting
-better and better." Do this twice a day and you are
-using the Cou6 method.
+Therefore, if you want to trigger your body's healing processes, which may be blocked by negative thoughts
+(conscious or unconscious), just repeat twenty times in succession, "Day by day, in every way, I am getting
+better and better." Do this twice a day and you are using the Cou6 method.
 
-Since my own research has shown that the power of
-words is greatly amplified at meditative levels, I have62 
-made some adaptations of this method. At Alpha and
-Theta levels we say, "Every day, in every way, I am
-getting better, better, and better." We say it only once
-during meditation. We also say—and this too is Dr.
-Coup's influence—"Negative thoughts, negative sugges-
-tions, have no influence over me at any level of mind."
-These two sentences alone have produced an impres-
-sive number of concrete results. Of particular interest
-is the experience of a soldier who was suddenly shipped
-to Indochina before he could complete more than the
-first day of the Mind Control course. 
+Since my own research has shown that the power of words is greatly amplified at meditative levels, I have62 
+made some adaptations of this method. At Alpha and Theta levels we say, "Every day, in every way, I am
+getting better, better, and better." 
 
-He remembered
-how to meditate and he remembered these two sentences.
+We say it only once during meditation. We also say—and this too is Dr. Coup's influence—"Negative thoughts, negative sugges-
+tions, have no influence over me at any level of mind." 
 
-He was assigned to the unit of an alcoholic sergeant with a fiery temper, who singled out the new arrival for
-special abuse. In a few weeks he began to awaken during the night with fits of coughing, then with attacks of
-asthma, which he had never had before. An exhaustive
-medical examination showed that he was in perfect
-health. Meanwhile he grew more and more tired; he
-began to perform poorly at his job; and he attracted
-even more unpleasant attention from his sergeant
-Others in his unit were turning to drugs; he turned to
-Mind Control and these two sentences. Fortunately he
-was able to meditate three times a day. "In three days,
-I had complete immunity to that sergeant. I did what
+These two sentences alone have produced an impressive number of concrete results. Of particular interest
+is the experience of a soldier who was suddenly shipped to Indochina before he could complete more than the
+first day of the Mind Control course.  
+
+He remembered how to meditate and he remembered these two sentences.
+
+He was assigned to the unit of an alcoholic sergeant with a fiery temper, who singled out the new arrival for special abuse. In a few weeks he began to awaken during the night with fits of coughing, then with attacks of asthma, which he had never had before. An exhaustive
+medical examination showed that he was in perfect health. 
+
+Meanwhile he grew more and more tired; he began to perform poorly at his job; and he attracted even more unpleasant attention from his sergeant
+Others in his unit were turning to drugs; he turned to Mind Control and these two sentences. Fortunately he
+was able to meditate three times a day. "In three days, I had complete immunity to that sergeant. I did what
 he told me to do, but nothing he said could reach me.
 
 In a week I stopped coughing and my asthma was gone."

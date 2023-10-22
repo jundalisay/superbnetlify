@@ -1,5 +1,6 @@
 ---
-title: "How To Help Others With Mind Control"
+title: Psychic Healing
+# title: "How To Help Others With Mind Control"
 heading: "Chapter 14"
 weight: 28
 image: "/covers/silva.jpg"
@@ -9,27 +10,21 @@ author: Jose Silva
 
 
 
-Detecting illnesses in persons you have never seen is astonishing enough, but we never let it go at that Into
-the bodies where we project our awareness we also project healing.
+Detecting illnesses in persons you have never seen is astonishing enough. But we never let it go at that Into the bodies where we project our awareness we also project healing.
 
-Obviously there is an energy involved in mental projection, an energy aimed by the intentions of our minds.
+There is an energy involved in mental projection, an energy aimed by the intentions of our minds.
+
 Change these intentions from information gathering to healing and we change what the energy does.
-How do we link our intentions to this energy so that it accomplishes what we want? The intention alone, in
-its pure form, is something like the will. 
 
-The will alone is of very little use. Just as we detect abnormalities by visualizing
-them, we visualize conditions as we want them to be—
-without the abnormalities. This is psychic healing. It's
-as simple as that 
+How do we link our intentions to this energy so that it accomplishes what we want? The intention alone, in its pure form, is something like the will. 
 
-For most of the healing that you will want to do, it will not be necessary to master the technique of work-
-ing cases. You can become an effective psychic healer simply by using your mental screen as you do in prob-
-lem solving. In fact, even if you are in the early stages of meditation and visualization, you may still achieve
-some effective results.
+The will alone is of very little use. Just as we detect abnormalities by visualizing them, we visualize conditions as we want them to be without the abnormalities. This is psychic healing. 
 
-Many of life's possibilities hang in a precarious balance. One little push and you can tip this balance your
-way. Sometimes, of course, the balance is already tipped and it takes a more accomplished psychic—
-which you will become—to tip h back. 
+For most psychic healing, it will not be necessary to master the technique of working cases. You can become an effective psychic healer simply by using your mental screen as you do in problem solving. 
+
+In fact, even if you are in the early stages of meditation and visualization, you may still achieve some effective results.
+
+Many of life's possibilities hang in a precarious balance. One little push and you can tip this balance your way. Sometimes, of course, the balance is already tipped and it takes a more accomplished psychic—which you will become—to tip h back. 
 
 If you wait until you are as effective at Mind Control as you would like to be before you begin psychic healing you will waste
 priceless opportunities to provide needed help.
@@ -56,50 +51,45 @@ I went to see him. "I think I can help you," I said.
 been working on parapsychology and we have obtained
 results much like those of faith healing, with which you
 are familiar."110 
-As soon as I said the words "results much like those
-of faith healing," the priest became more concerned for
+
+As soon as I said the words "results much like those of faith healing," the priest became more concerned for
 me than for himself. Parapsychology?
-"I have never heard of such a science. I trust you
-are not getting into anything of which our Holy Church
+
+"I have never heard of such a science. I trust you are not getting into anything of which our Holy Church
 would disapprove."
-I explained, as best I could, some of the principles
-of parapsychology I had learned and how healings can
-be triggered. Nothing that I said seemed to mesh with
-this man's theology. He promised to look into it further
-and perhaps call me sometime soon. The look of com-
-passion on his face and the sound of disbelief in his
-voice gave me no hope at all that I would hear from
-him again. I knew, though, that he would pray for my
-protection from dangers so serious in his mind that they
+
+I explained, as best I could, some of the principles of parapsychology I had learned and how healings can
+be triggered. Nothing that I said seemed to mesh with this man's theology. He promised to look into it further
+and perhaps call me sometime soon. 
+
+The look of compassion on his face and the sound of disbelief in his voice gave me no hope at all that I would hear from
+him again. I knew, though, that he would pray for my protection from dangers so serious in his mind that they
 dwarfed even his own plight.
-I did hear from the priest a month later and once
-again sat by his bedside.
-"Jos6, as you know, the Lord leads us in strange
-ways. A few days after your visit I received a circular
-reviewing a book written by one of the brothers in our
-order. I found a whole chapter devoted to this para-
-psychology you were explaining to me the other day.
-Now I understand this a little better and I am willing to
-let you try your work on me."
-I sat with him for over an hour and spoke of my
-reading and some of the work I had done. The longer I
-remained, the more I liked the man. Finally he grew
-tired and it was time to leave.
-"All right then," he said, "when shall we start the
-treatment?"
+
+I did hear from the priest a month later and once again sat by his bedside.
+"Jose, as you know, the Lord leads us in strange ways. 
+
+A few days after your visit I received a circular reviewing a book written by one of the brothers in our
+order. I found a whole chapter devoted to this parapsychology you were explaining to me the other day.
+Now I understand this a little better and I am willing to let you try your work on me."
+
+I sat with him for over an hour and spoke of my reading and some of the work I had done. The longer I
+remained, the more I liked the man. Finally he grew tired and it was time to leave.
+"All right then," he said, "when shall we start the treatment?"
 "Father, it has already started."
 "But I don't understand."
-"This thing is mental, Father, and while we were
-talking I have done the initial work."
-I did the rest of the work at home that night The
-How to Help Others with Mind Control / 111
-next morning the priest was on the telephone and with
-surprise and joy in his voice reported mat a great im-
-provement had taken place during the night
-Three days after my visit he could walk and kneel,
-and he has never since experienced discomfort in his
+
+"This thing is mental, Father, and while we were talking I have done the initial work."
+I did the rest of the work at home that night.
+
+The next morning the priest was on the telephone and with surprise and joy in his voice reported mat a great im-
+provement had taken place during the night 
+
+Three days after my visit he could walk and kneel, and he has never since experienced discomfort in his
 knees. A miracle? No, a purely natural phenomenon.
+
 Here is how I did it
+
 Daring the more-than-an-hour chat we were both
 alert and relaxed, two conditions helpful in healing.
 The subjects we discussed gave him added confidence

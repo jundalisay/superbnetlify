@@ -1,11 +1,11 @@
 ---
-heading: Chapter 4
+heading: Chapter 6e
 title: Feelings vs Sentiments vs Emotions vs Sensations
 date: 2020-05-26
 image: /photos/sad.jpg
 description: "Feelings, Sentiments, Emotions, Sensations are similary yet different"
 author: Juan
-weight: 10
+weight: 23
 icon: /icons/sp.png
 ---
 

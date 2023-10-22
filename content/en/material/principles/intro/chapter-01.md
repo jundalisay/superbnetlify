@@ -5,12 +5,8 @@ date: 2020-01-01
 image: "/graphics/physics/egllayers.png"
 description: "The common conclusion of the ancient Greeks, Hindus, and Chinese"
 author: Juan
-weight: 4
+weight: 3
 icon: /icons/pantry.png
-# aliases:
-#   /articles/material/what-are-the-five-layers-of-superphysics
-#   /material/five-layers-of-superphysics
-#   /material/principles/five-layers
 ---
 
 

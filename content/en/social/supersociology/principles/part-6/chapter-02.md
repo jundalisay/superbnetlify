@@ -1,12 +1,58 @@
 ---
-title: Part 2
-heading: "Part 2: Human Rights"
-description: "Perpetual Unity is based on feelings."
+title: The Unity Constitution
+heading: "Chapter 2a"
+description: "This is the suggested constitution of a unified human species"
 image: "/covers/unity.jpg"
-author: Juan Dalisay Jr.
-weight: 4
+date: 2022-06-12
+author: Juan
+weight: 2
 ---
 
+
+
+## Declaration of Perpetual Unity
+
+### The Ego as the Source of Problemms
+
+The ego is the feeling of the self. The self is the identity perceived from the separation of identities. 
+
+I am a me-identity. You are you-identity. The serparation between you and me is caused by our egos. 
+
+Egos are stifled or made less significant when identities are merged, such as when you and I form a partnership, a brotherhood, or a team. In society, this happens when two people marry, or when two or more people create associations, companies, and societies. 
+
+Society is the  
+
+
+## Feelings
+
+**Article 1: The Feelings**
+
+All actions come from feelings. 
+
+
+**Article 2: Virtues** 
+
+A virtue is a combination of specific feelings which aim at positive results, agreeable to humans in general. 
+
+
+**Article 3: Detestable Vices**
+
+Vices are the opposite of virtue. Detestable vices are those that are abhorrent to the general human feelings. Examples are:
+
+- mass murder and genocide
+- mutilation and violent rape
+
+Humans who carry such feelings with the intention of realizing them are to be called "inhumane". 
+
+
+**Article 4: Eradicating Detestable Vices**
+
+We will aim to eradicate such feelings and detestable vices from having a chance of breeding in human minds and hearts through a comprehensive approach tapping into morals, traditions, religions, systems, laws, and policies. 
+
+
+
+
+## Cardinal Human Rights
 
 **Article 5: Condition**
 
@@ -50,8 +96,6 @@ Article 8
 Everyone has the right to an effective remedy by the competent national tribunals for acts violating the fundamental rights granted him by the constitution or by law.
 
 
-
-
 Article 10
 
 Everyone is entitled in full equality to a fair and public hearing by an independent and impartial tribunal, in the determination of his rights and obligations and of any criminal charge against him.
@@ -69,3 +113,5 @@ Article 12
 No one shall be subjected to arbitrary interference with his privacy, family, home or correspondence, nor to attacks upon his honour and reputation. 
 
 Everyone has the right to the protection of the law against such interference or attacks.
+
+

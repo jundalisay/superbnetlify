@@ -1,6 +1,6 @@
 ---
-heading: Chapter 1
-title: "The Fourth Branch of Government"
+heading: Chapter 2
+title: "The Resources Branch of Government"
 date: 2017-04-26
 weight: 12
 image: "/photos/objects/gavel.jpg"
@@ -8,11 +8,7 @@ description: "We propose a Fourth Branch of Government called the Resources bran
 author: Juan
 icon: /icons/spss.png
 aliases:
-  /solutions/supersociology/fourth-branch-of-government
-  /supersociology/fourth-branch-of-government/
-  /articles/fourth-branch-of-government/
-  /articles/governance/fourth-branch-government/
-  /social/supersociology/principles/fourth-branch
+  /social/supersociology/principles/part-5/fourth-branch
 ---
 
 

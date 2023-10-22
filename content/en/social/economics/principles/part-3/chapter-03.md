@@ -8,9 +8,6 @@ weight: 22
 image: /photos/buy.jpg
 description: ""
 author: Dalisay
-aliases:
-  /articles/pantrynomics/barter-disadvantages-addressed
-  /social/economics/barter-disadvantages-addressed
 ---
 
 

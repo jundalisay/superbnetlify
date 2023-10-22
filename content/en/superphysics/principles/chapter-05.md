@@ -1,7 +1,5 @@
 ---
 title: "Desire and the Two Forces"
-# title: "Everything is an Idea"
-#, Propelled by Feelings
 heading: "Chapter 5"
 
 date: 2020-01-02

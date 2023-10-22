@@ -18,9 +18,9 @@ It is basically unsound to use Mind Control techniques for anything but importan
 
 But how many of us have memories as efficient as we would like?
 
-Yours may already be improving in unexpected ways if you have mastered the techniques described in the
-previous two chapters. Your new ability to visualize and re-create past events while you are in Alpha has
-a certain carry-over to Beta, so without any special effort your mind may be working in new ways for you.
+<!-- Yours may already be improving in unexpected ways if you have mastered the techniques described in the previous two chapters.  -->
+
+Your new ability to visualize and re-create past events while you are in Alpha has a certain carry-over to Beta, so without any special effort your mind may be working in new ways for you.
 
 Still, there is room for improvement In Mind Control classes we have a special visualization exercise. In this exercise the lecturer writes num-
 bers from one to thirty on a blackboard, then the students call out the names of objects—snowball, roller skate, ear plug—whatever comes to mind. He writes each word opposite a number, turns away from die blackboard, and recites them in order. Students call out
@@ -91,9 +91,7 @@ Between the two there was friendship and confidence.
 
 Came time for her delivery and she went routinely under general anesthesia and gave birth to a healthy baby.
 
-Later, when her physician visited her in her hospital room, she was strangely distant even hostile toward
-him. Neither she nor her physician could account for her changed attitude, and both were eager to find some
-explanation for it They decided to try, through hypnosis, to uncover some hidden memory that might ex-
+Later, when her physician visited her in her hospital room, she was strangely distant even hostile toward him. Neither she nor her physician could account for her changed attitude, and both were eager to find some explanation for it They decided to try, through hypnosis, to uncover some hidden memory that might ex-
 plain her sudden change.
 
 Under hypnosis she was led through time regression, from her most recent experience with her physician back to earlier ones. They did not have far to go. 
@@ -101,27 +99,14 @@ Under hypnosis she was led through time regression, from her most recent experie
 In a deep trance, instead of skipping over the period when she was "unconscious" in the delivery room, she recounted everything the doctor and nurses had said. 
 
 What they said in the presence of the anesthetized patient was at times clinically detached, at other times
-humorous, and at other times they expressed annoyance
-at the slow progress of her delivery. She was a thing,
-not a person; her feelings were not considered. After alt
-she was unconscious, wasn't she?
+humorous, and at other times they expressed annoyance at the slow progress of her delivery. She was a thing,
+not a person; her feelings were not considered. After alt she was unconscious, wasn't she?
 
-I question whether it is possible ever to be Unconscious. We either can or cannot recall what we expe-
-rience, but we are always experiencing and all experiences leave memories firmly printed on the brain.
-Does this mean that with the memory techniques you
+I question whether it is possible ever to be Unconscious. We either can or cannot recall what we experience, but we are always experiencing and all experiences leave memories firmly printed on the brain. 
 
-<!-- /
-i nr.
-OII ^VA
-M11NU
-UUNTKUJL
-MKTHvJD -->
+Does this mean that with the memory techniques you are about to learn you will be able ten years from now to recall the number of this page? 
 
-are about to learn you will be able ten years from now
-to recall the number of this page? 
-
-You may not have looked at ft, but it is there; you saw it out of the corner
-of your eye, so to speak. 
+You may not have looked at ft, but it is there; you saw it out of the corner of your eye, so to speak. 
 
 Perhaps, but probably not.
 

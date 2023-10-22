@@ -7,9 +7,6 @@ description: "QE failed because profit maximization prevents money from going to
 youtube: "rVP73TV2X0s"
 author: Juan
 icon: /icons/pantry.png
-aliases:
-  /tl/articles/taonomics/why-quantitative-easing-failed/
-  /articles/pantrynomics/why-quantitative-easing-failed/  
 ---
 
 

@@ -6,8 +6,6 @@ date: 2018-06-03
 description : "The Six Types of Effort in Superphysics are Material, Immaterial, Skilled, Unskilled, Value-adding, Value-maintaining"
 image: /photos/econ/singer.jpg
 author: Dalisay
-aliases:
-  /social/economics/principles/6-efforts
 ---
 
 

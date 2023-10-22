@@ -11,9 +11,3 @@ icon: /icons/spsoc.png
 draft: true
 ---
 
-
-
-/home/jun/Pictures/graphics/soraworkers.png
-/home/jun/Pictures/graphics/soraint.png
-/home/jun/Pictures/graphics/soramerch.png
-/home/jun/Pictures/graphics/sorarule.png

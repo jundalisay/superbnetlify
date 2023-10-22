@@ -5,12 +5,8 @@ title: "The Four Laws of Exchangeable Value"
 image: /covers/econsp.jpg
 weight: 12
 description: "Unlike Economics, Superphysics takes into account cultural value and sentimental value. There are other values like environmental value, historical value, moral value, etc. which will be explained in future editions."
-author: Dalisay
+author: Juan
 ---
-
-
-<!-- Economic Superphysics explains socio-economics, as the combined dynamics of society and its economy, from the perspective of the four laws of value. 
- -->
 
 
 Suppose Barry and Adam are walking at a commercial street. They see a cake at a bakery, and an iguana at the pet store next to it. 
@@ -52,7 +48,7 @@ The value of an iguana or a cake to Adam would depend on:
 Unlike Economics, Supereconomics, as a subset of Superphysics, takes into account cultural value and sentimental value. There are other values like environmental value, historical value, moral value, etc. which will be explained in future editions.  
 
 
-## Use-Value
+## Use-Value is Personal
 
 In Neoclassical Economics, the use-value is called 'utility' and is the foundation of its theories like marginal utility.
 
@@ -73,21 +69,20 @@ This concept requires the quantification of pleasure or utility, which is then â
 
 <!--  to the general society and the personal self, just as energy has a general and special relativity.  -->
 
-Superphysics disregards marginal utility because utility is subjective. Each person gets a different level of satisfaction at every good or service, and so it would be wrong to create a rigid, objective model for dynamic, subjective utility. 
+Supereconomics disregards marginal utility because utility is subjective. Each person gets a different level of satisfaction at every good or service, and so it would be wrong to create a rigid, objective model for dynamic, subjective utility. 
 
 This error manifests as investors denying investments to sectors, industries, or goods and services that do not fit their own utility models (i.e. meet the direct return-on-investment, or ROI, that they want). This then causes economies to regularly stagnate, and even decline, due to the decline of those underinvested sectors or industries. 
 
-Instead of marginal utility, Superphysics uses **minimum requirements**, explained in Chapter 5, and **the grain index**, explained in Chapter 8.  These concepts will let people spend and invest for the essential sectors or industries of the economy, whether it is profitable or not. In this way, those sectors will remain capitalized and functioning. This will then prevent price shocks or externalities that grow into crises which harm the sustainability of the socio-economy.
+Instead of marginal utility, Supereconomics uses **minimum requirements**, explained in Chapter 5, and **the grain index**, explained in Chapter 8.  
+
+These concepts will let people spend and invest for the essential sectors or industries of the economy, whether it is profitable or not. In this way, those sectors will remain capitalized and functioning. This will then prevent price shocks or externalities that grow into crises which harm the sustainability of the socio-economy.
 
 <!-- This value is called **use-value** or  in Economics. Superphysics allows sentimental value, but since the mechanism to objectively compare sentiments is not yet established*, we shall stick to use-value. 
-
-
 > *We're working on that too -->
 
 
-## Exchangeable Value as Societal Worth
+## Exchangeable Value is Social
 <!-- Purchase Versus Buying -->
-
 
 In our example, a cake gets value because of the nature of:
 - Adam's love for his wife
@@ -106,12 +101,12 @@ The usefulness of cakes to his wife | Use Value
 These 3 make up the exchangeable value of the cake in a society. Outside of society, only use-value and sentimental value would exist. 
 
 Use-value often is opposite in worth than exchangeable value. For example:
-- diamonds have little use-value, but have a high exchangeable value because it is rare
-- water has high use-value, but has low exchangeable value because it is plentiful
+- Diamonds have little use-value because few people use them, but they have a high exchangeable value because it is rare in society
+- Water has high use-value because everyone uses it, but has low exchangeable value because it is plentiful in society
 
 This difference arises from the difference between the nature of:
-- the self-entity, here use-value dominates
-- the society-entity, here exchangeable-value dominates
+- the **self-entity**, here use-value dominates
+- the **society-entity**, here exchangeable-value dominates
 
 
 {{< box >}}
@@ -153,6 +148,7 @@ Yen-Yu gave his mother 50 times that amount.
 {{< /q >}}
 
 
+## Purchase, Barter, Buying, Selling, Commerce 
 
 In modern times, donations have been overshadowed by money-purchases. In the interest of economic justice, Adam has to give something to the baker in return.
 

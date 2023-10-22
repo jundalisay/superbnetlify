@@ -8,11 +8,6 @@ image: /photos/meta/buddhism.jpg
 description: "The Impartial Spectator of Adam Smith is the moral sense in all humans"
 author: Juan
 icon: /icons/spsoc.png
-# aliases:
-#   /articles/social/what-is-the-impartial-spectator
-#   /social/supersociology/what-is-the-impartial-spectator
-#   /social/supersociology/impartial-spectator/
-#   /superphysics/principles/impartial-spectator
 ---
 
 

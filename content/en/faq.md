@@ -142,7 +142,7 @@ By knowing the root cause of the headache. The cause could be diet, stress, cong
 
 Medical science deals with the headache by masking its pain (usually via Paracetamol) and not really dealing with what is causing the pain. This is to process patients faster since the body has its own natural healing mechanism. However, this also means that the headache can come back. Moreover, the doctor can only work with the data that the patient gives. 
 
-Bio Superphysics gets all the data about the patient to find the pattern on which **[layer](/medical/physical/principles/5-paradigms/)** the cause is in. It then routes that patient to the proper specialist whether it be from Western medicine, yoga, Chinese medicine, homeopathy, etc.  
+Bio Superphysics gets all the data about the patient to find the pattern on which **[layer](/bio/principles/principles/part-04/chapter-03/)** the cause is in. It then routes that patient to the proper specialist whether it be from Western medicine, yoga, Chinese medicine, homeopathy, etc.  
 
 <!-- 
 , on the other hand, gets not only all the data from the person to find out what the cause, but also the patterns from all the data. This is more difficult and time-consuming, but is able to give more lasting solutions.
@@ -159,7 +159,7 @@ So you want everyone to switch to alternative medicine?
 {{< /r >}}
 
 {{< l ava="Bio-Superphysics" >}}
-No. Each [medical paradigm](/medical/physical/principles/5-paradigms) is a tool dealing with the five layers. You choose the medical paradigm for the right layer of the disease just as you use a hammer for nails and a screwdriver for screws.  It would be very ineffective to use a hammer to drive screws. 
+No. Each [medical paradigm](/bio/principles/principles/part-04/chapter-03) is a tool dealing with the five layers. You choose the medical paradigm for the right layer of the disease just as you use a hammer for nails and a screwdriver for screws.  It would be very ineffective to use a hammer to drive screws. 
 
 But people often use alternative medicine for the wrong purpose and so it unfairly gets a bad reputation. 
 

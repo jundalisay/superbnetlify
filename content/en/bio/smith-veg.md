@@ -6,9 +6,6 @@ image: /photos/psych/eat.jpg
 description: "Adam Smith was a Vegetarian who favored potatoes"
 author: Juan
 icon: /icons/spmed.png
-aliases:
-   /articles/medical/adam-smith-on-vegetarian-diets
-   /medical/physical/smith-veg
 ---
 
 

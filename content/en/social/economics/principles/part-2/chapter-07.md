@@ -1,6 +1,6 @@
 ---
 heading: "Chapter 7"
-title: ""
+title: "Increased Sales"
 # date: 2022-01-20
 # date: 2022-03-27
 weight: 24

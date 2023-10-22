@@ -8,8 +8,6 @@ weight: 18
 image: "/photos/buy.jpg"
 description: "Primary and Secondary Arbitrage are incentives to value creation and circulation in Superphysics"
 author: Juan Dalisay Jr
-aliases:
-  /social/economics/principles/arbitrage
 ---
 
 

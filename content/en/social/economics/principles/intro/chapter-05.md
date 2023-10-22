@@ -5,11 +5,11 @@ title: "The Socio-Economy"
 weight: 16
 image: /photos/grains.jpg
 description: "Supereconomics is concerned with the material well-being of society."
-author: Juan Dalisay Jr
+author: Juan
 ---
 
 
-Supereconomics is concerned with the material well-being of society. 
+Since Supereconomics deals with the quenching of demand arising from the constant waves of desire, then it is concerned with the material well-being of society. 
 
 Unlike Neoclassical Economics which only focuses on money, revenue, and business, Supereconomics deals with both private wealth generation and public policy. This is in line with Classical Economics which was previously called the Political Economy. 
 

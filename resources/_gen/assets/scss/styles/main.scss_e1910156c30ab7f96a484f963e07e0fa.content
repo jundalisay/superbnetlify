@@ -6781,7 +6781,7 @@ body {
   background-color: #3a0000;
   background-image: url(/icons/einbla.png); }
 
-.hume {
+.hume, .Hume {
   background-color: #000f3a;
   background-image: url(/icons/hume.png); }
 

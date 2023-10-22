@@ -9,8 +9,6 @@ linkTitle: "Material Layer"
 weight: 2
 author: Juan
 icon: /icons/spmat.png
-aliases:
-  /material/principles/material
 ---
 
 

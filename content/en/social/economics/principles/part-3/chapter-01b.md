@@ -8,8 +8,6 @@ description: A crisis-proof economic system isn't based on static equilibrium or
 author: Juan
 icon: /icons/pantry.png
 weight: 14
-aliases:
-  /social/economics/principles/dharma
 ---
 
 

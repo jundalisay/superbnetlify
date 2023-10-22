@@ -1,5 +1,4 @@
 ---
-
 heading: Chapter 3
 title: "The 5 Medical Paradigms"
 linkTitle: "Five Paradigms"
@@ -12,10 +11,6 @@ author: "Juan"
 # categories: ["Bio Superphysics"]
 tags: ["Western Medicine", "Chinese Medicine", "Ayurveda", "Naturopathy", "Homeopathy"]
 icon: "/icons/spmed.png"
-aliases:
-  /medical/diseases-have-been-cured
-  /medical/five-medical-paradigms/
-  /medical/physical/principles/5-paradigms
 comments:
   - img: "/avatars/huong.jpg"
     content: "Can you suggest a good TCM or Ayurveda practitioner?"

@@ -8,11 +8,6 @@ description: "The Demand Capital Trade Industry Tool is for Troubleshooting Econ
 type: "featured"
 author: Dalisay
 icon: /icons/pantry.png
-aliases:
-  /social/economics/principles/dcti
-  /articles/taonomics/dcti
-  /articles/pantrynomics/the-demand-capital-trade-industry-tool  
-  /posts/taonomics/the-demand-capital-trade-industry-tool
 ---
 
 
@@ -24,9 +19,8 @@ According to Adam Smith, a crisis begins when a country's industry does not matc
 - The 1929 Crash was caused by stock traders who overvalued stocks
 - The Mississippi Scheme was caused by John Law overvaluing the industry potential of Louisiana
 
-{{< q a="smith" >}}
-<p>The general industry of society can never exceed what the capital of the society can employ.. the number that can be employed by a society must be proportional to the total capital of that society. It can never exceed that proportion. No commercial regulation can increase the amount of industry in any society beyond what its capital can maintain. It can only divert some of it into a direction which it might not otherwise have gone into. It is uncertain whether this artificial direction will be more advantageous to society than its natural direction.</p>
-<cite>The Simple Wealth of Nations, Book 4</cite>
+{{< q a="smith" c="The Simple Wealth of Nations, Book 4" >}}
+The general industry of society can never exceed what the capital of the society can employ.. the number that can be employed by a society must be proportional to the total capital of that society. It can never exceed that proportion. No commercial regulation can increase the amount of industry in any society beyond what its capital can maintain. It can only divert some of it into a direction which it might not otherwise have gone into. It is uncertain whether this artificial direction will be more advantageous to society than its natural direction.</p>
 {{< /q >}}
 
 

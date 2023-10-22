@@ -8,8 +8,6 @@ image: /photos/city.jpg
 description: "Consciousness is the perception of ideas and feelings"
 author: Juan
 icon: /icons/sp.png
-aliases:
-  /superphysics/principles/consciousness
 ---
 
 

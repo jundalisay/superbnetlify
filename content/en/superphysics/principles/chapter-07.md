@@ -1,7 +1,6 @@
 ---
 heading: "Chapter 7"
 title: "The Nature of Mind"
-
 # date: 2020-01-01
 date: 2020-12-10
 weight: 24
@@ -9,8 +8,6 @@ image: /photos/physics/ai.jpg
 description: "Everything in existence is an idea of the Creator of that existence"
 author: Juan Dalisay Jr
 icon: /icons/sp.png
-aliases:
-  /superphysics/principles/mind
 ---
 
 

@@ -6,12 +6,6 @@ weight: 12
 image: "/graphics/jfk.jpg"
 description: "The Effort Theory of Value is our alternative to both marginal pricing of Capitalism and the labor theory of value of Marxism"
 icon: /icons/pantry.png
-aliases:
-  /articles/taonomics/the-effort-theory-of-value/
-  /articles/pantrynomics/the-effort-theory-of-value/
-  /social/economics/principles/the-effort-theory-of-value/
-  /social/economics/principles/effort-theory-of-value/  
-  /social/economics/the-effort-theory-of-value/
 ---
 
 

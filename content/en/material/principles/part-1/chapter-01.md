@@ -7,10 +7,6 @@ description: "The aethereal layer is the higgs field in Physics and is the highe
 author: Juan
 weight: 8
 icon: /icons/spmat.png
-aliases:
-  /articles/material/aethereal
-  /material/aethereal/
-  /material/principles/aethereal/
 ---
 
 

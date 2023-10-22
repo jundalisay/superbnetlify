@@ -1,6 +1,5 @@
 ---
 title: "The Earth Government"
-
 date: 2020-07-02
 weight: 14
 image: "/photos/objects/gavel.jpg"

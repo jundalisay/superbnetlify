@@ -8,8 +8,6 @@ description: "The radiant layer of Superphysics is equivalent to the electromage
 author: Juan
 weight: 10
 icon: /icons/spmat.png
-aliases: 
-  /material/principles/radiant  
 ---
 
 

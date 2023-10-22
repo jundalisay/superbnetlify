@@ -63,7 +63,7 @@ tricon2:
   icon : "/icons/spmat.png"
   link: "/material/principles"
   items:
-    - url : "/material/principles/five-layers/"
+    - url : "/material/principles/intro/chapter-01/"
       img: /graphics/physics/aetherdrag.jpg
       title : "The Five Layers of Superphysics"
       subtitle : "The Material, Radioactive, Radiant, Spatial, and Aethereal"
@@ -88,28 +88,24 @@ tricon3:
   subtitle : "Based on the dynamics of the sentient energy"
   youtube: Y6YKmtqJak4
   icon : "/icons/spmed.png"
-  link: "/medical/principles"
+  link: "/bio/principles"
   items:
-    - url : "/medical/physical/principles/5-paradigms"
+    - url : "/bio/principles/principles/part-04/chapter-03"
       img: /photos/med/cancer2.jpg
       title : "Cancers and Diseases Have Been Cured by Non-Western Medicine"
       subtitle : "See the wave-based alternatives to particle-based Western Medicine"
-    - url : "/medical/principles/chapter-01"
+    - url : "/bio/principles/chapter-01"
       img: /photos/psych/schizo.jpg 
       title : "You Have 3 Billion Selves"
       subtitle : "'You' are made up of a changing wave of 'yous'"
-    - url : "/medical/physical/smith-veg"
-      img: /avatars/smithstatue.jpg 
+    - url : "/bio/smith-veg"
+      img: /avatars/smithstatue.jpg
       title : "Adam Smith the Vegetarian"
       subtitle : "He preferred vegetables, specifically potatoes, over meat"
-
-    - url : "/medical/solutions/covid/"
+    - url : "/bio/solutions/covid/"
       img: /photos/med/covid.jpg 
       title : "How to Stop Covid"
       subtitle : "See how NATO could have stopped Covid back in 2020"
-
-
-
 
 
 tricon4:
@@ -128,20 +124,12 @@ tricon4:
       title : "The Metaphysics of Value and the Four Laws of Value"
       subtitle : "Supereconomics deals with resource allocation and socio-economic issues"
     - url : "/social/supersociology/principles/part-1/chapter-05"
-      img: /photos/medieval/hitler.jpg 
+      img: /photos/medieval/hitler.jpg
       title : "The Socratic Law of Social Cycles"
       subtitle : "See how we use it to predict events like presidential elections and recessions"
     - url : "/social/cycles/"
-      img: /photos/ukraine.jpg      
+      img: /photos/ukraine.jpg
       title : "Social Cycles Predictions"
       subtitle : "See our model's predictions for various countries"
 
-
-# articles4:
-#   items:
-
-#     - url : "/social/supersociology/principles/part-1/chapter-01"
-#       img : "/photos/social/protests.jpg" 
-#       title : "Politics, Law, and Justice for a Better world"
-#       subtitle : "Supersociology deals with politics, law, governance, and other socio-political issues"
 ---

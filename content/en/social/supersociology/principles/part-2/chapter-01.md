@@ -1,12 +1,12 @@
 ---
 heading: "Chapter 1"
-title: "Democracy"
+title: "The Worker Mentality"
 date: 2019-12-17
 # date: 2021-06-29
-# image: "/photos/meta/buddhism.jpg"
-# description: "The Common Interest is the conscience of society and is part of bhagavad dharma (human dharma)"
+description: "Democracy is the dominance of the workers"
 weight: 6
 image: "/photos/marcos2.jpg"
 author: Juan
 icon: /icons/spss.png
+draft: true
 ---

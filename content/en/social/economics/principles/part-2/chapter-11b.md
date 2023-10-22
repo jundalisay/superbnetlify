@@ -8,8 +8,6 @@ description : "Superphysics is our revival of Classical Economics, backed up by 
 youtube: "rVP73TV2X0s"
 author: Juan
 icon: /icons/pantry.png
-aliases:
-  "/social/economics/neoclassical-classical"
 ---
 
 

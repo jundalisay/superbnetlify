@@ -6,46 +6,48 @@ date: 2020-01-31
 weight: 2
 image: "/photos/social/monkey.jpg"
 description: "David Hume's Idea of the Self explains why there are 3 billion yous"
-# keywords: ["David Hume"]
-# categories: ["Bio Superphysics"]
 tags: ["David Hume", "Ego"]
 author: "Juan"
 icon: /icons/spmed.png
 aliases:
-  /medical/idea-of-self
-  /medical/mental/principles/idea-of-self  
-  /articles/medical/idea-of-self/
-  /articles/medical/david-hume-idea-of-self
-  /articles/social/david-hume-idea-of-self
+  /bio/principles/chapter-01
 ---
 
 
 In Book 1 of *A Treatise of Human Nature*, David Hume laid out his principle of the self.
 
-According to him, 'identity' is a perception of something that is separate from another perception. For example, the identity of a car's tire is a separate identity from the car because our minds can perceive them as separately existing. 
+According to him, 'identity' is a perception of something that is separate from another perception. For example, the identity of a car's headlight is a separate identity from the car because our minds can perceive them as separately existing -- a car without a headlight is still a car.
 
-{{< img src="https://sorasystem.sirv.com/photos/tire.jpg" alt="Tire" >}}
+{{< img src="/photos/objects/leaf.jpg" alt="White Car" >}}
 
 
 If our minds cannot separate them, then their identity is one. An example is the balloon of a hot air balloon which cannot be separated without destroying its vehicle's identity.
 
-We can then throw our perception inwards onto ourselves in order to create an identity called the self. 
+If we turn our perception inwards onto ourselves, then we create an identity called the self. 
 
 {{< img src="https://sorasystem.sirv.com/graphics/selftrump2.jpg" alt="Trump" cap="We assign the identity of 'Donald Trump' to the entity that matches our experiences of it" >}}
 
 
-Both 'identity' and 'self' are therefore the results of our mind's ability to unite or separate our perceptions of anything. Our mind's limitations then cause us to assign a single identity where, in reality, there were many identities. Hume gives the following examples:
+Both 'identity' and 'self' are therefore the results of our mind's ability to unite or separate our perceptions of anything. 
+
+According to Superphysics, spacetime slices our perceptions according to time units. Therefore, it also slices each identity into separate identities. It is then our human mind that stitches those identities together as one identity. 
+
+<!-- Our mind's limitations then cause us to assign a single identity where, in reality, there were many identities.  -->
+
+This matches the observation of David Hume wherein he gives the following examples:
 
 - A ship that has been repaired is a different ship from itself when it was new. However, human mind makes a convention to see it as the same ship.
 - A mountain that has some dirt from it removed is a different mountain from the original one. However, the human mind sees it as the same mountain.
 - An oak seed is a different plant from the oak tree that it grows into. However, the human mind sees it as the same oak.
 - A baby that has grown into a man was a different person from that man. However, the human mind sees it as the same person.
 
-This error, from our mind's limitations, comes from the deceptive force of Nature, which the Hindus call [Maya](https://en.wikipedia.org/wiki/Maya_(religion)). This is then makes identity illusory and diversity as permanent, consistent with Hindu philosophy:
+This stitching together of separate identities into one is actually an error arising from our mind's inability to remember each identity. This error comes from the Negative Force of Nature, which results in what the Hindus call [Maya](https://en.wikipedia.org/wiki/Maya_(religion)). 
 
-{{< quote >}}
+This then makes identity illusory, and diversity as permanent, consistent with Hindu philosophy:
+
+{{< q >}}
 Vaecitryaḿ prákrtadharmah samánaḿ na bhaviśyati. [Diversity is the law of Nature, Identity can never exist.]
-{{< /quote >}}
+{{< /q >}}
 
 <!-- Each self is a subjective artificial construct made by the perceiving entity, which in the human case is consciousness.  -->
 
@@ -53,9 +55,9 @@ Vaecitryaḿ prákrtadharmah samánaḿ na bhaviśyati. [Diversity is the law of
 
 ## Each soul has 3 billion selves
   
-Human convention or habit assigns the same identity because it would take a lot of mental effort to separate identities.
+<!-- Human convention or habit assigns the same identity because it would take a lot of mental effort to separate identities. -->
 
-For example, let's assume that a seed sprouts 5 millimeters daily for 3 days. Each time we see it grow, we assign a new name to it to create natural diversity:
+To illustrate how difficult it would be to remember all identities, let us assume that a seed sprouts 5 millimeters daily for 3 days. Each time we see it grow, we assign a new name to it to create a natural diversity:
 
  Name | Height | Day
 --- | --- | ---
@@ -79,14 +81,20 @@ This dynamic idea of the self is very important because it serves as the foundat
 - When applied to mental health, this explains the root cause of personality disorders such as split personality. 
 - When applied to society, it explains social cycles or why revolutions, civil war, recessions, financial crises happen. We can say that a civil war is the fight between the two personalities of a single society.
 
-Hume's concept of the self is fully compatible with Socrates' concept of the soul and the Hindu concept of the *jivatman*. This dynamism prevents moral systems from degrading into casuistry wherein all moral rules are given beforehand, such as in the Ten Commandments and Shariah law. 
+Hume's concept of the self is fully compatible with:
+- Socrates' concept of the soul, and
+- the Hindu concept of the *jivatman*. 
+
+This dynamism prevents moral systems from degrading into casuistry wherein all moral rules are given beforehand, such as in the Ten Commandments and Shariah law. 
 
 
 ## The Problem with Casuistry
 
-The problem with such laws is that they force dynamic consciousnesses into a static moral box, hindering their evolution. Morals are ultimately based on feelings, and feelings change through time since feelings are a wave and waves always change. Therefore, moral rules made in 500 BC will work well for the feelings of 500 BC, but might be incompatible with the feelings of 2020 AD.
+The problem with such laws is that they force dynamic consciousnesses into a static moral box, hindering their evolution. Morals are ultimately based on feelings, and feelings change through time since feelings are a wave and waves always change. Therefore, the moral rules made in 500 BC will work well for the feelings of 500 BC, but might be incompatible with the feelings of 2020 AD.
 
-If we were to view moral rules as a kind of forced logic, then the casuistic moral systems in Judaism, Islam, and Christianity would be like hard-coding, whereas the rules in Hinduism, Buddhism, and Taoism would be soft-coding. An example of hard-coding is:
+If we were to view moral rules as a kind of forced logic, then the casuistic moral systems in Judaism, Islam, and Christianity would be like hard-coding, whereas the rules in Hinduism, Buddhism, and Taoism would be soft-coding. 
+
+An example of hard-coding is:
 
 ```elixir
 if x = '1' then decision = 'A'
@@ -117,12 +125,18 @@ else if..
 
 Here, the rules are flexible, accepting a wider range of situations, each processed differently, before coming to a judgement. This system relies on having the whole purpose thought of beforehand and is based on cause. 
 
-This system is more difficult to set up since a lot of forethought is needed. But after it is set up, then it lasts for a long time. Examples are Confucianism and Hinduism where the rules are based on general principles, such as filial piety and dharma respectively, which can have various interpretations. Mencius could update the precepts of Confucius just as Buddha updated Hinduism without much conflict or confusion between them. But who would dare update the Ten Commandments or overhaul the Quran? 
+This system is more difficult to set up since a lot of forethought is needed. But after it is set up, then it lasts for a long time. 
+
+Examples are Confucianism and Hinduism where the rules are based on general principles, such as filial piety and dharma respectively, which can have various interpretations. Mencius could update the precepts of Confucius just as Buddha updated Hinduism without much conflict or confusion between them. 
+
+But who would dare update the Ten Commandments or overhaul the Quran? 
 
 
 ## A Drop in the Ocean of Existence       
 
-In Hinduism, the jivatman is a tiny-soul that loses its identity when it is absorbed into the larger universal-soul, similar to a water in a glass losing its identity or self when it is poured into the sea. Conversely, the water in the sea (paramatman) can be turned into billions of new entities or identities (jivas) by taking a billion cups and scooping the water into each, in order to create 1 billion seas-in-a-cup (jivatmans). 
+In Hinduism, the jivatman is a tiny-soul that loses its identity when it is absorbed into the larger universal-soul, similar to a water in a glass losing its identity or self when it is poured into the sea. 
+
+Conversely, the water in the sea (paramatman) can be turned into billions of new entities or identities (jivas) by taking a billion cups and scooping the water into each, in order to create 1 billion seas-in-a-cup (jivatmans). 
   
 ![Cup of water](https://sorasystem.sirv.com/cards/utilities/cupwater.jpg)
 
@@ -134,24 +148,32 @@ Instead of water and seas, Hume gives the example of a citizens and republics, w
 I can only compare the soul to a republic with several members united by the reciprocal ties of government and subordination. This gives rise to other persons who propagate the same republic in the incessant changes of its parts. The same republic may change its members, laws, and constitutions.  
 {{< /quote >}}
 
-In our Supersociology, Hume's idea of the self naturally leads to the idea of the society-organism which has its own dynamics, just as water in a cup has different dynamics than water in the ocean. For example, water in a cup does not have waves nor any variation in saltiness or mineral content, whereas ocean-water has waves and a varying amount of minerals.
+In Bio Superphysics, Hume's idea of the self leads to complex personality types, as well as personality disorders, depending on how united or disunited the selves are.  
 
-This has the following implementations:
+In Social Superphysics, it naturally leads to the idea of the society-organism which has its own dynamics, just as water in a cup has different dynamics than water in the ocean. For example, water in a cup does not have waves nor any variation in saltiness or mineral content, whereas ocean-water has waves and a varying amount of minerals.
 
-- It destroys the grandfather paradox because if you go back in time to kill yourself as a child, you are actually *killing a different entity*. This means that  your current self will stay alive, but your child-self will die
-- It allows the possibility of multiverses which have different copies of the self. We could view the Earth as a Multiverse with the following universes:
-  - the United Nations as Universe 1
-  - G20 as Universe 2
-  - League of Nations as Universe 3
-  - Comintern as Universe 4. Each country-republic (representing the 3 billion self-citizens) would then have a different representative in each assembly or Universe 
-- Death penalty and imprisonment will be applied differently because the person who committed the crime is a different entity from the one serving the jail time
-- Sanctions on erring countries will also be different because the Kim Jong Un that met Trump in 2019 is a different entity from the Kim Jong Un that started in 2011
-- Laws should not guarantee the lifetime ownership of assets and property because the entity that deserved it in the beginning might not be deserving later on. Hume’s best friend Adam Smith writes about this in *The Wealth of Nations* and *Lectures in Jurisprudence* where he denounces the ban on the division and sale of lands and the laws that create monopoly too-big-to-fail corporations
+This has the following implementations in the different sciences:
+
+Science | Effect
+--- | ---
+Material Superphysics | It destroys the grandfather paradox because if you go back in time to kill yourself as a child, you are actually *killing a different entity*. This means that your current self will stay alive, but your child-self will die
+. | It allows the possibility of multiverses which have different copies of the self.
+Bio Superphysics | It gets to the root causes of personality disorders
+Supersociology | Death penalty and imprisonment would be applied differently because the person who committed the crime is a different entity from the one serving the jail time
+Supereconomics | Sanctions on erring countries will also be different because the Kim Jong Un that met Trump in 2019 is a different entity from the Kim Jong Un that started in 2011
+. | Laws should not guarantee the lifetime ownership of assets and property because the entity that deserved it in the beginning might not be deserving later on*. 
+
+
+> *Hume’s best friend Adam Smith writes about this in *The Wealth of Nations* and *Lectures in Jurisprudence* where he denounces the ban on the division and sale of lands and the laws that create monopoly too-big-to-fail corporations
+
+ <!-- We could view the Earth as a Multiverse with the following universes: the United Nations as Universe 1, G20 as Universe 2, League of Nations as Universe 3 -->
+  <!-- - Comintern as Universe 4. Each country-republic (representing the 3 billion self-citizens) would then have a different representative in each assembly or Universe  -->
+
   
 ![Grandfather paradox solved](https://qph.fs.quoracdn.net/main-qimg-0ea21fcf9a959e0fafd0ba82ffc8bcd5)
 
 
-## A Dynamic Moral System 
+## A Dynamic Moral and Healthcare System 
 
 Unlike the old casuistic system that is static and forces reality to conform to the system's rules, such as "Thou shall not steal", this new system is based on principles which allow reality to be dynamic, as "Thou shall be provided for by society through employment depending on your capacity and needs."
 

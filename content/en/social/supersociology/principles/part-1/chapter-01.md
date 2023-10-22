@@ -8,10 +8,6 @@ weight: 4
 description : "A society is three or more entities working towards a common interest or goal"
 author: Juan
 icon: /icons/spsoc.png
-aliases:
-  /articles/supersociology/what-is-social-networkism
-  /social/social-networkism/
-  /social/supersociology/social-networkism/  
 ---
 
 
@@ -27,12 +23,12 @@ Overhauled on  to harmonize Socrates with Hume and Smith
 Modern Sociology defines a society as "a group of people who live in a defined geographic area, who interact with one another, and who
 share a common culture."
 
-Our definition looks at society from a metaphysics-first perspective. We define a society as a kind of metaphysical organism or mind that is made up of individual minds that agree to be part of that society either implicitly or explicitly.
+Our definition looks at society from a metaphysics-first perspective. We define a society as **a kind of metaphysical organism or mind that is made up of individual minds that agree to be part of that society either implicitly or explicitly**.
 
 - Implicit agreement is by convenience. 
 - Explicit agreement is by choice. 
 
-Since science views minds as coming from the physical brain, we instead use the word 'soul' or 'aethereal mind' to refer to a society. In this way, a society can refer to:
+Since science views minds as coming from the physical brain, we instead use the word 'soul' or 'aethereal or abstract mind' to refer to a society. In this way, a society can refer to:
 - the soul of society, or
   - This the source of its culture in the abstract
 - the physical society

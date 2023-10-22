@@ -11,36 +11,23 @@ author: Jose Silva
 
 When you learn the memory techniques in the last chapter you will be well on your way to our next step, Speed Learning. 
 
-Briefly, this is how you will progress: You will learn to enter the meditative level; then, at
-that level, to create a mental screen, which is useful for
+Briefly, this is how you will progress: You will learn to enter the meditative level; then, at that level, to create a mental screen, which is useful for
 various purposes, one of which is to recall information.
 
 Then, as a shortcut, you will learn the Three Fingers Technique for, among other things, instant recall. Once you have accomplished this you will be ready for new
-ways of acquiring information, malting recall even
-easier. 
+ways of acquiring information, malting recall even easier. 
 
-Equally important, these new ways of learning will not only make recall easier but will both speed up
-and deepen your understanding of what you learn.
+Equally important, these new ways of learning will not only make recall easier but will both speed up and deepen your understanding of what you learn.
 There are two learning techniques. 
 
-Let's start with the simpler, though not necessarily the easier, one.
-The Three Fingers Technique, once it is so thorough-
-ly mastered that you can instantly reach your level and
-operate consciously there, can be used while you listen
-to a lecture or read a book. 
+Let's start with the simpler, though not necessarily the easier, one. 
 
-This will vastly improve concentration, and information will be implanted more firmly. Later you will be able to recall it more easily at the Beta level and more easily still at the Alpha level. A student writing an exam with his 3 fingers together
+The Three Fingers Technique, once it is so thoroughly mastered that you can instantly reach your level and
+operate consciously there, can be used while you listen to a lecture or read a book. 
 
-<!-- 46
-ecu
-lAiurntng
-I
-tl -->
-
-can almost see the textbook he read, almost hear the instructor as he discussed the lesson in class.
+This will vastly improve concentration, and information will be implanted more firmly. Later you will be able to recall it more easily at the Beta level and more easily still at the Alpha level. A student writing an exam with his 3 fingers together can almost see the textbook he read, almost hear the instructor as he discussed the lesson in class.
 The other technique is not as simple, but you will be ready for it earlier in your practice of Mind Control. It
-has all the effectiveness of learning at the Alpha level
-plus the added reinforcement of learning at Beta. 
+has all the effectiveness of learning at the Alpha level plus the added reinforcement of learning at Beta. 
 
 You will need a tape recorder for this.
 
@@ -94,25 +81,18 @@ trol graduates in a number of fields—sales (particularly
 insurance), academic study, teaching, law, and acting
 to name just a few.
 
-A successful Canadian life insurance agent no longer exasperates his clients by riffling through the papers in
-his briefcase to find answers to their questions about complex estate and tax problems. The tremendous array
-of facts he needs are on the tip of his tongue, thanks to Speed Learning and his three fingers.
+A successful Canadian life insurance agent no longer exasperates his clients by riffling through the papers in his briefcase to find answers to their questions about complex estate and tax problems. The tremendous array of facts he needs are on the tip of his tongue, thanks to Speed Learning and his three fingers.
 
 A trial lawyer in Detroit has "liberated" himself from notes when he sums up a complex case to a jury.
 
-He records his summation and listens to it in Alpha the night before, then again early the next morning. Later,
-when he stands confidently before the jurors, he maintains reassuring eye contact with them. The result is
-that he speaks more persuasively than if he were consulting notes, and no one notices what he does with the
+He records his summation and listens to it in Alpha the night before, then again early the next morning. Later, when he stands confidently before the jurors, he maintains reassuring eye contact with them. The result is that he speaks more persuasively than if he were consulting notes, and no one notices what he does with the
 three fingers of his left hand. 
 
 A New York night club comedian changes his routine every day; he "comments" on the news. 
 
-An hour before show time he listens to a tape of himself and he is
-ready with twenty minutes of "spontaneous" high humor. "I used to cross my fingers, hoping for the best.
+An hour before show time he listens to a tape of himself and he is ready with twenty minutes of "spontaneous" high humor. "I used to cross my fingers, hoping for the best.
 
 Now I join three fingers and I know what's going to happen—lots of laughs."
 
-Speed Learning and the Three Fingers Technique, of course, are ideal for students—one reason why Mind
-Control has so far been taught in twenty-four colleges and universities, sixteen high schools, and eight grade
-schools. Thanks to these techniques, thousands of students are studying less and learning more.
+Speed Learning and the Three Fingers Technique, of course, are ideal for students—one reason why Mind Control has so far been taught in twenty-four colleges and universities, sixteen high schools, and eight grade schools. Thanks to these techniques, thousands of students are studying less and learning more.
 

@@ -7,9 +7,6 @@ description: "New-Agers say that the universe is a reflection of one's own consi
 author: Juan
 weight: 14
 icon: /icons/spmat.png
-aliases:
-  /material/principles/spin
-  /material/spin-reflective-ability/
 ---
 
 

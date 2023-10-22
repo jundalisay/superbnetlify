@@ -7,7 +7,10 @@ description: "The 1772 credit crunch was resolved naturally because it did not h
 youtube: "rVP73TV2X0s"
 author: Juan
 icon: /icons/pantry.png
+aliases: 
+  /social/economics/1772-credit-crunch
 ---
+
 
 
 In 1772, a credit crisis originating in London hit and spread over Europe and affected the American colonies.

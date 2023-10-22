@@ -6,9 +6,6 @@ image: /covers/kant.jpg
 description: "Kant's A Priori is a Fallacy caused by his arbitrary definition of it"
 author: Juan
 icon: /icons/sp.png
-# aliases:
-#   /posts/superphysics/the-apriori-fallacy-of-kant/
-#   /fallacies/philosophy/kant-apriori-fallacy
 ---
 
 

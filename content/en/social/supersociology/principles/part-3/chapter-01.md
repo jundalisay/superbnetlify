@@ -1,5 +1,5 @@
 ---
-title: "The Purpose of Conflicts"
+title: The Warrior Class
 heading: "Chapter 1"
 date: 2015-08-15
 weight: 8
@@ -10,6 +10,8 @@ draft: true
 icon: /icons/spsoc.png
 ---
 
+
+## The Purpose of Conflicts
 
 Conflicts are a sign of injustice and no conflict on Earth is longer or more complicated than the Israeli-Palestinian conflict which has been said to originate from ancient times.
 

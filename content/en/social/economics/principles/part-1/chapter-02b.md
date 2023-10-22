@@ -9,6 +9,8 @@ author: Juan Dalisay Jr
 ---
 
 
+Human needs and wants manifest as consumable goods. 
+
 
 ## The Harmonized System Code
 

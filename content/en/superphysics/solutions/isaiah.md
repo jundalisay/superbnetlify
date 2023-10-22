@@ -8,19 +8,8 @@ description: "The money and moneyless transactions are visualized by artificial 
 # AI also administers the Clearing Funds which are the proposed investment system that complements bonds.
 author: Juan
 icon: /icons/pantry.png
-# aliases:
-#   /articles/superphysics/what-is-isaiah
-#   /social/economics/solutions/isaiah
 ---
 
-
-<!-- ISAIAH is the machine learning system for the implementations of Superphysics -->
-
-<!-- linkb: "/articles/superphysics/ai-is-autonomous"
-linkbtext: "AI is autonomous"
-linkf: articles/superphysics/meaning-of-red-herring-ad-hominem-occams-razor"
-linkftext: "What is a Red Herring?"
- -->
  
 Supereconomics (Economic Superphysics) aims to solve all economic problems by adding moneyless donations and exchange (barter), as points-based valuation, to the current money-based valuation. This is similar to how Material Superphysics aims to solve mysteries in Physics by adding the aether-idea onto the idea of "quantum fields". 
 

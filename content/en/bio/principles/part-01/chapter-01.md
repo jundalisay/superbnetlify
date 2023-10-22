@@ -1,15 +1,12 @@
 ---
 title: "Viruses are in-between Life and Ideas"
-heading: Chapter 2b
+heading: Chapter 1
 date: 2020-01-27
 weight: 4
 image: /photos/med/dengue.jpg
 description: "Viruses are merely bad idea-waves manifesting as RNA-particles"
 author: Juan
 icon: /icons/spmed.png
-aliases:
-  /medical/viruses-are-ideas/
-  /medical/physical/principles/viruses-are-ideas
 ---
 
 

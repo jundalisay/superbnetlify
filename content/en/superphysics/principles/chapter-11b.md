@@ -1,82 +1,93 @@
 ---
-title: "Enlightenment"
-date: 2015-08-17
-image: "https://sorasystem.sirv.com/photos/grav.jpg"
-description: "Everything is a Mind"
+heading: "Chapter 11b"
+title: "Learning and Knowledge"
+date: 2020-12-06
+image: /photos/econ/writer.jpg
+# date: 2020-12-10
+description: "Everything in existence is an idea of the Creator of that existence"
 author: Juan
-weight: 42
+weight: 12
 icon: /icons/sp.png
 draft: true
 ---
 
-Adam Smith and David Hume are considered as 'enlightened' writers from a period called the Scottish Enlightenment. Latter writers are not enlightened Samuelson
 
-Hume countered Locke and Spinoza, while Smith countered Mun and Mandeville. However, it seemed no one was able to carry on the Enlightenment to counter the erroneous beliefs popping up during the 19th century, such as
+## Maya or the Separation of the Mind from Knowledge 
 
-For example, instead of countering Say's utility, Mill supports it and uses it as a basis for his utilitarianism philosophy which then becomes a fundamental idea in modern economics.
+<!-- Illusion in Existence  -->
 
+Knowledge is a state when the mind combines various pideas into a 
 
-<!-- The word 'science' replaced natural philosophy in the mid 19th century with . Smith has already asserted, after studying the history of the systems of learning, that all learning can be grouped into three, Natural Philosophy, Moral Philosophy, and Logic.
-
-The ancient Greek philosophy was divided into three great branches:
-
-Physics or natural philosophy
-Ethics or moral philosophy
-Logic
-
-“This general division seems perfectly agreeable to the nature of things.”
-
-Is this still correct today? Can we reign in and simplify today's complicated and ultra-specialized systems of learning to match Smith's organization? Firstly, we answer this by using Hume's method of breaking compound ideas down to basic ones, we get the basic ideas from each branch:
-
-Physics or natural philosophy (The external objective world)
-Ethics or moral philosophy (The internal subjective world)
-Logic (The tools connecting and making sense of the internal and external world)
+Everything is an idea 
 
 
+Idea and feelings seem separate because the physical brain and heart, as the 'sensors' of ideas and feelings are located in different areas of the body. 
 
-The limitations of modern physics and the unsustainability of economics can be attributed to the fact both are unenlightened sciences, or that they focus on the effect instead of the cause.
+Our Metaphysics of Things state that ideas and feelings are merely two forms of the same thing. 
+- A feeling is information in a wave-form, with the wave being powered by energy or desire of the Supreme Entity or Mind 
+- An idea is encapsulated information, as a wave-form that is cut-off from other wave-forms.
 
+The mechanism of separation is called Maya or the Illusion, which is a product of the Negative Force. It follows that the opposite mechanism for unity is called Truth as the Positive Force.   
 
-
-
-In fact, the endeavor to create a new economic system necessarily creates two enlightenment-level sciences to serve as its ideological or philosophical foundation: Socioeconomics and Metaphysics.
-
-
-
-
-We define enlightenment as the state of having:
-
-penetrated the deception inherent in existence (according to Western Philosophy)
-included in this is the realization of the nature of existence (effect) and the mind that perceives it (cause)
-overcome Maya or the illusion of duality (according to Eastern Philosophy)
-included in this is the realization of the cause of Maya, which is the non-dualistic, unqualified (nirguna) Absolute or Supreme Being
-
-Both definitions ultimately end up with a Supreme Being as the cause and the universe, anything in it,  as the effect. -->
+The main operation of the mind is to connect ideas as to go back to the original total unity of ideas before existence began*. This connection gradually dispels the Maya and is known as knowledge which comes from learning and thinking. 
 
 
+> *We call this state as pre-existence
 
-In Treatise, Hume explained that government and justice are artificial inventions to create peace and security. However, government and justice system nowadays are used not for peace and security, but for pleasure.
+
+Thinking is the operation of the mind to grab perceptions and connect them with each other. This is similar to how we assemble jigsaw puzzles. 
+
+Learning is the operation of the mind that realizes the patterns from the unity of perceptions. When we connect ideas, we realize that some ideas are easier to connect with each other, producing less stress on the mind. On the other hand, some ideas are impossible to connect (are absurd like faeries) or have a connection that is stressful to maintain (such as sophistrical ideas like flat earth theory).
+
+Feeling is the ability to sense non-thought information which is all of the universe. This is why Taoism and Hinduism belittle intellectuality, which is the opposite of Western science which enshrines intellectuality and denounces feelings.  
+
+<!--  This is similar to us finding a technique to connect jigsaw puzzles for efficiently.  
+ -->
+
+Thus, the operations of the mind or the soul can be divided into thinking and feeling. 
+
+### Thinking
+
+Thinking is the effect-part of existence. This works on thought-objects. 
+
+Our main sources to list down the dynamics of thinking is from Socrates (instead of Aristotle), David Hume, and Ibn Khaldun. We also use Buddhism. 
 
 
-Darkness:
-Say removed morality
+### Feeling 
 
-Mill advocated utility
+Feeling is the causal part of existence. This operation comes first before thinking and has accordingly been discussed by the ancients much more than the thinking part.  
 
-Marginalists based economics on Math and Profit Maximization
+Our main sources to list down the dynamics of feelings are Hinduism*, Taoism, Spinoza, and the Pythagoreans. 
 
-Fischer Further Developed Monetary and Finance
 
-Crash and World War 2
+> *Buddhism is thinking, Hinduism is for feeling. Buddhism checks the tendency of Hinduism to fall into blind-belief or dogma, just as reason prevents us from falling in blindly in love 
 
-Keynes Put Government Spending Overturning Smith Leading to Budget Deficits
 
-Samuelson Set All These In Stone
+<!-- ## Putting it all together
 
-Sustainability = Morality
+We this break down Existence into the following:
 
-Premarital Sex, Teenage Pregnancy or Illegitemate Children Which Might Cause Stress
+- The Absolute (The One, Probability of Existence, without perception)
+- The Supreme or Existence (Actual Existence, with perception)
+  - experiencer
+    - perceiver or consciousness
+    - mind or the Supreme Entity
+      - living mind, nonliving mind
+      - metaphysical mind, physical mind
+  - experience
+    - feelings
+      - Positive Force 
+      - Negative Force
+      - morality
+    - ideas
+      - Dharma or True Nature
+      - physical and metaphysical things
+chapter 
 
-Too Much Alcohol, We Get Drunk And Might Die
 
-Happy Existence
+
+These desires are such a powerful principle that it even leads to the invention of concepts such as God*, Allah, Yahweh, Jehovah, Kali, Ganesh, etc. as stated in the previous post. 
+
+
+> *Atheists often bash religions for believing in arbitrary Deities. They do not realize that those Deities are a symptom of the natural mental or metaphysical limitation of most humans. Bashing a religion would be like bashing a disabled person for being disabled. The moral solution is to not bash the disabled, but on the contrary, to give them more assistance than ordinary. This is why Superphysics embraces religions and focuses on their common traits and feelings, instead of dwelling on their differences. However, Superphysics goes against the dogma in each religion.
+ -->

@@ -4,10 +4,10 @@ title: "The First Law of Value: Nominal Price"
 linkTitle: 1st Law
 weight: 8
 # date: 2022-08-30
-# date: 2022-03-27
+date: 2022-03-27
 image: /graphics/econ/law1.jpg
-description: "Political economy is an important division of the science of government. The object of government is the happiness of men, united in society"
-author: Juan Dalisay Jr
+description: "Every thing in the universe has an existential value, otherwise it would not exist"
+author: Juan
 ---
 
 
@@ -80,13 +80,19 @@ We can say that the effective demand for cakes at that time is 3 units at $15. T
 
 ## Absolute Demand
 
-In our example, Adam was the man among the 3 men who loved his own wife so much that he gave the highest nominal price for the cake for her. Let us imagine that he wants to give her a bouquet of flowers, worth $20, on every day of the year instead of just during her birthday. This will cost him nominally $7,300 per year. 
+In our example, Adam was the man among the 3 men who loved his own wife so much that he gave the highest nominal price for the cake for her. 
+
+Let us imagine that he wants to give her a bouquet of flowers, worth $20, on every day of the year instead of just during her birthday. This will cost him nominally $7,300 per year. 
 
 ```
 20 * 365 = 7,300
 ```
 
-Let us assume that his budget was only $365 or $1 per day. He would thus wish that the $20 bouquet were only $1. This wishful demand is what we call "**absolute demand**".
+Let us assume that his budget was only $365 or $1 per day. He would thus wish either:
+- that the $20 bouquet were only $1, or
+- that he had a $7,300 budget. 
+
+Both these wishful demands are what we call "**absolute demand**".
 
 The engines of an economy are thus:
 - Effective Demand for short-term and medium-term movement, dynamism, development, or growth

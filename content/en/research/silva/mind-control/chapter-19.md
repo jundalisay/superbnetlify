@@ -221,7 +221,7 @@ job. Plus the fact that I can now peddle to AP, UPI, and magazines.
 
 Another person who recovered from a sodden job loss was a very new graduate in New York. He put in an angry phone call to Jose and said, "Now tell me about Mind Control!" Jose calmly told him to keep working with his mental screen and other techniques. 
 
-Three days later he called Jos6 in a sharply different frame of mind. He'd just landed a job paying three times as much as the one he lost
+Three days later he called Jose in a sharply different frame of mind. He'd just landed a job paying three times as much as the one he lost
 
 Perhaps the most colorful experience with Mind Control in business is reported by a man and his wife who open other people's safes. Here is how they do it: One of them goes psychically to the laboratory, evokes a vivid mental image of the safe and its owner, then turns back the clock and watches closely as the man opens his safe. The other, acting as orientologist, makes careful note of the numbers as they are called out.
 

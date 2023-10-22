@@ -12,9 +12,11 @@ icon: /icons/sp.png
 ---
 
 
-Chapter 2 explained that we are inside the Mind of the Supreme Entity, as its thoughts in Existence. 
+Chapter 2 explained that we are inside the Mind of the Supreme Entity, as Its thoughts in Existence. 
 
-Therefore, our Universe which is a part of this Existence, is part of Its Mind.
+We call a mind that is taken out of physicality as a 'Soul'. 
+
+Therefore, our Universe which is a part of this Existence, is a thought-projection of the Universal Mind or Soul.
 
 The ancients classified the universe into five elements which we match to the four fundamental forces of Physics. 
 
@@ -22,7 +24,7 @@ The ancients classified the universe into five elements which we match to the fo
 Rank | Name | Greek-Hindu | Chinese | Physics Force 
 --- | --- | --- | --- | --- | --- | --- 
 0 | Metaphysical | Metaphysics | ? | Pseudo-science  
-1 | Aethereal | Aether, Akasha | 水 (still water) | Pseudo-science  
+1 | Aethereal | Aether, Akasha | 水 (still water) | Pseudo-science (as of the 20th century) 
 2 | Spatial | Air, Vayu | 木 (moving wood) | Gravity  
 3 | Radiant | Fire, Tejas | 火 (expanding fire) | Electromagnetism  
 4 | Transformative | Water, Jala | 土 (changing earth) | Weak  
@@ -31,11 +33,17 @@ Rank | Name | Greek-Hindu | Chinese | Physics Force
 
 The nature of this Mind then forms the subdivisions of Superphysics:
 
-1. Material Superphysics - this studies the nature of the Mind of the physical universe
-2. Bio Superphysics - this studies the nature of the Mind of a living being
-3. Social Superphysics - this studies the nature of the Mind of society
+Science | Purpose
+--- | ---
+Material Superphysics | Studies the nature of the Mind of the physical universe
+Bio Superphysics | Studies the nature of the Mind of a living being
+Social Superphysics | Studies the nature of the Mind of society as a collection of living beings
 
-![](/graphics/super/5layers.png)
+
+<!-- ## Putting the 5 Elements and 4 Cycles Together  -->
+
+{{< img src="/graphics/super/5layers.png" cap="The 5 Layers are used by both Material and Bio (Medical) Superphysics. The 4 Cycles are used by Material Superphysics and Social Superphysics" >}}
+
 
 
 
