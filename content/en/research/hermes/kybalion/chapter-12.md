@@ -10,7 +10,9 @@ weight: 24
 
 
 {{< q >}}
-"Every Cause has its Effect; every Effect has its Cause; everything happens according to Law; Chance is but a name for Law not recognized; there are many planes of causation, but nothing escapes the Law."—The Kybalion.
+"Every Cause has its Effect; every Effect has its Cause; everything happens according to Law; 
+
+Chance is but a name for Law not recognized; there are many planes of causation, but nothing escapes the Law."—The Kybalion.
 {{< /q >}}
 
 
@@ -19,19 +21,44 @@ The Sixth Hermetic Principle is the Principle of Cause and Effect. It says:
 - Chance is merely a term indicating cause existing but not recognized or perceived
 - phenomena is continuous, without break or exception.
 
-It underlies all scientific thought, ancient and modern, and was enunciated by the Hermetic Teachers in the earliest days. 
+It underlies all scientific thought, ancient and modern. It was enunciated by the Hermetic Teachers in the earliest days. 
 
-While many and varied disputes between the many schools of thought have since arisen, these disputes have been principally upon the details of the operations of the Principle, and still more often upon the meaning of certain words. 
+Many and varied disputes between the many schools of thought have since arisen. These disputes have been:
+- principally on the details of the Principle's operations, and
+- more often on the meaning of words. 
 
-The underlying Principle of Cause and Effect has been accepted as correct by practically all the thinkers of the world worthy of the name. To think otherwise would be to take the phenomena of the universe from the domain of Law and Order, and to relegate it; to the control of the imaginary something which men have called "Chance."
+The underlying Principle of Cause and Effect has been accepted as correct by practically all the notable thinkers. 
 
-A little consideration will show anyone that there is in reality no such thing as pure chance. Webster defines the word "Chance" as follows: "A supposed agent or mode of activity other than a force, law or purpose; the operation or activity of such agent; the supposed effect of such an agent; a happening; fortuity; casualty, etc." But a little consideration will show you that there can be no such agent as "Chance," in the sense of something outside of Law-something outside of Cause and Effect. 
+To think otherwise would be to relegate phenomena out of the domain of Law and Order, and into the imaginary something called "Chance."
+
+There is no such thing as pure chance. 
+
+Webster defines "chance" as:
+- "a supposed agent or mode of activity other than a force, law or purpose"
+- "the operation or activity of such agent"
+- "the supposed effect of such an agent"
+- "a happening"
+- "fortuity"
+- "casualty"
+- etc.
+
+There is no such thing as Chance because there is nothing outside of Cause and Effect. 
+
+<!-- But a little consideration will show you that there can be no such agent as "Chance," in the sense of something outside of Law-something outside of Cause and Effect.  -->
 
 How could there be a something acting in the phenomenal universe, independent of the laws, order, and continuity of the latter? 
 
-Such a something would be entirely independent of the orderly trend of the universe, and therefore superior to it. We can imagine nothing outside of THE ALL being outside of the Law, and that only because THE ALL is the LAW in itself. There is no room in the universe for a something outside of and independent of Law. The existence of such a Something would render all Natural Laws ineffective, and would plunge the universe into chaotic disorder and lawlessness.
+Such a something would be entirely independent of the orderly trend of the universe, and therefore superior to it. 
 
-A careful examination will show that what we call "Chance" is merely an expression relating to obscure causes; causes that we cannot perceive; causes that we cannot understand. The word Chance is derived from a word Meaning "to fall" (as the falling of dice), the idea being that the fall of the dice (and many other happenings) are merely a "happening" unrelated to any cause. And this is the sense in which the term is generally employed. But when the matter is closely examined, it is seen that there is no chance whatsoever about the fall of the dice. 
+We can imagine nothing outside of THE ALL being outside of the Law, and that only because THE ALL is the LAW in itself. There is no room in the universe for a something outside of and independent of Law. The existence of such a Something would render all Natural Laws ineffective, and would plunge the universe into chaotic disorder and lawlessness.
+
+"Chance" is merely an expression relating to obscure causes that we cannot perceive nor understand. 
+
+"Chance" is derived from a word meaning "to fall" (as the falling of dice). The idea is that the fall of the dice (and many other happenings) are merely a "happening" unrelated to any cause. 
+
+This is the sense in which the term is generally employed. 
+
+But when the matter is closely examined, it is seen that there is no chance whatsoever about the fall of the dice. 
 
 Each time a die falls and displays a certain number, it obeys gravitation.<!--  a law as infallible as that which governs the revolution of the planets around the sun.  -->
 

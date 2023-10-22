@@ -69,28 +69,40 @@ The natural appetites, as hunger, thirst, and the others, are likewise sensation
 
 We commonly reckon the external senses five in number, because there are as many different kinds of objects which move the nerves and their organs, and an equal number of kinds of confused thoughts excited in the soul by these emotions. 
 
-In the first place, the nerves terminating in the skin of the whole body can be touched through this medium by any terrene objects whatever, and moved by these wholes, in one way by their hardness, in another by their gravity, in a third by their heat, in a fourth by their humidity, etc.—and in as many diverse modes as they are either moved or hindered from their ordinary motion, to that extent are diverse sensations excited in the mind, from which a corresponding number of tactile qualities derive their appellations. 
+`1.` The nerves terminating in the skin can be touched through this medium by any terrene objects, and moved by these wholes, in one way by:
+- their hardness
+- their gravity
+- their heat
+- their humidity, etc.
 
-Besides this, when these nerves are moved a little more powerfully than usual, but not nevertheless to the degree by which our body is in any way hurt, there thus arises a sensation of titillation, which is naturally agreeable to the mind, because it testifies to it of the powers of the body with which it is joined, [in that the latter can suffer the action causing this titillation, without being hurt]. But if this action be strong enough to hurt our body in any way, this gives to our mind the sensation of pain. And we thus see why corporeal pleasure and pain, although sensations of quite an opposite character, arise nevertheless from causes nearly alike.
+In as many diverse modes as they are either moved or hindered from their ordinary motion, to that extent are diverse sensations excited in the mind, from which a corresponding number of tactile qualities derive their appellations. 
+
+Besides this, when these nerves are moved a little more powerfully than usual, but not nevertheless to the degree by which our body is in any way hurt, there thus arises a sensation of titillation, which is naturally agreeable to the mind, because it testifies to it of the powers of the body with which it is joined, [in that the latter can suffer the action causing this titillation, without being hurt]. 
+
+But if this action be strong enough to hurt our body in any way, this gives to our mind the sensation of pain. And we thus see why corporeal pleasure and pain, although sensations of quite an opposite character, arise nevertheless from causes nearly alike.
 
 
 {{< s v="192" >}} **Taste**
 
-In the second place, the other nerves scattered over the tongue and the parts in its vicinity are diversely moved by the particles of the same bodies, separated from each other and floating in the saliva in the mouth, and thus cause sensations of diverse tastes according to the diversity of figure in these particles. [Footnote: In the French this section begins, "Taste, after touch the grossest of the senses," etc.]
+2. The other nerves scattered over the tongue are diversely moved by the particles of the same bodies, separated from each other and floating in the saliva in the mouth, and thus cause sensations of diverse tastes according to the diversity of figure in these particles. 
+
+<!-- [Footnote: In the French this section begins, "Taste, after touch the grossest of the senses," etc.] -->
 
 
 {{< s v="193" >}} **Smell**
 
-Thirdly, two nerves also or appendages of the brain, for they do not go beyond the limits of the skull, are moved by the particles of terrestrial bodies, separated and flying in the air, not indeed by all particles indifferently, but by those only that are sufficiently subtle and penetrating to enter the pores of the bone we call the spongy, when drawn into the nostrils, and thus to reach the nerves. From the different motions of these particles arise the sensations of the different smells.
+3. 2 nerves also or appendages of the brain, for they do not go beyond the limits of the skull, are moved by the particles of terrestrial bodies, separated and flying in the air, not indeed by all particles indifferently, but by those only that are sufficiently subtle and penetrating to enter the pores of the bone we call the spongy, when drawn into the nostrils, and thus to reach the nerves. From the different motions of these particles arise the sensations of the different smells.
 
 
 {{< s v="194" >}} Hearing
 
-Fourthly, there are two nerves within the ears, so attached to three small bones that are mutually sustaining, and the first of which rests on the small membrane that covers the cavity we call the tympanum of the ear, that all the diverse vibrations which the surrounding air communicates to this membrane are transmitted to the mind by these nerves, and these vibrations give rise, according to their diversity, to the sensations of the different sounds.
+4. There are 2 nerves within the ears, so attached to 3 small bones that are mutually sustaining. 
+
+The first of these rests on the small membrane that covers the cavity we call the tympanum of the ear, that all the diverse vibrations which the surrounding air communicates to this membrane are transmitted to the mind by these nerves, and these vibrations give rise, according to their diversity, to the sensations of the different sounds.
 
 
 {{< s v="195" >}} **Sight**
 
-Finally, the extremities of the optic nerves, composing the coat in the eyes called the retina, are not moved by the air nor by any terrestrial object, but only by the globules of the second element, whence we have the sense of light and colours: as I have already at sufficient length explained in the Dioptrics and treatise of Meteors. [Footnote: In the French this section begins, "Finally, sight is the most subtle of all the senses," etc.]
+5. The extremities of the optic nerves, composing the coat in the eyes called the retina, are not moved by the air nor by any terrestrial object, but only by the globules of the second element, whence we have the sense of light and colours: as I have already at sufficient length explained in the Dioptrics and treatise of Meteors. 
 
-
+[Footnote: In the French this section begins, "Finally, sight is the most subtle of all the senses," etc.]

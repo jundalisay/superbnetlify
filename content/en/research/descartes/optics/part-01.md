@@ -86,13 +86,25 @@ We must distinguish between:
 
 The parts of the wine which are towards `C` tend towards `B`, and together towards `A` even if they cannot actually move towards these 2 sides at the same time, and that they tend exactly in a straight line towards B and towards A, notwithstanding that they cannot move so exactly towards A in a straight line, because of the bunches of grapes which are between two: 
 
-thus, thinking that it is not so much the movement as the action of luminous bodies that must be taken for their light, you must judge that the rays of this light are nothing else than the lines along which this action tends. So that there is an infinity of such rays which come from all the points of the luminous bodies towards all the points of those which they illuminate, just as you can imagine an infinity of straight lines, along which the actions which come from all the points of the surface of wine CDE tend towards A; and an infinity of others, according to which the actions which come from these same points also tend towards B without one preventing the other.
+Thus, thinking that it is not so much the movement as the action of luminous bodies that must be taken for their light, you must judge that the rays of this light are nothing else than the lines along which this action tends. 
 
-Moreover, these rays must always be thus imagined exactly straight, when they only pass through a single transparent body, which is everywhere equal to itself; but when they encounter some other bodies, they are liable to be deflected by them, or deadened in the same way as is the motion of a ball or a stone thrown through the air by those whom it encounters; for it is very easy to believe that the action or inclination to move, which I have said must be taken for light, must in this respect follow the same laws as movement. 
+So that there is an infinity of such rays which come from all the points of the luminous bodies towards all the points of those which they illuminate, just as you can imagine an infinity of straight lines, along which the actions which come from all the points of the surface of wine CDE tend towards A; and an infinity of others, according to which the actions which come from these same points also tend towards B without one preventing the other.
 
-The bodies which may thus be encountered by a bullet passing through the air are either soft, or hard, or liquid.
+These rays are always straight when they only pass through a transparent body which is everywhere equal to itself.
 
-If they are soft, they stop and completely deaden its movement, as when it strikes against canvas, or sand, or mud; whereas, if they are hard, they send it back to another side without arresting it, and this in several different ways: for either their surface is all equal and united, or rough and unequal; and again being equal, it is either flat or curved: and being unequal, or its inequality consists only in that it is composed of several parts variously curved, each of which is in itself sufficiently united; or else it consists, besides that, in having several different angles or points, or parts harder than the other, or which move, and this with varieties which can be imagined in a thousand kinds. 
+But when they encounter some other bodies, they are deflected by them. Or they are deadened in the same way as a ball thrown through the air by those that it encounters.
+
+The action or inclination of light to move follows the same laws as movement. 
+
+A bullet passing through the air passes through bodies that are either soft, or hard, or liquid.
+
+If they are soft, they stop and completely deaden its movement.
+
+Examples are canvas, sand, or mud.
+
+If they are hard, they send it back to another side in different ways without arresting it. Either their surface is all equal and united, or rough and unequal. 
+
+Again being equal, it is either flat or curved: and being unequal, or its inequality consists only in that it is composed of several parts variously curved, each of which is in itself sufficiently united; or else it consists, besides that, in having several different angles or points, or parts harder than the other, or which move, and this with varieties which can be imagined in a thousand kinds. 
 
 The ball, besides its simple and ordinary movement, which carries it from one place to another, can still have a second one which makes it turn around its center, and that the speed of this can have several various proportions with that of the other. 
 

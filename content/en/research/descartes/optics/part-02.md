@@ -42,25 +42,21 @@ different things.
 
 And as a result, we must not imagine, as many of our Philosophers do, that it is necessary for the ball to stop for a moment at
 point  before being reflected toward ; for if its motion were to be interrupted by its being stopped momentarily, there is nothing that would
-cause it to begin again. Moreover, we should note that not only the determination to move in a particular direction but also the motion itself, and
-in general any sort of quantity, can be divided into all the parts of which
-we can imagine it to be composed; and we can readily conceive that the
-determination of the ball to move from  toward  is composed of two
+cause it to begin again. 
+
+Moreover, not only the determination to move in a particular direction but also the motion itself, and in general any sort of quantity, can be divided into all the parts of which we can imagine it to be composed; and we can readily conceive that the determination of the ball to move from  toward  is composed of two
 others, one of which makes it descend from line  to line , and at the
 same time the other makes it go from the left, , toward the right, , so
 that the two joined together direct it to  along the line . And then it is
 easy to understand that its impact with the ground can prevent only one
-of these determinations, and not the other in any way. For it must
-certainly prevent the one that made the ball descend from  to , for it
+of these determinations, and not the other in any way. 
+
+For it must certainly prevent the one that made the ball descend from  to , for it
 occupies all the space below . But why should it prevent the other,
 which made the ball move to the right, seeing that it does not offer any
 opposition at all to the determination in that direction? In order to discover in exactly what direction the ball must rebound, let us describe a
 circle with centre  passing through point , and let us say that in as much
 time as the ball will take to move from  to , it inevitably returns from 
-
-Discourse of the Dioptrics
-
-Fig. 
 
 to a certain point on the circumference of this circle, inasmuch as all the points which are the same distance away from  as  is can be found on
 this circumference, and inasmuch as we assume the movement of this ball to be always of a constant speed. Next, in order to determine precisely the
@@ -71,13 +67,11 @@ Let us say that in the same amount of time as the ball took to move
 toward the right side from  – one of the points on the line  – to  – one
 of those on the line  – it must also advance from the line  to some
 point on ; for any point of this line  is as distant from  in this direction as is any other, as are those on the line ; and the ball has as much
-determination to move to that side as it had before. Thus the ball cannot
-arrive simultaneously both at some point on the line  and at some point
+determination to move to that side as it had before. Thus the ball cannot arrive simultaneously both at some point on the line  and at some point
 on the circumference of the circle , unless this point is either  or ,
-as these are the only two points where the circumference and the line
-intersect; and, accordingly, since the ground prevents the ball from passing toward , we must of necessity conclude that it inevitably passes
-toward . And so it is easy for you to see how reflection occurs, namely at
-an angle always equal to the one we call the angle of incidence; in the same
+as these are the only two points where the circumference and the line intersect; and, accordingly, since the ground prevents the ball from passing toward , we must of necessity conclude that it inevitably passes toward . 
+
+And so it is easy for you to see how reflection occurs, namely at an angle always equal to the one we call the angle of incidence; in the same
 way that, if a ray coming from point  descends to point  on the surface
 of a flat mirror , it is reflected toward  in such a way that the angle of
 reflection  is neither greater nor smaller than the angle of incidence
@@ -211,15 +205,9 @@ in water than in air, and which cannot pass through glass at all. For
 example, if it is a ball that is impelled through the air from  toward 
 [fig. ], meeting a surface of water  at point , it will be deflected from
  toward ; yet in the case of a ray, it will, on the contrary, pass from 
-toward . However, you shall cease to find this strange when you consider
-The World and Other Writings
-
-
-
-Fig. 
-the nature that I ascribed to light, when I said it is nothing but a certain
-movement or an action received in the very subtle matter that fills the
-pores of other bodies; and you should bear in mind that, as a ball loses
+toward . 
+
+However, you shall cease to find this strange when you consider the nature that I ascribed to light, when I said it is nothing but a certain movement or an action received in the very subtle matter that fills the pores of other bodies; and you should bear in mind that, as a ball loses
 much more of its agitation in falling against a soft body than against a hard
 one and rolls less easily on a carpet than on a completely bare table, so the
 action of this subtle matter can be impeded much more by the parts of the
@@ -230,10 +218,9 @@ degree that the tiny parts of a transparent body are harder and firmer, the
 more easily they allow the light to pass; for the light does not have to drive
 any of them from their places, as a ball must expel those of water if it is to
 find a passage through them.
-Moreover, knowing thus the cause of the refractions that occur in water
-and glass, and generally in all the other transparent bodies around us, we
-can note that they must be just the same when the rays are leaving the
-bodies and when they are entering them. So, if a ray coming from 
+
+Moreover, knowing thus the cause of the refractions that occur in water and glass, and generally in all the other transparent bodies around us, we
+can note that they must be just the same when the rays are leaving the bodies and when they are entering them. So, if a ray coming from 
 toward  is deflected from  toward  in passing from the air into a lens,
 the one that returns from  toward  must also be deflected from  toward
 . Nevertheless, other bodies can be found, especially in the sky, where
@@ -243,18 +230,10 @@ curved, even though they pass through only one transparent body, in the
 same way that the motion of a ball is often curved because it is deflected
 in one direction by its weight and in another by the action with which we
 have impelled it, or for various other reasons. For in the final analysis, I
-dare to say that the three comparisons that I have just used are so fitting
-
-Discourse  of the Dioptrics
-
-Fig. 
-that all the particular features that may be observed in them correspond
-to particular features which prove to be entirely similar in the case of
-light; but I have tried to explain only those that have the greatest bearing
-on my subject. And I do not wish to have you consider anything else here,
-except that the surfaces of transparent bodies that are curved deflect the
-rays passing through each of their points in the same way as would the flat
-surfaces that we can imagine touching these bodies at the same points. So,
+dare to say that the three comparisons that I have just used are so fitting that all the particular features that may be observed in them correspond
+to particular features which prove to be entirely similar in the case of light; but I have tried to explain only those that have the greatest bearing
+on my subject. And I do not wish to have you consider anything else here, except that the surfaces of transparent bodies that are curved deflect the
+rays passing through each of their points in the same way as would the flat surfaces that we can imagine touching these bodies at the same points. So,
 for example, the refractions of the rays , ,  [fig. ], which come
 from the flame  and fall on the curved surface of the crystal ball , must
 be regarded in the same way as if  fell on the flat surface ,  on ,

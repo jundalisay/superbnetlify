@@ -11,11 +11,20 @@ icon: "/icons/descartes.png"
 
 {{< s v="62" >}} The distinction of reason (logical distinction).
 
-The distinction of reason is that between a substance and some one of its attributes, without which it is impossible, however, we can have a distinct conception of the substance itself; or between two such attributes of a common substance, the one of which we essay to think without the other. 
+The distinction of reason is that between:
+- a substance and
+- some one of its attributes
+
+Without its attributes, it is impossible for us to have a distinct conception of the substance itself.
+
+The distinction of reason can also be between two such attributes of a common substance.
+- The one of which we essay to think without the other. 
 
 This distinction is manifest from our inability to form a clear and distinct idea of such substance, if we separate from it such attribute; or to have a clear perception of the one of two such attributes if we separate it from the other. For example, because any substance which ceases to endure ceases also to exist, duration is not distinct from substance except in thought (RATIONE); 
 
-In general all the modes of thinking which we consider as in objects differ only in thought, as well from the objects of which they are thought as from each other in a common object.[Footnote: "and generally all the attributes that lead us to entertain different thoughts of the same thing, such as, for example, the extension of body and its property of divisibility, do not differ from the body which is to us the object of them, or from each other, unless as we sometimes confusedly think the one without thinking the other."—FRENCH.] 
+In general, all the modes of thinking which we consider as in objects differ only in thought, as well from the objects of which they are thought as from each other in a common object.
+
+[Footnote: "and generally all the attributes that lead us to entertain different thoughts of the same thing, such as, for example, the extension of body and its property of divisibility, do not differ from the body which is to us the object of them, or from each other, unless as we sometimes confusedly think the one without thinking the other."—FRENCH.] 
 
 It occurs, indeed, to me that I have elsewhere classed this kind of distinction with the modal (viz., towards the end of the Reply to the First Objections to the Meditations on the First Philosophy); but there it was only necessary to treat of these distinctions generally, and it was sufficient for my purpose at that time simply to distinguish both of them from the real.
 
@@ -79,11 +88,26 @@ These will be more manifest especially if we consider that size in the body perc
 When we see a body, we are not less assured of its existence from its appearing figured than from its appearing coloured,[Footnote: "by the colour we perceive on occasion of it."— FRENCH.] we yet know with far greater clearness its property of figure than its colour.
 
 
-{{< s v="70" >}} We may judge of sensible things in two ways, by the one of which we avoid error, by the other fall into it.
+{{< s v="70" >}} We judge of sensible things in 2 ways:
 
-It is thus manifest that to say we perceive colours in objects is in reality equivalent to saying we perceive something in objects and are yet ignorant of what it is, except as that which determines in us a certain highly vivid and clear sensation, which we call the sensation of colours. 
+1. A way which we avoid error
+2. A way which we fall into error
 
-There is, however, very great diversity in the manner of judging: for so long as we simply judge that there is an unknown something in objects (that is, in things such as they are, from which the sensation reached us), so far are we from falling into error that, on the contrary, we thus rather provide against it, for we are less apt to judge rashly of a thing which we observe we do not know. 
+Perceiving colours in objects is really equivalent to saying we perceive something in objects and are yet ignorant of what it is, except the sensation of colours which give us a highly vivid and clear sensation. 
 
-But when we think we perceive colours in objects, although we are in reality ignorant of what we then denominate colour, and are unable to conceive any resemblance between the colour we suppose to be in objects, and that of which we are conscious in sensation, yet because we do not observe this, or because there are in objects several properties, as size, figure, number, etc., which, as we clearly know, exist, or may exist in them as they are perceived by our senses or conceived by our understanding, we easily glide into the error of holding that what is called colour in objects is something entirely resembling the colour we perceive, and thereafter of supposing that we have a clear perception of what is in no way perceived by us.
+There is, however, a large diversity in our manner of judging.
+
+When we know that there is something unknown in objects. 
+
+<!-- (that is, in things such as they are, from which the sensation reached us), so far are we from falling into error that, on the contrary, we thus rather provide against it, for we are less apt to judge rashly of a thing which we observe we do not know.  -->
+
+But when we think we see colours in objects, we are really ignorant of what colour is. 
+
+We are unable to think of any resemblance between the colour in objects, and the colour that we see. 
+
+ <!-- yet because we do not observe this, or because there are in objects several properties, as size, figure, number, etc., which, as we clearly know, exist, or may exist in them as they are perceived by our senses or conceived by our understanding,  -->
+
+This makes us glide into the error of thinking that the colour that we see is the colour in objects. 
+
+<!-- and thereafter of supposing that we have a clear perception of what is in no way perceived by us. -->
 

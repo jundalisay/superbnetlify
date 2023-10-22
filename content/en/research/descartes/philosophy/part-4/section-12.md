@@ -25,7 +25,7 @@ Linen cloths tied one above the other were substituted in place of the part ampu
 
 The only explanation is that the nerves which before stretched downwards from the brain to the hand, and then terminated in the arm close to the elbow, were there moved in the same way as they required to be moved before in the hand for the purpose of impressing on the mind residing in the brain the sensation of pain in this or that finger.
 
-[And this clearly shows that the pain of the hand is not felt by the mind in so far as it is in the hand, but in so far as it is in the brain.]
+This clearly shows that the pain of the hand is not felt by the mind in so far as it is in the hand, but in so far as it is in the brain.
 
 
 {{< s v="197" >}} The mind can be excited by the various sensations from the motion of body.
@@ -49,17 +49,35 @@ The motion merely of a sword cutting a part of our skin causes pain, [but does n
 It is certain that this sensation of pain is not less different from the motion that causes it, or from that of the part of our body which the sword cuts, than are the sensations we have of colour, sound, odour, or taste. On this ground we may conclude that our mind is of such a nature that the motions alone of certain bodies can also easily excite in it all the other sensations, as the motion of a sword excites in it the sensation of pain.
 
 
-{{< s v="198" >}}  By our senses we know nothing of external objects beyond their figure [or situation], magnitude, and motion.
+{{< s v="198" >}}  Our senses only tell us of the shape, location, magnitude, and motion of external objects.
 
-Besides, we observe no such difference between the nerves as to lead us to judge that one set of them convey to the brain from the organs of the external senses anything different from another, or that anything at all reaches the brain besides the local motion of the nerves themselves.
+We observe no such difference between the nerves as to lead us to judge that one set of them convey to the brain from the organs of the external senses anything different from another, or that anything at all reaches the brain besides the local motion of the nerves themselves.
 
-Local motion alone causes in us not only the sensation of titillation and of pain, but also of light and sounds. For if we receive a blow on the eye of sufficient force to cause the vibration of the stroke to reach the retina, we see numerous sparks of fire, which, nevertheless, are not out of our eye; and when we stop our ear with our finger, we hear a humming sound, the cause of which can only proceed from the agitation of the air that is shut up within it. 
+Local motion alone causes in us not only the sensation of titillation and of pain, but also of light and sounds.
 
-Finally, we frequently observe that heat [hardness, weight], and the other sensible qualities, as far as they are in objects, and also the forms of those bodies that are purely material, as, for example, the forms of fire, are produced in them by the motion of certain other bodies, and that these in their turn likewise produce other motions in other bodies. 
+If we receive a blow on the eye of sufficient force to cause the vibration of the stroke to reach the retina, we see numerous sparks of fire, which, nevertheless, are not out of our eye.
 
-We can easily conceive how the motion of one body may be caused by that of another, and diversified by the size, figure, and situation of its parts, but we are wholly unable to conceive how these same things (viz., size, figure, and motion), can produce something else of a nature entirely different from themselves, as, for example, those substantial forms and real qualities which many philosophers suppose to be in bodies; nor likewise can we conceive how these qualities or forms possess force to cause motions in other bodies. 
+When we stop our ear with our finger, we hear a humming sound, the cause of which can only proceed from the agitation of the air that is shut up within it. 
 
-But since we know, from the nature of our soul, that the diverse motions of body are sufficient to produce in it all the sensations which it has, and since we learn from experience that several of its sensations are in reality caused by such motions, while we do not discover that anything besides these motions ever passes from the organs of the external senses to the brain, we have reason to conclude that we in no way likewise apprehend that in external objects, which we call light, colour, smell, taste, sound, heat or cold, and the other tactile qualities, or that which we call their substantial forms, unless as the various dispositions of these objects which have the power of moving our nerves in various ways. [Footnote: "the diverse figures, situations, magnitudes, and motions of their parts."— French.]
+Heat [hardness, weight], and the other sensible qualities in objects, and also the forms of those bodies that are purely material, as, for example, the forms of fire, are produced in them by the motion of certain other bodies. These in their turn likewise produce other motions in other bodies. 
+
+The motion of one body may be caused by the motion of another. It can be diversified by the size, figure, and location of its parts. But we are unable to conceive how these same things (viz., size, figure, and motion), can produce something else of a nature entirely different from themselves, as, for example, those substantial forms and real qualities which many philosophers suppose to be in bodies. 
+
+We cannot think how these qualities or forms possess force to cause motions in other bodies. 
+
+According to the nature of our soul, the diverse motions of body produce in it all the sensations which it has.
+
+Several of its sensations are in reality caused by such motions.
+
+Only these motions pass from the external sense organs to the brain. 
+
+<!-- , we have reason to conclude that we in no way likewise apprehend that in  -->
+
+The various dispositions of external objects such as light, colour, smell, taste, sound, heat or cold, and the other tactile qualities have the power of moving our nerves in various ways.
+
+<!-- , or that which we call their substantial forms, unless as the various dispositions of these objects which   -->
+
+<!-- [Footnote: "the diverse figures, situations, magnitudes, and motions of their parts."— French.] -->
 
 
 {{< s v="199" >}} There is no phenomenon of nature whose explanation has been omitted in this treatise.
@@ -91,10 +109,34 @@ We also distinctly imagine and understand it. This cannot be said of any of the 
 
 {{< s v="201" >}}  Sensible bodies are composed of insensible particles
 
-But I allow many particles in each body that are perceived by none of our senses, and this will not perhaps be approved of by those who take the senses for the measure of the knowable. 
+There are many particles in each body that are not perceived by our senses. This will not be approved of by people who take the senses as the measure of the knowable. 
 
-[We greatly wrong human reason, however, as appears to me, if we suppose that it does not go beyond the eye-sight]; for no one can doubt that there are bodies so small as not to be perceptible by any of our senses, provided he only consider what is each moment added to those bodies that are being increased little by little, and what is taken from those that are diminished in the same way. 
+<!-- [We greatly wrong human reason,  if we suppose that it does not go beyond the eye-sight]; -->
 
-A tree increases daily, and it is impossible to conceive how it becomes greater than it was before, unless we at the same time conceive that some body is added to it. But who ever observed by the senses those small bodies that are in one day added to a tree while growing? Among the philosophers at least, those who hold that quantity is indefinitely divisible, ought to admit that in the division the parts may become so small as to be wholly imperceptible. And indeed it ought not to be a matter of surprise, that we are unable to perceive very minute bodies; for the nerves that must be moved by objects to cause perception are not themselves very minute, but are like small cords, being composed of a quantity of smaller fibres, and thus the most minute bodies are not capable of moving them. 
+There are bodies so small that are not perceptible by any of our senses. 
 
-Nor do I think that any one who makes use of his reason will deny that we philosophize with much greater truth when we judge of what takes place in those small bodies which are imperceptible from their minuteness only, after the analogy of what we see occurring in those we do perceive, [and in this way explain all that is in nature, as I have essayed to do in this treatise], than when we give an explanation of the same things by inventing I know not what novelties, that have no relation to the things we actually perceive, [as first matter, substantial forms, and all that grand array of qualities which many are in the habit of supposing, each of which is more difficult to comprehend than all that is professed to be explained by means of them].
+<!-- , provided he only consider what is each moment added to those bodies that are being increased little by little, and what is taken from those that are diminished in the same way.  -->
+
+A tree increases daily. It is impossible to think how it becomes larger than before, unless we also think at the same time that some particles were added to it. 
+
+But whoever observed by the senses those small particles that are added daily to the tree while growing? 
+
+Some philosophers think that quantity is indefinitely divisible. They should admit that in the division, the parts may become so small as to be wholly imperceptible. 
+
+We are unable to perceive very minute bodies.
+
+This is because, for something to be perceived, it must move the nerves. 
+
+ <!-- that must be moved by objects to cause perception are not themselves very minute,  -->
+
+But the nerves are like small cords, being composed of smaller fibres. Thus, the most minute bodies are not capable of moving them. 
+
+Nor do I think that any reasonable person will not deny that we philosophize with much greater  truth when we judge of what happens in those small bodies which are imperceptible from their minuteness only, after the analogy of what we see occurring in those we do perceive, 
+
+In this way, we explain all that is in nature. 
+
+than when we give an explanation of the same things by inventing new novelties that have no relation to the things we actually perceive.
+
+Examples are first matter, substantial forms, and all that grand array of qualities which philosophers suppose. 
+
+Each of these is more difficult to comprehend than all that is to be explained by means of them.

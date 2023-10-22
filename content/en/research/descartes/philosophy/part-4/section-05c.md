@@ -43,17 +43,25 @@ For the different parts of the magnet, to which the iron is applied, it receives
 
 The same part `R`, if it lies above the equator of the magnet, and looks at its northern pole, as in C, will again become the southern pole of iron; but if it is inverted and looks at the South Pole, as in D, then it will lose the power of the South Pole and become the Borealis Pole.
 
-Finally, if the middle part S of this iron touches the pole of the magnet A, the striated Borealis particles, having entered it through S, will go out on both sides through R and T, so that at each end it will receive the force of the South pole, and in the middle the force of the Boreal pole.
+Finally, if the middle part `S` of this iron touches the pole of the magnet `A`, the striated Borealis particles, having entered it through `S`, will go out on both sides through `R` and `T`, so that at each end it will receive the force of the South pole, and in the middle the force of the Boreal pole.
 
 
 {{< s v="4.160" >}} **Why does not an oblong iron receive it, except according to its own length?**
 
-It can only be asked why these striated particles, entering part S from the pole A of the iron magnet, do not proceed straight towards E, but rather are reflected from here towards R and T; and thus this iron receives magnetism according to its length, rather than according to its breadth. But the answer is easy, because they find much more open and easy ways in the iron than in the air, from which therefore the iron is reflected.
+Why do these striated particles, entering part `S` from the pole `A` of the iron magnet, not go straight towards `E`. Instead, they are reflected from here towards `R` and `T`.
 
-[4.161] Why does the magnate lose nothing of his wife, although he shares it with the sword?
+Thus, this iron receives magnetism according to its length instead of its width. 
+
+This is because they find much more open and easy ways in the iron than in the air, from which therefore the iron is reflected.
+
+
+{{< s v="4.161" >}} Why does the magnate lose nothing of his wife, although he shares it with the sword?
 
 It is also an easy answer, if it is asked why a magnet loses nothing of its ui when it shares it with steel. For no change takes place in the magnet, because the striated particles, coming out of it, enter the iron rather than any other body: except perhaps that, passing more freely through the iron than through other bodies, they also come out more abundantly from the magnet when the iron is attached to it; by which he is absent so much that his power is diminished, rather than increased. /298/
 
-[4.162] Wherefore these things should be dealt with very quickly with iron, but be strengthened in it by the long course of time.
 
-And in a very short time this water approaches the iron, because the striated particles flow very rapidly through it; but the long delay is confirmed in it, because the longer the ends of the branches remain bent in one direction, the more difficult they are bent in the opposite direction.
+{{< s v="4.162" >}}  Wherefore these things should be dealt with very quickly with iron, but be strengthened in it by the long course of time.
+
+In a very short time this water approaches the iron, because the striated particles flow very rapidly through it. 
+
+But the long delay is confirmed in it, because the longer the ends of the branches remain bent in one direction, the more difficult they are bent in the opposite direction.

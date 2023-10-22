@@ -335,9 +335,8 @@ At the moment, the Philippines only has Western ideas and systems as a consequen
 
 <!-- This goes hand in hand with the open religious policy.  -->
 
-{{< q a="smith">}}
+{{< q a="smith" c="Wealth of Nations, Book 5, Chapter 1" >}}
 The state should make the study of science and philosophy universal
-<cite>Wealth of Nations, Book 5, Chapter 1</cite>
 {{< /q >}}
 
 
