@@ -6,10 +6,6 @@ image: "/photos/med/covid.jpg"
 description: "We use dialectics to propose a solution to Covid-19 by ending the war against the Amazon rainforest"
 author: Juan
 icon: /icons/spmed.png
-aliases:
-  /solutions/medical/how-to-stop-covid/
-  /medical/how-to-stop-covid/
-  /medical/physical/solutions/how-to-stop-covid/
 ---
 
 

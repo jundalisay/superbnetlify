@@ -327,7 +327,7 @@ Gravitational signatures don't just work for movements in the five physical laye
 
 - move public opinon or feelings towards a policy proposal or political candidate by knowing the current G of society. Is your society headed for a golden age, or is it on a decline? This is the job of [Social Superphysics](/social)
 - attract or retain the right employees or minds for your company and maximize their productivity by finding out their motivational G that might be different from the material particle called money. This is the job of [Economic Superphysics (Pantrynomics)](/social/economics)
-- know how temporally far a person is from a disease by comparing his G with that of the disease, so that he can move away from or prevent the disease. This is the job of [Bio Superphysics](/medical)
+- know how temporally far a person is from a disease by comparing his G with that of the disease, so that he can move away from or prevent the disease. This is the job of [Bio Superphysics](/bio)
 - and so on..
 
 

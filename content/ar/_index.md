@@ -105,7 +105,7 @@ tricon3:
       img: /photos/med/covid.jpg 
       title : "كيفية وقف الكوفيد"
       subtitle : "لا يزال موجودًا! العلم محصور في صندوق وغير قادر على حله"
-    # - url : "/medical/solutions/covid-star/"
+    # - url : "/bio/solutions/covid-star/"
     #   img : "/photos/physics/star.jpg"
     #   title : "نجم الكوفيد ونجم الإنفلونزا"
     #   subtitle : "اقرأ كيف تشكل السلالة أوميكرون نمطًا منتظمًا لنجم كوفيد"

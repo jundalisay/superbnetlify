@@ -9,10 +9,6 @@ isQuirksMode = true     # set value to true will throw error as warning when bui
         title = "Alternative to General Relativity"
         url = "/material/fallacies/general-relativity"
         img = "/graphics/physics/general.jpg"
-    # [latests.b]
-    #     title = "The Covid Star"
-    #     url = "/medical/physical/solutions/covid-flu-star"
-    #     img = "/photos/physics/star.jpg"
     [latests.c]
         title = "How to Fix Russia and Ukraine"
         url = "/social/cycles/russia"

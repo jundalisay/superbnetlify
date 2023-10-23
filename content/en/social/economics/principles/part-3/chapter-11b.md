@@ -9,8 +9,6 @@ description: "Superphysics defines capitalism as an economic system that uses ou
 youtube: "rVP73TV2X0s"
 author: Juan
 icon: /icons/pantry.png
-aliases:
-  /social/economics/capitalism
 ---
 
 

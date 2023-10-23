@@ -6,6 +6,7 @@ weight: 12
 image: "/graphics/jfk.jpg"
 description: "The Effort Theory of Value is our alternative to both marginal pricing of Capitalism and the labor theory of value of Marxism"
 icon: /icons/pantry.png
+author: Juan
 ---
 
 
@@ -32,9 +33,9 @@ People confuse Smith's labour theory with that of Marx simply because both use t
 
 Fortunately, Smith explains his theory in just one chapter -- [Chapter 5 of The Wealth of Nations](/research/smith/wealth-of-nations/book-1/chapter-5a). It is clear that 'labour' to Smith is rooted in psychology instead of physics when he equates it to toil and trouble:
 
-{{< quote ava="smith" >}}
+{{< q a="Smith" >}}
 The real price of everything.. is the toil and trouble of acquiring it. What everything is really worth to the man who has acquired it, and who wants to dispose of it or exchange it for something else, is thetoil and trouble which it can save to himself, and which it can impose upon other people. What is bought with money or with goods is purchased by labour as much as what we acquire by thetoil of our own body. That money or those goods indeed save us this toil.
-{{< /quote >}}
+{{< /q >}}
 
 
 Toil and trouble are not objective. 

@@ -6,13 +6,10 @@ image: /photos/med/covid.jpg
 description: "We list down the Covid variants to establish patterns"
 author: Juan
 icon: /icons/spmed.png
-# aliases:
-#  "/articles/medical/covid-variants"
-#  "/medical/how-to-stop-covid"
 ---
 
 
-Following our theory that Covid is powered by [a Covid star](/articles/medical/covid-flu-star), we list down the attributes of known variants emphasizing the date and place where they were first reported. This is to plot their "landing zones" which, according to our theory, forms a line that circles the world.
+Following our theory that Covid is powered by [a Covid star](/bio/solutions/covid-star/), we list down the attributes of known variants emphasizing the date and place where they were first reported. This is to plot their "landing zones" which, according to our theory, forms a line that circles the world.
 
 Name | Date First Encountred | Place | Transmissibility | Severity | Technical Name 
 --- | --- | --- | --- | --- | ---

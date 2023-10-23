@@ -6,10 +6,6 @@ image: /photos/physics/star.jpg
 description: "We explain the nature of Covid and influenza as waves coming from their respective stars"
 author: Juan
 icon: /icons/spmed.png
-aliases:
-  /articles/medical/covid-flu-star/
-  /medical/physical/covid-flu-star/
-  /medical/physical/solutions/covid-flu-star/
 ---
 
 

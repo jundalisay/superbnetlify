@@ -4,12 +4,6 @@ description: "Superphysics is a unification of Science and Philosophy, Physics w
 image: /covers/spblack.jpg
 ---
 
-<!-- img1: "https://sorasystem.sirv.com/books/taonomics.png"
-img2: "https://sorasystem.sirv.com/books/spmat.jpg"
-img3: "https://sorasystem.sirv.com/books/tms.jpg"
-img4: "https://sorasystem.sirv.com/books/economist.jpg"
- -->
-
 
 
 ## It Began with the Financial Crisis 
@@ -43,7 +37,7 @@ Its base or core is Asian philosophy since the Hindus, Buddhists, Taoists alread
 It is divided into three:
 
 
-_ | [Material Superphysics](/material) | [Bio Superphysics](/medical) | [Social Superphysics](/social)
+_ | [Material Superphysics](/material) | [Bio Superphysics](/bio) | [Social Superphysics](/social)
 --- | --- | --- | ---
 Goal | Discover levitation, teleportation, and gravity-based energy, such as fusion, by using gravitational signatures | Solve all diseases, even viruses and mental health issues, create Artificial Sentience for predicting health issues  | Solve social problems, even economics and politics such as financial crisis and war, create Artificial Sentience for preventing crises. Create a global constitution, national constitution template, and organic law as a unified political system
 Example Technologies | Vehicle levitation, Fusion via levitation of plasma | Five medical paradigms known to all, Sound waves for Agriculture, and Agriculture on seawater (Bio Superphysics for plants) | Free Trade system, Confirmation Elections, Constitutional Virtues 

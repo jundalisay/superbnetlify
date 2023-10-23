@@ -62,7 +62,7 @@ According to Descartes, through an eternal revolution from rest to motion and mo
 Creation goes on to make the 5th, 6th, and 7th dimensions*. However, only the four dimensions are visible to our ordinary senses, since the 5th to 7th are metaphysical in essence. 
 
 
-> *The 7 dimensions match the 7 chakras in Hinduism and is essential in Ayurveda, which we classify under [Bio Superphysics](/medical). The sequence of creation is actually in reverse. From the Creator's perspective, it starts from the 7th then goes down to the 1st dimension. But from our perspective as 'createes', it's from the 1st to the 7th.  
+> *The 7 dimensions match the 7 chakras in Hinduism and is essential in Ayurveda, which we classify under [Bio Superphysics](/bio). The sequence of creation is actually in reverse. From the Creator's perspective, it starts from the 7th then goes down to the 1st dimension. But from our perspective as 'createes', it's from the 1st to the 7th.  
 
 
 Thus, spacetime is created by the mere existence or popping-in of the qosts from the aether. This gives the **illusion** of movement by one qost against the other when in fact, none of them are moving. The only real movement is their appearance into reality or actuality coming from nonreality or probability. 
@@ -101,10 +101,8 @@ The metaphysical idea* for a galaxy then is translated into an actual physical g
 > *This leads to the [Socratic Theory of Forms](/research/socrates/phaedo/chapter-8), which leads to Essences
 
 
-{{< q a="mont" >}}
+{{< q a="mont" c="Spirit of the Laws, Book 1" >}}
 Intelligent beings might have laws of their own making. But they also have some which they never made. Before there were intelligent beings, they were a possibility.
-
-<cite>Spirit of the Laws, Book 1</cite>
 {{< /q >}}
 
 

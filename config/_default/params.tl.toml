@@ -11,7 +11,7 @@ isQuirksMode = true     # set value to true will throw error as warning when bui
         img = "/graphics/physics/general.jpg"
     [latests.b]
         title = "The Covid Star"
-        url = "/medical/physical/solutions/covid-flu-star"
+        url = "/bio/solutions/covid-star/"
         img = "/photos/physics/star.jpg"
     [latests.d]
         title = "How to Fix Afghanistan"
