@@ -6830,7 +6830,7 @@ body {
   background-color: #000f3a;
   background-image: url(/icons/mont.png); }
 
-.newton {
+.newton, .Newton {
   background-color: black;
   background-image: url(/icons/newton.png); }
 
@@ -6877,6 +6877,9 @@ body {
 .smith, .Smith {
   background-color: #055 !important;
   background-image: url(/avatars/smith.png) !important; }
+
+.Spinoza {
+  background-image: url(/icons/spinoza.png) !important; }
 
 .roger {
   background-color: #fff2cc !important;

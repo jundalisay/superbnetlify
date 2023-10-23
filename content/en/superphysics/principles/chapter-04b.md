@@ -17,7 +17,7 @@ comments:
 ---
 
 
-Chapter 4 explained that reality is made up of long perception-chains of cause and effects, called by the Hindus as ''karma-samskara-karma'. 
+Chapter 4a explained that reality is made up of long perception-chains of cause and effects, called by the Hindus as ''karma-samskara-karma'. 
 
 A long series of chains gains the dynamics of a wave. This wave we can split into 3 states:
 

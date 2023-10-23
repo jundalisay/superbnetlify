@@ -15,6 +15,7 @@ Current Cycle | Years per Cycle | Social Age
 --- | --- | ---
 Positive Warrior  | 12 | 5.5
 
+{{< img src="/flags/ph.png" >}}
 
 The [previous post](https://maharlika.superphysics.org/economics/dutertenomics) explained the problem with the neoliberal economic plan called "Ambisyon 2040" by Arsenio Balisacan, which was part of 'Dutertenomics'.
 

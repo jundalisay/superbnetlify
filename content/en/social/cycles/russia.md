@@ -8,9 +8,6 @@ image: "/flags/ru.png"
 description: "The social cycles of Russia last 15 years"
 author: Juan
 icon: "/flags/ru.png"
-aliases:
-  /analysis/social-cycles/how-to-fix-russia
-  /social/cycles/how-to-fix-russia  
 comments:
   - img: "/avatars/huong.jpg"
     content: "When will the war end?"
@@ -22,6 +19,8 @@ Current Cycle | Years per Cycle | Social Age
 --- | --- | ---
 Negative Warrior | 15 | 5
 
+
+{{< img src="/flags/ru.png" >}}
 
 
 ## The Russia-Ukraine war

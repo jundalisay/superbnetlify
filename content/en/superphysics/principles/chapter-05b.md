@@ -23,14 +23,11 @@ Combining these gives us the Elastic Theory of Gravity which is applicable in ma
 - Physics as gravitation and magnetism
 - Medicine as disease and wellness
 
+<!-- which is the cause of all movement and change in the universe. -->
 
-which is the cause of all movement and change in the universe.
+All of this movement is caused by the creation or existence of other ideas, which manifest as entities in the physical domain. The rule on uniqueness makes those entities move away from each other according to our Theory of Dynamism. 
 
-All of this movement is caused by the creation or existence of other ideas, which manifest as entities in the physical domain. The rule on uniqueness makes those entities move away from each other. This leads to our Theory of Dynamism. 
-
-
-
-Here we explain 'The Elastic Theory' or the Theory of Elastic Gravitational Bands which is a consolidation of the theories from:
+ Here we explain 'The Elastic Theory' or the Theory of Elastic Gravitational Bands which is a consolidation of the theories from:
 
 - Socrates, as the relativity of the motions in the heavens
 - Kepler, as the links of kinship between planetary bodies

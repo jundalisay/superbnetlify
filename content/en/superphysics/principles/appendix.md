@@ -54,10 +54,6 @@ Rent | Regular Arbitrary Revenue, from the Lack of Land
 Wage | Regular Revenue to Live, from the Abundance Experienced by Employers
 Profit | Irregular Revenue from the lack experienced by others
 Donation | Irregular Revenue from the abundance experienced by others 
-
----
-
-Word | Meaning
 --- | ---
 Commerce | the exchange using money
 Commercialization | the shifting of an economy or trade into objective money-based transactions, as opposed to barter to arbitrary exchanges

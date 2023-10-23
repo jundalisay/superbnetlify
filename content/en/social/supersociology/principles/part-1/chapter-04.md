@@ -11,44 +11,59 @@ icon: /icons/spsoc.png
 ---
 
 
+According to Indian philospher PR Sarkar, a civilization has the following essentials:
 
-1. A Spiritual Goal or Ideology
 
-Much of your energy is misused due to the ignorance of your own self and the destination towards which you are moving. This misuse of energy is bound to cause destruction.
+**1. A Spiritual Goal or Ideology**
 
-2. Spiritual or Religious Practices 
+<!-- Much of your energy is misused due to the ignorance of your own self and the destination towards which you are moving. This misuse of energy is bound to cause destruction. -->
+
+
+**2. Spiritual Practices** 
+
+Spiritual Practices expand the mind towards the infinite. Only spiritual ideology and spiritual philosophy will not do.
 
 <!-- Everyone has a physical structure. The problem with every individual is to produce more and more ectoplasmic stuff by the body and then to convert it into consciousness. 
 
 There should be a proper process for this conversion. Spiritual cult consists of the conversion of the five rudimental factors into ectoplasmic stuff and then into consciousness through a special scientific process. 
 
-This is a process of metamorphosis. Spiritual cult therefore, is indispensable. But only spiritual ideology and spiritual philosophy will not do. -->
+This is a process of metamorphosis. Spiritual cult therefore, is indispensable. But  -->
 
-3. A blending of existence and progress <!-- Asti and Bhati is --> as a socio-economic theory. 
 
-There should be a priori knowledge regarding the social structure, the distribution of wealth and its growth. For want of this knowledge there can’t be a solid ground for the construction of the social edifice.
+3. **A socio-economic theory**
 
-4. Social outlook
+A blending of existence and physical progress is necessary. 
 
-All living creatures in this manifest universe are the children of the same Cosmic Entity. They are the progeny of the same Supreme Progenitor. Naturally they are bound in a thread of fraternal relations. This is the central spirit. A socio-economic theory is of no use but for this fraternal feeling. The implementation of this theory is an impossibility without Sádhaná.
+ <!-- Asti and Bhati is --> 
 
-5. Its own scripture
+There should be a priori knowledge regarding the social structure, the distribution of wealth and its growth. Lack of this knowledge will lead to no solid ground for the construction of the social edifice.
 
-There is a need for the company of elevated persons (satsauṋga) in all spheres of life.
 
-The authority whose contact means satsauṋga for you is the shástra. That which elevates society by dint of sháśana is called [[shástra]]. We should have a shástra of our own. 
+4. **Social outlook**
 
-6. Its own preceptor.
+All living creatures in this manifest universe are creations of the same Cosmic Entity. Naturally they are bound in a thread of fraternal relations. 
 
+This is the central spirit. A socio-economic theory is based on this fraternal feeling. 
+
+<!-- The implementation of this theory is an impossibility without Sádhaná. -->
+
+5. **Its own scripture**
+
+<!-- There is a need for the company of elevated persons (satsauṋga) in all spheres of life. -->
+
+The scripture embodies the authority of the elevated persons in society. 
+
+<!-- whose contact means satsauṋga for you is the shástra. That which elevates society by dint of sháśana is called [[shástra]]. We should have a shástra of our own.  -->
+
+
+6. **Its own preceptor**
+
+
+
+These 6 essentials by PR Sarkar lead to a noral system which is the intermediate foundation of a civilization, in between spirituality and laws.  
 
 
 ## The Collapse of Civilizations
-
-<!-- heading: "When their morals and fellow-feeling decline"
-date: 2015-09-09 -->
-
-<!-- description: "Since morals are the basis for the creation of societies, then the decline of morals are the cause of a society's voluntary dissolution, whether a rock band or a civilization"
- -->
 
 <!-- Add Ibn Khaldun -->
 

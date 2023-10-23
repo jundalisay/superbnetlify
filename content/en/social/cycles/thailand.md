@@ -14,6 +14,6 @@ Current Cycle | Years per Cycle | Social Age
 --- | --- | ---
   |  | 
 
-<br> 
+{{< img src="/flags/th.png" >}}
 
 The win of the current party shows the current cycle

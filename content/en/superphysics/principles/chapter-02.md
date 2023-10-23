@@ -53,10 +53,6 @@ The mug only existed after the maker of mugs had the idea of a mug, as to be abl
 {{< /me >}}
 
 
-{{< me date="August 1, 2022" >}}
-*Environmental destruction hasn't stopped yet, and so Nature just throws another virus as monkeypox to show who's boss. 
-{{< /me >}}
-
 
 Thus:
 - every physical thing or perception has a corresponding metaphysical idea or feeling
@@ -83,6 +79,13 @@ Consciousness is.. | ..the metaphysical soul | ..the physical brain
 Superphysics is in between both abstract philosophy and material science.
 - It is grounded on the metaphysical, but can quickly extend down to sensory evidence and practicality. 
 - It sees the physical brain and its hormones as the effect of the metaphysical soul and its feelings. 
+- It does not go into final causes, since the final cause is always the Supreme Entity which is the scope of Metaphysics, not Superphysics
+
+
+{{< q a="Spinoza" c="The Ethics" >}}
+People do all things for the useful end that they want. This is why people look for the final causes of phenomena.
+{{< /q >}}
+
 
 Unlike science which manipulates the brain and hopes that it changes the soul or mind, Superphysics works directly on the soul in order to resolve its physical issues with the brain.
 
@@ -104,12 +107,16 @@ Or will it be sad and lonely?
 {{< img src="/graphics/flipbook.gif" alt="Flipbook about a cat" >}}
 
 
-The reader of that novel will then experience **the wave of the author's feelings** about the cat through the movement of the characters and events in the novel. The reader will think that those events are single events, and that each character is a single character. In reality, each of those events and characters are made up of many slices of quantized-events and quantized-characters*.
+The reader of that novel will then experience **the wave of the author's feelings** about the cat through the movement of the characters and events in the novel. The reader will think that those events are single events, and that each character is a single character. 
+
+In reality, each of those events and characters are made up of many slices of quantized-events and quantized-characters*.
 
 > *Here we use the word 'quantize' instead of 'quantum' to emphasize the action of the mind that isolates the smallest perception that it can make.
 
 
-For example, a cat character in a novel 100 pages is actually made up of 100-cat entities which are stitched together artificially by the mind into one consistent cat-entity. Likewise, our reality is made up of independent "pages" or planes of reality that flow, or are connected by our minds with other contiguous planes, to create one consistent reality. This is the same mechanism that our minds use to connect the metaphysical domain with physical domain in order to create the current reality*.
+For example, a cat character in a novel 100 pages is actually made up of 100-cat entities which are stitched together artificially by the mind into one consistent cat-entity.
+
+Likewise, our reality is made up of independent "pages" or planes of reality that flow, or are connected by our minds with other contiguous planes, to create one consistent reality. This is the same mechanism that our minds use to connect the metaphysical domain with physical domain in order to create the current reality*.
 
 
 > *Science and quantum mechanics can never reach into this because they do not allow a metaphysical domain.
@@ -126,6 +133,9 @@ For example, a cat character in a novel 100 pages is actually made up of 100-cat
 
 We can then make an analogy that the Creator of the universe began writing Its ideas onto the physical domain as the 'Big Bang'* as the first page of the novel of reality. The changes in the universe then arose from the Creator's changing ideas and feelings, just as the novel changes through time.
 
+> *Our version is a metaphysical Big Bootup. Going to the beginning of space and time will merely extend or push the beginning of space and time. This is like chasing the wind or running in circles. 
+
+
 Unlike Physics that only has physical time, Superphysics has both physical and metaphysical time:
 
 {{< q >}}
@@ -136,7 +146,7 @@ This image is what we call time.
 {{< /q >}}
 
 
-> *Our version is a metaphysical Big Bootup. Going to the beginning of space and time will merely extend or push the beginning of space and time. This is like chasing the wind or running in circles. 
+
 
 
 
@@ -166,9 +176,9 @@ The Hindus call this Virtual Reality or Existence as **Brahma** and the Taoists 
 
 ## Do You Have a Problem? The Solution Already Exists!
 
-All the data served by the internet pre-exists, so it means that all possibilities already pre-exist. If you have a problem, then it means its solution pre-exists and you just have to find it. If the solution does not pre-exist, then it means your problem is not really a problem*.
+All the data served by the internet pre-exists, so it means that all possibilities already pre-exist. If you have a problem, then it means its solution pre-exists and you just have to find it. If the solution does not pre-exist, then it means your problem is not really a problem.
 
-> *The evolution from problem to solution as still part of the aether drag. Without this drag, all problems would be solved instantly. Cavemen take a longer time to solve problems than modern humans and so we say they have more drag. 
+<!-- > *The evolution from problem to solution as still part of the aether drag. Without this drag, all problems would be solved instantly. Cavemen take a longer time to solve problems than modern humans and so we say they have more drag.  -->
 
 
 For example, no one has ever imagined that humans should have three or four legs, and that having only two legs was a problem. Thus, there has never been a search for its solution. 

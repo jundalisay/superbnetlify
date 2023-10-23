@@ -15,7 +15,8 @@ icon: /icons/sp.png
 
 The question 'Does God exist?' can be answered by 'Can you perceive Existence?'. 
 
-![Outer space](https://sorasystem.sirv.com/photos/space.jpg)
+{{< img src="/photos/physics/galaxy.jpg" >}}
+
 
 Earlier, we said that:
 - every physical perception has a metaphysical idea-equivalent

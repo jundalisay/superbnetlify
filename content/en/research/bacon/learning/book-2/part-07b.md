@@ -70,8 +70,8 @@ This was done not by Plato, Aristotle, Galen, and others which do usually likewi
 
 They say that:
 - “the hairs of the eyelids are for a quickset and fence about the sight”
-- “the firmness of the skins and hides of living creatures is to defend them from the extremities of heat or cold;”
-- “the bones are for the columns or beams, whereupon the frames of the bodies of living creatures are built”
+- “the firmness of the skins and hides of living creatures is to defend them from heat or cold”
+- “the bones are the columns or beams where the frames of the bodies of living creatures are built”
 - “the leaves of trees are for protecting of the fruit”
 - “the clouds are for watering of the earth”
 - “the solidness of the earth is for the station and mansion of living creatures”
@@ -82,9 +82,13 @@ These are so common in metaphysic.
 - These have brought this to pass, that the search of the physical causes hath been neglected and passed in silence. 
 
 
-Therefore, the natural philosophy of Democritus and some others, who did not suppose a mind or reason in the frame of things, but attributed the form thereof able to maintain itself to infinite essays or proofs of Nature, which they term fortune, seemeth to me (as far as I can judge by the recital and fragments which remain unto us) in particularities of physical causes more real and better inquired than that of Aristotle and Plato; whereof both intermingled final causes, the one as a part of theology, and the other as a part of logic, which were the favourite studies respectively of both those persons; not because those final causes are not true and worthy to be inquired, being kept within their own province, but because their excursions into the limits of physical causes hath bred a vastness and solitude in that tract.  
+Therefore, the natural philosophy of Democritus and some others did not suppose a mind in the frame of things. Instead, they attributed the form thereof able to maintain itself to infinite essays or proofs of Nature, which they term fortune, seems to me in particularities of physical causes more real and better inquired than that of Aristotle and Plato.
 
-For otherwise, keeping their precincts and borders, men are extremely deceived if they think there is an enmity or repugnancy at all between them.  For the cause rendered, that “the hairs about the eyelids are for the safeguard of the sight,” doth not impugn the cause rendered, that “pilosity is incident to orifices of moisture—muscosi fontes, &c.”  Nor the cause rendered, that “the firmness of hides is for the armour of the body against extremities of heat or cold,” doth not impugn the cause rendered, that “contraction of pores is incident to the outwardest parts, in regard of their adjacence to foreign or unlike bodies;” and so of the rest, both causes being true and compatible, the one declaring an intention, the other a consequence only.  
+Whereof both intermingled final causes, the one as a part of theology, and the other as a part of logic, which were the favourite studies respectively of both those persons. This is not because those final causes are not true and worthy to be inquired, being kept within their own province, but because their excursions into the limits of physical causes hath bred a vastness and solitude in that tract.  
+
+For otherwise, keeping their precincts and borders, men are extremely deceived if they think there is an enmity or repugnancy at all between them. 
+
+For the cause rendered, that “the hairs about the eyelids are for the safeguard of the sight,” does not impugn the cause rendered, that “pilosity is incident to orifices of moisture—muscosi fontes, &c.”  Nor the cause rendered, that “the firmness of hides is for the armour of the body against extremities of heat or cold,” doth not impugn the cause rendered, that “contraction of pores is incident to the outwardest parts, in regard of their adjacence to foreign or unlike bodies;” and so of the rest, both causes being true and compatible, the one declaring an intention, the other a consequence only.  
 
 Neither doth this call in question or derogate from Divine Providence, but highly confirm and exalt it.  
 

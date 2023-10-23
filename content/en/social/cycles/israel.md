@@ -15,6 +15,11 @@ Current Cycle | Years per Cycle | Social Age
 --- | --- | ---
 Thinker  | 12 | 
 
-<br> 
+{{< img src="/flags/il.png" >}}
 
-The quick ceasefire in 2021 shows Israel transitioning from the Warrior to the Philosopher cycle 
+
+The quick ceasefire in 2021 shows Israel transitioning from the Warrior to the Thinker cycle.
+
+Its inability to detect the 2023 attack by Hamas is also proof that it is no longer in the Warrior cycle. 
+
+ 

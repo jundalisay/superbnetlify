@@ -46,7 +46,9 @@ Adding more apples will either:
 
 Either way, the mere addition of apples causes movement, as a reaction to those new additions.
 
-The tray represents the mind of the universe which holds its ideas. The addition of new ideas creates reactions from the already-existing ideas. This leads to movement for those new and old ideas inside the universe-container. This movement affects all ideas just as the addition of the apple affects all apples already in the tray -- the more ideas, the more the dynamism and energy.
+The tray represents the mind of the universe which holds its ideas. The addition of new ideas creates reactions from the already-existing ideas. This leads to movement for those new and old ideas inside the universe-container. 
+
+This movement affects all ideas just as the addition of the apple affects all apples already in the tray -- the more ideas, the more the dynamism and energy.
 
  <!-- dynamism that is far more energetic than the original addition-action.   -->
 

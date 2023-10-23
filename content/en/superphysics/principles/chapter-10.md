@@ -4,7 +4,7 @@ title: "What is Superphysics?"
 # date: 2021-07-19
 date: 2020-11-20
 weight: 36
-image: /graphics/super/5layers4.jpg
+image: /graphics/super/5layers.png
 # image: /covers/spblack.jpg
 description: "Superphysics unifies Physics and Metaphysics to solve the problems unsolved by science"
 author: Juan
@@ -43,7 +43,12 @@ Science was then called Natural Philosophy which dealt with natural physical phe
 
 ## The Dark Ages Begin
 
-But by the 19th century, the Europeans separated Natural Philosophy from Philosophy. It mutated into materialist science which accepted only visible and tangible perceptions, effectively removing metaphysics. 
+But by the 19th century, the Europeans separated Natural Philosophy from Philosophy. It mutated into materialist science which accepted only visible and tangible perceptions, effectively removing metaphysics. We trace this to Isaac Newton who enshrined lifeless mathematics and then attached his materialist philosophy to it:
+
+{{< q a="Newton" c="Principia, Rules of Reasoning" >}}
+These mathematical principles are the laws and conditions of certain motions and forces. I use them to build a system of the universe. To prevent them from being dry and barren, I have illustrated them here with some philosophical scholiums..
+{{< /q >}}
+
 
 The problem with this is that the visible part of the universe is very tiny compared to the invisible and causal ones. In addition, metaphysics is totally based on invisible waves of feelings. 
 
@@ -53,9 +58,7 @@ By denying metaphysics, the feelings are ejected. This then leaves only the ego*
 
 
 
-{{< img src="/graphics/super/5layers1.jpg" alt="Science versus Superphysics" cap="Superphysics interprets the five elements of ether, air, fire, water, and earth as the five forces of the standard model as the higgs, gravitation, electromagnetism, weak and strong, which we call aethereal, spatial, radiant, radioactive, and material layer, respectively. Science is limited to the five senses and so 'scientists' and equipment can only detect up to the radiant (electromagnetic) layer. For example, Einstein's General Relativity uses light to judge all movements. This makes it useful for predicting movement near stars and pulsars, but is totally useless with invisible things like dark matter and black holes" >}}
-
-
+{{< img src="/graphics/super/5layers1.jpg" alt="Science versus Superphysics" cap="Superphysics interprets the five elements of ether, air, fire, water, and earth as the five forces of the standard model as the aether, gravitation, electromagnetism, weak and strong, which we call aethereal, spatial, radiant, transformative, and material layer, respectively. Science is limited to the five senses and so 'scientists' and equipment can only detect up to the radiant (electromagnetic) layer. For example, Einstein's General Relativity uses light to judge all movements. This makes it useful for predicting movement near stars and pulsars, but is totally useless with invisible things like dark matter and black holes" >}}
 
 
 ### Intellect Trapped in an Echo Chamber

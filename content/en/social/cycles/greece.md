@@ -6,8 +6,6 @@ weight: 75
 image: "/flags/gr.png"
 description: "We suggest fixing Greece through Fiscal and Trade Systems Reform"
 icon: "/flags/gr.png"
-aliases:
-  /social/cycles/how-to-fix-greece
 ---
 
 
@@ -15,6 +13,7 @@ aliases:
 We can use our [DCTI tool](/social/economics/principles/dcti) to analyze the Greek crisis to prove that the current solutions of austerity and high taxes are not the best ones. Such solutions are are a relic of the mercantile way of thinking of an economy as a business, instead of, naturally, as a society, family, or group of friends. The proper solution will involve the whole EU and will help the union stay together*.
 
 
+{{< img src="/flags/gr.png" >}}
 
 {{< me date="11/2016" >}}
 The Brexit vote proves that the current mercantile solution was wrong

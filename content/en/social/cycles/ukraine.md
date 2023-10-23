@@ -16,6 +16,8 @@ Current Cycle | Years per Cycle | Social Age
 To be determined | - | -
 
 
+{{< img src="/flags/ua.png" >}}
+
 The Russia-Ukraine war is now on its second year, creating nearly the worst reality after a year of conflict.
 
 

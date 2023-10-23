@@ -8,15 +8,14 @@ image: "/flags/af.png"
 description : "The most sustainable way to create peace and progress in Afghanistan is by installing Islamic feudalism offset by an civilized Protector"
 # author: Juan
 icon: "/flags/af.png"
-aliases:
-  /social/cycles/how-to-fix-afghanistan
-  /analysis/social-cycles/how-to-fix-afghanistan  
 ---
 
 <!-- <img src="https://sorasystem.sirv.com/flags/af.svg" width="200px"> -->
 
 
 Afghanistan fell to the Taliban in the middle of August, three months after the US announced a complete withdrawal of its troops. 
+
+{{< img src="/flags/af.png" >}}
 
 The fall surprised a lot of people, especially since the US spent 20 years building the country from scratch. It was the job of the Afghan army to defend their country and they were doing a decent job before 2021, despite the corruption of their leaders<!--  and despite Obama reducing troop numbers -->. 
 

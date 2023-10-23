@@ -80,6 +80,9 @@ It can also allow a prediction of when such reactions are likely to occur so tha
 - This is how scientists predict sea-level rise and the increase of natural disasters from the increase use of fossil fuels
 - This is how we were able to [predict the global stagflation of 2022](/social/supersociology/precrisis-years) from the quantitative easing done from 2009.
 
+
+## Why Socrates and Superphysics are against Liberalism
+
 This is also why Superphysics is against liberalism, libertarianism, or any belief that advocates the freedom to do anything or say anything that you want, even if it is within the law. This is because:
 - humans have a natural limited cognition of samskara
 - the law itself is made by humans who have limited cognition of samskara

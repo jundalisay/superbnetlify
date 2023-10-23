@@ -13,6 +13,7 @@ Current Cycle | Years per Cycle | Social Age
 --- | --- | ---
 Worker | 16 | 
 
+{{< img src="/flags/mm.png" >}}
 
 
 The current coup or civil war is explained by the populist cycle shifting to the militant cycle 

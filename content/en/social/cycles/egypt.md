@@ -16,5 +16,6 @@ Current Cycle | Years per Cycle | Social Age
 --- | --- | ---
 Worker | 19 | 
 
+{{< img src="/flags/eg.png" >}}
 
 The Arab Spring shows a Worker cycle.
